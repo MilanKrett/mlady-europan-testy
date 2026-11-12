@@ -46,7 +46,7 @@
       '<div class="facts"><div class="fact"><b>40</b><span>otázok v teste</span></div><div class="fact"><b>30 min</b><span>časový limit</span></div>' +
       '<div class="fact"><b>100</b><span>bodov spolu</span></div><div class="fact"><b>90</b><span>bodov na úspech</span></div></div>' +
       '<div class="row"><button class="btn primary" id="rnd">Náhodný test</button>' +
-      '<form class="pick" id="pick"><label for="tn" class="small muted">alebo test č.</label><input id="tn" type="number" min="1" max="1000" inputmode="numeric" placeholder="1 – 1000" required>' +
+      '<form class="pick" id="pick"><label for="tn" class="small muted">alebo test č.</label><input id="tn" type="number" min="1" max="1000" inputmode="numeric" placeholder="1–1000" required>' +
       '<button class="btn" type="submit">Spustiť</button></form></div>' +
       '<p class="small muted" style="margin:12px 0 0">K dispozícii je 1000 pevných testov z ' + Q.length + ' overených otázok (z toho ' +
       Q.filter(function (q) { return q.img; }).length + ' s obrázkom).</p></section>';
