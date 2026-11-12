@@ -94,6 +94,8 @@ main { max-width: 860px; margin: 0 auto; padding: 24px 16px 56px; outline: none;
   flex: 1 1 5rem; min-width: 0; max-width: 8rem; min-height: 46px; padding: .4rem .9rem; border-radius: 12px; border: 1px solid var(--line);
   background: var(--bg); color: var(--ink); font: inherit;
 }
+.pick input { -moz-appearance: textfield; appearance: textfield; padding-left: .75rem; padding-right: .75rem; text-align: center; }
+.pick input::-webkit-inner-spin-button, .pick input::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
 .pick input:focus { outline: none; border-color: var(--ink); background: var(--card); }
 .resume { border-left: 4px solid var(--ink); }
 .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 12px; }
