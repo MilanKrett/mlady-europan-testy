@@ -41,8 +41,8 @@
     var cur = S.cur, done = doneTests(), nDone = Object.keys(done).length;
     var passed = S.hist.filter(function (h) { return h.pts >= PASS; }).length;
     var avg = S.hist.length ? Math.round(S.hist.reduce(function (a, h) { return a + h.pts; }, 0) / S.hist.length) : 0;
-    var h = '<section class="card hero"><h1>Cvičné testy na súťaž Mladý Európan</h1>' +
-      '<p class="muted">Ako test v autoškole: 40 otázok, na každú tri možnosti a práve jedna je správna. Výsledok a správne odpovede uvidíš až po odovzdaní.</p>' +
+    var h = '<section class="card hero"><span class="kicker">Súťaž Mladý Európan</span><h1>Cvičné testy ako v <em>autoškole.</em></h1>' +
+      '<p class="muted">40 otázok, na každú tri možnosti a práve jedna je správna. Výsledok a správne odpovede uvidíš až po odovzdaní.</p>' +
       '<div class="facts"><div class="fact"><b>40</b><span>otázok v teste</span></div><div class="fact"><b>30 min</b><span>časový limit</span></div>' +
       '<div class="fact"><b>100</b><span>bodov spolu</span></div><div class="fact"><b>90</b><span>bodov na úspech</span></div></div>' +
       '<div class="row"><button class="btn primary" id="rnd">Náhodný test</button>' +
