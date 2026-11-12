@@ -1,14 +1,13 @@
 # Stav práce – Mladý Európan testy (12. 11. 2026)
 
-Overené otázky: 620 / 3000 (`python -I -X utf8 qparse.py`, 0 chýb)
-- gen_staty.py → gen/staty.json (301 sta)
-- gen_eu.py → gen/eu.json (187: komisári, predsedníctva, pristúpenia)
-- gen_agentury.py → gen/agentury.json (132: sídla, úlohy, roky agentúr; ELA → svk)
+HOTOVO a online: https://milankrett.github.io/mlady-europan-testy/
+(repo MilanKrett/mlady-europan-testy, GitHub Pages z vetvy main, koreň)
 
-Ďalej (v tomto poradí):
-1. gen_ecoc.py z zdroje-cache/ecoc-node-335.txt (zoznam EHMK 1985–2031, Trenčín 2026 → svk/akt) → kul
-2. Sacharovova cena (ep-sakharov-laureates), Európske roky (eu-symbol-european-years), symboly → kul/sym
-3. Ručné otázky otazky/*.txt: his (eu-history-*, eu-pioneer-*, ep-fs-1..5, 11, 79), ins (ep-fs-6..29, politiky), svk, med (disinfo, dsa, ai-act, gdpr, edmo), fin (ecb-inflation, ecb-banknotes, nbs-euromince – prepočty kurzom 30,1260)
-4. UNESCO pamiatky (sta + obr), obrázky z Wikimedia Commons (komisári, predsedovia inštitúcií, priekopníci, logá, vlajky) + stránka licencií
-5. Aplikácia (index.html, app.js, style.css; 1000 testov, 30 min, 90/100, prehľad chýb), overenie v prehliadači
-6. GitHub Pages (MilanKrett/mlady-europan-testy), potom notifikácia + e-mail s linkom
+- 3068 overených otázok (z toho 401 s obrázkom), 1000 pevných testov × 40 otázok, 30 min, 100 bodov, úspech od 90.
+- Kontrola: `cd tools && python -I -X utf8 qparse.py` (0 chýb); zostavenie: `qparse.py --build` → data/otazky.json, data/testy.json.
+- Obrázkové otázky: `gen_obr.py` → gen/obr.json + img/kredity.json (licencie zobrazené na stránke „Ako to funguje“).
+- Zdrojové stránky (cache) sú mimo repa v Desktop\Mlady Europan\zdroje-cache.
+
+Úprava a nasadenie: zmeniť otazky/*.txt alebo tools/gen_*.py → spustiť generátor → `qparse.py --build` → `git commit` a `git push` (Pages sa obnoví samy).
+Pozor: zmena textu otázky mení jej id aj zloženie testov; staré výsledky v prehliadači potom ukazujú na iné otázky.
+Pri zmene app.js/style.css zvýšiť verziu cache v sw.js (V = "me-testy-vN").
