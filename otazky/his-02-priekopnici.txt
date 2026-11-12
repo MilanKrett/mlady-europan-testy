@@ -1,0 +1,455 @@
+#kat his
+#n 2
+
+V ktorom roku predniesol Winston Churchill v Zürichu prejav s výzvou vybudovať „Spojené štáty európske“?
++ 1946
+- 1950
+- 1957
+= Churchill predniesol prejav na univerzite v Zürichu 19. septembra 1946.
+> eu-pioneer-winston-churchill | Z prejavu Winstona Churchilla 19. septembra 1946 v Zürichu.
+
+@his 1
+Ktorý britský politik vyzýval po vojne na vytvorenie „Spojených štátov európskych“?
++ Winston Churchill
+- Margaret Thatcherová
+- Clement Attlee
+= Bývalý britský premiér Winston Churchill bol jedným z prvých, ktorí vyzývali na vytvorenie „Spojených štátov európskych“.
+> eu-pioneer-winston-churchill | bol jedným z prvých, ktorí vyzývali na vytvorenie „Spojených štátov európskych“
+
+@his 3
+V ktorom meste predniesol Winston Churchill v roku 1946 svoj známy prejav o „Spojených štátoch európskych“?
++ v Zürichu
+- v Londýne
+- v Štrasburgu
+= Prejav zaznel na univerzite v Zürichu 19. septembra 1946.
+> eu-pioneer-winston-churchill | Churchill vo svojom prejave na univerzite v Zürichu v roku 1946 naliehal na Európanov
+
+Kto inicioval a pripravil Schumanovu deklaráciu?
++ Jean Monnet
+- Konrad Adenauer
+- Paul-Henri Spaak
+= Schumanovu deklaráciu inicioval a pripravil Jean Monnet; predniesol ju Robert Schuman v mene francúzskej vlády.
+> eu-pioneer-jean-monnet | Túto deklaráciu inicioval a pripravil Monnet
+
+@his 3
+Akú funkciu zastával Jean Monnet v Lige národov?
++ zástupca generálneho tajomníka
+- predseda Valného zhromaždenia
+- vrchný sudca
+= Jean Monnet bol vymenovaný za zástupcu generálneho tajomníka Ligy národov, založenej v roku 1919.
+> eu-pioneer-jean-monnet | Neskôr bol vymenovaný za zástupcu generálneho tajomníka Ligy národov, ktorá bola založená v roku 1919.
+
+Ktorý priekopník EÚ povedal: „Pre ľudí v Európe neexistuje žiadna iná budúcnosť než v Únii“?
++ Jean Monnet
+- Winston Churchill
+- Walter Hallstein
+= Citát „Nepoľavujme v úsilí, pre ľudí v Európe neexistuje žiadna iná budúcnosť než v Únii“ patrí Jeanovi Monnetovi.
+> eu-pioneer-jean-monnet | Nepoľavujme v úsilí, pre ľudí v Európe neexistuje žiadna iná budúcnosť než v Únii. Jean Monnet
+
+Aký orgán mal podľa Schumanovej deklarácie riadiť všetku nemeckú a francúzsku produkciu uhlia a ocele?
++ jeden Vysoký úrad
+- Rada Európy
+- NATO
+= Deklarácia navrhovala, aby nemeckú a francúzsku produkciu uhlia a ocele riadil jeden Vysoký úrad.
+> eu-pioneer-jean-monnet | navrhovalo sa v nej, aby všetku nemeckú a francúzsku produkciu uhlia a ocele riadil jeden Vysoký úrad
+
+@his 3
+V ktorej krajine sa narodil Robert Schuman?
++ v Luxembursku
+- vo Francúzsku
+- v Belgicku
+= Schuman sa narodil ako nemecký občan v Luxembursku; Francúzom sa stal v roku 1919, keď bolo Alsasko-Lotrinsko vrátené Francúzsku.
+> eu-pioneer-robert-schuman | Schuman sa narodil ako nemecký občan v Luxembursku.
+
+@his 3
+Ako sa Robert Schuman stal Francúzom?
++ v roku 1919 bol región Alsasko-Lotrinsko, v ktorom žil, vrátený Francúzsku
+- požiadal o azyl počas druhej svetovej vojny
+- oženil sa s Francúzkou
+= Keď bol v roku 1919 región Alsasko-Lotrinsko vrátený Francúzsku, Schuman sa stal Francúzom.
+> eu-pioneer-robert-schuman | Keď bol v roku 1919 región Alsasko-Lotrinsko, v ktorom žil, vrátený Francúzsku, stal sa Francúzom.
+
+S kým spolupracoval Robert Schuman pri vypracovaní Schumanovho plánu?
++ s Jeanom Monnetom
+- s Winstonom Churchillom
+- s Charlesom de Gaullom
+= Schuman vypracoval Schumanov plán v spolupráci s Jeanom Monnetom.
+> eu-pioneer-robert-schuman | V spolupráci so Jeanom Monnetom vypracoval svetovo známy Schumanov plán.
+
+Prečo Schuman navrhol spoločný dohľad práve nad uhlím a oceľou?
++ boli to najdôležitejšie suroviny pre zbrojársky priemysel
+- boli to jediné suroviny, ktoré mala Európa
+- chcel znížiť ceny kúrenia
+= Uhlie a oceľ boli najdôležitejšie suroviny pre zbrojársky priemysel – bez kontroly nad nimi štáty nemohli viesť vojnu.
+> eu-pioneer-robert-schuman | navrhol Schuman spoločný dohľad nad ťažbou uhlia a výrobou ocele, najdôležitejších surovín pre zbrojársky priemysel
+
+Ktorý priekopník EÚ povedal: „Európa sa nevybuduje ani naraz, ani podľa jediného plánu“?
++ Robert Schuman
+- Jean Monnet
+- Altiero Spinelli
+= Citát pokračuje: „Vybuduje sa na základe konkrétnych úspechov, ktoré najprv vytvoria skutočnú solidaritu.“ Autorom je Robert Schuman.
+> eu-pioneer-robert-schuman | Európa sa nevybuduje ani naraz, ani podľa jediného plánu. Vybuduje sa na základe konkrétnych úspechov, ktoré najprv vytvoria skutočnú solidaritu. Robert Schuman
+
+@his 3
+V ktorom meste predstavil Robert Schuman svoju deklaráciu 9. mája 1950?
++ v Paríži
+- v Bruseli
+- v Štrasburgu
+= Robert Schuman predstavil svoju deklaráciu 9. mája 1950 v Paríži.
+> eu-pioneer-robert-schuman | Robert Schuman predstavuje svoju deklaráciu 9. mája 1950 v Paríži
+
+@his 1
+Kto bol prvým kancelárom Spolkovej republiky Nemecko?
++ Konrad Adenauer
+- Helmut Kohl
+- Willy Brandt
+= Konrad Adenauer bol v rokoch 1949 – 1963 prvým kancelárom Spolkovej republiky Nemecko.
+> eu-pioneer-konrad-adenauer | Konrad Adenauer, ktorý bol v rokoch 1949 – 1963 prvým kancelárom novovytvorenej Spolkovej republiky Nemecko
+
+@his 3
+Primátorom ktorého mesta bol Konrad Adenauer od roku 1917?
++ Kolína nad Rýnom
+- Bonnu
+- Berlína
+= Adenauer sa v roku 1917 stal primátorom Kolína nad Rýnom; nacisti ho z funkcie zbavili v roku 1933.
+> eu-pioneer-konrad-adenauer | V roku 1917 sa stal primátorom Kolína nad Rýnom.
+
+@his 3
+Ktorú stranu založil Konrad Adenauer po druhej svetovej vojne?
++ Kresťanskodemokratickú úniu (CDU)
+- Sociálnodemokratickú stranu Nemecka (SPD)
+- Slobodnú demokratickú stranu (FDP)
+= Po vojne sa Adenauer venoval založeniu CDU, ktorá mala zjednotiť protestantských aj katolíckych Nemcov.
+> eu-pioneer-konrad-adenauer | Po vojne sa venoval založeniu Kresťanskodemokratickej únie (CDU).
+
+Ako sa Konrad Adenauer postavil k Hitlerovej návšteve Kolína v roku 1933?
++ odmietol ozdobiť mesto hákovými krížmi
+- pripravil mu slávnostné privítanie
+- utiekol do Švajčiarska
+= Adenauer odmietol pred návštevou Hitlera ozdobiť mesto hákovými krížmi a bol zbavený funkcie primátora.
+> eu-pioneer-konrad-adenauer | Adenauer odmietol pred návštevou Hitlera ozdobiť mesto hákovými krížmi.
+
+@his 1
+Kto bol prvým predsedom Európskej komisie (Komisie EHS)?
++ Walter Hallstein
+- Jacques Delors
+- Jean Monnet
+= Walter Hallstein bol prvým predsedom Komisie Európskeho hospodárskeho spoločenstva v rokoch 1958 – 1967.
+> eu-pioneer-walter-hallstein | Walter Hallstein využil čas vo funkcii prvého predsedu Európskej komisie
+
+@his 3
+V ktorých rokoch bol Walter Hallstein predsedom Komisie?
++ 1958 – 1967
+- 1950 – 1957
+- 1967 – 1977
+= Hallstein pôsobil deväť rokov vo funkcii predsedu v rokoch 1958 – 1967.
+> eu-pioneer-walter-hallstein | počas svojho deväťročného pôsobenia vo funkcii predsedu v rokoch 1958 – 1967
+
+@his 3
+Kto povedal: „Cieľom spoločného trhu je politické zjednotenie Európy“?
++ Walter Hallstein
+- Winston Churchill
+- Joseph Bech
+= Citát patrí prvému predsedovi Komisie Walterovi Hallsteinovi.
+> eu-pioneer-walter-hallstein | Cieľom spoločného trhu je politické zjednotenie Európy. Walter Hallstein
+
+@his 3
+Ktorý taliansky premiér v rokoch 1945 – 1953 presadzoval povojnovú integráciu Európy?
++ Alcide De Gasperi
+- Altiero Spinelli
+- Silvio Berlusconi
+= Alcide De Gasperi bol talianskym premiérom v rokoch 1945 – 1953 a zohral vedúcu úlohu v integrácii Európy.
+> eu-pioneer-alcide-de-gasperi | De Gasperi pôsobil vo funkcii talianskeho premiéra v rokoch 1945 až 1953
+
+@his 3
+K vytvoreniu ktorej organizácie napokon prispelo úsilie Alcide De Gasperiho?
++ Európskeho spoločenstva uhlia a ocele
+- Organizácie Spojených národov
+- Európskej centrálnej banky
+= De Gasperiho úsilie prispelo k vytvoreniu Európskeho spoločenstva uhlia a ocele (ESUO).
+> eu-pioneer-alcide-de-gasperi | De Gasperiho úsilie napokon prispelo k vytvoreniu Európskeho spoločenstva uhlia a ocele (ESUO)
+
+Ako sa volá dokument za zjednotenú Európu, ktorý v roku 1941 spísali Altiero Spinelli a Ernesto Rossi?
++ Manifest z Ventotene
+- Schumanova deklarácia
+- Rímsky manifest
+= Manifest z Ventotene „za slobodnú a zjednotenú Európu“ spísali v roku 1941 Ernesto Rossi a Altiero Spinelli.
+> eu-pioneer-ursula-hirschmann | Ernestom Rossim a Altierom Spinellim, ktorí v roku 1941 spolu spísali Manifest z Ventotene
+
+@his 3
+Kde vznikol Manifest z Ventotene?
++ na ostrove Ventotene, kde boli autori väznení fašistickým režimom
+- v exile v Londýne
+- na zasadnutí Rady Európy v Štrasburgu
+= Spinelli vypracoval manifest s ďalšími politickými väzňami v čase, keď bol väznený na ostrove Ventotene.
+> eu-pioneer-altiero-spinelli | v čase, keď bol talianskym fašistickým režimom väznený na ostrove Ventotene
+
+@his 3
+Ako sa volala skupina federalistických poslancov EP, ktorú v roku 1980 založil Altiero Spinelli?
++ Krokodílí klub
+- Klub Ventotene
+- Klub Karola Veľkého
+= Spinelli založil v roku 1980 s ďalšími federalistickými poslancami tzv. Krokodílí klub.
+> eu-pioneer-altiero-spinelli | V roku 1980 založil spolu s ostatnými federalistickými poslancami Európskeho parlamentu tzv. Krokodílí klub
+
+@his 3
+Ako sa nazýva návrh Zmluvy o založení Európskej únie, ktorý Európsky parlament schválil 14. februára 1984?
++ Spinelliho plán
+- Schumanov plán
+- Beyenov plán
+= Dňa 14. februára 1984 schválil EP návrh Zmluvy o založení Európskej únie, tzv. Spinelliho plán.
+> eu-pioneer-altiero-spinelli | schválil návrh Zmluvy o založení Európskej únie (tzv. Spinelliho plán)
+
+@his 3
+Kto prepašoval Manifest z Ventotene na pevninu Talianska a pomáhal ho šíriť?
++ Ursula Hirschmannová
+- Simone Veilová
+- Louise Weissová
+= Ursula Hirschmannová prepašovala manifest na územie pevninského Talianska a pomáhala ho šíriť.
+> eu-pioneer-ursula-hirschmann | Hirschmannová prepašovala manifest na územie pevninského Talianska a pomáhala ho šíriť.
+
+@his 3
+Aké združenie založila Ursula Hirschmannová v roku 1975 v Bruseli?
++ Femmes pour l’Europe (Ženy za Európu)
+- Krokodílí klub
+- Movimento Federalista Europeo
+= V roku 1975 založila v Bruseli združenie Femmes pour l’Europe (Ženy za Európu).
+> eu-pioneer-ursula-hirschmann | V roku 1975 v Bruseli založila združenie Femmes pour l’Europe (Ženy za Európu).
+
+@his 1
+Kto bol prvou predsedníčkou priamo voleného Európskeho parlamentu?
++ Simone Veilová
+- Nicole Fontaineová
+- Roberta Metsolová
+= Simone Veilová sa v roku 1979 stala predsedníčkou prvého priamo voleného EP a prvou ženou na čele inštitúcie EÚ.
+> eu-pioneer-simone-veil | stala vedúcou predstaviteľkou prvého priamo voleného Európskeho parlamentu a prvou ženou na čele inštitúcie EÚ
+
+Ktorá priekopníčka EÚ prežila nacistické koncentračné tábory?
++ Simone Veilová
+- Marga Klompéová
+- Anna Lindhová
+= Simone Veilová prežila nacistické koncentračné tábory a neskôr sa stala prvou predsedníčkou priamo voleného EP.
+> eu-pioneer-simone-veil | Simone Veilová prežila nacistické koncentračné tábory
+
+@his 3
+Akú funkciu zastávala Simone Veilová vo francúzskej vláde od roku 1974?
++ ministerka zdravotníctva
+- ministerka zahraničných vecí
+- premiérka
+= V roku 1974 sa stala členkou francúzskej vlády a ministerkou zdravotníctva.
+> eu-pioneer-simone-veil | V roku 1974 sa stala členkou francúzskej vlády pod vedením prezidenta Giscarda d’Estainga a ministerkou zdravotníctva.
+
+@his 3
+Ktorú cenu, udeľovanú za prínos k európskej jednote, získala Simone Veilová dva roky po zvolení za predsedníčku EP?
++ Cenu Karola Veľkého
+- Nobelovu cenu za mier
+- Sacharovovu cenu
+= O dva roky neskôr získala Cenu Karola Veľkého, ktorá sa udeľuje za prínos k európskej jednote.
+> eu-pioneer-simone-veil | O dva roky neskôr získala Cenu Karola Veľkého, ktorá sa udeľuje za prínos k európskej jednote.
+
+@his 3
+Ktorá žena bola druhou predsedníčkou Európskeho parlamentu (1999 – 2002)?
++ Nicole Fontaineová
+- Simone Veilová
+- Louise Weissová
+= Nicole Fontaineová bola druhou ženou vo funkcii predsedníčky EP, pôsobila v rokoch 1999 – 2002.
+> eu-pioneer-nicole-fontaine | Druhá žena vo funkcii predsedníčky Európskeho parlamentu ... Nicole Fontaineová sa ako predsedníčka v rokoch 1999 – 2002
+
+@his 3
+Aký dokument podpísala Nicole Fontaineová v decembri 2000 v mene Európskeho parlamentu?
++ Chartu základných práv
+- Lisabonskú zmluvu
+- Schengenskú dohodu
+= V decembri 2000 podpísala v mene EP Chartu základných práv.
+> eu-pioneer-nicole-fontaine | V decembri 2000 podpísala v mene Európskeho parlamentu Chartu základných práv.
+
+@his 3
+Ktorá novinárka a bojovníčka za volebné právo žien bola v roku 1979 zvolená do Európskeho parlamentu a predniesla inauguračný prejav?
++ Louise Weissová
+- Nilde Iottiová
+- Melina Mercouriová
+= Louise Weissová bola zvolená do EP v roku 1979; v inauguračnom prejave vyzvala Európanov zjednotiť sa na základe spoločnej kultúry.
+> eu-pioneer-louise-weiss | Louise Weissová v roku 1979 zvolená do Európskeho parlamentu. V inauguračnom prejave vyzvala všetkých Európanov
+
+@his 3
+Ku ktorej myšlienke vyzvala Louise Weissová Európanov vo svojom inauguračnom prejave v EP?
++ zjednotiť sa na základe spoločnej kultúry, nielen hospodárskych záujmov
+- vystúpiť z NATO
+- zrušiť národné meny do jedného roka
+= Vyzvala Európanov, aby sa zjednotili na základe spoločnej kultúry a nielen spoločných hospodárskych záujmov.
+> eu-pioneer-louise-weiss | vyzvala všetkých Európanov, aby sa zjednotili na základe spoločnej kultúry a nielen spoločných hospodárskych záujmov
+
+@his 3
+Ktorá žena sa ako prvá stala členkou Spoločného zhromaždenia Európskeho spoločenstva uhlia a ocele?
++ Marga Klompéová
+- Simone Veilová
+- Ursula Hirschmannová
+= Holanďanka Marga Klompéová bola prvou ženou v Spoločnom zhromaždení ESUO, predchodcovi EP.
+> eu-pioneer-marga-klompe | Klompéová sa ako prvá žena stala členkou Spoločného zhromaždenia Európskeho spoločenstva uhlia a ocele
+
+@his 3
+Ktorá priekopníčka EÚ bola prvou ženou v ministerskej funkcii v histórii Holandska?
++ Marga Klompéová
+- Anna Lindhová
+- Louise Weissová
+= Marga Klompéová sa v roku 1956 stala ministerkou sociálnych vecí – prvou ženou ministerkou v histórii Holandska.
+> eu-pioneer-marga-klompe | stala sa prvou ženou v ministerskej funkcii v histórii Holandska
+
+@kul 2
+Ktorá grécka herečka a ministerka kultúry stála pri zrode iniciatívy Európske hlavné mesto kultúry?
++ Melina Mercouriová
+- Nana Mouskouri
+- Maria Callas
+= Melina Mercouriová sa ako najdlhšie pôsobiaca grécka ministerka kultúry zaslúžila najmä o vytvorenie iniciatívy Európske hlavné mesto kultúry.
+> eu-pioneer-melina-mercouri | najmä vytvorenie iniciatívy Európske hlavné mesto kultúry
+
+@kul 3
+Za úlohu v ktorom filme sa Melina Mercouriová stala medzinárodnou hviezdou?
++ Nikdy nie v nedeľu
+- Grék Zorba
+- Rímske prázdniny
+= Medzinárodnou hviezdou sa stala vďaka úlohe vo filme „Nikdy nie v nedeľu“.
+> eu-pioneer-melina-mercouri | Skôr, než sa stala medzinárodnou hviezdou vďaka role vo filme „Nikdy nie v nedeľu“
+
+@his 3
+Ktorý taliansky priekopník EÚ, komunistická politička, presadzovala priame voľby do Európskeho parlamentu a v roku 1997 sa stala podpredsedníčkou Rady Európy?
++ Nilde Iottiová
+- Ursula Hirschmannová
+- Melina Mercouriová
+= Nilde Iottiová bola od roku 1969 poslankyňou EP, presadzovala priame voľby a v roku 1997 sa stala podpredsedníčkou Rady Európy.
+> eu-pioneer-nilde-iotti | V roku 1969 sa Nilde Iottiová stala poslankyňou Európskeho parlamentu. Prioritou jej poslaneckej kariéry bolo presadiť verejnú voľbu do Európskeho parlamentu
+
+@his 3
+Ktorú colnú úniu pomohol Paul-Henri Spaak naplánovať počas vojnového exilu v Londýne?
++ Benelux
+- Európske združenie voľného obchodu
+- Európske hospodárske spoločenstvo
+= Spaak s kolegami z Holandska a Luxemburska vypracoval plán colnej únie; v roku 1944 vznikol Benelux.
+> eu-pioneer-paul-henri-spaak | V roku 1944 sa plán uskutočnil a vznikol Benelux.
+
+Ktoré tri krajiny tvoria Benelux?
++ Belgicko, Holandsko a Luxembursko
+- Belgicko, Nemecko a Lotyšsko
+- Holandsko, Dánsko a Luxembursko
+= Benelux je colná únia Belgicka, Holandska a Luxemburska z roku 1944.
+> eu-pioneer-paul-henri-spaak | colnej únie medzi Belgickom, Holandskom a Luxemburskom
+
+@his 3
+Akú funkciu v NATO zastával Paul-Henri Spaak v rokoch 1957 – 1961?
++ generálny tajomník NATO
+- vrchný veliteľ spojeneckých síl
+- veľvyslanec NATO v OSN
+= Spaak bol generálnym tajomníkom NATO v rokoch 1957 – 1961.
+> eu-pioneer-paul-henri-spaak | ako generálny tajomník NATO (1957 – 1961)
+
+@his 3
+Kto viedol pracovný výbor, ktorý po Messinskej konferencii pripravoval Rímsku zmluvu?
++ Paul-Henri Spaak
+- Walter Hallstein
+- Winston Churchill
+= Na Messinskej konferencii v roku 1955 ustanovili vlády Spaaka za predsedu pracovného výboru, ktorý pripravoval zmluvu.
+> eu-pioneer-paul-henri-spaak | Na Messinskej konferencii v roku 1955 ho zúčastnené vlády ustanovili za predsedu pracovného výboru, ktorý zmluvu pripravoval.
+
+@his 3
+Ktorý luxemburský minister zahraničných vecí predsedal v júni 1955 konferencii v Messine?
++ Joseph Bech
+- Jean-Claude Juncker
+- Pierre Werner
+= Joseph Bech predsedal v júni 1955 konferencii v Messine, ktorá viedla k uzavretiu Rímskej zmluvy.
+> eu-pioneer-joseph-bech | V júni 1955 Joseph Bech predsedal konferencii v Messine
+
+@his 3
+Ktorý holandský politik presadil na konferencii v Messine plán spoločného trhu, ktorý viedol k Rímskym zmluvám?
++ Johan Willem Beyen
+- Sicco Mansholt
+- Willem Drees
+= Beyenov plán predstavený v Messine v roku 1955 viedol k podpisu Rímskych zmlúv v marci 1957.
+> eu-pioneer-johan-willem-beyen | Po predstavení tzv. Beyenovho plánu na konferencii v Messine v roku 1955
+
+@his 3
+V ktorom roku sa konala konferencia v Messine, ktorá pripravila cestu k Rímskym zmluvám?
++ 1955
+- 1950
+- 1957
+= Konferencia v Messine sa konala v júni 1955.
+> eu-pioneer-joseph-bech | V júni 1955 Joseph Bech predsedal konferencii v Messine vedúcej k uzatvoreniu Rímskej zmluvy
+
+@his 3
+Ktorý holandský politik sa v roku 1958 stal komisárom pre poľnohospodárstvo v prvej Európskej komisii?
++ Sicco Mansholt
+- Johan Willem Beyen
+- Marga Klompéová
+= Sicco Mansholt bol komisárom pre poľnohospodárstvo v úplne prvej Európskej komisii a inšpiroval spoločnú poľnohospodársku politiku.
+> eu-pioneer-sicco-mansholt | keď sa v roku 1958 stal komisárom pre poľnohospodárstvo v úplne prvej Európskej komisii
+
+@his 3
+Čo zažil Sicco Mansholt v holandskom odboji, čo ovplyvnilo jeho celoživotnú prácu?
++ hladomor, ktorý ku koncu vojny postihol Holandsko
+- povodeň, ktorá zničila holandské pobrežie
+- bombardovanie Londýna
+= Bol očitým svedkom hladomoru v Holandsku a chcel, aby sa do Európy nikdy nevrátila vojna ani bieda.
+> eu-pioneer-sicco-mansholt | bol ako člen holandského odboja počas druhej svetovej vojny očitým svedkom hrôz hladomoru
+
+@his 1
+Ktorí dvaja lídri sa v roku 1984 držali za ruky pri pamätníku padlých vo Verdune?
++ François Mitterrand a Helmut Kohl
+- Charles de Gaulle a Konrad Adenauer
+- Jacques Chirac a Gerhard Schröder
+= Fotografia prezidenta Mitterranda a kancelára Kohla z 22. septembra 1984 pri Douaumontskej kostnici obletela svet ako symbol zmierenia.
+> eu-pioneer-helmut-kohl-and-francois-mitterrand | Prezident Mitterrand a kancelár Kohl v roku 1984 ruka v ruke pred pamätníkom padlých pri Douaumontskej kostnici vo Verdune
+
+@his 3
+Koľko rokov pôsobil Helmut Kohl vo funkcii nemeckého kancelára?
++ 16 rokov
+- 14 rokov
+- 8 rokov
+= Kohl bol kancelárom 16 rokov – najdlhšie spomedzi lídrov Nemecka v 20. storočí.
+> eu-pioneer-helmut-kohl-and-francois-mitterrand | Kohl pôsobil vo funkcii kancelára 16 rokov
+
+@his 3
+Koľkým ľuďom doteraz udelila Európska rada čestné občianstvo Európy (podľa portálu EÚ)?
++ trom
+- desiatim
+- jednému
+= Európska rada udelila čestné občianstvo Európy doposiaľ len trom ľuďom; Helmut Kohl bol druhý v poradí.
+> eu-pioneer-helmut-kohl-and-francois-mitterrand | Európska rada udelila čestné občianstvo Európy doposiaľ len trom ľuďom a Helmut Kohl získal túto poctu ako druhý v poradí.
+
+@his 3
+Ktorú cenu za prínos k zjednocovaniu Európy dostali Kohl a Mitterrand v roku 1988?
++ Cenu Karola Veľkého
+- Sacharovovu cenu
+- Nobelovu cenu za mier
+= Za celoživotnú prácu v oblasti francúzsko-nemeckých vzťahov dostali v roku 1988 Cenu Karola Veľkého.
+> eu-pioneer-helmut-kohl-and-francois-mitterrand | im bola v roku 1988 udelená Cena Karola Veľkého, ktorá sa udeľuje za prínos k zjednocovaniu Európy
+
+@his 3
+Kto povedal: „Francúzsko je našou vlasťou, Európa je našou budúcnosťou“?
++ François Mitterrand
+- Charles de Gaulle
+- Robert Schuman
+= Citát patrí francúzskemu prezidentovi Françoisovi Mitterrandovi.
+> eu-pioneer-helmut-kohl-and-francois-mitterrand | Francúzsko je našou vlasťou, Európa je našou budúcnosťou. François Mitterrand
+
+@his 3
+Kto povedal: „Nemecká jednota a zjednotenie Európy sú dve strany tej istej mince“?
++ Helmut Kohl
+- Konrad Adenauer
+- Angela Merkelová
+= Citát patrí kancelárovi Helmutovi Kohlovi.
+> eu-pioneer-helmut-kohl-and-francois-mitterrand | Nemecká jednota a zjednotenie Európy sú dve strany tej istej mince. Helmut Kohl
+
+@his 3
+Ktorá švédska ministerka zahraničných vecí predsedala zasadnutiam ministrov zahraničných vecí počas švédskeho predsedníctva EÚ v roku 2001?
++ Anna Lindhová
+- Margot Wallströmová
+- Cecilia Malmströmová
+= Anna Lindhová zohrala v roku 2001 kľúčovú úlohu aj pri predchádzaní vojne v Severnom Macedónsku.
+> eu-pioneer-anna-lindh | Keď Anna Lindhová počas švédskeho predsedníctva EÚ v roku 2001 predsedala zasadnutiam ministrov zahraničných vecí
+
+@his 3
+Pri predchádzaní konfliktu v ktorej krajine zohrala Anna Lindhová v roku 2001 kľúčovú úlohu?
++ v Severnom Macedónsku
+- v Kosove
+- v Gruzínsku
+= Keď v roku 2001 hrozil konflikt v bývalej Juhoslovanskej republike Macedónsko, Lindhová ako hlavná vyslankyňa Európy pomohla zabrániť vojne.
+> eu-pioneer-anna-lindh | Keď v roku 2001 hrozil v bývalej Juhoslovanskej republike Macedónsko (teraz Severné Macedónsko) konflikt

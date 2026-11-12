@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mladý Európan – cvičné testy</title>
+<meta name="description" content="1000 cvičných testov na súťaž Mladý Európan: 40 otázok, 30 minút, 100 bodov – ako test v autoškole.">
+<meta name="theme-color" content="#0b3d91">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#/" aria-label="Úvod">
+    <span class="logo" aria-hidden="true"><img src="icons/icon-192.png" alt=""></span>
+    <span><b>Mladý Európan</b><small>cvičné testy</small></span>
+  </a>
+  <nav class="topnav"><a href="#/info">Ako to funguje</a></nav>
+</header>
+<main id="app" tabindex="-1"><p class="loading">Načítavam otázky…</p></main>
+<div id="dlg" class="dlg" hidden>
+  <div class="dlg-box" role="dialog" aria-modal="true" aria-labelledby="dlg-t">
+    <h2 id="dlg-t"></h2>
+    <p id="dlg-p"></p>
+    <div class="dlg-btns"><button class="btn ghost" id="dlg-no">Späť do testu</button><button class="btn primary" id="dlg-yes">Odovzdať</button></div>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

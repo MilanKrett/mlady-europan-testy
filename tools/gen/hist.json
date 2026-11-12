@@ -1,0 +1,2441 @@
+[
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1977 – 1979?",
+  "ok": "Emilio Colombo",
+  "bad": [
+   "Simone Veilová",
+   "Piet Dankert"
+  ],
+  "v": "Emilio Colombo bol predsedom Európskeho parlamentu v rokoch 1977 – 1979.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Emilio Colombo President from 1977-1979"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Emilio Colombo predsedom Európskeho parlamentu?",
+  "ok": "1977 – 1979",
+  "bad": [
+   "1979 – 1982",
+   "1982 – 1984"
+  ],
+  "v": "Emilio Colombo viedl Európsky parlament v rokoch 1977 – 1979.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Emilio Colombo President from 1977-1979"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal Emilio Colombo, predseda Európskeho parlamentu (1977 – 1979)?",
+  "ok": "Taliansko",
+  "bad": [
+   "Grécko",
+   "Poľsko"
+  ],
+  "v": "Emilio Colombo pochádzal z krajiny: Taliansko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Emilio Colombo President from 1977-1979"
+   ],
+   [
+    "eppres-emilio-colombo",
+    "Emilio Colombo was born on the 11th of April 1920 in Potenza, Italy."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1979 – 1982?",
+  "ok": "Simone Veilová",
+  "bad": [
+   "Piet Dankert",
+   "Emilio Colombo"
+  ],
+  "v": "Simone Veilová bola predsedníčkou Európskeho parlamentu v rokoch 1979 – 1982.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Simone Veil President from 1979-1982"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bola Simone Veilová predsedníčkou Európskeho parlamentu?",
+  "ok": "1979 – 1982",
+  "bad": [
+   "1982 – 1984",
+   "1977 – 1979"
+  ],
+  "v": "Simone Veilová viedla Európsky parlament v rokoch 1979 – 1982.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Simone Veil President from 1979-1982"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Z ktorého štátu pochádzala Simone Veilová, predsedníčka Európskeho parlamentu (1979 – 1982)?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Malta",
+   "Grécko"
+  ],
+  "v": "Simone Veilová pochádzala z krajiny: Francúzsko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Simone Veil President from 1979-1982"
+   ],
+   [
+    "eppres-simone-veil",
+    "Simone Veil was born on 13 July 1927 in Nice, Alpes-Maritimes, France."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedníčkou stala Simone Veilová (1979 – 1982)?",
+  "ok": "Emilio Colombo",
+  "bad": [
+   "Piet Dankert",
+   "Pierre Pflimlin"
+  ],
+  "v": "Pred Simone Veilová (1979 – 1982) viedol/viedla EP Emilio Colombo (1977 – 1979).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Emilio Colombo President from 1977-1979"
+   ],
+   [
+    "ep-hist-presidents",
+    "Simone Veil President from 1979-1982"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1982 – 1984?",
+  "ok": "Piet Dankert",
+  "bad": [
+   "Pierre Pflimlin",
+   "Simone Veilová"
+  ],
+  "v": "Piet Dankert bol predsedom Európskeho parlamentu v rokoch 1982 – 1984.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pieter Dankert President from 1982-1984"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Piet Dankert predsedom Európskeho parlamentu?",
+  "ok": "1982 – 1984",
+  "bad": [
+   "1979 – 1982",
+   "1984 – 1987"
+  ],
+  "v": "Piet Dankert viedl Európsky parlament v rokoch 1982 – 1984.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pieter Dankert President from 1982-1984"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal Piet Dankert, predseda Európskeho parlamentu (1982 – 1984)?",
+  "ok": "Holandsko",
+  "bad": [
+   "Nemecko",
+   "Spojené kráľovstvo"
+  ],
+  "v": "Piet Dankert pochádzal z krajiny: Holandsko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pieter Dankert President from 1982-1984"
+   ],
+   [
+    "eppres-piet-dankert",
+    "Pieter Dankert was a Dutch politician"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Piet Dankert (1982 – 1984)?",
+  "ok": "Simone Veilová",
+  "bad": [
+   "Pierre Pflimlin",
+   "Emilio Colombo"
+  ],
+  "v": "Pred Piet Dankert (1982 – 1984) viedol/viedla EP Simone Veilová (1979 – 1982).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Simone Veil President from 1979-1982"
+   ],
+   [
+    "ep-hist-presidents",
+    "Pieter Dankert President from 1982-1984"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1984 – 1987?",
+  "ok": "Pierre Pflimlin",
+  "bad": [
+   "Piet Dankert",
+   "lord Henry Plumb"
+  ],
+  "v": "Pierre Pflimlin bol predsedom Európskeho parlamentu v rokoch 1984 – 1987.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pierre Pflimlin President from 1984-1987"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Pierre Pflimlin predsedom Európskeho parlamentu?",
+  "ok": "1984 – 1987",
+  "bad": [
+   "1987 – 1989",
+   "1982 – 1984"
+  ],
+  "v": "Pierre Pflimlin viedl Európsky parlament v rokoch 1984 – 1987.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pierre Pflimlin President from 1984-1987"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal Pierre Pflimlin, predseda Európskeho parlamentu (1984 – 1987)?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Portugalsko",
+   "Belgicko"
+  ],
+  "v": "Pierre Pflimlin pochádzal z krajiny: Francúzsko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pierre Pflimlin President from 1984-1987"
+   ],
+   [
+    "eppres-pierre-pflimlin",
+    "Pierre Pflimlin was born on 5 February 1907 in Roubaix in the Nord department of France."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Pierre Pflimlin (1984 – 1987)?",
+  "ok": "Piet Dankert",
+  "bad": [
+   "lord Henry Plumb",
+   "Enrique Barón Crespo"
+  ],
+  "v": "Pred Pierre Pflimlin (1984 – 1987) viedol/viedla EP Piet Dankert (1982 – 1984).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pieter Dankert President from 1982-1984"
+   ],
+   [
+    "ep-hist-presidents",
+    "Pierre Pflimlin President from 1984-1987"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1987 – 1989?",
+  "ok": "lord Henry Plumb",
+  "bad": [
+   "Enrique Barón Crespo",
+   "Pierre Pflimlin"
+  ],
+  "v": "lord Henry Plumb bol predsedom Európskeho parlamentu v rokoch 1987 – 1989.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Lord Plumb President from 1987-1989"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol lord Henry Plumb predsedom Európskeho parlamentu?",
+  "ok": "1987 – 1989",
+  "bad": [
+   "1989 – 1992",
+   "1984 – 1987"
+  ],
+  "v": "lord Henry Plumb viedl Európsky parlament v rokoch 1987 – 1989.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Lord Plumb President from 1987-1989"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal lord Henry Plumb, predseda Európskeho parlamentu (1987 – 1989)?",
+  "ok": "Spojené kráľovstvo",
+  "bad": [
+   "Poľsko",
+   "Rakúsko"
+  ],
+  "v": "lord Henry Plumb pochádzal z krajiny: Spojené kráľovstvo.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Lord Plumb President from 1987-1989"
+   ],
+   [
+    "eppres-lord-plumb",
+    "Charles Henry Plumb was born in Warwickshire, United Kingdom, on 27 March 1925."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal lord Henry Plumb (1987 – 1989)?",
+  "ok": "Pierre Pflimlin",
+  "bad": [
+   "Enrique Barón Crespo",
+   "Egon Klepsch"
+  ],
+  "v": "Pred lord Henry Plumb (1987 – 1989) viedol/viedla EP Pierre Pflimlin (1984 – 1987).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pierre Pflimlin President from 1984-1987"
+   ],
+   [
+    "ep-hist-presidents",
+    "Lord Plumb President from 1987-1989"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1989 – 1992?",
+  "ok": "Enrique Barón Crespo",
+  "bad": [
+   "Egon Klepsch",
+   "lord Henry Plumb"
+  ],
+  "v": "Enrique Barón Crespo bol predsedom Európskeho parlamentu v rokoch 1989 – 1992.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Enrique Barón Crespo President from 1989-1992"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Enrique Barón Crespo predsedom Európskeho parlamentu?",
+  "ok": "1989 – 1992",
+  "bad": [
+   "1992 – 1994",
+   "1987 – 1989"
+  ],
+  "v": "Enrique Barón Crespo viedl Európsky parlament v rokoch 1989 – 1992.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Enrique Barón Crespo President from 1989-1992"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal Enrique Barón Crespo, predseda Európskeho parlamentu (1989 – 1992)?",
+  "ok": "Španielsko",
+  "bad": [
+   "Poľsko",
+   "Holandsko"
+  ],
+  "v": "Enrique Barón Crespo pochádzal z krajiny: Španielsko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Enrique Barón Crespo President from 1989-1992"
+   ],
+   [
+    "eppres-enrique-baron-crespo",
+    "Enrique Barón Crespo was born in Madrid, Spain, on the 27 March 1944."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Enrique Barón Crespo (1989 – 1992)?",
+  "ok": "lord Henry Plumb",
+  "bad": [
+   "Egon Klepsch",
+   "Pierre Pflimlin"
+  ],
+  "v": "Pred Enrique Barón Crespo (1989 – 1992) viedol/viedla EP lord Henry Plumb (1987 – 1989).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Lord Plumb President from 1987-1989"
+   ],
+   [
+    "ep-hist-presidents",
+    "Enrique Barón Crespo President from 1989-1992"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1992 – 1994?",
+  "ok": "Egon Klepsch",
+  "bad": [
+   "Klaus Hänsch",
+   "Enrique Barón Crespo"
+  ],
+  "v": "Egon Klepsch bol predsedom Európskeho parlamentu v rokoch 1992 – 1994.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Egon A. Klepsch President from 1992-1994"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Egon Klepsch predsedom Európskeho parlamentu?",
+  "ok": "1992 – 1994",
+  "bad": [
+   "1989 – 1992",
+   "1994 – 1997"
+  ],
+  "v": "Egon Klepsch viedl Európsky parlament v rokoch 1992 – 1994.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Egon A. Klepsch President from 1992-1994"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Egon Klepsch (1992 – 1994)?",
+  "ok": "Enrique Barón Crespo",
+  "bad": [
+   "Klaus Hänsch",
+   "lord Henry Plumb"
+  ],
+  "v": "Pred Egon Klepsch (1992 – 1994) viedol/viedla EP Enrique Barón Crespo (1989 – 1992).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Enrique Barón Crespo President from 1989-1992"
+   ],
+   [
+    "ep-hist-presidents",
+    "Egon A. Klepsch President from 1992-1994"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1994 – 1997?",
+  "ok": "Klaus Hänsch",
+  "bad": [
+   "Egon Klepsch",
+   "José María Gil-Robles"
+  ],
+  "v": "Klaus Hänsch bol predsedom Európskeho parlamentu v rokoch 1994 – 1997.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Klaus Hänsch President from 1994-1997"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Klaus Hänsch predsedom Európskeho parlamentu?",
+  "ok": "1994 – 1997",
+  "bad": [
+   "1997 – 1999",
+   "1992 – 1994"
+  ],
+  "v": "Klaus Hänsch viedl Európsky parlament v rokoch 1994 – 1997.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Klaus Hänsch President from 1994-1997"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Klaus Hänsch (1994 – 1997)?",
+  "ok": "Egon Klepsch",
+  "bad": [
+   "José María Gil-Robles",
+   "Enrique Barón Crespo"
+  ],
+  "v": "Pred Klaus Hänsch (1994 – 1997) viedol/viedla EP Egon Klepsch (1992 – 1994).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Egon A. Klepsch President from 1992-1994"
+   ],
+   [
+    "ep-hist-presidents",
+    "Klaus Hänsch President from 1994-1997"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 1997 – 1999?",
+  "ok": "José María Gil-Robles",
+  "bad": [
+   "Nicole Fontaineová",
+   "Klaus Hänsch"
+  ],
+  "v": "José María Gil-Robles bol predsedom Európskeho parlamentu v rokoch 1997 – 1999.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "José María Gil-Robles Gil-Delgado President from 1997-1999"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol José María Gil-Robles predsedom Európskeho parlamentu?",
+  "ok": "1997 – 1999",
+  "bad": [
+   "1999 – 2002",
+   "1994 – 1997"
+  ],
+  "v": "José María Gil-Robles viedl Európsky parlament v rokoch 1997 – 1999.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "José María Gil-Robles Gil-Delgado President from 1997-1999"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal José María Gil-Robles (1997 – 1999)?",
+  "ok": "Klaus Hänsch",
+  "bad": [
+   "Nicole Fontaineová",
+   "Pat Cox"
+  ],
+  "v": "Pred José María Gil-Robles (1997 – 1999) viedol/viedla EP Klaus Hänsch (1994 – 1997).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Klaus Hänsch President from 1994-1997"
+   ],
+   [
+    "ep-hist-presidents",
+    "José María Gil-Robles Gil-Delgado President from 1997-1999"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bola Nicole Fontaineová predsedníčkou Európskeho parlamentu?",
+  "ok": "1999 – 2002",
+  "bad": [
+   "2002 – 2004",
+   "1997 – 1999"
+  ],
+  "v": "Nicole Fontaineová viedla Európsky parlament v rokoch 1999 – 2002.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Nicole Fontaine President from 1999-2002"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzala Nicole Fontaineová, predsedníčka Európskeho parlamentu (1999 – 2002)?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Belgicko",
+   "Holandsko"
+  ],
+  "v": "Nicole Fontaineová pochádzala z krajiny: Francúzsko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Nicole Fontaine President from 1999-2002"
+   ],
+   [
+    "eppres-nicole-fontaine",
+    "Nicole Fontaine was born in Normandy, France, on 16 January 1942."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedníčkou stala Nicole Fontaineová (1999 – 2002)?",
+  "ok": "José María Gil-Robles",
+  "bad": [
+   "Pat Cox",
+   "Klaus Hänsch"
+  ],
+  "v": "Pred Nicole Fontaineová (1999 – 2002) viedol/viedla EP José María Gil-Robles (1997 – 1999).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "José María Gil-Robles Gil-Delgado President from 1997-1999"
+   ],
+   [
+    "ep-hist-presidents",
+    "Nicole Fontaine President from 1999-2002"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 2002 – 2004?",
+  "ok": "Pat Cox",
+  "bad": [
+   "Nicole Fontaineová",
+   "Josep Borrell"
+  ],
+  "v": "Pat Cox bol predsedom Európskeho parlamentu v rokoch 2002 – 2004.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pat Cox President from 2002-2004"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Pat Cox predsedom Európskeho parlamentu?",
+  "ok": "2002 – 2004",
+  "bad": [
+   "2004 – 2007",
+   "1999 – 2002"
+  ],
+  "v": "Pat Cox viedl Európsky parlament v rokoch 2002 – 2004.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pat Cox President from 2002-2004"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal Pat Cox, predseda Európskeho parlamentu (2002 – 2004)?",
+  "ok": "Írsko",
+  "bad": [
+   "Belgicko",
+   "Grécko"
+  ],
+  "v": "Pat Cox pochádzal z krajiny: Írsko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pat Cox President from 2002-2004"
+   ],
+   [
+    "eppres-pat-cox",
+    "Pat Cox was born on 28th November 1952 in Dublin, Ireland."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Pat Cox (2002 – 2004)?",
+  "ok": "Nicole Fontaineová",
+  "bad": [
+   "Josep Borrell",
+   "Hans-Gert Pöttering"
+  ],
+  "v": "Pred Pat Cox (2002 – 2004) viedol/viedla EP Nicole Fontaineová (1999 – 2002).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Nicole Fontaine President from 1999-2002"
+   ],
+   [
+    "ep-hist-presidents",
+    "Pat Cox President from 2002-2004"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 2004 – 2007?",
+  "ok": "Josep Borrell",
+  "bad": [
+   "Hans-Gert Pöttering",
+   "Pat Cox"
+  ],
+  "v": "Josep Borrell bol predsedom Európskeho parlamentu v rokoch 2004 – 2007.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Josep Borrell Fontelles President from 2004-2007"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Josep Borrell predsedom Európskeho parlamentu?",
+  "ok": "2004 – 2007",
+  "bad": [
+   "2007 – 2009",
+   "2002 – 2004"
+  ],
+  "v": "Josep Borrell viedl Európsky parlament v rokoch 2004 – 2007.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Josep Borrell Fontelles President from 2004-2007"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal Josep Borrell, predseda Európskeho parlamentu (2004 – 2007)?",
+  "ok": "Španielsko",
+  "bad": [
+   "Belgicko",
+   "Francúzsko"
+  ],
+  "v": "Josep Borrell pochádzal z krajiny: Španielsko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Josep Borrell Fontelles President from 2004-2007"
+   ],
+   [
+    "eppres-josep-borrell-fontelles",
+    "Josep Borrell Fontelles is a Spanish national"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Josep Borrell (2004 – 2007)?",
+  "ok": "Pat Cox",
+  "bad": [
+   "Hans-Gert Pöttering",
+   "Jerzy Buzek"
+  ],
+  "v": "Pred Josep Borrell (2004 – 2007) viedol/viedla EP Pat Cox (2002 – 2004).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pat Cox President from 2002-2004"
+   ],
+   [
+    "ep-hist-presidents",
+    "Josep Borrell Fontelles President from 2004-2007"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 2007 – 2009?",
+  "ok": "Hans-Gert Pöttering",
+  "bad": [
+   "Josep Borrell",
+   "Jerzy Buzek"
+  ],
+  "v": "Hans-Gert Pöttering bol predsedom Európskeho parlamentu v rokoch 2007 – 2009.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Hans-Gert Pöttering President from 2007-2009"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Hans-Gert Pöttering predsedom Európskeho parlamentu?",
+  "ok": "2007 – 2009",
+  "bad": [
+   "2004 – 2007",
+   "2009 – 2012"
+  ],
+  "v": "Hans-Gert Pöttering viedl Európsky parlament v rokoch 2007 – 2009.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Hans-Gert Pöttering President from 2007-2009"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Hans-Gert Pöttering (2007 – 2009)?",
+  "ok": "Josep Borrell",
+  "bad": [
+   "Jerzy Buzek",
+   "Martin Schulz"
+  ],
+  "v": "Pred Hans-Gert Pöttering (2007 – 2009) viedol/viedla EP Josep Borrell (2004 – 2007).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Josep Borrell Fontelles President from 2004-2007"
+   ],
+   [
+    "ep-hist-presidents",
+    "Hans-Gert Pöttering President from 2007-2009"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 2009 – 2012?",
+  "ok": "Jerzy Buzek",
+  "bad": [
+   "Martin Schulz",
+   "Hans-Gert Pöttering"
+  ],
+  "v": "Jerzy Buzek bol predsedom Európskeho parlamentu v rokoch 2009 – 2012.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Jerzy Buzek President from 2009-2012"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Jerzy Buzek predsedom Európskeho parlamentu?",
+  "ok": "2009 – 2012",
+  "bad": [
+   "2007 – 2009",
+   "2012 – 2017"
+  ],
+  "v": "Jerzy Buzek viedl Európsky parlament v rokoch 2009 – 2012.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Jerzy Buzek President from 2009-2012"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal Jerzy Buzek, predseda Európskeho parlamentu (2009 – 2012)?",
+  "ok": "Poľsko",
+  "bad": [
+   "Holandsko",
+   "Nemecko"
+  ],
+  "v": "Jerzy Buzek pochádzal z krajiny: Poľsko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Jerzy Buzek President from 2009-2012"
+   ],
+   [
+    "eppres-jerzy-buzek",
+    "From 1997 to 2001, Buzek was Prime Minister of Poland."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Jerzy Buzek (2009 – 2012)?",
+  "ok": "Hans-Gert Pöttering",
+  "bad": [
+   "Martin Schulz",
+   "Josep Borrell"
+  ],
+  "v": "Pred Jerzy Buzek (2009 – 2012) viedol/viedla EP Hans-Gert Pöttering (2007 – 2009).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Hans-Gert Pöttering President from 2007-2009"
+   ],
+   [
+    "ep-hist-presidents",
+    "Jerzy Buzek President from 2009-2012"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 2012 – 2017?",
+  "ok": "Martin Schulz",
+  "bad": [
+   "Antonio Tajani",
+   "Jerzy Buzek"
+  ],
+  "v": "Martin Schulz bol predsedom Európskeho parlamentu v rokoch 2012 – 2017.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Martin Schulz President from 2012-2017"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Martin Schulz predsedom Európskeho parlamentu?",
+  "ok": "2012 – 2017",
+  "bad": [
+   "2009 – 2012",
+   "2017 – 2019"
+  ],
+  "v": "Martin Schulz viedl Európsky parlament v rokoch 2012 – 2017.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Martin Schulz President from 2012-2017"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Z ktorého štátu pochádzal Martin Schulz, predseda Európskeho parlamentu (2012 – 2017)?",
+  "ok": "Nemecko",
+  "bad": [
+   "Malta",
+   "Holandsko"
+  ],
+  "v": "Martin Schulz pochádzal z krajiny: Nemecko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Martin Schulz President from 2012-2017"
+   ],
+   [
+    "eppres-martin-schulz",
+    "Since 2017, he has been a member of the German Bundestag"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Martin Schulz (2012 – 2017)?",
+  "ok": "Jerzy Buzek",
+  "bad": [
+   "Antonio Tajani",
+   "David Sassoli"
+  ],
+  "v": "Pred Martin Schulz (2012 – 2017) viedol/viedla EP Jerzy Buzek (2009 – 2012).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Jerzy Buzek President from 2009-2012"
+   ],
+   [
+    "ep-hist-presidents",
+    "Martin Schulz President from 2012-2017"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 2017 – 2019?",
+  "ok": "Antonio Tajani",
+  "bad": [
+   "David Sassoli",
+   "Martin Schulz"
+  ],
+  "v": "Antonio Tajani bol predsedom Európskeho parlamentu v rokoch 2017 – 2019.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Antonio Tajani President from 2017-2019"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol Antonio Tajani predsedom Európskeho parlamentu?",
+  "ok": "2017 – 2019",
+  "bad": [
+   "2012 – 2017",
+   "2019 – 2022"
+  ],
+  "v": "Antonio Tajani viedl Európsky parlament v rokoch 2017 – 2019.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Antonio Tajani President from 2017-2019"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Z ktorého štátu pochádzal Antonio Tajani, predseda Európskeho parlamentu (2017 – 2019)?",
+  "ok": "Taliansko",
+  "bad": [
+   "Nemecko",
+   "Belgicko"
+  ],
+  "v": "Antonio Tajani pochádzal z krajiny: Taliansko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Antonio Tajani President from 2017-2019"
+   ],
+   [
+    "eppres-antonio-tajani",
+    "Antonio Tajani was born in Rome on 4 August 1953."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal Antonio Tajani (2017 – 2019)?",
+  "ok": "Martin Schulz",
+  "bad": [
+   "David Sassoli",
+   "Jerzy Buzek"
+  ],
+  "v": "Pred Antonio Tajani (2017 – 2019) viedol/viedla EP Martin Schulz (2012 – 2017).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Martin Schulz President from 2012-2017"
+   ],
+   [
+    "ep-hist-presidents",
+    "Antonio Tajani President from 2017-2019"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Kto bol predsedom alebo predsedníčkou Európskeho parlamentu v rokoch 2019 – 2022?",
+  "ok": "David Sassoli",
+  "bad": [
+   "Antonio Tajani",
+   "Roberta Metsolová"
+  ],
+  "v": "David Sassoli bol predsedom Európskeho parlamentu v rokoch 2019 – 2022.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "David Maria Sassoli President from 2019-2022"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch bol David Sassoli predsedom Európskeho parlamentu?",
+  "ok": "2019 – 2022",
+  "bad": [
+   "2017 – 2019",
+   "2012 – 2017"
+  ],
+  "v": "David Sassoli viedl Európsky parlament v rokoch 2019 – 2022.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "David Maria Sassoli President from 2019-2022"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Z ktorého štátu pochádzal David Sassoli, predseda Európskeho parlamentu (2019 – 2022)?",
+  "ok": "Taliansko",
+  "bad": [
+   "Luxembursko",
+   "Francúzsko"
+  ],
+  "v": "David Sassoli pochádzal z krajiny: Taliansko.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "David Maria Sassoli President from 2019-2022"
+   ],
+   [
+    "eppres-david-sassoli",
+    "David Maria Sassoli was born in Florence on 30 May 1956."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedom stal David Sassoli (2019 – 2022)?",
+  "ok": "Antonio Tajani",
+  "bad": [
+   "Roberta Metsolová",
+   "Martin Schulz"
+  ],
+  "v": "Pred David Sassoli (2019 – 2022) viedol/viedla EP Antonio Tajani (2017 – 2019).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Antonio Tajani President from 2017-2019"
+   ],
+   [
+    "ep-hist-presidents",
+    "David Maria Sassoli President from 2019-2022"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Z ktorého štátu pochádza Roberta Metsolová, predsedníčka Európskeho parlamentu (od 2022)?",
+  "ok": "Malta",
+  "bad": [
+   "Francúzsko",
+   "Poľsko"
+  ],
+  "v": "Roberta Metsolová pochádza z krajiny: Malta.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Roberta Metsola President since 2022"
+   ],
+   [
+    "eppres-roberta-metsola",
+    "Roberta Metsola was born on 18 January 1979 in St. Julians in Malta."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsky parlament bezprostredne pred tým, ako sa jeho predsedníčkou stala Roberta Metsolová (od 2022)?",
+  "ok": "David Sassoli",
+  "bad": [
+   "Antonio Tajani",
+   "Martin Schulz"
+  ],
+  "v": "Pred Roberta Metsolová (od 2022) viedol/viedla EP David Sassoli (2019 – 2022).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "David Maria Sassoli President from 2019-2022"
+   ],
+   [
+    "ep-hist-presidents",
+    "Roberta Metsola President since 2022"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1967 – 1970?",
+  "ok": "Jean Rey",
+  "bad": [
+   "Franco Maria Malfatti",
+   "Sicco Mansholt"
+  ],
+  "v": "Jean Rey (Belgicko) viedol Komisiu v rokoch 1967 – 1970.",
+  "src": [
+   [
+    "at-kommissionen",
+    "1 | 1967 - 1970 | Jean Rey (Belgien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Jean Rey?",
+  "ok": "1967 – 1970",
+  "bad": [
+   "1970 – 1972",
+   "1972 – 1973"
+  ],
+  "v": "Jean Rey bol predsedom Komisie v rokoch 1967 – 1970.",
+  "src": [
+   [
+    "at-kommissionen",
+    "1 | 1967 - 1970 | Jean Rey (Belgien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Jean Rey?",
+  "ok": "Belgicko",
+  "bad": [
+   "Taliansko",
+   "Grécko"
+  ],
+  "v": "Jean Rey pochádzal z krajiny: Belgicko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "1 | 1967 - 1970 | Jean Rey (Belgien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Belgicko?",
+  "ok": "Jean Rey",
+  "bad": [
+   "Franco Maria Malfatti",
+   "Sicco Mansholt"
+  ],
+  "v": "Jean Rey (1967 – 1970) pochádzal z krajiny Belgicko; Franco Maria Malfatti z krajiny Taliansko, Sicco Mansholt z krajiny Holandsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "1 | 1967 - 1970 | Jean Rey (Belgien)"
+   ],
+   [
+    "at-kommissionen",
+    "2 | 1970 - 1972 | Franco-Maria Malfatti (Italien)"
+   ],
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1970 – 1972?",
+  "ok": "Franco Maria Malfatti",
+  "bad": [
+   "Jean Rey",
+   "Sicco Mansholt"
+  ],
+  "v": "Franco Maria Malfatti (Taliansko) viedol Komisiu v rokoch 1970 – 1972.",
+  "src": [
+   [
+    "at-kommissionen",
+    "2 | 1970 - 1972 | Franco-Maria Malfatti (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Franco Maria Malfatti?",
+  "ok": "1970 – 1972",
+  "bad": [
+   "1967 – 1970",
+   "1972 – 1973"
+  ],
+  "v": "Franco Maria Malfatti bol predsedom Komisie v rokoch 1970 – 1972.",
+  "src": [
+   [
+    "at-kommissionen",
+    "2 | 1970 - 1972 | Franco-Maria Malfatti (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Franco Maria Malfatti?",
+  "ok": "Taliansko",
+  "bad": [
+   "Poľsko",
+   "Francúzsko"
+  ],
+  "v": "Franco Maria Malfatti pochádzal z krajiny: Taliansko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "2 | 1970 - 1972 | Franco-Maria Malfatti (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Taliansko?",
+  "ok": "Franco Maria Malfatti",
+  "bad": [
+   "Sicco Mansholt",
+   "Jean Rey"
+  ],
+  "v": "Franco Maria Malfatti (1970 – 1972) pochádzal z krajiny Taliansko; Sicco Mansholt z krajiny Holandsko, Jean Rey z krajiny Belgicko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "2 | 1970 - 1972 | Franco-Maria Malfatti (Italien)"
+   ],
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ],
+   [
+    "at-kommissionen",
+    "1 | 1967 - 1970 | Jean Rey (Belgien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal Franco Maria Malfatti?",
+  "ok": "Jean Rey",
+  "bad": [
+   "Sicco Mansholt",
+   "François-Xavier Ortoli"
+  ],
+  "v": "Pred Franco Maria Malfatti viedol Komisiu Jean Rey (1967 – 1970).",
+  "src": [
+   [
+    "at-kommissionen",
+    "1 | 1967 - 1970 | Jean Rey (Belgien)"
+   ],
+   [
+    "at-kommissionen",
+    "2 | 1970 - 1972 | Franco-Maria Malfatti (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1972 – 1973?",
+  "ok": "Sicco Mansholt",
+  "bad": [
+   "Franco Maria Malfatti",
+   "François-Xavier Ortoli"
+  ],
+  "v": "Sicco Mansholt (Holandsko) viedol Komisiu v rokoch 1972 – 1973.",
+  "src": [
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Sicco Mansholt?",
+  "ok": "1972 – 1973",
+  "bad": [
+   "1973 – 1977",
+   "1970 – 1972"
+  ],
+  "v": "Sicco Mansholt bol predsedom Komisie v rokoch 1972 – 1973.",
+  "src": [
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Sicco Mansholt?",
+  "ok": "Holandsko",
+  "bad": [
+   "Taliansko",
+   "Rakúsko"
+  ],
+  "v": "Sicco Mansholt pochádzal z krajiny: Holandsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Holandsko?",
+  "ok": "Sicco Mansholt",
+  "bad": [
+   "François-Xavier Ortoli",
+   "Franco Maria Malfatti"
+  ],
+  "v": "Sicco Mansholt (1972 – 1973) pochádzal z krajiny Holandsko; François-Xavier Ortoli z krajiny Francúzsko, Franco Maria Malfatti z krajiny Taliansko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ],
+   [
+    "at-kommissionen",
+    "4 | 1973 - 1977 | François-Xavier Ortoli (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "2 | 1970 - 1972 | Franco-Maria Malfatti (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal Sicco Mansholt?",
+  "ok": "Franco Maria Malfatti",
+  "bad": [
+   "François-Xavier Ortoli",
+   "Roy Jenkins"
+  ],
+  "v": "Pred Sicco Mansholt viedol Komisiu Franco Maria Malfatti (1970 – 1972).",
+  "src": [
+   [
+    "at-kommissionen",
+    "2 | 1970 - 1972 | Franco-Maria Malfatti (Italien)"
+   ],
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1973 – 1977?",
+  "ok": "François-Xavier Ortoli",
+  "bad": [
+   "Sicco Mansholt",
+   "Roy Jenkins"
+  ],
+  "v": "François-Xavier Ortoli (Francúzsko) viedol Komisiu v rokoch 1973 – 1977.",
+  "src": [
+   [
+    "at-kommissionen",
+    "4 | 1973 - 1977 | François-Xavier Ortoli (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu François-Xavier Ortoli?",
+  "ok": "1973 – 1977",
+  "bad": [
+   "1977 – 1981",
+   "1972 – 1973"
+  ],
+  "v": "François-Xavier Ortoli bol predsedom Komisie v rokoch 1973 – 1977.",
+  "src": [
+   [
+    "at-kommissionen",
+    "4 | 1973 - 1977 | François-Xavier Ortoli (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie François-Xavier Ortoli?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Holandsko",
+   "Luxembursko"
+  ],
+  "v": "François-Xavier Ortoli pochádzal z krajiny: Francúzsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "4 | 1973 - 1977 | François-Xavier Ortoli (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Francúzsko?",
+  "ok": "François-Xavier Ortoli",
+  "bad": [
+   "Roy Jenkins",
+   "Sicco Mansholt"
+  ],
+  "v": "François-Xavier Ortoli (1973 – 1977) pochádzal z krajiny Francúzsko; Roy Jenkins z krajiny Spojené kráľovstvo, Sicco Mansholt z krajiny Holandsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "4 | 1973 - 1977 | François-Xavier Ortoli (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "5 | 1977 - 1981 | Roy Jenkins (Großbritannien)"
+   ],
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal François-Xavier Ortoli?",
+  "ok": "Sicco Mansholt",
+  "bad": [
+   "Roy Jenkins",
+   "Gaston Thorn"
+  ],
+  "v": "Pred François-Xavier Ortoli viedol Komisiu Sicco Mansholt (1972 – 1973).",
+  "src": [
+   [
+    "at-kommissionen",
+    "3 | 1972 - 1973 | Sicco Leendert Mansholt (Niederlande)"
+   ],
+   [
+    "at-kommissionen",
+    "4 | 1973 - 1977 | François-Xavier Ortoli (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1977 – 1981?",
+  "ok": "Roy Jenkins",
+  "bad": [
+   "François-Xavier Ortoli",
+   "Gaston Thorn"
+  ],
+  "v": "Roy Jenkins (Spojené kráľovstvo) viedol Komisiu v rokoch 1977 – 1981.",
+  "src": [
+   [
+    "at-kommissionen",
+    "5 | 1977 - 1981 | Roy Jenkins (Großbritannien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Roy Jenkins?",
+  "ok": "1977 – 1981",
+  "bad": [
+   "1981 – 1985",
+   "1973 – 1977"
+  ],
+  "v": "Roy Jenkins bol predsedom Komisie v rokoch 1977 – 1981.",
+  "src": [
+   [
+    "at-kommissionen",
+    "5 | 1977 - 1981 | Roy Jenkins (Großbritannien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Roy Jenkins?",
+  "ok": "Spojené kráľovstvo",
+  "bad": [
+   "Portugalsko",
+   "Španielsko"
+  ],
+  "v": "Roy Jenkins pochádzal z krajiny: Spojené kráľovstvo.",
+  "src": [
+   [
+    "at-kommissionen",
+    "5 | 1977 - 1981 | Roy Jenkins (Großbritannien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Spojené kráľovstvo?",
+  "ok": "Roy Jenkins",
+  "bad": [
+   "Gaston Thorn",
+   "François-Xavier Ortoli"
+  ],
+  "v": "Roy Jenkins (1977 – 1981) pochádzal z krajiny Spojené kráľovstvo; Gaston Thorn z krajiny Luxembursko, François-Xavier Ortoli z krajiny Francúzsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "5 | 1977 - 1981 | Roy Jenkins (Großbritannien)"
+   ],
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "4 | 1973 - 1977 | François-Xavier Ortoli (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal Roy Jenkins?",
+  "ok": "François-Xavier Ortoli",
+  "bad": [
+   "Gaston Thorn",
+   "Sicco Mansholt"
+  ],
+  "v": "Pred Roy Jenkins viedol Komisiu François-Xavier Ortoli (1973 – 1977).",
+  "src": [
+   [
+    "at-kommissionen",
+    "4 | 1973 - 1977 | François-Xavier Ortoli (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "5 | 1977 - 1981 | Roy Jenkins (Großbritannien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1981 – 1985?",
+  "ok": "Gaston Thorn",
+  "bad": [
+   "Roy Jenkins",
+   "Jacques Delors"
+  ],
+  "v": "Gaston Thorn (Luxembursko) viedol Komisiu v rokoch 1981 – 1985.",
+  "src": [
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Gaston Thorn?",
+  "ok": "1981 – 1985",
+  "bad": [
+   "1977 – 1981",
+   "1985 – 1995"
+  ],
+  "v": "Gaston Thorn bol predsedom Komisie v rokoch 1981 – 1985.",
+  "src": [
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Gaston Thorn?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Poľsko",
+   "Francúzsko"
+  ],
+  "v": "Gaston Thorn pochádzal z krajiny: Luxembursko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Luxembursko?",
+  "ok": "Gaston Thorn",
+  "bad": [
+   "Roy Jenkins",
+   "Jacques Delors"
+  ],
+  "v": "Gaston Thorn (1981 – 1985) pochádzal z krajiny Luxembursko; Roy Jenkins z krajiny Spojené kráľovstvo, Jacques Delors z krajiny Francúzsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "5 | 1977 - 1981 | Roy Jenkins (Großbritannien)"
+   ],
+   [
+    "at-kommissionen",
+    "7 | 1985 - 1989 | Jacques Delors I (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal Gaston Thorn?",
+  "ok": "Roy Jenkins",
+  "bad": [
+   "Jacques Delors",
+   "François-Xavier Ortoli"
+  ],
+  "v": "Pred Gaston Thorn viedol Komisiu Roy Jenkins (1977 – 1981).",
+  "src": [
+   [
+    "at-kommissionen",
+    "5 | 1977 - 1981 | Roy Jenkins (Großbritannien)"
+   ],
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1985 – 1995?",
+  "ok": "Jacques Delors",
+  "bad": [
+   "Gaston Thorn",
+   "Jacques Santer"
+  ],
+  "v": "Jacques Delors (Francúzsko) viedol Komisiu v rokoch 1985 – 1995.",
+  "src": [
+   [
+    "at-kommissionen",
+    "7 | 1985 - 1989 | Jacques Delors I (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "8 | 1989 - 1993 | Jacques Delors II (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "9 | 1993 - 1995 | Jacques Delors III (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Jacques Delors?",
+  "ok": "1985 – 1995",
+  "bad": [
+   "1981 – 1985",
+   "1995 – 1999"
+  ],
+  "v": "Jacques Delors bol predsedom Komisie v rokoch 1985 – 1995.",
+  "src": [
+   [
+    "at-kommissionen",
+    "7 | 1985 - 1989 | Jacques Delors I (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "8 | 1989 - 1993 | Jacques Delors II (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "9 | 1993 - 1995 | Jacques Delors III (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Jacques Delors?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Rakúsko",
+   "Poľsko"
+  ],
+  "v": "Jacques Delors pochádzal z krajiny: Francúzsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "7 | 1985 - 1989 | Jacques Delors I (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "8 | 1989 - 1993 | Jacques Delors II (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "9 | 1993 - 1995 | Jacques Delors III (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Francúzsko?",
+  "ok": "Jacques Delors",
+  "bad": [
+   "Jacques Santer",
+   "Gaston Thorn"
+  ],
+  "v": "Jacques Delors (1985 – 1995) pochádzal z krajiny Francúzsko; Jacques Santer z krajiny Luxembursko, Gaston Thorn z krajiny Luxembursko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "7 | 1985 - 1989 | Jacques Delors I (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "8 | 1989 - 1993 | Jacques Delors II (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "9 | 1993 - 1995 | Jacques Delors III (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "10 | 1995 - 1999 | Jacques Santer (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal Jacques Delors?",
+  "ok": "Gaston Thorn",
+  "bad": [
+   "Jacques Santer",
+   "Romano Prodi"
+  ],
+  "v": "Pred Jacques Delors viedol Komisiu Gaston Thorn (1981 – 1985).",
+  "src": [
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "7 | 1985 - 1989 | Jacques Delors I (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "8 | 1989 - 1993 | Jacques Delors II (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "9 | 1993 - 1995 | Jacques Delors III (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1995 – 1999?",
+  "ok": "Jacques Santer",
+  "bad": [
+   "Romano Prodi",
+   "Jacques Delors"
+  ],
+  "v": "Jacques Santer (Luxembursko) viedol Komisiu v rokoch 1995 – 1999.",
+  "src": [
+   [
+    "at-kommissionen",
+    "10 | 1995 - 1999 | Jacques Santer (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Jacques Santer?",
+  "ok": "1995 – 1999",
+  "bad": [
+   "1985 – 1995",
+   "1999 – 2004"
+  ],
+  "v": "Jacques Santer bol predsedom Komisie v rokoch 1995 – 1999.",
+  "src": [
+   [
+    "at-kommissionen",
+    "10 | 1995 - 1999 | Jacques Santer (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Jacques Santer?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Belgicko",
+   "Malta"
+  ],
+  "v": "Jacques Santer pochádzal z krajiny: Luxembursko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "10 | 1995 - 1999 | Jacques Santer (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Luxembursko?",
+  "ok": "Jacques Santer",
+  "bad": [
+   "Romano Prodi",
+   "Jacques Delors"
+  ],
+  "v": "Jacques Santer (1995 – 1999) pochádzal z krajiny Luxembursko; Romano Prodi z krajiny Taliansko, Jacques Delors z krajiny Francúzsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "10 | 1995 - 1999 | Jacques Santer (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "12 | 1999 - 2004 | Romano Prodi (Italien)"
+   ],
+   [
+    "at-kommissionen",
+    "7 | 1985 - 1989 | Jacques Delors I (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal Jacques Santer?",
+  "ok": "Jacques Delors",
+  "bad": [
+   "Romano Prodi",
+   "José Manuel Barroso"
+  ],
+  "v": "Pred Jacques Santer viedol Komisiu Jacques Delors (1985 – 1995).",
+  "src": [
+   [
+    "at-kommissionen",
+    "9 | 1993 - 1995 | Jacques Delors III (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "10 | 1995 - 1999 | Jacques Santer (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 1999 – 2004?",
+  "ok": "Romano Prodi",
+  "bad": [
+   "Jacques Santer",
+   "José Manuel Barroso"
+  ],
+  "v": "Romano Prodi (Taliansko) viedol Komisiu v rokoch 1999 – 2004.",
+  "src": [
+   [
+    "at-kommissionen",
+    "12 | 1999 - 2004 | Romano Prodi (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Romano Prodi?",
+  "ok": "1999 – 2004",
+  "bad": [
+   "2004 – 2014",
+   "1995 – 1999"
+  ],
+  "v": "Romano Prodi bol predsedom Komisie v rokoch 1999 – 2004.",
+  "src": [
+   [
+    "at-kommissionen",
+    "12 | 1999 - 2004 | Romano Prodi (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Romano Prodi?",
+  "ok": "Taliansko",
+  "bad": [
+   "Holandsko",
+   "Malta"
+  ],
+  "v": "Romano Prodi pochádzal z krajiny: Taliansko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "12 | 1999 - 2004 | Romano Prodi (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Taliansko?",
+  "ok": "Romano Prodi",
+  "bad": [
+   "Jacques Santer",
+   "José Manuel Barroso"
+  ],
+  "v": "Romano Prodi (1999 – 2004) pochádzal z krajiny Taliansko; Jacques Santer z krajiny Luxembursko, José Manuel Barroso z krajiny Portugalsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "12 | 1999 - 2004 | Romano Prodi (Italien)"
+   ],
+   [
+    "at-kommissionen",
+    "10 | 1995 - 1999 | Jacques Santer (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "13 | 2004 - 2009 | José Manuel Durão Barroso I (Portugal)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 2004 – 2014?",
+  "ok": "José Manuel Barroso",
+  "bad": [
+   "Jean-Claude Juncker",
+   "Romano Prodi"
+  ],
+  "v": "José Manuel Barroso (Portugalsko) viedol Komisiu v rokoch 2004 – 2014.",
+  "src": [
+   [
+    "at-kommissionen",
+    "13 | 2004 - 2009 | José Manuel Durão Barroso I (Portugal)"
+   ],
+   [
+    "at-kommissionen",
+    "14 | 2009 - 2014 | José Manuel Durão Barroso II (Portugal)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu José Manuel Barroso?",
+  "ok": "2004 – 2014",
+  "bad": [
+   "2014 – 2019",
+   "1999 – 2004"
+  ],
+  "v": "José Manuel Barroso bol predsedom Komisie v rokoch 2004 – 2014.",
+  "src": [
+   [
+    "at-kommissionen",
+    "13 | 2004 - 2009 | José Manuel Durão Barroso I (Portugal)"
+   ],
+   [
+    "at-kommissionen",
+    "14 | 2009 - 2014 | José Manuel Durão Barroso II (Portugal)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie José Manuel Barroso?",
+  "ok": "Portugalsko",
+  "bad": [
+   "Poľsko",
+   "Francúzsko"
+  ],
+  "v": "José Manuel Barroso pochádzal z krajiny: Portugalsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "13 | 2004 - 2009 | José Manuel Durão Barroso I (Portugal)"
+   ],
+   [
+    "at-kommissionen",
+    "14 | 2009 - 2014 | José Manuel Durão Barroso II (Portugal)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Portugalsko?",
+  "ok": "José Manuel Barroso",
+  "bad": [
+   "Jean-Claude Juncker",
+   "Romano Prodi"
+  ],
+  "v": "José Manuel Barroso (2004 – 2014) pochádzal z krajiny Portugalsko; Jean-Claude Juncker z krajiny Luxembursko, Romano Prodi z krajiny Taliansko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "13 | 2004 - 2009 | José Manuel Durão Barroso I (Portugal)"
+   ],
+   [
+    "at-kommissionen",
+    "14 | 2009 - 2014 | José Manuel Durão Barroso II (Portugal)"
+   ],
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "12 | 1999 - 2004 | Romano Prodi (Italien)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal José Manuel Barroso?",
+  "ok": "Romano Prodi",
+  "bad": [
+   "Jean-Claude Juncker",
+   "Jacques Santer"
+  ],
+  "v": "Pred José Manuel Barroso viedol Komisiu Romano Prodi (1999 – 2004).",
+  "src": [
+   [
+    "at-kommissionen",
+    "12 | 1999 - 2004 | Romano Prodi (Italien)"
+   ],
+   [
+    "at-kommissionen",
+    "13 | 2004 - 2009 | José Manuel Durão Barroso I (Portugal)"
+   ],
+   [
+    "at-kommissionen",
+    "14 | 2009 - 2014 | José Manuel Durão Barroso II (Portugal)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Kto bol predsedom Európskej komisie v rokoch 2014 – 2019?",
+  "ok": "Jean-Claude Juncker",
+  "bad": [
+   "Ursula von der Leyenová",
+   "José Manuel Barroso"
+  ],
+  "v": "Jean-Claude Juncker (Luxembursko) viedol Komisiu v rokoch 2014 – 2019.",
+  "src": [
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "V ktorých rokoch viedol Európsku komisiu Jean-Claude Juncker?",
+  "ok": "2014 – 2019",
+  "bad": [
+   "2004 – 2014",
+   "1999 – 2004"
+  ],
+  "v": "Jean-Claude Juncker bol predsedom Komisie v rokoch 2014 – 2019.",
+  "src": [
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Z ktorého štátu pochádzal predseda Európskej komisie Jean-Claude Juncker?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Holandsko",
+   "Nemecko"
+  ],
+  "v": "Jean-Claude Juncker pochádzal z krajiny: Luxembursko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Ktorý z týchto predsedov Európskej komisie pochádzal z krajiny Luxembursko?",
+  "ok": "Jean-Claude Juncker",
+  "bad": [
+   "José Manuel Barroso",
+   "Ursula von der Leyenová"
+  ],
+  "v": "Jean-Claude Juncker (2014 – 2019) pochádzal z krajiny Luxembursko; José Manuel Barroso z krajiny Portugalsko, Ursula von der Leyenová z krajiny Nemecko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "13 | 2004 - 2009 | José Manuel Durão Barroso I (Portugal)"
+   ],
+   [
+    "at-kommissionen",
+    "16 | 2019 - 2024 | Ursula von der Leyen I (Deutschland)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzal Jean-Claude Juncker?",
+  "ok": "José Manuel Barroso",
+  "bad": [
+   "Ursula von der Leyenová",
+   "Romano Prodi"
+  ],
+  "v": "Pred Jean-Claude Juncker viedol Komisiu José Manuel Barroso (2004 – 2014).",
+  "src": [
+   [
+    "at-kommissionen",
+    "14 | 2009 - 2014 | José Manuel Durão Barroso II (Portugal)"
+   ],
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 2,
+  "text": "Z ktorého štátu pochádza predsedníčka Európskej komisie Ursula von der Leyenová?",
+  "ok": "Nemecko",
+  "bad": [
+   "Malta",
+   "Belgicko"
+  ],
+  "v": "Ursula von der Leyenová pochádza z krajiny: Nemecko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "16 | 2019 - 2024 | Ursula von der Leyen I (Deutschland)"
+   ],
+   [
+    "at-kommissionen",
+    "17 | seit 2024 | Ursula von der Leyen II (Deutschland)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto z týchto ľudí vedie Európsku komisiu a pochádza z krajiny Nemecko?",
+  "ok": "Ursula von der Leyenová",
+  "bad": [
+   "Jean-Claude Juncker",
+   "José Manuel Barroso"
+  ],
+  "v": "Ursula von der Leyenová (od 2019) pochádza z krajiny Nemecko; Jean-Claude Juncker z krajiny Luxembursko, José Manuel Barroso z krajiny Portugalsko.",
+  "src": [
+   [
+    "at-kommissionen",
+    "16 | 2019 - 2024 | Ursula von der Leyen I (Deutschland)"
+   ],
+   [
+    "at-kommissionen",
+    "17 | seit 2024 | Ursula von der Leyen II (Deutschland)"
+   ],
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "13 | 2004 - 2009 | José Manuel Durão Barroso I (Portugal)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Kto viedol Európsku komisiu bezprostredne pred tým, ako ju prevzala Ursula von der Leyenová?",
+  "ok": "Jean-Claude Juncker",
+  "bad": [
+   "José Manuel Barroso",
+   "Romano Prodi"
+  ],
+  "v": "Pred Ursula von der Leyenová viedol Komisiu Jean-Claude Juncker (2014 – 2019).",
+  "src": [
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "16 | 2019 - 2024 | Ursula von der Leyen I (Deutschland)"
+   ],
+   [
+    "at-kommissionen",
+    "17 | seit 2024 | Ursula von der Leyen II (Deutschland)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Koľko po sebe nasledujúcich komisií viedol Jacques Delors?",
+  "ok": "tri (1985 – 1995)",
+  "bad": [
+   "dve (1985 – 1993)",
+   "štyri (1981 – 1997)"
+  ],
+  "v": "Jacques Delors viedol tri komisie: Delors I (1985 – 1989), Delors II (1989 – 1993) a Delors III (1993 – 1995).",
+  "src": [
+   [
+    "at-kommissionen",
+    "7 | 1985 - 1989 | Jacques Delors I (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "8 | 1989 - 1993 | Jacques Delors II (Frankreich)"
+   ],
+   [
+    "at-kommissionen",
+    "9 | 1993 - 1995 | Jacques Delors III (Frankreich)"
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Koľko európskych komisií bolo zriadených od roku 1967 (vrátane súčasnej)?",
+  "ok": "17",
+  "bad": [
+   "7",
+   "27"
+  ],
+  "v": "Od roku 1967 bolo v EÚ a jej predchodkyni, Európskom spoločenstve, zriadených celkovo 17 komisií.",
+  "src": [
+   [
+    "at-kommissionen",
+    "Seit 1967 wurden innerhalb der Europäischen Union (EU) und ihrer Vorgängerin, der Europäischen Gemeinschaft (EG), insgesamt 17 Kommissionen eingerichtet."
+   ]
+  ]
+ },
+ {
+  "kat": "his",
+  "n": 3,
+  "text": "Koľko predsedov Európskej komisie (od roku 1967) pochádzalo z Luxemburska?",
+  "ok": "traja – Thorn, Santer a Juncker",
+  "bad": [
+   "jeden – Juncker",
+   "žiadny"
+  ],
+  "v": "Z Luxemburska pochádzali Gaston Thorn, Jacques Santer a Jean-Claude Juncker.",
+  "src": [
+   [
+    "at-kommissionen",
+    "6 | 1981 - 1985 | Gaston Thorn (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "10 | 1995 - 1999 | Jacques Santer (Luxemburg)"
+   ],
+   [
+    "at-kommissionen",
+    "15 | 2014 - 2019 | Jean-Claude Juncker (Luxemburg)"
+   ]
+  ]
+ }
+]

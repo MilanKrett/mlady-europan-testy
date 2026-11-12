@@ -1,0 +1,325 @@
+#kat his
+#n 3
+
+Ako sa inak nazýva zmluva o založení Európskeho spoločenstva uhlia a ocele z roku 1951?
++ Parížska zmluva
+- Rímska zmluva
+- Bruselská zmluva
+= Zmluva o ESUO, podpísaná 18. apríla 1951, sa nazýva Parížska zmluva.
+> ep-fs-1 | Zmluva o založení Európskeho spoločenstva uhlia a ocele (ESUO, Parížska zmluva)
+
+Kedy nadobudla platnosť Parížska zmluva o ESUO?
++ 23. júla 1952
+- 18. apríla 1951
+- 1. januára 1958
+= Parížska zmluva bola podpísaná 18. apríla 1951 a platnosť nadobudla 23. júla 1952.
+> ep-fs-1 | ktorá bola podpísaná 18. apríla 1951 a nadobudla platnosť 23. júla 1952
+
+Na aké obdobie bola uzavretá zmluva o Európskom spoločenstve uhlia a ocele?
++ na 50 rokov
+- na dobu neurčitú
+- na 25 rokov
+= Článok 97 Parížskej zmluvy ustanovoval uplynutie jej platnosti po 50 rokoch – stalo sa tak 23. júla 2002.
+> ep-fs-1 | V článku 97 sa ustanovuje uplynutie platnosti zmluvy po 50 rokoch, ktoré nadobudlo účinnosť 23. júla 2002.
+
+Kedy uplynula platnosť zmluvy o Európskom spoločenstve uhlia a ocele?
++ 23. júla 2002
+- 1. decembra 2009
+- 1. novembra 1993
+= Zmluva o ESUO bola uzavretá na 50 rokov; jej platnosť uplynula 23. júla 2002.
+> ep-fs-1 | ktoré nadobudlo účinnosť 23. júla 2002
+
+Ktorá inštitúcia NEBOLA zriadená Parížskou zmluvou o ESUO?
++ Európska centrálna banka
+- Vysoký úrad
+- Súdny dvor
+= Parížska zmluva zriadila Vysoký úrad, Parlamentné zhromaždenie, Radu ministrov, Súdny dvor a Poradný výbor. ECB vznikla až na základe Maastrichtskej zmluvy.
+> ep-fs-1 | zriadila spoločné inštitúcie vrátane Vysokého úradu, Parlamentného zhromaždenia, Rady ministrov, Súdneho dvora a Poradného výboru
+> ep-fs-3 | sa podľa ustanovení zmluvy zriadili Európsky systém centrálnych bánk a Európska centrálna banka
+
+Na aké obdobie boli uzavreté Rímske zmluvy o EHS a Euratome?
++ na dobu neurčitú
+- na 50 rokov
+- na 99 rokov
+= Článok 240 Zmluvy o EHS a článok 208 Zmluvy o ESAE výslovne stanovovali, že oba pakty sú uzavreté na dobu neurčitú.
+> ep-fs-1 | výslovne stanovovali, že oba pakty boli uzavreté na dobu neurčitú
+
+Aký bol cieľ Euratomu?
++ koordinovať dodávky štiepnych materiálov a výskum mierového využitia jadrovej energie
+- vybudovať spoločné jadrové zbrane krajín EHS
+- zakázať jadrovú energiu v Európe
+= Euratom mal koordinovať dodávky štiepnych materiálov a výskumné programy na mierové využitie jadrovej energie.
+> ep-fs-1 | Cieľom Euratomu bolo koordinovať dodávky štiepnych materiálov a výskumné programy venované mierovému využitiu jadrovej energie
+
+Ktorý projekt európskej armády zlyhal v roku 1954, keď ho odmietlo francúzske Národné zhromaždenie?
++ Európske obranné spoločenstvo
+- Európske politické spoločenstvo bez armády
+- Západoeurópska únia
+= Plán Reného Plevena na Európske obranné spoločenstvo padol, keď francúzske Národné zhromaždenie 30. augusta 1954 odmietlo ratifikovať zmluvu.
+> ep-fs-1 | francúzske Národné zhromaždenie 30. augusta 1954 odmietlo ratifikovať zmluvu
+
+Kto navrhol po podpísaní Parížskej zmluvy vytvorenie európskej armády?
++ René Pleven
+- Robert Schuman
+- Charles de Gaulle
+= René Pleven navrhol vytvorenie európskej armády, čo viedlo k rokovaniam o Európskom obrannom spoločenstve.
+> ep-fs-1 | Po podpísaní Parížskej zmluvy René Pleven navrhol vytvorenie európskej armády
+
+Ktoré dve inštitúcie sa stali spoločnými pre všetky tri spoločenstvá už v roku 1957 na základe Dohovoru o určitých spoločných inštitúciách?
++ Parlamentné zhromaždenie a Súdny dvor
+- Komisia a Rada
+- Dvor audítorov a Európska investičná banka
+= Dohovor podpísaný spolu s Rímskymi zmluvami stanovil, že Parlamentné zhromaždenie a Súdny dvor budú spoločnými inštitúciami.
+> ep-fs-1 | stanovoval, že Parlamentné zhromaždenie a Súdny dvor budú spoločnými inštitúciami
+
+Aké prechodné obdobie na vytvorenie spoločného trhu stanovila Rímska zmluva?
++ 12 rokov
+- 5 rokov
+- 25 rokov
+= Článok 8 Zmluvy o EHS ustanovil prechodné obdobie 12 rokov rozdelené na tri fázy, ktoré sa malo skončiť 31. decembra 1969.
+> ep-fs-2 | ustanovil vytvorenie spoločného trhu počas prechodného obdobia 12 rokov rozdeleného na tri fázy
+
+Ako sa nazýval projekt európskej integrácie spojený so spoločnou poľnohospodárskou politikou zo 60. rokov?
++ Zelená Európa
+- Modrá Európa
+- Zlatá Európa
+= „Zelená Európa“ bol ďalší významný projekt integrácie – v roku 1962 boli prijaté prvé nariadenia o SPP.
+> ep-fs-2 | „Zelená Európa“ bol ďalší významný projekt európskej integrácie.
+
+Čo nahradil systém vlastných zdrojov Spoločenstva, vytvorený v roku 1970?
++ finančné príspevky členských štátov
+- clá na dovoz z tretích krajín
+- pôžičky od Svetovej banky
+= Rozhodnutím Rady z 21. apríla 1970 sa vytvoril systém vlastných zdrojov, ktorý nahradil finančné príspevky členských štátov.
+> ep-fs-2 | sa vytvoril systém vlastných zdrojov Spoločenstva, ktorý nahradil finančné príspevky členských štátov
+
+Ktorou zmluvou bol v roku 1975 založený Dvor audítorov?
++ Bruselskou zmluvou z 22. júla 1975
+- Rímskou zmluvou
+- Maastrichtskou zmluvou
+= Bruselská zmluva z 22. júla 1975 dala Parlamentu právo zamietnuť rozpočet a založila Dvor audítorov.
+> ep-fs-2 | Tou istou zmluvou bol založený Dvor audítorov
+
+Aké právo získal Európsky parlament Bruselskou zmluvou z roku 1975?
++ zamietnuť rozpočet a udeliť Komisii absolutórium
+- voliť predsedu Európskej rady
+- vyhlásiť vojnu v mene Spoločenstva
+= Bruselská zmluva priznala Parlamentu právo zamietnuť rozpočet a udeliť Komisii absolutórium za jeho plnenie.
+> ep-fs-2 | priznala Parlamentu právo zamietnuť rozpočet a udeliť Komisii absolutórium za jeho plnenie
+
+Ktorý akt z 20. septembra 1976 zaviedol priame a všeobecné voľby do Európskeho parlamentu?
++ Akt o priamych voľbách z roku 1976
+- Jednotný európsky akt
+- Luxemburský kompromis
+= Akt z 20. septembra 1976 zaviedol priame a všeobecné voľby poslancov EP; revidovaný bol v roku 2002 (zásada pomerného zastúpenia).
+> ep-fs-2 | Akt z 20. septembra 1976 udelil Európskemu parlamentu novú legitimitu a vážnosť zavedením priamych a všeobecných volieb jeho poslancov
+
+Obyvatelia ktorej krajiny v referende odmietli pristúpenie k Spoločenstvu, keď v roku 1973 vstúpili Spojené kráľovstvo, Dánsko a Írsko?
++ Nórska
+- Švédska
+- Fínska
+= Nóri v referende hlasovali proti pristúpeniu.
+> ep-fs-2 | Nóri v referende hlasovali proti pristúpeniu.
+
+Ako sa označuje postup Francúzska v 60. rokoch, keď sa prestalo zúčastňovať na hlavných schôdzach Spoločenstva?
++ politika prázdnej stoličky
+- politika otvorených dverí
+- politika železnej opony
+= Francúzsko na protest prestalo chodiť na schôdze (politika prázdnej stoličky); krízu ukončil luxemburský kompromis.
+> ep-fs-2 | (tzv. politika prázdnej stoličky)
+
+Ktorý kompromis ukončil krízu „prázdnej stoličky“?
++ luxemburský kompromis
+- ioanninský kompromis
+- haagsky kompromis
+= Krízu vyriešil luxemburský kompromis – pri ohrození veľmi dôležitých záujmov sa členovia Rady majú snažiť o riešenie prijateľné pre všetkých.
+> ep-fs-2 | Táto kríza sa vyriešila tzv. luxemburským kompromisom
+
+Na ktorom samite sa hlavy štátov a vlád rozhodli schádzať trikrát ročne ako „Európska rada“?
++ na samite vo Fontainebleau v decembri 1974
+- na samite v Haagu v decembri 1969
+- na samite v Miláne v júni 1985
+= Podľa informačného listu EP sa na samite vo Fontainebleau v decembri 1974 rozhodlo o priamych voľbách do EP a o tom, že lídri sa budú schádzať trikrát ročne ako Európska rada.
+> ep-fs-2 | samitom vo Fontainebleau (december 1974) ... rozhodli, že sa budú schádzať trikrát za rok ako „Európska rada“
+
+Ktoré zasadnutia Európskej rady v roku 1978 položili základ Európskeho menového systému (EMS)?
++ zasadnutia v Brémach a v Bruseli
+- zasadnutia v Maastrichte a v Ríme
+- zasadnutia v Londýne a v Paríži
+= Stretnutia Európskej rady v Brémach a Bruseli v roku 1978 položili základ EMS.
+> ep-fs-2 | stretnutia Európskej rady v Brémach a v Bruseli v roku 1978 položili základ EMS
+
+Na akej spoločnej účtovnej jednotke sa opieral Európsky menový systém (EMS)?
++ Európskej menovej jednotke (ECU)
+- euro
+- nemeckej marke
+= EMS sa opieral o existenciu spoločnej účtovnej jednotky – Európskej menovej jednotky.
+> ep-fs-2 | opieral sa o existenciu spoločnej účtovnej jednotky – Európskej menovej jednotky
+
+Kedy podpísalo prvých deväť členských štátov Jednotný európsky akt?
++ 17. februára 1986
+- 1. júla 1987
+- 7. februára 1992
+= 17. februára 1986 podpísalo JEA deväť štátov, 28. februára 1986 sa pridalo Dánsko, Taliansko a Grécko.
+> ep-fs-2 | 17. februára 1986 podpísalo deväť členských štátov Jednotný európsky akt.
+
+Prečo nadobudol Jednotný európsky akt platnosť so šesťmesačným oneskorením?
++ jeden občan sa proti nemu odvolal na írskych súdoch
+- Francúzsko ho odmietlo v referende
+- Európsky parlament ho najprv zamietol
+= JEA nadobudol platnosť 1. júla 1987 so šesťmesačným oneskorením, lebo sa proti nemu jeden občan odvolal na írskych súdoch.
+> ep-fs-2 | so šesťmesačným oneskorením, pretože sa jeden občan proti nemu odvolal na írskych súdoch
+
+Do kedy mal byť podľa Jednotného európskeho aktu dokončený plne funkčný jednotný trh?
++ do 1. januára 1993
+- do 31. decembra 1969
+- do 1. januára 2002
+= JEA stanovil dokončenie plne funkčného jednotného trhu do 1. januára 1993.
+> ep-fs-2 | Do 1. januára 1993 mal byť dokončený plne funkčný jednotný trh
+
+Ktorý legislatívny postup zaviedol Jednotný európsky akt a dal tak Parlamentu prvé skutočné zákonodarné právomoci?
++ postup spolupráce s Radou
+- riadny legislatívny postup
+- postup osobitnej konzultácie
+= JEA zaviedol postup spolupráce s Radou, ktorý Parlamentu zveril skutočné, hoci obmedzené zákonodarné právomoci.
+> ep-fs-2 | zavedením postupu spolupráce s Radou (1.2.3), ktorým sa mu zverili skutočné, aj keď obmedzené, zákonodarné právomoci
+
+Na akých troch pilieroch bola založená Európska únia podľa Maastrichtskej zmluvy?
++ Európske spoločenstvá, spoločná zahraničná a bezpečnostná politika, spravodlivosť a vnútorné veci
+- hospodárstvo, obrana a kultúra
+- Parlament, Komisia a Rada
+= Maastrichtská zmluva vytvorila EÚ na troch pilieroch: Európske spoločenstvá, SZBP a spolupráca v oblasti spravodlivosti a vnútorných vecí.
+> ep-fs-3 | vytvorila Európsku úniu založenú na troch pilieroch: Európske spoločenstvá, spoločná zahraničná a bezpečnostná politika (SZBP) a spolupráca v oblasti spravodlivosti a vnútorných vecí (SVV)
+
+Ktorý pilier EÚ podľa Maastrichtskej zmluvy tvorila spoločná zahraničná a bezpečnostná politika?
++ druhý
+- prvý
+- tretí
+= Druhý pilier tvorila SZBP; prvý Európske spoločenstvá a tretí spolupráca v oblasti spravodlivosti a vnútorných vecí.
+> ep-fs-3 | Druhý pilier tvorila spoločná zahraničná a bezpečnostná politika
+
+Ktorý poradný orgán zriadila Maastrichtská zmluva?
++ Európsky výbor regiónov
+- Európsky hospodársky a sociálny výbor
+- Dvor audítorov
+= Zmluvou sa zriadil Európsky výbor regiónov s poradnými právomocami.
+> ep-fs-3 | Zmluvou sa zriadil Európsky výbor regiónov s poradnými právomocami.
+
+Ktoré finančné inštitúcie zriadila Maastrichtská zmluva?
++ Európsky systém centrálnych bánk a Európsku centrálnu banku
+- Európsku investičnú banku a Európsky investičný fond
+- Svetovú banku a Medzinárodný menový fond
+= Podľa ustanovení Maastrichtskej zmluvy sa zriadili Európsky systém centrálnych bánk a ECB (EIB a EIF existovali už predtým).
+> ep-fs-3 | sa podľa ustanovení zmluvy zriadili Európsky systém centrálnych bánk a Európska centrálna banka
+
+Ktorý úrad pre spoluprácu polície vznikol v rámci tretieho piliera Maastrichtskej zmluvy?
++ Európsky policajný úrad (Europol)
+- Interpol
+- Frontex
+= Spolupráca v oblasti spravodlivosti a vnútorných vecí zahŕňala vytvorenie Europolu so systémom výmeny informácií.
+> ep-fs-3 | vytvorenie Európskeho policajného úradu (Europol) so systémom výmeny informácií medzi vnútroštátnymi policajnými orgánmi
+
+Aký najvyšší počet poslancov Európskeho parlamentu stanovila Amsterdamská zmluva?
++ 700
+- 626
+- 751
+= Amsterdamská zmluva stanovila najvyšší počet poslancov EP na 700; Zmluva z Nice ho neskôr zvýšila na 732.
+> ep-fs-3 | Amsterdamská zmluva stanovila v súlade so žiadosťou Európskeho parlamentu najvyšší počet jeho poslancov na 700
+
+Akú novú funkciu pre spoločnú zahraničnú a bezpečnostnú politiku zaviedla Amsterdamská zmluva?
++ generálneho tajomníka Rady zodpovedného za SZBP
+- predsedu Európskej rady
+- európskeho prokurátora
+= Amsterdamská zmluva vytvorila funkciu generálneho tajomníka Rady zodpovedného za SZBP a jednotku strategického plánovania.
+> ep-fs-3 | novej funkcie generálneho tajomníka Rady zodpovedného za SZBP
+
+Ktorú spoluprácu Únia v plnej miere prevzala do svojho práva Amsterdamskou zmluvou?
++ časť spolupráce podľa Schengenskej dohody
+- spoluprácu v NATO
+- spoluprácu v Rade Európy
+= Amsterdamskou zmluvou Únia prevzala do svojho práva aj časť spolupráce podľa Schengenskej dohody.
+> ep-fs-3 | ako aj časť spolupráce podľa Schengenskej dohody, ktorú Únia a Spoločenstvá v plnej miere prevzali do svojho práva
+
+Ako sa nazývali nevyriešené inštitucionálne otázky, ktorými sa zaoberala Zmluva z Nice?
++ amsterdamské zvyšky
+- maastrichtské medzery
+- rímske dlhy
+= Veľkosť Komisie, váženie hlasov v Rade a rozšírenie hlasovania kvalifikovanou väčšinou sa nazývali „amsterdamské zvyšky“.
+> ep-fs-4 | Tieto otázky, ktoré sa stali známe ako „amsterdamské zvyšky“
+
+Aký maximálny počet poslancov Európskeho parlamentu stanovila Zmluva z Nice?
++ 732
+- 700
+- 751
+= Zmluva z Nice zvýšila maximálny počet poslancov EP na 732 (Amsterdamská zmluva stanovila 700).
+> ep-fs-4 | Maximálny počet poslancov EP sa preto stanovil na 732.
+
+Od ktorého roku tvorí podľa Zmluvy z Nice kolégium komisárov jeden komisár za každý členský štát?
++ od roku 2005
+- od roku 1958
+- od roku 2014
+= V súlade so Zmluvou z Nice pozostáva od roku 2005 kolégium z jedného komisára za každý členský štát.
+> ep-fs-4 | V súlade so Zmluvou z Nice pozostáva od roku 2005 kolégium komisárov Komisie z jedného komisára za každý členský štát.
+
+Akú „záchrannú sieť“ zaviedla Zmluva z Nice pri hlasovaní kvalifikovanou väčšinou?
++ overenie, či väčšina predstavuje aspoň 62 % obyvateľstva EÚ
+- právo veta pre každú krajinu
+- povinnú účasť všetkých ministrov
+= Členský štát môže požiadať o overenie, či kvalifikovaná väčšina predstavuje aspoň 62 % obyvateľstva EÚ; ak nie, rozhodnutie nemožno prijať.
+> ep-fs-4 | členský štát môže požiadať o overenie, či kvalifikovaná väčšina predstavuje aspoň 62 % celkového obyvateľstva EÚ
+
+Koľko sudcov tvorí veľkú komoru Súdneho dvora podľa Zmluvy z Nice?
++ jedenásť
+- päť
+- dvadsaťsedem
+= Súdny dvor môže zasadať v komorách (3 alebo 5 sudcov), vo veľkej komore (11 sudcov) alebo v pléne.
+> ep-fs-4 | vo veľkej komore (jedenásť sudcov)
+
+Ako sa volal Všeobecný súd pred nadobudnutím platnosti Lisabonskej zmluvy?
++ Súd prvého stupňa
+- Najvyšší súd Spoločenstva
+- Európsky súd pre ľudské práva
+= Všeobecný súd bol pred decembrom 2009 Súdom prvého stupňa.
+> ep-fs-4 | Ten bol pred nadobudnutím platnosti Lisabonskej zmluvy v decembri 2009 Súdom prvého stupňa.
+
+Kto predsedal Konventu o budúcnosti Európy?
++ Valéry Giscard d'Estaing
+- Jacques Delors
+- Romano Prodi
+= Konventu predsedal Valéry Giscard d'Estaing, podpredsedami boli Giuliano Amato a Jean-Luc Dehaene.
+> ep-fs-4 | Konvent pozostával z predsedu (Valéry Giscard d'Estaing)
+
+Koľko členov mal Konvent o budúcnosti Európy?
++ 105
+- 27
+- 732
+= Konvent mal spolu 105 členov.
+> ep-fs-4 | Konvent mal spolu 105 členov.
+
+Na ktorom zasadnutí Európskej rady v roku 2001 sa rozhodlo usporiadať Konvent o budúcnosti Európy?
++ v Laekene
+- v Nice
+- v Helsinkách
+= Európska rada v Laekene 14. – 15. decembra 2001 rozhodla usporiadať Konvent o budúcnosti Európy.
+> ep-fs-4 | Európska rada na zasadnutí v Laekene 14. a 15. decembra 2001 rozhodla usporiadať Konvent o budúcnosti Európy
+
+Ktorý dokument vypracoval Konvent o budúcnosti Európy v roku 2003?
++ návrh Zmluvy o Ústave pre Európu
+- Lisabonskú zmluvu v konečnom znení
+- Chartu OSN
+= V prvej polovici roku 2003 konvent vypracoval text, ktorý sa stal návrhom Zmluvy o Ústave pre Európu.
+> ep-fs-4 | text, ktorý sa stal návrhom Zmluvy o Ústave pre Európu
+
+Kedy Francúzsko v referende zamietlo Zmluvu o Ústave pre Európu?
++ 29. mája 2005
+- 1. júna 2005
+- 18. júna 2004
+= Francúzsko zamietlo zmluvu 29. mája 2005, Holandsko 1. júna 2005.
+> ep-fs-4 | zamietli Francúzsko (29. mája 2005) a Holandsko (1. júna 2005)
+
+Aký dokument bol vyhlásený pri Zmluve z Nice ako nezáväzný?
++ Charta základných práv Európskej únie
+- Európsky dohovor o ľudských právach
+- Schengenská dohoda
+= Pri Zmluve z Nice bola vyhlásená nezáväzná Charta základných práv EÚ; záväznou sa stala až Lisabonskou zmluvou.
+> ep-fs-4 | Bola vyhlásená nezáväzná Charta základných práv Európskej únie.

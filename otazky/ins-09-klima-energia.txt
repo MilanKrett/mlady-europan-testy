@@ -1,0 +1,164 @@
+#kat ins
+#n 2
+
+Ktorý článok ZFEÚ stanovuje hlavné ciele energetickej politiky EÚ (trh s energiou, bezpečnosť dodávok, účinnosť, obnoviteľné zdroje)?
++ článok 194
+- článok 50
+- článok 7
+= Podľa článku 194 ZFEÚ je cieľom energetickej politiky zabezpečiť fungovanie trhu s energiou, bezpečnosť dodávok, energetickú účinnosť a rozvoj obnoviteľných zdrojov.
+> ep-fs-68 | Podľa článku 194 ZFEÚ je hlavným cieľom energetickej politiky EÚ
+
+@ins 3
+O koľko percent má EÚ znížiť konečnú spotrebu energie do roku 2030 (záväzný cieľ)?
++ o 11,7 %
+- o 55 %
+- o 1,5 %
+= Kľúčovou povinnosťou je zníženie konečnej spotreby energie EÚ o 11,7 % s hornou hranicou 763 Mtoe.
+> ep-fs-69 | zníženie konečnej spotreby energie EÚ o 11,7 % s hornou hranicou stanovenou na 763 Mtoe (záväzný cieľ)
+
+@ins 3
+Aký podiel verejných budov s rozlohou nad 250 m² musia štáty EÚ každoročne obnoviť?
++ aspoň 3 %
+- aspoň 30 %
+- aspoň 0,3 %
+= Krajiny EÚ musia každoročne obnoviť aspoň 3 % verejných budov s rozlohou väčšou ako 250 m².
+> ep-fs-69 | každoročne obnoviť aspoň 3 % verejných budov s rozlohou väčšou ako 250 m2
+
+Kedy bola predstavená Európska zelená dohoda?
++ 11. decembra 2019
+- 9. mája 2015
+- 1. januára 2024
+= Komisia predstavila 11. decembra 2019 Európsku zelenú dohodu s cieľom dosiahnuť do roku 2050 uhlíkovú neutralitu.
+> ep-fs-73 | Komisia predstavila 11. decembra 2019 Európsku zelenú dohodu
+
+Do ktorého roka chce EÚ dosiahnuť klimatickú neutralitu?
++ do roku 2050
+- do roku 2030
+- do roku 2100
+= Európska zelená dohoda je plánom na dosiahnutie klimatickej neutrality do roku 2050 v súlade s Parížskou dohodou.
+> ep-fs-70 | dosiahnutie klimatickej neutrality do roku 2050 v súlade s Parížskou dohodou
+
+O koľko percent chce EÚ znížiť čisté emisie skleníkových plynov do roku 2030?
++ aspoň o 55 %
+- aspoň o 10 %
+- o 100 %
+= Cieľom EÚ je znížiť čisté emisie skleníkových plynov do roku 2030 aspoň o 55 % a do roku 2050 dosiahnuť klimatickú neutralitu.
+> ep-fs-72 | znížiť čisté emisie skleníkových plynov do roku 2030 aspoň o 55 %
+
+@ins 3
+Aký právne záväzný podiel energie z obnoviteľných zdrojov na celkovej spotrebe chce EÚ dosiahnuť do roku 2030?
++ 42,5 % (s úsilím o 45 %)
+- 20 %
+- 100 %
+= Cieľom je zvýšiť podiel energie z obnoviteľných zdrojov na 42,5 % do roku 2030 s úsilím dosiahnuť 45 % (v roku 2023 to bolo 32 %).
+> ep-fs-70 | zvýšiť podiel energie z obnoviteľných zdrojov na celkovej spotrebe energie v EÚ na 42,5 % do roku 2030
+
+@akt 3
+Ktorý dokument uverejnila Komisia vo februári 2025 na podporu dekarbonizácie a konkurencieschopnosti priemyslu?
++ Dohodu o čistom priemysle
+- Európsku zelenú dohodu
+- Digitálny kompas
+= Vo februári 2025 Európska komisia uverejnila Dohodu o čistom priemysle.
+> ep-fs-70 | Vo februári 2025 Európska komisia uverejnila Dohodu o čistom priemysle.
+
+@ins 3
+Aký bol podiel energie z obnoviteľných zdrojov na spotrebe energie v EÚ v roku 2023?
++ 32 %
+- 3,2 %
+- 82 %
+= V roku 2023 bol podiel obnoviteľných zdrojov 32 %; cieľ na rok 2030 je 42,5 %.
+> ep-fs-70 | (v roku 2023 to bolo 32 %)
+
+@his 3
+Na ktorom samite v roku 1972 hlavy štátov vyzvali na prvý akčný program na ochranu životného prostredia?
++ na parížskom samite
+- na samite v Haagu
+- na samite v Ríme
+= Na parížskom samite v roku 1972 vyzvali na vypracovanie akčného programu na ochranu životného prostredia.
+> ep-fs-71 | Na svojom parížskom samite v roku 1972 vyzvala na vypracovanie akčného programu na ochranu a zlepšenie životného prostredia
+
+@ins 3
+Ktorou zmluvou sa životné prostredie v roku 1993 stalo oficiálnou oblasťou politiky EÚ?
++ Maastrichtskou zmluvou
+- Rímskou zmluvou
+- Lisabonskou zmluvou
+= V roku 1993 sa životné prostredie stalo na základe Maastrichtskej zmluvy oficiálnou oblasťou politiky EÚ.
+> ep-fs-71 | V roku 1993 sa životné prostredie stalo na základe Maastrichtskej zmluvy oficiálnou oblasťou politiky EÚ.
+
+@ins 3
+Ktorá zmluva zaviedla povinnosť začleniť ochranu životného prostredia do všetkých odvetvových politík EÚ?
++ Amsterdamská zmluva
+- Parížska zmluva
+- Zmluva o zlúčení
+= Amsterdamskou zmluvou sa v roku 1999 zaviedla povinnosť začleniť ochranu životného prostredia do všetkých odvetvových politík.
+> ep-fs-71 | Amsterdamskou zmluvou sa v roku 1999 zaviedla povinnosť začleniť ochranu životného prostredia do všetkých odvetvových politík EÚ
+
+Kde sa v roku 1992 konal prelomový Samit Zeme (Konferencia OSN o životnom prostredí a rozvoji)?
++ v Riu de Janeiro
+- v Kjóte
+- v Paríži
+= Prelomový Samit Zeme sa konal v roku 1992 v Riu de Janeiro.
+> ep-fs-71 | prelomový Samit Zeme, ktorý sa konal v roku 1992 v Riu de Janeiro
+
+@ins 3
+Ktorý dohovor OSN o klíme bol prijatý v roku 1992?
++ Rámcový dohovor OSN o zmene klímy (UNFCCC)
+- Kjótsky protokol
+- Montrealský protokol
+= S cieľom zabrániť nebezpečnému zasahovaniu do klimatického systému bol v roku 1992 prijatý Rámcový dohovor OSN o zmene klímy (UNFCCC).
+> ep-fs-72 | bol v roku 1992 prijatý Rámcový dohovor OSN o zmene klímy (UNFCCC)
+
+@ins 3
+Kedy bola uverejnená stratégia EÚ v oblasti biodiverzity do roku 2030?
++ 20. mája 2020
+- 11. decembra 2019
+- 16. júla 2021
+= Stratégia v oblasti biodiverzity do roku 2030 bola uverejnená 20. mája 2020.
+> ep-fs-73 | Cieľom stratégie v oblasti biodiverzity do roku 2030 (uverejnenej 20. mája 2020)
+
+@ins 3
+Ktorá z týchto príčin patrí medzi päť hlavných príčin straty biodiverzity podľa stratégie EÚ?
++ invázne nepôvodné druhy
+- turistika v horách
+- recyklácia papiera
+= Päť hlavných príčin: zmeny využívania pôdy a mora, nadmerné využívanie, zmena klímy, znečistenie a invázne nepôvodné druhy.
+> ep-fs-73 | zmeny využívania pôdy a mora, nadmerné využívanie, zmena klímy, znečistenie a invázne nepôvodné druhy
+
+@ins 3
+Koľko ton odpadu vyprodukuje ročne priemerne každý občan EÚ podľa Európskej environmentálnej agentúry?
++ 5 ton
+- 50 kg
+- 14 ton
+= Podľa EEA spotrebuje každý občan EÚ 14,1 tony materiálov a vyprodukuje 5 ton odpadu ročne.
+> ep-fs-76 | spotrebuje každý občan EÚ 14,1 tony materiálov a vyprodukuje 5 ton odpadu ročne
+
+@ins 3
+Aký podiel surovín v hospodárstve EÚ pochádzal v roku 2023 z recyklovaného materiálu?
++ 11,8 %
+- 50 %
+- 1,2 %
+= EEA odhaduje, že v roku 2023 pochádzalo 11,8 % surovín z recyklovaného materiálu.
+> ep-fs-76 | v roku 2023 pochádzalo 11,8 % surovín používaných v hospodárstve EÚ z recyklovaného materiálu
+
+@ins 3
+Aký podiel spotreby fosílnych palív EÚ pokrýval v roku 2024 dovoz?
++ 74,9 %
+- 7,5 %
+- 100 %
+= V roku 2024 predstavoval dovoz 74,9 % spotreby fosílnych palív v EÚ a 49,0 % spotreby kovových rúd.
+> ep-fs-76 | v roku 2024 predstavoval dovoz 74,9 % spotreby fosílnych palív v EÚ
+
+Ako sa nazýva hospodárstvo, ktoré chce EÚ dosiahnuť do roku 2050 – výrobky a materiály sa čo najdlhšie opätovne používajú a recyklujú?
++ obehové hospodárstvo
+- lineárne hospodárstvo
+- centrálne plánované hospodárstvo
+= Informačný list vysvetľuje, ako chce EÚ dosiahnuť obehové hospodárstvo do roku 2050.
+> ep-fs-76 | ako chce EÚ dosiahnuť obehové hospodárstvo do roku 2050
+
+@fin 3
+Koľko krajín musí podľa pravidla kvalifikovanej väčšiny hlasovať za (pri 27 štátoch) a koľko obyvateľov musia reprezentovať?
++ aspoň 15 krajín s aspoň 65 % obyvateľstva
+- aspoň 14 krajín s aspoň 50 % obyvateľstva
+- všetkých 27 krajín
+= Kvalifikovanú väčšinu predstavuje aspoň 15 z 27 krajín, ktoré reprezentujú aspoň 65 % obyvateľstva EÚ.
+> ep-fs-71 | V súčasnosti predstavuje kvalifikovanú väčšinu aspoň 15 z 27 krajín, pričom krajiny, ktoré hlasujú za, musia reprezentovať aspoň 65 % obyvateľstva EÚ.

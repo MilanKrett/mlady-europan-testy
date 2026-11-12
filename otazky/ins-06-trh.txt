@@ -1,0 +1,125 @@
+#kat ins
+#n 2
+
+Ktoré sú štyri slobody jednotného (vnútorného) trhu EÚ?
++ voľný pohyb tovaru, osôb, služieb a kapitálu
+- voľný pohyb zbraní, liekov, vojakov a peňazí
+- sloboda prejavu, viery, zhromažďovania a tlače
+= Spoločný trh je nadnárodné spoločenstvo založené na voľnom pohybe tovaru, osôb, služieb a kapitálu.
+> ep-fs-38 | nadnárodného spoločenstva založeného na voľnom pohybe: tovaru, osôb, služieb, kapitálu
+
+@his 2
+Ktorá zmluva vytvorila spoločný trh (neskôr jednotný alebo vnútorný trh)?
++ Rímska zmluva
+- Lisabonská zmluva
+- Schengenská dohoda
+= Spoločný trh vytvorila Rímska zmluva v roku 1958.
+> ep-fs-33 | Spoločný trh (neskôr označovaný ako jednotný alebo vnútorný trh), vytvorený Rímskou zmluvou v roku 1958
+
+@his 3
+Kedy sa podarilo dobudovať colnú úniu EHS?
++ do 1. júla 1968
+- do 1. januára 1958
+- do 1. januára 1993
+= Cieľ colnej únie sa podarilo dosiahnuť do 1. júla 1968.
+> ep-fs-38 | Tento cieľ sa podarilo dosiahnuť do 1. júla 1968.
+
+@his 3
+Koľkokrát sa zvýšil obchod medzi členskými krajinami EHS v rokoch 1957 – 1970?
++ šesťnásobne
+- dvojnásobne
+- o 10 %
+= Od roku 1957 do roku 1970 sa obchod medzi členskými krajinami zvýšil šesťnásobne a obchod so zvyškom sveta sa strojnásobil.
+> ep-fs-38 | Od roku 1957 do roku 1970 sa obchod medzi členskými krajinami zvýšil šesťnásobne
+
+@ins 3
+Ktorý rozsudok Súdneho dvora zaviedol zásadu vzájomného uznávania výrobkov (výrobok legálne predávaný v jednom štáte možno predávať aj v inom)?
++ Cassis de Dijon
+- Van Gend en Loos
+- Bosman
+= Vo veci Cassis de Dijon (vec 120/78) zaviedol Súdny dvor zásadu vzájomného uznávania výrobkov.
+> ep-fs-33 | Vo veci Cassis de Dijon (vec 120/78) zaviedol Súdny dvor zásadu vzájomného uznávania výrobkov
+
+@ins 3
+Ktorý rozsudok Súdneho dvora (vec 8/74) rozšíril pojem opatrení obmedzujúcich obchod na spoločnom trhu?
++ Dassonville
+- Cassis de Dijon
+- Costa v. ENEL
+= Vo veci Dassonville (vec 8/74) Súdny dvor rozšíril rozsah toho, čo sa považuje za opatrenia obmedzujúce obchod.
+> ep-fs-33 | Vo veci Dassonville (vec 8/74) Súdny dvor rozšíril rozsah toho, čo by sa malo považovať za opatrenia obmedzujúce obchod v rámci spoločného trhu.
+
+@his 3
+V ktorom roku sa v EHS všeobecne zaviedla daň z pridanej hodnoty (DPH)?
++ v roku 1970
+- v roku 1957
+- v roku 1999
+= Spoločný trh sa dosiahol aj určitým stupňom daňovej harmonizácie na základe všeobecného zavedenia DPH v roku 1970.
+> ep-fs-33 | na základe všeobecného zavedenia dane z pridanej hodnoty v roku 1970
+
+Ktorá zmluva potvrdila voľný pohyb kapitálu ako základnú slobodu chránenú zmluvami?
++ Maastrichtská zmluva (1993)
+- Rímska zmluva (1958)
+- Zmluva z Nice (2003)
+= V roku 1993 Maastrichtská zmluva potvrdila voľný pohyb kapitálu ako základnú slobodu.
+> ep-fs-39 | V roku 1993 Maastrichtská zmluva potvrdila voľný pohyb kapitálu ako základnú slobodu chránenú zmluvami.
+
+@ins 3
+Do ktorého roka sa mali zrušiť zostávajúce prekážky voľného pohybu kapitálu ako predpoklad zavedenia eura?
++ do roku 1994
+- do roku 1970
+- do roku 2004
+= Zrušenie zostávajúcich prekážok sa malo uskutočniť najneskôr do roku 1994 – predpoklad tretej fázy smerujúcej k euru v roku 1999.
+> ep-fs-39 | Zrušenie zostávajúcich prekážok voľného pohybu kapitálu sa malo uskutočniť najneskôr do roku 1994
+
+Čo je súčasťou slobody usadiť sa v inom štáte EÚ?
++ právo začať samostatnú zárobkovú činnosť a založiť podnik za rovnakých podmienok ako domáci občania
+- právo nebyť zdanený
+- právo voliť v národných parlamentných voľbách
+= Súčasťou práva usadiť sa je právo začať a vykonávať samostatnú zárobkovú činnosť a založiť podnik za rovnakých podmienok, aké platia pre vlastných občanov.
+> ep-fs-40 | Súčasťou práva usadiť sa je právo začať a vykonávať samostatnú zárobkovú činnosť a právo založiť a riadiť podnik
+
+Ktorý článok ZFEÚ zakotvuje voľný pohyb pracovníkov?
++ článok 45
+- článok 50
+- článok 288
+= Voľný pohyb pracovníkov je ustanovený v článku 45 ZFEÚ.
+> ep-fs-41 | Ustanovený je v článku 45 ZFEÚ
+
+@ins 3
+Koľko cezhraničných pracovníkov bolo v EÚ v roku 2024?
++ približne 1,87 milióna
+- približne 187 000
+- približne 18,7 milióna
+= Počet cezhraničných pracovníkov v EÚ dosiahol v roku 2024 približne 1,87 milióna.
+> ep-fs-41 | počet cezhraničných pracovníkov v EÚ dosiahol v roku 2024 približne 1,87 milióna
+
+@ins 3
+Koľko vyslaných pracovníkov bolo v EÚ zaznamenaných v roku 2024?
++ 5,6 milióna
+- 560 000
+- 56 miliónov
+= V roku 2024 bolo zaznamenaných 5,6 milióna vyslaných pracovníkov.
+> ep-fs-41 | zaznamenaných bolo 5,6 milióna vyslaných pracovníkov
+
+@ins 3
+Ktorá smernica zaviedla občianstvo EÚ ako základný štatút pri uplatňovaní práva na voľný pohyb a pobyt?
++ smernica 2004/38/ES
+- smernica o kapitáli z roku 1988
+- smernica o službách 2006/123/ES
+= Smernicou 2004/38/ES sa zaviedlo občianstvo EÚ ako základný štatút pre štátnych príslušníkov pri voľnom pohybe a pobyte.
+> ep-fs-41 | Smernicou 2004/38/ES sa zaviedlo občianstvo EÚ ako základný štatút
+
+Ako sa nazýva zásada, podľa ktorej sa odborná kvalifikácia získaná v jednom štáte EÚ uznáva aj v ostatných?
++ zásada vzájomného uznávania
+- zásada subsidiarity
+- zásada proporcionality
+= Cieľom je umožniť uznávanie odborných kvalifikácií získaných v inej krajine EÚ (zásada vzájomného uznávania).
+> ep-fs-42 | (zásada vzájomného uznávania)
+
+@ins 3
+Ktorý článok ZFEÚ umožňuje vzájomné uznávanie diplomov pre prístup k regulovaným povolaniam?
++ článok 53
+- článok 7
+- článok 352
+= Článok 53 ods. 1 ZFEÚ umožňuje vzájomné uznávanie diplomov a iných kvalifikácií.
+> ep-fs-42 | Článok 53 ods. 1 Zmluvy o fungovaní Európskej únie umožňuje vzájomné uznávanie diplomov

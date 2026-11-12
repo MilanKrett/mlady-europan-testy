@@ -1,0 +1,2178 @@
+[
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „pacifistka Bertha von Suttnerová“ – 2 €?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Slovinsko",
+   "Španielsko"
+  ],
+  "v": "Na rakúskych minciach – 2 € – je motív: pacifistka Bertha von Suttnerová. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "portrét pacifistky Berthy von Suttnerovej"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane rakúskych euromincí – 2 €?",
+  "ok": "pacifistka Bertha von Suttnerová",
+  "bad": [
+   "veža Mole Antonelliana",
+   "plody a kvety moruše"
+  ],
+  "v": "Rakúsko: 2 € – pacifistka Bertha von Suttnerová. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "portrét pacifistky Berthy von Suttnerovej"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „skladateľ Wolfgang Amadeus Mozart“ – 1 €?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Grécko",
+   "Malta"
+  ],
+  "v": "Na rakúskych minciach – 1 € – je motív: skladateľ Wolfgang Amadeus Mozart. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Portrét Wolfganga Amadea Mozarta"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane rakúskych euromincí – 1 €?",
+  "ok": "skladateľ Wolfgang Amadeus Mozart",
+  "bad": [
+   "hrad Castel del Monte",
+   "keltská harfa"
+  ],
+  "v": "Rakúsko: 1 € – skladateľ Wolfgang Amadeus Mozart. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Portrét Wolfganga Amadea Mozarta"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „palác Belvedere“ – 20 centov?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Holandsko",
+   "Španielsko"
+  ],
+  "v": "Na rakúskych minciach – 20 centov – je motív: palác Belvedere. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Palác Belvedere zobrazený na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane rakúskych euromincí – 20 centov?",
+  "ok": "palác Belvedere",
+  "bad": [
+   "hrad Castel del Monte",
+   "Koloseum (Fláviov amfiteáter)"
+  ],
+  "v": "Rakúsko: 20 centov – palác Belvedere. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Palác Belvedere zobrazený na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „katedrála sv. Štefana vo Viedni“ – 10 centov?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Holandsko",
+   "Írsko"
+  ],
+  "v": "Na rakúskych minciach – 10 centov – je motív: katedrála sv. Štefana vo Viedni. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Námetom tejto mince je katedrála sv. Štefana"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane rakúskych euromincí – 10 centov?",
+  "ok": "katedrála sv. Štefana vo Viedni",
+  "bad": [
+   "veľkovojvoda Henri",
+   "písmená „HR“ v hlaholike"
+  ],
+  "v": "Rakúsko: 10 centov – katedrála sv. Štefana vo Viedni. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Námetom tejto mince je katedrála sv. Štefana"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „alpská prvosienka“ – 5 centov?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Malta",
+   "Lotyšsko"
+  ],
+  "v": "Na rakúskych minciach – 5 centov – je motív: alpská prvosienka. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Alpská prvosienka znázornená na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane rakúskych euromincí – 5 centov?",
+  "ok": "alpská prvosienka",
+  "bad": [
+   "rozsievačka",
+   "veľkovojvoda Henri"
+  ],
+  "v": "Rakúsko: 5 centov – alpská prvosienka. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Alpská prvosienka znázornená na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „horec“ – 1 cent?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Cyprus",
+   "Chorvátsko"
+  ],
+  "v": "Na rakúskych minciach – 1 cent – je motív: horec. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Horec znázornený na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane rakúskych euromincí – 1 cent?",
+  "ok": "horec",
+  "bad": [
+   "osvietenec Rigas Fereos",
+   "mladá Marianne"
+  ],
+  "v": "Rakúsko: 1 cent – horec. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Horec znázornený na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „kráľ Philippe“ – všetky mince (tretia séria, 2014)?",
+  "ok": "Belgicko",
+  "bad": [
+   "Slovinsko",
+   "Portugalsko"
+  ],
+  "v": "Na belgických minciach – všetky mince (tretia séria, 2014) – je motív: kráľ Philippe. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-be",
+    "V roku 2014 Belgicko vydalo tretiu sériu mincí, na ktorých je zobrazený kráľ Philippe"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane belgických euromincí – všetky mince (tretia séria, 2014)?",
+  "ok": "kráľ Philippe",
+  "bad": [
+   "katedrála sv. Štefana vo Viedni",
+   "lotyšské sedliacke dievča"
+  ],
+  "v": "Belgicko: všetky mince (tretia séria, 2014) – kráľ Philippe. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-be",
+    "V roku 2014 Belgicko vydalo tretiu sériu mincí, na ktorých je zobrazený kráľ Philippe"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „svätý Paisij Chilendarský“ – 2 €?",
+  "ok": "Bulharsko",
+  "bad": [
+   "Luxembursko",
+   "Grécko"
+  ],
+  "v": "Na bulharských minciach – 2 € – je motív: svätý Paisij Chilendarský. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "Minca 2 € nesie portrét svätého Paisija Chilendarského"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane bulharských euromincí – 2 €?",
+  "ok": "svätý Paisij Chilendarský",
+  "bad": [
+   "strom symbolizujúci život, kontinuitu a rast",
+   "vynálezca Nikola Tesla"
+  ],
+  "v": "Bulharsko: 2 € – svätý Paisij Chilendarský. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "Minca 2 € nesie portrét svätého Paisija Chilendarského"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „svätý Ivan Rilský“ – 1 €?",
+  "ok": "Bulharsko",
+  "bad": [
+   "Francúzsko",
+   "Nemecko"
+  ],
+  "v": "Na bulharských minciach – 1 € – je motív: svätý Ivan Rilský. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "Na minci 1 € je vyobrazený Ivan Rilský"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane bulharských euromincí – 1 €?",
+  "ok": "svätý Ivan Rilský",
+  "bad": [
+   "vrch Triglav",
+   "katedrála sv. Štefana vo Viedni"
+  ],
+  "v": "Bulharsko: 1 € – svätý Ivan Rilský. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "Na minci 1 € je vyobrazený Ivan Rilský"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „Madarský jazdec (skalný reliéf z 8. storočia)“ – centových mincí?",
+  "ok": "Bulharsko",
+  "bad": [
+   "Írsko",
+   "Chorvátsko"
+  ],
+  "v": "Na bulharských minciach – centových mincí – je motív: Madarský jazdec (skalný reliéf z 8. storočia). Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "skalný reliéf Madarského jazdca z 8. storočia"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane bulharských euromincí – centových mincí?",
+  "ok": "Madarský jazdec (skalný reliéf z 8. storočia)",
+  "bad": [
+   "geografický motív (obrys) krajiny a slovo „Eesti“",
+   "rozsievač"
+  ],
+  "v": "Bulharsko: centových mincí – Madarský jazdec (skalný reliéf z 8. storočia). Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "skalný reliéf Madarského jazdca z 8. storočia"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „modla v tvare kríža z doby medenej“ – 1 € a 2 €?",
+  "ok": "Cyprus",
+  "bad": [
+   "Bulharsko",
+   "Taliansko"
+  ],
+  "v": "Na cyperských minciach – 1 € a 2 € – je motív: modla v tvare kríža z doby medenej. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Mince 1 € a 2 € zobrazujú modlu v tvare kríža z doby medenej"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane cyperských euromincí – 1 € a 2 €?",
+  "ok": "modla v tvare kríža z doby medenej",
+  "bad": [
+   "svätý Paisij Chilendarský",
+   "Botticelliho Zrodenie Venuše"
+  ],
+  "v": "Cyprus: 1 € a 2 € – modla v tvare kríža z doby medenej. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Mince 1 € a 2 € zobrazujú modlu v tvare kríža z doby medenej"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „kyrénska obchodná loď“ – 10, 20 a 50 centov?",
+  "ok": "Cyprus",
+  "bad": [
+   "Taliansko",
+   "Francúzsko"
+  ],
+  "v": "Na cyperských minciach – 10, 20 a 50 centov – je motív: kyrénska obchodná loď. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Na minciach 10, 20 a 50 centov sa nachádza kyrénska obchodná loď"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane cyperských euromincí – 10, 20 a 50 centov?",
+  "ok": "kyrénska obchodná loď",
+  "bad": [
+   "vynálezca Nikola Tesla",
+   "plody a kvety moruše"
+  ],
+  "v": "Cyprus: 10, 20 a 50 centov – kyrénska obchodná loď. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Na minciach 10, 20 a 50 centov sa nachádza kyrénska obchodná loď"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „muflón“ – 1, 2 a 5 centov?",
+  "ok": "Cyprus",
+  "bad": [
+   "Írsko",
+   "Rakúsko"
+  ],
+  "v": "Na cyperských minciach – 1, 2 a 5 centov – je motív: muflón. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Mince 1 cent, 2 centy a 5 centov nesú motív muflóna"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane cyperských euromincí – 1, 2 a 5 centov?",
+  "ok": "muflón",
+  "bad": [
+   "mladá Marianne",
+   "mapa krajiny so šachovnicovým vzorom"
+  ],
+  "v": "Cyprus: 1, 2 a 5 centov – muflón. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Mince 1 cent, 2 centy a 5 centov nesú motív muflóna"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „orlica“ – 1 € a 2 €?",
+  "ok": "Nemecko",
+  "bad": [
+   "Chorvátsko",
+   "Portugalsko"
+  ],
+  "v": "Na nemeckých minciach – 1 € a 2 € – je motív: orlica. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 1 € a 2 € je zobrazená orlica, tradičný symbol nemeckej zvrchovanosti"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane nemeckých euromincí – 1 € a 2 €?",
+  "ok": "orlica",
+  "bad": [
+   "únos Európy Diom premeneným na býka",
+   "speváčka a tanečnica Josephine Bakerová"
+  ],
+  "v": "Nemecko: 1 € a 2 € – orlica. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 1 € a 2 € je zobrazená orlica, tradičný symbol nemeckej zvrchovanosti"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „Brandenburská brána“ – 10, 20 a 50 centov?",
+  "ok": "Nemecko",
+  "bad": [
+   "Španielsko",
+   "Cyprus"
+  ],
+  "v": "Na nemeckých minciach – 10, 20 a 50 centov – je motív: Brandenburská brána. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 10, 20 a 50 centov je zobrazená Brandenburská brána"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane nemeckých euromincí – 10, 20 a 50 centov?",
+  "ok": "Brandenburská brána",
+  "bad": [
+   "lipicanské kone",
+   "palác Belvedere"
+  ],
+  "v": "Nemecko: 10, 20 a 50 centov – Brandenburská brána. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 10, 20 a 50 centov je zobrazená Brandenburská brána"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „dubová vetvička“ – 1, 2 a 5 centov?",
+  "ok": "Nemecko",
+  "bad": [
+   "Taliansko",
+   "Portugalsko"
+  ],
+  "v": "Na nemeckých minciach – 1, 2 a 5 centov – je motív: dubová vetvička. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 1 cent, 2 centy a 5 centov je zobrazená dubová vetvička"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane nemeckých euromincí – 1, 2 a 5 centov?",
+  "ok": "dubová vetvička",
+  "bad": [
+   "Primož Trubar, autor prvej slovinskej knihy",
+   "svätý Paisij Chilendarský"
+  ],
+  "v": "Nemecko: 1, 2 a 5 centov – dubová vetvička. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 1 cent, 2 centy a 5 centov je zobrazená dubová vetvička"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „geografický motív (obrys) krajiny a slovo „Eesti““ – všetkých mincí?",
+  "ok": "Estónsko",
+  "bad": [
+   "Bulharsko",
+   "Nemecko"
+  ],
+  "v": "Na estónskych minciach – všetkých mincí – je motív: geografický motív (obrys) krajiny a slovo „Eesti“. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-ee",
+    "Znázorňuje geografický motív Estónska a slovo „Eesti“ (Estónsko)."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane estónskych euromincí – všetkých mincí?",
+  "ok": "geografický motív (obrys) krajiny a slovo „Eesti“",
+  "bad": [
+   "horec",
+   "svätý Paisij Chilendarský"
+  ],
+  "v": "Estónsko: všetkých mincí – geografický motív (obrys) krajiny a slovo „Eesti“. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-ee",
+    "Znázorňuje geografický motív Estónska a slovo „Eesti“ (Estónsko)."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „kráľ Juan Carlos I.“ – 1 € a 2 € (prvá a druhá séria)?",
+  "ok": "Španielsko",
+  "bad": [
+   "Taliansko",
+   "Rakúsko"
+  ],
+  "v": "Na španielskych minciach – 1 € a 2 € (prvá a druhá séria) – je motív: kráľ Juan Carlos I. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "Mince prvej a druhej série nesú portrét kráľa Juana Carlosa I."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane španielskych euromincí – 1 € a 2 € (prvá a druhá séria)?",
+  "ok": "kráľ Juan Carlos I.",
+  "bad": [
+   "katedrála sv. Štefana vo Viedni",
+   "politik Eleftherios Venizelos"
+  ],
+  "v": "Španielsko: 1 € a 2 € (prvá a druhá séria) – kráľ Juan Carlos I. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "Mince prvej a druhej série nesú portrét kráľa Juana Carlosa I."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „spisovateľ Miguel de Cervantes“ – 10, 20 a 50 centov?",
+  "ok": "Španielsko",
+  "bad": [
+   "Grécko",
+   "Taliansko"
+  ],
+  "v": "Na španielskych minciach – 10, 20 a 50 centov – je motív: spisovateľ Miguel de Cervantes. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "portrét otca španielskej literatúry Miguela de Cervantesa"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane španielskych euromincí – 10, 20 a 50 centov?",
+  "ok": "spisovateľ Miguel de Cervantes",
+  "bad": [
+   "muflón",
+   "vrch Triglav"
+  ],
+  "v": "Španielsko: 10, 20 a 50 centov – spisovateľ Miguel de Cervantes. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "portrét otca španielskej literatúry Miguela de Cervantesa"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „katedrála v Santiago de Compostela“ – 1, 2 a 5 centov?",
+  "ok": "Španielsko",
+  "bad": [
+   "Fínsko",
+   "Litva"
+  ],
+  "v": "Na španielskych minciach – 1, 2 a 5 centov – je motív: katedrála v Santiago de Compostela. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "Na minciach 1 cent, 2 centy a 5 centov je znázornená katedrála v Santiago de Compostela"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane španielskych euromincí – 1, 2 a 5 centov?",
+  "ok": "katedrála v Santiago de Compostela",
+  "bad": [
+   "osvietenec Rigas Fereos",
+   "básnik Dante Alighieri"
+  ],
+  "v": "Španielsko: 1, 2 a 5 centov – katedrála v Santiago de Compostela. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "Na minciach 1 cent, 2 centy a 5 centov je znázornená katedrála v Santiago de Compostela"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „plody a kvety moruše“ – 2 €?",
+  "ok": "Fínsko",
+  "bad": [
+   "Malta",
+   "Taliansko"
+  ],
+  "v": "Na fínskych minciach – 2 € – je motív: plody a kvety moruše. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "Plody a kvety moruše zobrazené na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane fínskych euromincí – 2 €?",
+  "ok": "plody a kvety moruše",
+  "bad": [
+   "keltská harfa",
+   "kuna (malý cicavec)"
+  ],
+  "v": "Fínsko: 2 € – plody a kvety moruše. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "Plody a kvety moruše zobrazené na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „dve letiace labute“ – 1 €?",
+  "ok": "Fínsko",
+  "bad": [
+   "Lotyšsko",
+   "Chorvátsko"
+  ],
+  "v": "Na fínskych minciach – 1 € – je motív: dve letiace labute. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "Autorom motívu dvoch letiacich labutí na tejto minci je Pertti Mäkinen."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane fínskych euromincí – 1 €?",
+  "ok": "dve letiace labute",
+  "bad": [
+   "korveta z vojny za nezávislosť",
+   "alpská prvosienka"
+  ],
+  "v": "Fínsko: 1 € – dve letiace labute. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "Autorom motívu dvoch letiacich labutí na tejto minci je Pertti Mäkinen."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „heraldický lev“ – centových mincí?",
+  "ok": "Fínsko",
+  "bad": [
+   "Rakúsko",
+   "Malta"
+  ],
+  "v": "Na fínskych minciach – centových mincí – je motív: heraldický lev. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "je zobrazený heraldický lev, ktorý je reprodukciou diela sochára Heikkiho Häiväoju"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane fínskych euromincí – centových mincí?",
+  "ok": "heraldický lev",
+  "bad": [
+   "speváčka a tanečnica Josephine Bakerová",
+   "osemcípy kríž – emblém Maltézskeho rádu"
+  ],
+  "v": "Fínsko: centových mincí – heraldický lev. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "je zobrazený heraldický lev, ktorý je reprodukciou diela sochára Heikkiho Häiväoju"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „strom symbolizujúci život, kontinuitu a rast“ – 1 € a 2 € (prvá séria)?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Taliansko",
+   "Cyprus"
+  ],
+  "v": "Na francúzskych minciach – 1 € a 2 € (prvá séria) – je motív: strom symbolizujúci život, kontinuitu a rast. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú strom, ktorý symbolizuje život, kontinuitu a rast."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane francúzskych euromincí – 1 € a 2 € (prvá séria)?",
+  "ok": "strom symbolizujúci život, kontinuitu a rast",
+  "bad": [
+   "hrad Castel del Monte",
+   "rozsievač"
+  ],
+  "v": "Francúzsko: 1 € a 2 € (prvá séria) – strom symbolizujúci život, kontinuitu a rast. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú strom, ktorý symbolizuje život, kontinuitu a rast."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „rozsievačka“ – 10, 20 a 50 centov (prvá séria)?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Fínsko",
+   "Rakúsko"
+  ],
+  "v": "Na francúzskych minciach – 10, 20 a 50 centov (prvá séria) – je motív: rozsievačka. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Znázorňujú rozsievačku – postavu často zobrazovanú na francúzskom franku."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane francúzskych euromincí – 10, 20 a 50 centov (prvá séria)?",
+  "ok": "rozsievačka",
+  "bad": [
+   "písmená „HR“ v hlaholike",
+   "Koloseum (Fláviov amfiteáter)"
+  ],
+  "v": "Francúzsko: 10, 20 a 50 centov (prvá séria) – rozsievačka. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Znázorňujú rozsievačku – postavu často zobrazovanú na francúzskom franku."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „mladá Marianne“ – 1, 2 a 5 centov?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Lotyšsko",
+   "Írsko"
+  ],
+  "v": "Na francúzskych minciach – 1, 2 a 5 centov – je motív: mladá Marianne. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince 1 cent, 2 centy a 5 centov zobrazujú portrét mladej Marianne"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane francúzskych euromincí – 1, 2 a 5 centov?",
+  "ok": "mladá Marianne",
+  "bad": [
+   "rozsievač",
+   "bocian"
+  ],
+  "v": "Francúzsko: 1, 2 a 5 centov – mladá Marianne. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince 1 cent, 2 centy a 5 centov zobrazujú portrét mladej Marianne"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „vedkyňa Marie Curie Skłodowská“ – 50 centov (nová séria 2024)?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Estónsko",
+   "Malta"
+  ],
+  "v": "Na francúzskych minciach – 50 centov (nová séria 2024) – je motív: vedkyňa Marie Curie Skłodowská. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú portrét nositeľky Nobelovej ceny za vedu Marie Curie Skłodowskej"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane francúzskych euromincí – 50 centov (nová séria 2024)?",
+  "ok": "vedkyňa Marie Curie Skłodowská",
+  "bad": [
+   "osemcípy kríž – emblém Maltézskeho rádu",
+   "Botticelliho Zrodenie Venuše"
+  ],
+  "v": "Francúzsko: 50 centov (nová séria 2024) – vedkyňa Marie Curie Skłodowská. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú portrét nositeľky Nobelovej ceny za vedu Marie Curie Skłodowskej"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „speváčka a tanečnica Josephine Bakerová“ – 20 centov (druhá séria 2024)?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Malta",
+   "Belgicko"
+  ],
+  "v": "Na francúzskych minciach – 20 centov (druhá séria 2024) – je motív: speváčka a tanečnica Josephine Bakerová. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú portrét Josephine Bakerovej, speváčky, tanečníčky a bojovníčky za občianske práva."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane francúzskych euromincí – 20 centov (druhá séria 2024)?",
+  "ok": "speváčka a tanečnica Josephine Bakerová",
+  "bad": [
+   "veľkovojvoda Henri",
+   "horec"
+  ],
+  "v": "Francúzsko: 20 centov (druhá séria 2024) – speváčka a tanečnica Josephine Bakerová. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú portrét Josephine Bakerovej, speváčky, tanečníčky a bojovníčky za občianske práva."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „únos Európy Diom premeneným na býka“ – 2 €?",
+  "ok": "Grécko",
+  "bad": [
+   "Chorvátsko",
+   "Lotyšsko"
+  ],
+  "v": "Na gréckych minciach – 2 € – je motív: únos Európy Diom premeneným na býka. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "na ktorej Zeus prevtelený do býka unáša Európu"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane gréckych euromincí – 2 €?",
+  "ok": "únos Európy Diom premeneným na býka",
+  "bad": [
+   "kráľ Juan Carlos I.",
+   "speváčka a tanečnica Josephine Bakerová"
+  ],
+  "v": "Grécko: 2 € – únos Európy Diom premeneným na býka. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "na ktorej Zeus prevtelený do býka unáša Európu"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „sova zo starovekej aténskej tetradrachmy“ – 1 €?",
+  "ok": "Grécko",
+  "bad": [
+   "Holandsko",
+   "Luxembursko"
+  ],
+  "v": "Na gréckych minciach – 1 € – je motív: sova zo starovekej aténskej tetradrachmy. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Sova zobrazená na tejto minci je prevzatá zo starovekej aténskej tetradrachmy"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane gréckych euromincí – 1 €?",
+  "ok": "sova zo starovekej aténskej tetradrachmy",
+  "bad": [
+   "geografický motív (obrys) krajiny a slovo „Eesti“",
+   "vynálezca Nikola Tesla"
+  ],
+  "v": "Grécko: 1 € – sova zo starovekej aténskej tetradrachmy. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Sova zobrazená na tejto minci je prevzatá zo starovekej aténskej tetradrachmy"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „politik Eleftherios Venizelos“ – 50 centov?",
+  "ok": "Grécko",
+  "bad": [
+   "Malta",
+   "Litva"
+  ],
+  "v": "Na gréckych minciach – 50 centov – je motív: politik Eleftherios Venizelos. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Portrét na tejto minci patrí Eleftheriosovi Venizelosovi"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane gréckych euromincí – 50 centov?",
+  "ok": "politik Eleftherios Venizelos",
+  "bad": [
+   "skladateľ Wolfgang Amadeus Mozart",
+   "básnik France Prešeren"
+  ],
+  "v": "Grécko: 50 centov – politik Eleftherios Venizelos. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Portrét na tejto minci patrí Eleftheriosovi Venizelosovi"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „diplomat Ioannis Capodistrias“ – 20 centov?",
+  "ok": "Grécko",
+  "bad": [
+   "Litva",
+   "Írsko"
+  ],
+  "v": "Na gréckych minciach – 20 centov – je motív: diplomat Ioannis Capodistrias. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Táto minca je venovaná Ioannisovi Capodistriasovi"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane gréckych euromincí – 20 centov?",
+  "ok": "diplomat Ioannis Capodistrias",
+  "bad": [
+   "lipicanské kone",
+   "plody a kvety moruše"
+  ],
+  "v": "Grécko: 20 centov – diplomat Ioannis Capodistrias. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Táto minca je venovaná Ioannisovi Capodistriasovi"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „osvietenec Rigas Fereos“ – 10 centov?",
+  "ok": "Grécko",
+  "bad": [
+   "Estónsko",
+   "Cyprus"
+  ],
+  "v": "Na gréckych minciach – 10 centov – je motív: osvietenec Rigas Fereos. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Rigas Fereos (Velestinlis) (1757 – 1798), zobrazený na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane gréckych euromincí – 10 centov?",
+  "ok": "osvietenec Rigas Fereos",
+  "bad": [
+   "kyrénska obchodná loď",
+   "kráľ Willem-Alexander"
+  ],
+  "v": "Grécko: 10 centov – osvietenec Rigas Fereos. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Rigas Fereos (Velestinlis) (1757 – 1798), zobrazený na tejto minci"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „moderný tanker“ – 5 centov?",
+  "ok": "Grécko",
+  "bad": [
+   "Taliansko",
+   "Írsko"
+  ],
+  "v": "Na gréckych minciach – 5 centov – je motív: moderný tanker. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Na tejto minci je zobrazený moderný tanker"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane gréckych euromincí – 5 centov?",
+  "ok": "moderný tanker",
+  "bad": [
+   "štátny znak Vytis (jazdec)",
+   "muflón"
+  ],
+  "v": "Grécko: 5 centov – moderný tanker. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Na tejto minci je zobrazený moderný tanker"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „korveta z vojny za nezávislosť“ – 2 centy?",
+  "ok": "Grécko",
+  "bad": [
+   "Litva",
+   "Lotyšsko"
+  ],
+  "v": "Na gréckych minciach – 2 centy – je motív: korveta z vojny za nezávislosť. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Korveta znázornená na tejto minci bola používaná počas gréckej vojny za nezávislosť"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane gréckych euromincí – 2 centy?",
+  "ok": "korveta z vojny za nezávislosť",
+  "bad": [
+   "mapa krajiny so šachovnicovým vzorom",
+   "rozsievač"
+  ],
+  "v": "Grécko: 2 centy – korveta z vojny za nezávislosť. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Korveta znázornená na tejto minci bola používaná počas gréckej vojny za nezávislosť"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „aténska triéra“ – 1 cent?",
+  "ok": "Grécko",
+  "bad": [
+   "Taliansko",
+   "Litva"
+  ],
+  "v": "Na gréckych minciach – 1 cent – je motív: aténska triéra. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Tento motív zobrazuje model aténskej triéry"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane gréckych euromincí – 1 cent?",
+  "ok": "aténska triéra",
+  "bad": [
+   "Primož Trubar, autor prvej slovinskej knihy",
+   "veža Mole Antonelliana"
+  ],
+  "v": "Grécko: 1 cent – aténska triéra. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Tento motív zobrazuje model aténskej triéry"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „mapa krajiny so šachovnicovým vzorom“ – 2 €?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Portugalsko",
+   "Belgicko"
+  ],
+  "v": "Na chorvátskych minciach – 2 € – je motív: mapa krajiny so šachovnicovým vzorom. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "Na minci 2 € je zobrazená mapa Chorvátska so šachovnicovým vzorom na pozadí."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane chorvátskych euromincí – 2 €?",
+  "ok": "mapa krajiny so šachovnicovým vzorom",
+  "bad": [
+   "lipicanské kone",
+   "oltár z prehistorického chrámu Mnajdra"
+  ],
+  "v": "Chorvátsko: 2 € – mapa krajiny so šachovnicovým vzorom. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "Na minci 2 € je zobrazená mapa Chorvátska so šachovnicovým vzorom na pozadí."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „kuna (malý cicavec)“ – 1 €?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Rakúsko",
+   "Fínsko"
+  ],
+  "v": "Na chorvátskych minciach – 1 € – je motív: kuna (malý cicavec). Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "Na minci 1 € je zobrazená kuna so šachovnicovým vzorom na pozadí."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane chorvátskych euromincí – 1 €?",
+  "ok": "kuna (malý cicavec)",
+  "bad": [
+   "politik Eleftherios Venizelos",
+   "horec"
+  ],
+  "v": "Chorvátsko: 1 € – kuna (malý cicavec). Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "Na minci 1 € je zobrazená kuna so šachovnicovým vzorom na pozadí."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „vynálezca Nikola Tesla“ – 10, 20 a 50 centov?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Francúzsko",
+   "Bulharsko"
+  ],
+  "v": "Na chorvátskych minciach – 10, 20 a 50 centov – je motív: vynálezca Nikola Tesla. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "portrét vynálezcu a inžiniera Nikolu Teslu"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane chorvátskych euromincí – 10, 20 a 50 centov?",
+  "ok": "vynálezca Nikola Tesla",
+  "bad": [
+   "keltská harfa",
+   "svätý Paisij Chilendarský"
+  ],
+  "v": "Chorvátsko: 10, 20 a 50 centov – vynálezca Nikola Tesla. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "portrét vynálezcu a inžiniera Nikolu Teslu"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „písmená „HR“ v hlaholike“ – 1, 2 a 5 centov?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Španielsko",
+   "Slovinsko"
+  ],
+  "v": "Na chorvátskych minciach – 1, 2 a 5 centov – je motív: písmená „HR“ v hlaholike. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "sú vyobrazené písmená „HR“ napísané hranatým písmom v hlaholike"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane chorvátskych euromincí – 1, 2 a 5 centov?",
+  "ok": "písmená „HR“ v hlaholike",
+  "bad": [
+   "muflón",
+   "kresba ideálnych proporcií ľudského tela od Leonarda da Vinciho"
+  ],
+  "v": "Chorvátsko: 1, 2 a 5 centov – písmená „HR“ v hlaholike. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "sú vyobrazené písmená „HR“ napísané hranatým písmom v hlaholike"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „keltská harfa“ – všetkých mincí?",
+  "ok": "Írsko",
+  "bad": [
+   "Bulharsko",
+   "Slovinsko"
+  ],
+  "v": "Na írskych minciach – všetkých mincí – je motív: keltská harfa. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-ie",
+    "Je na nich keltská harfa ako tradičný národný symbol Írska."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane írskych euromincí – všetkých mincí?",
+  "ok": "keltská harfa",
+  "bad": [
+   "rozsievač",
+   "Botticelliho Zrodenie Venuše"
+  ],
+  "v": "Írsko: všetkých mincí – keltská harfa. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-ie",
+    "Je na nich keltská harfa ako tradičný národný symbol Írska."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „básnik Dante Alighieri“ – 2 €?",
+  "ok": "Taliansko",
+  "bad": [
+   "Rakúsko",
+   "Luxembursko"
+  ],
+  "v": "Na talianskych minciach – 2 € – je motív: básnik Dante Alighieri. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je portrét Danteho Alighieriho od Raphaëla"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane talianskych euromincí – 2 €?",
+  "ok": "básnik Dante Alighieri",
+  "bad": [
+   "moderný tanker",
+   "lotyšské sedliacke dievča"
+  ],
+  "v": "Taliansko: 2 € – básnik Dante Alighieri. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je portrét Danteho Alighieriho od Raphaëla"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „kresba ideálnych proporcií ľudského tela od Leonarda da Vinciho“ – 1 €?",
+  "ok": "Taliansko",
+  "bad": [
+   "Írsko",
+   "Rakúsko"
+  ],
+  "v": "Na talianskych minciach – 1 € – je motív: kresba ideálnych proporcií ľudského tela od Leonarda da Vinciho. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na minci je známa kresba od Leonarda da Vinciho zobrazujúca ideálne proporcie ľudského tela."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane talianskych euromincí – 1 €?",
+  "ok": "kresba ideálnych proporcií ľudského tela od Leonarda da Vinciho",
+  "bad": [
+   "bocian",
+   "Madarský jazdec (skalný reliéf z 8. storočia)"
+  ],
+  "v": "Taliansko: 1 € – kresba ideálnych proporcií ľudského tela od Leonarda da Vinciho. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na minci je známa kresba od Leonarda da Vinciho zobrazujúca ideálne proporcie ľudského tela."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „jazdecká socha cisára Marka Aurélia“ – 50 centov?",
+  "ok": "Taliansko",
+  "bad": [
+   "Luxembursko",
+   "Rakúsko"
+  ],
+  "v": "Na talianskych minciach – 50 centov – je motív: jazdecká socha cisára Marka Aurélia. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je zobrazená socha cisára Marka Aurélia na koni."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane talianskych euromincí – 50 centov?",
+  "ok": "jazdecká socha cisára Marka Aurélia",
+  "bad": [
+   "horec",
+   "lipicanské kone"
+  ],
+  "v": "Taliansko: 50 centov – jazdecká socha cisára Marka Aurélia. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je zobrazená socha cisára Marka Aurélia na koni."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „Botticelliho Zrodenie Venuše“ – 10 centov?",
+  "ok": "Taliansko",
+  "bad": [
+   "Nemecko",
+   "Lotyšsko"
+  ],
+  "v": "Na talianskych minciach – 10 centov – je motív: Botticelliho Zrodenie Venuše. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "„Zrodenie Venuše“ od Sandra Botticelliho"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane talianskych euromincí – 10 centov?",
+  "ok": "Botticelliho Zrodenie Venuše",
+  "bad": [
+   "palác Belvedere",
+   "básnik France Prešeren"
+  ],
+  "v": "Taliansko: 10 centov – Botticelliho Zrodenie Venuše. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "„Zrodenie Venuše“ od Sandra Botticelliho"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „Koloseum (Fláviov amfiteáter)“ – 5 centov?",
+  "ok": "Taliansko",
+  "bad": [
+   "Rakúsko",
+   "Španielsko"
+  ],
+  "v": "Na talianskych minciach – 5 centov – je motív: Koloseum (Fláviov amfiteáter). Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je vyobrazený Fláviov amfiteáter (Koloseum)."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane talianskych euromincí – 5 centov?",
+  "ok": "Koloseum (Fláviov amfiteáter)",
+  "bad": [
+   "Primož Trubar, autor prvej slovinskej knihy",
+   "aténska triéra"
+  ],
+  "v": "Taliansko: 5 centov – Koloseum (Fláviov amfiteáter). Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je vyobrazený Fláviov amfiteáter (Koloseum)."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „veža Mole Antonelliana“ – 2 centy?",
+  "ok": "Taliansko",
+  "bad": [
+   "Fínsko",
+   "Cyprus"
+  ],
+  "v": "Na talianskych minciach – 2 centy – je motív: veža Mole Antonelliana. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na minci je zobrazená veža Mole Antonelliana"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane talianskych euromincí – 2 centy?",
+  "ok": "veža Mole Antonelliana",
+  "bad": [
+   "dve letiace labute",
+   "strom symbolizujúci život, kontinuitu a rast"
+  ],
+  "v": "Taliansko: 2 centy – veža Mole Antonelliana. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na minci je zobrazená veža Mole Antonelliana"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „hrad Castel del Monte“ – 1 cent?",
+  "ok": "Taliansko",
+  "bad": [
+   "Bulharsko",
+   "Malta"
+  ],
+  "v": "Na talianskych minciach – 1 cent – je motív: hrad Castel del Monte. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je znázornený hrad Castel del Monte."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane talianskych euromincí – 1 cent?",
+  "ok": "hrad Castel del Monte",
+  "bad": [
+   "katedrála v Santiago de Compostela",
+   "skladateľ Wolfgang Amadeus Mozart"
+  ],
+  "v": "Taliansko: 1 cent – hrad Castel del Monte. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je znázornený hrad Castel del Monte."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „štátny znak Vytis (jazdec)“ – všetkých mincí?",
+  "ok": "Litva",
+  "bad": [
+   "Rakúsko",
+   "Slovinsko"
+  ],
+  "v": "Na litovských minciach – všetkých mincí – je motív: štátny znak Vytis (jazdec). Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-lt",
+    "je zobrazený štátny znak Litovskej republiky, Vytis"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane litovských euromincí – všetkých mincí?",
+  "ok": "štátny znak Vytis (jazdec)",
+  "bad": [
+   "diplomat Ioannis Capodistrias",
+   "básnik France Prešeren"
+  ],
+  "v": "Litva: všetkých mincí – štátny znak Vytis (jazdec). Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-lt",
+    "je zobrazený štátny znak Litovskej republiky, Vytis"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „veľkovojvoda Henri“ – všetkých mincí?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Írsko",
+   "Slovinsko"
+  ],
+  "v": "Na luxemburských minciach – všetkých mincí – je motív: veľkovojvoda Henri. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-lu",
+    "Všetky luxemburské mince nesú portrét Jeho kráľovského veličenstva veľkovojvodu Henriho."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane luxemburských euromincí – všetkých mincí?",
+  "ok": "veľkovojvoda Henri",
+  "bad": [
+   "strom symbolizujúci život, kontinuitu a rast",
+   "heraldický lev"
+  ],
+  "v": "Luxembursko: všetkých mincí – veľkovojvoda Henri. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-lu",
+    "Všetky luxemburské mince nesú portrét Jeho kráľovského veličenstva veľkovojvodu Henriho."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „lotyšské sedliacke dievča“ – 1 € a 2 €?",
+  "ok": "Lotyšsko",
+  "bad": [
+   "Holandsko",
+   "Nemecko"
+  ],
+  "v": "Na lotyšských minciach – 1 € a 2 € – je motív: lotyšské sedliacke dievča. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-lv",
+    "lotyšské sedliacke dievča"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane lotyšských euromincí – 1 € a 2 €?",
+  "ok": "lotyšské sedliacke dievča",
+  "bad": [
+   "veža Mole Antonelliana",
+   "dve letiace labute"
+  ],
+  "v": "Lotyšsko: 1 € a 2 € – lotyšské sedliacke dievča. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-lv",
+    "lotyšské sedliacke dievča"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „osemcípy kríž – emblém Maltézskeho rádu“ – 1 € a 2 €?",
+  "ok": "Malta",
+  "bad": [
+   "Cyprus",
+   "Chorvátsko"
+  ],
+  "v": "Na maltských minciach – 1 € a 2 € – je motív: osemcípy kríž – emblém Maltézskeho rádu. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-mt",
+    "Hlavným motívom mincí 1 € a 2 € je emblém Maltézskeho rádu."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane maltských euromincí – 1 € a 2 €?",
+  "ok": "osemcípy kríž – emblém Maltézskeho rádu",
+  "bad": [
+   "rozsievačka",
+   "diplomat Ioannis Capodistrias"
+  ],
+  "v": "Malta: 1 € a 2 € – osemcípy kríž – emblém Maltézskeho rádu. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-mt",
+    "Hlavným motívom mincí 1 € a 2 € je emblém Maltézskeho rádu."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „oltár z prehistorického chrámu Mnajdra“ – 1, 2 a 5 centov?",
+  "ok": "Malta",
+  "bad": [
+   "Luxembursko",
+   "Francúzsko"
+  ],
+  "v": "Na maltských minciach – 1, 2 a 5 centov – je motív: oltár z prehistorického chrámu Mnajdra. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-mt",
+    "je zobrazený oltár z prehistorického chrámu Mnajdra"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane maltských euromincí – 1, 2 a 5 centov?",
+  "ok": "oltár z prehistorického chrámu Mnajdra",
+  "bad": [
+   "muflón",
+   "Primož Trubar, autor prvej slovinskej knihy"
+  ],
+  "v": "Malta: 1, 2 a 5 centov – oltár z prehistorického chrámu Mnajdra. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-mt",
+    "je zobrazený oltár z prehistorického chrámu Mnajdra"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „kráľ Willem-Alexander“ – všetky mince (druhá séria, 2014)?",
+  "ok": "Holandsko",
+  "bad": [
+   "Cyprus",
+   "Chorvátsko"
+  ],
+  "v": "Na holandských minciach – všetky mince (druhá séria, 2014) – je motív: kráľ Willem-Alexander. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-nl",
+    "Na minciach druhej série, uvedenej do obehu v roku 2014, je zobrazený kráľ Willem-Alexander"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane holandských euromincí – všetky mince (druhá séria, 2014)?",
+  "ok": "kráľ Willem-Alexander",
+  "bad": [
+   "orlica",
+   "Primož Trubar, autor prvej slovinskej knihy"
+  ],
+  "v": "Holandsko: všetky mince (druhá séria, 2014) – kráľ Willem-Alexander. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-nl",
+    "Na minciach druhej série, uvedenej do obehu v roku 2014, je zobrazený kráľ Willem-Alexander"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „portugalské hrady a erby“ – 1 € a 2 €?",
+  "ok": "Portugalsko",
+  "bad": [
+   "Nemecko",
+   "Francúzsko"
+  ],
+  "v": "Na portugalských minciach – 1 € a 2 € – je motív: portugalské hrady a erby. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-pt",
+    "Na minciach 1 € a 2 € sú zobrazené portugalské hrady a erby, obklopené hviezdami EÚ."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane portugalských euromincí – 1 € a 2 €?",
+  "ok": "portugalské hrady a erby",
+  "bad": [
+   "kráľ Philippe",
+   "kyrénska obchodná loď"
+  ],
+  "v": "Portugalsko: 1 € a 2 € – portugalské hrady a erby. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-pt",
+    "Na minciach 1 € a 2 € sú zobrazené portugalské hrady a erby, obklopené hviezdami EÚ."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „kráľovská pečať z roku 1142“ – 10, 20 a 50 centov?",
+  "ok": "Portugalsko",
+  "bad": [
+   "Litva",
+   "Malta"
+  ],
+  "v": "Na portugalských minciach – 10, 20 a 50 centov – je motív: kráľovská pečať z roku 1142. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-pt",
+    "V strede mincí 10, 20 a 50 centov je kráľovská pečať z roku 1142."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane portugalských euromincí – 10, 20 a 50 centov?",
+  "ok": "kráľovská pečať z roku 1142",
+  "bad": [
+   "svätý Ivan Rilský",
+   "osemcípy kríž – emblém Maltézskeho rádu"
+  ],
+  "v": "Portugalsko: 10, 20 a 50 centov – kráľovská pečať z roku 1142. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-pt",
+    "V strede mincí 10, 20 a 50 centov je kráľovská pečať z roku 1142."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „básnik France Prešeren“ – 2 €?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Lotyšsko",
+   "Holandsko"
+  ],
+  "v": "Na slovinských minciach – 2 € – je motív: básnik France Prešeren. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Na tejto minci je portrét básnika Franceho Prešerena"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane slovinských euromincí – 2 €?",
+  "ok": "básnik France Prešeren",
+  "bad": [
+   "sova zo starovekej aténskej tetradrachmy",
+   "plody a kvety moruše"
+  ],
+  "v": "Slovinsko: 2 € – básnik France Prešeren. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Na tejto minci je portrét básnika Franceho Prešerena"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „Primož Trubar, autor prvej slovinskej knihy“ – 1 €?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Fínsko",
+   "Rakúsko"
+  ],
+  "v": "Na slovinských minciach – 1 € – je motív: Primož Trubar, autor prvej slovinskej knihy. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Na tejto minci je portrét Primoža Trubara, autora prvej knihy vydanej v slovinčine."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane slovinských euromincí – 1 €?",
+  "ok": "Primož Trubar, autor prvej slovinskej knihy",
+  "bad": [
+   "skladateľ Wolfgang Amadeus Mozart",
+   "horec"
+  ],
+  "v": "Slovinsko: 1 € – Primož Trubar, autor prvej slovinskej knihy. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Na tejto minci je portrét Primoža Trubara, autora prvej knihy vydanej v slovinčine."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 2,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „vrch Triglav“ – 50 centov?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Nemecko",
+   "Chorvátsko"
+  ],
+  "v": "Na slovinských minciach – 50 centov – je motív: vrch Triglav. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca zobrazuje vrch Triglav."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane slovinských euromincí – 50 centov?",
+  "ok": "vrch Triglav",
+  "bad": [
+   "kyrénska obchodná loď",
+   "strom symbolizujúci život, kontinuitu a rast"
+  ],
+  "v": "Slovinsko: 50 centov – vrch Triglav. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca zobrazuje vrch Triglav."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „lipicanské kone“ – 20 centov?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Francúzsko",
+   "Fínsko"
+  ],
+  "v": "Na slovinských minciach – 20 centov – je motív: lipicanské kone. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca zobrazuje lipicanské kone."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane slovinských euromincí – 20 centov?",
+  "ok": "lipicanské kone",
+  "bad": [
+   "katedrála v Santiago de Compostela",
+   "písmená „HR“ v hlaholike"
+  ],
+  "v": "Slovinsko: 20 centov – lipicanské kone. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca zobrazuje lipicanské kone."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „rozsievač“ – 5 centov?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Rakúsko",
+   "Malta"
+  ],
+  "v": "Na slovinských minciach – 5 centov – je motív: rozsievač. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca nesie motív rozsievača."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane slovinských euromincí – 5 centov?",
+  "ok": "rozsievač",
+  "bad": [
+   "sova zo starovekej aténskej tetradrachmy",
+   "písmená „HR“ v hlaholike"
+  ],
+  "v": "Slovinsko: 5 centov – rozsievač. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca nesie motív rozsievača."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na národnej strane euromincí ktorej krajiny je motív „bocian“ – 1 cent?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Taliansko",
+   "Grécko"
+  ],
+  "v": "Na slovinských minciach – 1 cent – je motív: bocian. Zdroj: ECB.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca znázorňuje bociana."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Čo je zobrazené na národnej strane slovinských euromincí – 1 cent?",
+  "ok": "bocian",
+  "bad": [
+   "veža Mole Antonelliana",
+   "kráľ Juan Carlos I."
+  ],
+  "v": "Slovinsko: 1 cent – bocian. Ostatné možnosti sú motívy mincí iných krajín.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca znázorňuje bociana."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na hrane 2 € mince ktorej krajiny je nápis O LIJEPA O DRAGA O SLATKA SLOBODO („Ó, krásna, vzácna, sladká sloboda“)?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Fínsko",
+   "Belgicko"
+  ],
+  "v": "Nápis O LIJEPA O DRAGA O SLATKA SLOBODO („Ó, krásna, vzácna, sladká sloboda“) je na hrane 2 € mince – Chorvátsko.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "Nápis na hrane mince 2 €: „O LIJEPA O DRAGA O SLATKA SLOBODO”"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na hrane 2 € mince ktorej krajiny je nápis LAISVĖ * VIENYBĖ * GEROVĖ (Sloboda, Jednota, Blahobyt)?",
+  "ok": "Litva",
+  "bad": [
+   "Grécko",
+   "Estónsko"
+  ],
+  "v": "Nápis LAISVĖ * VIENYBĖ * GEROVĖ (Sloboda, Jednota, Blahobyt) je na hrane 2 € mince – Litva.",
+  "src": [
+   [
+    "ecb-coins-lt",
+    "Nápis na hrane mince 2 €: LAISVĖ * VIENYBĖ * GEROVĖ *"
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na hrane 2 € mince ktorej krajiny je nápis GOD * ZIJ * MET * ONS (Boh s nami)?",
+  "ok": "Holandsko",
+  "bad": [
+   "Taliansko",
+   "Rakúsko"
+  ],
+  "v": "Nápis GOD * ZIJ * MET * ONS (Boh s nami) je na hrane 2 € mince – Holandsko.",
+  "src": [
+   [
+    "ecb-coins-nl",
+    "Nápis na hrane mince 2 € oboch sérií: GOD * ZIJ * MET * ONS * (Boh s nami)."
+   ]
+  ]
+ },
+ {
+  "kat": "sta",
+  "n": 3,
+  "text": "Na hrane 2 € mince ktorej krajiny je nápis SUOMI FINLAND?",
+  "ok": "Fínsko",
+  "bad": [
+   "Taliansko",
+   "Bulharsko"
+  ],
+  "v": "Nápis SUOMI FINLAND je na hrane 2 € mince – Fínsko.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "Nápis na hrane mince 2 €: SUOMI FINLAND ***"
+   ]
+  ]
+ }
+]

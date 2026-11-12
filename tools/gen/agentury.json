@@ -1,0 +1,2246 @@
+[
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER)?",
+"ok": "Ľubľana",
+"bad": [
+"Alicante",
+"Varšava"
+],
+"v": "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER) sídli v meste Ľubľana (Slovinsko).",
+"src": [
+[
+"eu-inst-agency-cooperation-energy-regulators-acer",
+"Sídlo: Ľubľana, Slovinsko"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Ľubľana (Slovinsko)?",
+"ok": "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER)",
+"bad": [
+"Európska chemická agentúra (ECHA)",
+"Agentúra Európskej únie pre základné práva (FRA)"
+],
+"v": "V meste Ľubľana sídli Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER). Európska chemická agentúra (ECHA) sídli v meste Helsinki, Agentúra Európskej únie pre základné práva (FRA) v meste Viedeň.",
+"src": [
+[
+"eu-inst-agency-cooperation-energy-regulators-acer",
+"Sídlo: Ľubľana, Slovinsko"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER)?",
+"ok": "spolupráca regulačných orgánov v oblasti energetiky",
+"bad": [
+"informácie o životnom prostredí a klíme",
+"ochrana osobných údajov v inštitúciách EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Agentúra ACER zohráva kľúčovú úlohu pri užšej integrácii trhu s energiou v celej Európe s cieľom priniesť európskym podnikom a občanom výhody cenovo dostupnej, bezpečnej a dekarbonizovanej energie.",
+"src": [
+[
+"eu-inst-agency-cooperation-energy-regulators-acer",
+"Úloha: Agentúra ACER zohráva kľúčovú úlohu pri užšej integrácii trhu s energiou v celej Európe s cieľom priniesť európskym podnikom a občanom výhody cenovo dostupnej, bezpečnej a dekarbonizovanej energie."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Úrad BEREC?",
+"ok": "Riga",
+"bad": [
+"Angers",
+"Budapešť"
+],
+"v": "Úrad BEREC sídli v meste Riga (Lotyšsko).",
+"src": [
+[
+"eu-inst-agency-support-berec-berec-office",
+"Sídlo: Riga (Lotyšsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Riga (Lotyšsko)?",
+"ok": "Úrad BEREC",
+"bad": [
+"Európska chemická agentúra (ECHA)",
+"Satelitné stredisko Európskej únie (SatCen)"
+],
+"v": "V meste Riga sídli Úrad BEREC. Európska chemická agentúra (ECHA) sídli v meste Helsinki, Satelitné stredisko Európskej únie (SatCen) v meste Torrejón de Ardoz.",
+"src": [
+[
+"eu-inst-agency-support-berec-berec-office",
+"Sídlo: Riga (Lotyšsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Úrad BEREC?",
+"ok": "podpora regulátorov elektronických komunikácií",
+"bad": [
+"dohľad nad poisťovníctvom a dôchodkovým poistením",
+"výberové konania na zamestnancov inštitúcií EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Poskytovať odbornú a administratívnu podporu Orgánu európskych regulátorov pre elektronické komunikácie (BEREC)",
+"src": [
+[
+"eu-inst-agency-support-berec-berec-office",
+"Úloha: Poskytovať odbornú a administratívnu podporu Orgánu európskych regulátorov pre elektronické komunikácie (BEREC)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Úrad Spoločenstva pre odrody rastlín (CPVO)?",
+"ok": "Angers",
+"bad": [
+"Bukurešť",
+"Dublin"
+],
+"v": "Úrad Spoločenstva pre odrody rastlín (CPVO) sídli v meste Angers (Francúzsko).",
+"src": [
+[
+"eu-inst-community-plant-variety-office-cpvo",
+"49101 Angers"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Angers (Francúzsko)?",
+"ok": "Úrad Spoločenstva pre odrody rastlín (CPVO)",
+"bad": [
+"Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok)",
+"Zásobovacia agentúra Euratomu (ESA)"
+],
+"v": "V meste Angers sídli Úrad Spoločenstva pre odrody rastlín (CPVO). Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok) sídli v meste Dublin, Zásobovacia agentúra Euratomu (ESA) v meste Luxemburg.",
+"src": [
+[
+"eu-inst-community-plant-variety-office-cpvo",
+"49101 Angers"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Úrad Spoločenstva pre odrody rastlín (CPVO)?",
+"ok": "právna ochrana nových odrôd rastlín",
+"bad": [
+"justičná spolupráca v trestných veciach",
+"posilňovanie kapacít Európy v kybernetickej bezpečnosti"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: správa systému právnej ochrany odrôd v EÚ",
+"src": [
+[
+"eu-inst-community-plant-variety-office-cpvo",
+"Úloha: správa systému právnej ochrany odrôd v EÚ"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok)?",
+"ok": "Dublin",
+"bad": [
+"Kolín",
+"Štokholm"
+],
+"v": "Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok) sídli v meste Dublin (Írsko).",
+"src": [
+[
+"eu-inst-eurofound",
+"Sídlo: Dublin (Írsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Dublin (Írsko)?",
+"ok": "Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok)",
+"bad": [
+"Železničná agentúra Európskej únie (ERA)",
+"Úrad Európskej únie pre duševné vlastníctvo (EUIPO)"
+],
+"v": "V meste Dublin sídli Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok). Železničná agentúra Európskej únie (ERA) sídli v meste Valenciennes, Úrad Európskej únie pre duševné vlastníctvo (EUIPO) v meste Alicante.",
+"src": [
+[
+"eu-inst-eurofound",
+"Sídlo: Dublin (Írsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok)?",
+"ok": "výskum životných a pracovných podmienok",
+"bad": [
+"odborná príprava príslušníkov polície a orgánov presadzovania práva",
+"podpora inovácií"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Prostredníctvom vstupov založených na výskume prispievať k vytváraniu politík v oblasti sociálnych záležitostí, zamestnanosti a práce",
+"src": [
+[
+"eu-inst-eurofound",
+"Úloha: Prostredníctvom vstupov založených na výskume prispievať k vytváraniu politík v oblasti sociálnych záležitostí, zamestnanosti a práce"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Eurojust?",
+"ok": "Haag",
+"bad": [
+"Bilbao",
+"Brusel"
+],
+"v": "Eurojust sídli v meste Haag (Holandsko).",
+"src": [
+[
+"eu-inst-eurojust",
+"Sídlo: Haag (Holandsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Eurojust?",
+"ok": "justičná spolupráca v trestných veciach",
+"bad": [
+"podpora regulátorov elektronických komunikácií",
+"poradenstvo o základných právach"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: pomáha orgánom členských štátov spolupracovať v boji proti terorizmu a závažnej organizovanej trestnej činnosti páchanej vo viacerých členských štátoch EÚ",
+"src": [
+[
+"eu-inst-eurojust",
+"Úloha: pomáha orgánom členských štátov spolupracovať v boji proti terorizmu a závažnej organizovanej trestnej činnosti páchanej vo viacerých členských štátoch EÚ"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikol Eurojust?",
+"ok": "2002",
+"bad": [
+"1997",
+"2006"
+],
+"v": "Eurojust – Rok vzniku: 2002 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-eurojust",
+"Rok vzniku: 2002"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)?",
+"ok": "Bilbao",
+"bad": [
+"Praha",
+"Helsinki"
+],
+"v": "Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA) sídli v meste Bilbao (Španielsko).",
+"src": [
+[
+"eu-inst-european-agency-safety-and-health-work-eu-osha",
+"Sídlo: Bilbao (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Bilbao (Španielsko)?",
+"ok": "Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)",
+"bad": [
+"Európsky inovačný a technologický inštitút (EIT)",
+"Európsky orgán pre cenné papiere a trhy (ESMA)"
+],
+"v": "V meste Bilbao sídli Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA). Európsky inovačný a technologický inštitút (EIT) sídli v meste Budapešť, Európsky orgán pre cenné papiere a trhy (ESMA) v meste Paríž.",
+"src": [
+[
+"eu-inst-european-agency-safety-and-health-work-eu-osha",
+"Sídlo: Bilbao (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)?",
+"ok": "bezpečnosť a ochrana zdravia pri práci",
+"bad": [
+"poradenstvo o základných právach",
+"podpora krajín pri spoločnom európskom azylovom systéme"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Zber, analýza a poskytovanie informácií subjektom, ktoré sú aktívne v oblasti bezpečnosti a ochrany zdravia pri práci",
+"src": [
+[
+"eu-inst-european-agency-safety-and-health-work-eu-osha",
+"Úloha: Zber, analýza a poskytovanie informácií subjektom, ktoré sú aktívne v oblasti bezpečnosti a ochrany zdravia pri práci"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)?",
+"ok": "Solún",
+"bad": [
+"Kolín",
+"Helsinki"
+],
+"v": "Cedefop (Európske stredisko pre rozvoj odborného vzdelávania) sídli v meste Solún (Grécko).",
+"src": [
+[
+"eu-inst-european-centre-development-vocational-training-cedefop",
+"Sídlo: Solún (Grécko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Solún (Grécko)?",
+"ok": "Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)",
+"bad": [
+"Európsky inovačný a technologický inštitút (EIT)",
+"Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL)"
+],
+"v": "V meste Solún sídli Cedefop (Európske stredisko pre rozvoj odborného vzdelávania). Európsky inovačný a technologický inštitút (EIT) sídli v meste Budapešť, Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL) v meste Budapešť.",
+"src": [
+[
+"eu-inst-european-centre-development-vocational-training-cedefop",
+"Sídlo: Solún (Grécko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)?",
+"ok": "rozvoj odborného vzdelávania a prípravy",
+"bad": [
+"výskum jadrovej syntézy (projekt ITER)",
+"bezpečné dodávky jadrového materiálu"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Cedefop poskytuje údaje, z ktorých vychádza politika EÚ v oblasti odborného vzdelávania a prípravy",
+"src": [
+[
+"eu-inst-european-centre-development-vocational-training-cedefop",
+"Úloha: Cedefop poskytuje údaje, z ktorých vychádza politika EÚ v oblasti odborného vzdelávania a prípravy"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Európske centrum pre prevenciu a kontrolu chorôb (ECDC)?",
+"ok": "Štokholm",
+"bad": [
+"Štrasburg",
+"Atény"
+],
+"v": "Európske centrum pre prevenciu a kontrolu chorôb (ECDC) sídli v meste Štokholm (Švédsko).",
+"src": [
+[
+"eu-inst-european-centre-disease-prevention-and-control-ecdc",
+"Sídlo: Štokholm (Švédsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Štokholm (Švédsko)?",
+"ok": "Európske centrum pre prevenciu a kontrolu chorôb (ECDC)",
+"bad": [
+"Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok)",
+"Európsky úrad pre bezpečnosť potravín (EFSA)"
+],
+"v": "V meste Štokholm sídli Európske centrum pre prevenciu a kontrolu chorôb (ECDC). Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok) sídli v meste Dublin, Európsky úrad pre bezpečnosť potravín (EFSA) v meste Parma.",
+"src": [
+[
+"eu-inst-european-centre-disease-prevention-and-control-ecdc",
+"Sídlo: Štokholm (Švédsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Európske centrum pre prevenciu a kontrolu chorôb (ECDC)?",
+"ok": "ochrana pred infekčnými chorobami",
+"bad": [
+"rozvoj ľudského kapitálu v susedných krajinách EÚ",
+"posilňovanie kapacít Európy v kybernetickej bezpečnosti"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: posilniť obranyschopnosť Európy proti infekčným chorobám",
+"src": [
+[
+"eu-inst-european-centre-disease-prevention-and-control-ecdc",
+"Úloha: posilniť obranyschopnosť Európy proti infekčným chorobám"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikol Európske centrum pre prevenciu a kontrolu chorôb (ECDC)?",
+"ok": "2005",
+"bad": [
+"2000",
+"2009"
+],
+"v": "Európske centrum pre prevenciu a kontrolu chorôb (ECDC) – Rok vzniku: 2005 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-centre-disease-prevention-and-control-ecdc",
+"Rok vzniku: 2005"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európska chemická agentúra (ECHA)?",
+"ok": "Helsinki",
+"bad": [
+"Kodaň",
+"Bukurešť"
+],
+"v": "Európska chemická agentúra (ECHA) sídli v meste Helsinki (Fínsko).",
+"src": [
+[
+"eu-inst-european-chemicals-agency-echa",
+"Sídlo: Helsinki, Fínsko"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Helsinki (Fínsko)?",
+"ok": "Európska chemická agentúra (ECHA)",
+"bad": [
+"Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA)",
+"Úrad BEREC"
+],
+"v": "V meste Helsinki sídli Európska chemická agentúra (ECHA). Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA) sídli v meste Atény, Úrad BEREC v meste Riga.",
+"src": [
+[
+"eu-inst-european-chemicals-agency-echa",
+"Sídlo: Helsinki, Fínsko"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európska chemická agentúra (ECHA)?",
+"ok": "bezpečnosť chemických látok",
+"bad": [
+"bezpečnosť a ochrana zdravia pri práci",
+"ochranné známky a dizajny EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: ECHA chráni zdravie a životné prostredie prostredníctvom zvyšovaním chemickej bezpečnosti.",
+"src": [
+[
+"eu-inst-european-chemicals-agency-echa",
+"Úloha: ECHA chráni zdravie a životné prostredie prostredníctvom zvyšovaním chemickej bezpečnosti."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európske centrum kompetencií v oblasti kybernetickej bezpečnosti (ECCC)?",
+"ok": "Bukurešť",
+"bad": [
+"Valletta",
+"Kodaň"
+],
+"v": "Európske centrum kompetencií v oblasti kybernetickej bezpečnosti (ECCC) sídli v meste Bukurešť (Rumunsko).",
+"src": [
+[
+"eu-inst-european-cybersecurity-competence-centre-eccc",
+"Sídlo: Bukurešť, Rumunsko"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Bukurešť (Rumunsko)?",
+"ok": "Európske centrum kompetencií v oblasti kybernetickej bezpečnosti (ECCC)",
+"bad": [
+"Európsky inovačný a technologický inštitút (EIT)",
+"eu-LISA (agentúra na riadenie rozsiahlych informačných systémov)"
+],
+"v": "V meste Bukurešť sídli Európske centrum kompetencií v oblasti kybernetickej bezpečnosti (ECCC). Európsky inovačný a technologický inštitút (EIT) sídli v meste Budapešť, eu-LISA (agentúra na riadenie rozsiahlych informačných systémov) v meste Tallinn.",
+"src": [
+[
+"eu-inst-european-cybersecurity-competence-centre-eccc",
+"Sídlo: Bukurešť, Rumunsko"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európske centrum kompetencií v oblasti kybernetickej bezpečnosti (ECCC)?",
+"ok": "posilňovanie kapacít Európy v kybernetickej bezpečnosti",
+"bad": [
+"podpora krajín pri spoločnom európskom azylovom systéme",
+"rodová rovnosť"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: úlohou Európskeho centra kompetencií v oblasti kybernetickej bezpečnosti je zvýšiť kapacity a konkurencieschopnosť Európy v oblasti kybernetickej bezpečnosti, a to v spolupráci so sieťou národných koordinačných centier, a v konečnom dôsledku vytvoriť silnú komunitu v oblasti kybernetickej bezpečnosti.",
+"src": [
+[
+"eu-inst-european-cybersecurity-competence-centre-eccc",
+"Úloha: úlohou Európskeho centra kompetencií v oblasti kybernetickej bezpečnosti je zvýšiť kapacity a konkurencieschopnosť Európy v oblasti kybernetickej bezpečnosti, a to v spolupráci so sieťou národných koordinačných centier, a v konečnom dôsledku vytvoriť silnú komunitu v oblasti kybernetickej bezpečnosti."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európska environmentálna agentúra (EEA)?",
+"ok": "Kodaň",
+"bad": [
+"Praha",
+"Kolín"
+],
+"v": "Európska environmentálna agentúra (EEA) sídli v meste Kodaň (Dánsko).",
+"src": [
+[
+"eu-inst-european-environment-agency-eea",
+"Sídlo: Kodaň"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Kodaň (Dánsko)?",
+"ok": "Európska environmentálna agentúra (EEA)",
+"bad": [
+"Agentúra Európskej únie pre bezpečnosť letectva (EASA)",
+"Úrad Spoločenstva pre odrody rastlín (CPVO)"
+],
+"v": "V meste Kodaň sídli Európska environmentálna agentúra (EEA). Agentúra Európskej únie pre bezpečnosť letectva (EASA) sídli v meste Kolín, Úrad Spoločenstva pre odrody rastlín (CPVO) v meste Angers.",
+"src": [
+[
+"eu-inst-european-environment-agency-eea",
+"Sídlo: Kodaň"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európska environmentálna agentúra (EEA)?",
+"ok": "informácie o životnom prostredí a klíme",
+"bad": [
+"spolupráca krajín pri cezhraničnej mobilite pracovníkov",
+"ochrana investorov a stabilita finančných trhov"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: EEA je európskym vedomostným centrom pre životné prostredie, klímu a udržateľnosť.",
+"src": [
+[
+"eu-inst-european-environment-agency-eea",
+"Úloha: EEA je európskym vedomostným centrom pre životné prostredie, klímu a udržateľnosť."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európska agentúra pre kontrolu rybárstva (EFCA)?",
+"ok": "Vigo",
+"bad": [
+"Lyon",
+"Paríž"
+],
+"v": "Európska agentúra pre kontrolu rybárstva (EFCA) sídli v meste Vigo (Španielsko).",
+"src": [
+[
+"eu-inst-european-fisheries-control-agency-efca",
+"Sídlo: Vigo (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Vigo (Španielsko)?",
+"ok": "Európska agentúra pre kontrolu rybárstva (EFCA)",
+"bad": [
+"Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž)",
+"Agentúra Európskej únie pre základné práva (FRA)"
+],
+"v": "V meste Vigo sídli Európska agentúra pre kontrolu rybárstva (EFCA). Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž) sídli v meste Varšava, Agentúra Európskej únie pre základné práva (FRA) v meste Viedeň.",
+"src": [
+[
+"eu-inst-european-fisheries-control-agency-efca",
+"Sídlo: Vigo (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európska agentúra pre kontrolu rybárstva (EFCA)?",
+"ok": "dodržiavanie pravidiel spoločnej rybárskej politiky",
+"bad": [
+"bezpečnosť civilného letectva",
+"vydavateľské služby pre inštitúcie EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Agentúra EFCA zabezpečuje správne dodržiavanie pravidiel spoločnej rybárskej politiky EÚ.",
+"src": [
+[
+"eu-inst-european-fisheries-control-agency-efca",
+"Úloha: Agentúra EFCA zabezpečuje správne dodržiavanie pravidiel spoločnej rybárskej politiky EÚ."
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Európsky úrad pre bezpečnosť potravín (EFSA)?",
+"ok": "Parma",
+"bad": [
+"Paríž",
+"Helsinki"
+],
+"v": "Európsky úrad pre bezpečnosť potravín (EFSA) sídli v meste Parma (Taliansko).",
+"src": [
+[
+"eu-inst-european-food-safety-authority-efsa",
+"Sídlo: Parma (Taliansko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Parma (Taliansko)?",
+"ok": "Európsky úrad pre bezpečnosť potravín (EFSA)",
+"bad": [
+"Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)",
+"Európsky ombudsman"
+],
+"v": "V meste Parma sídli Európsky úrad pre bezpečnosť potravín (EFSA). Cedefop (Európske stredisko pre rozvoj odborného vzdelávania) sídli v meste Solún, Európsky ombudsman v meste Štrasburg.",
+"src": [
+[
+"eu-inst-european-food-safety-authority-efsa",
+"Sídlo: Parma (Taliansko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Európsky úrad pre bezpečnosť potravín (EFSA)?",
+"ok": "vedecké poradenstvo o rizikách v potravinovom reťazci",
+"bad": [
+"dodržiavanie pravidiel spoločnej rybárskej politiky",
+"pomoc polícii v boji proti závažnej medzinárodnej trestnej činnosti a terorizmu"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Poskytovať odborné poradenstvo a informovať o existujúcich a vznikajúcich rizikách v súvislosti s potravinovým reťazcom",
+"src": [
+[
+"eu-inst-european-food-safety-authority-efsa",
+"Úloha: Poskytovať odborné poradenstvo a informovať o existujúcich a vznikajúcich rizikách v súvislosti s potravinovým reťazcom"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikol Európsky úrad pre bezpečnosť potravín (EFSA)?",
+"ok": "2002",
+"bad": [
+"1997",
+"2006"
+],
+"v": "Európsky úrad pre bezpečnosť potravín (EFSA) – Rok vzniku: 2002 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-food-safety-authority-efsa",
+"Rok vzniku: 2002"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európsky inštitút pre rodovú rovnosť (EIGE)?",
+"ok": "Vilnius",
+"bad": [
+"Štokholm",
+"Lyon"
+],
+"v": "Európsky inštitút pre rodovú rovnosť (EIGE) sídli v meste Vilnius (Litva).",
+"src": [
+[
+"eu-inst-european-institute-gender-equality-eige",
+"Sídlo: Vilnius, Litva"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Vilnius (Litva)?",
+"ok": "Európsky inštitút pre rodovú rovnosť (EIGE)",
+"bad": [
+"Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)",
+"Európska agentúra pre kontrolu rybárstva (EFCA)"
+],
+"v": "V meste Vilnius sídli Európsky inštitút pre rodovú rovnosť (EIGE). Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA) sídli v meste Bilbao, Európska agentúra pre kontrolu rybárstva (EFCA) v meste Vigo.",
+"src": [
+[
+"eu-inst-european-institute-gender-equality-eige",
+"Sídlo: Vilnius, Litva"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európsky inovačný a technologický inštitút (EIT)?",
+"ok": "Budapešť",
+"bad": [
+"Helsinki",
+"Amsterdam"
+],
+"v": "Európsky inovačný a technologický inštitút (EIT) sídli v meste Budapešť (Maďarsko).",
+"src": [
+[
+"eu-inst-european-institute-innovation-and-technology-eit",
+"Sídlo: Budapešť (Maďarsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európsky inovačný a technologický inštitút (EIT)?",
+"ok": "podpora inovácií",
+"bad": [
+"preklady pre agentúry a orgány EÚ",
+"podpora krajín pri spoločnom európskom azylovom systéme"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: podporovať inovácie v krajinách EÚ",
+"src": [
+[
+"eu-inst-european-institute-innovation-and-technology-eit",
+"Úloha: podporovať inovácie v krajinách EÚ"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA)?",
+"ok": "Frankfurt nad Mohanom",
+"bad": [
+"Bratislava",
+"Torrejón de Ardoz"
+],
+"v": "Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA) sídli v meste Frankfurt nad Mohanom (Nemecko).",
+"src": [
+[
+"eu-inst-european-insurance-and-occupational-pensions-authority-eiopa",
+"Sídlo: Frankfurt nad Mohanom (Nemecko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Frankfurt nad Mohanom (Nemecko)?",
+"ok": "Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA)",
+"bad": [
+"Európska agentúra pre lieky (EMA)",
+"Európsky ombudsman"
+],
+"v": "V meste Frankfurt nad Mohanom sídli Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA). Európska agentúra pre lieky (EMA) sídli v meste Amsterdam, Európsky ombudsman v meste Štrasburg.",
+"src": [
+[
+"eu-inst-european-insurance-and-occupational-pensions-authority-eiopa",
+"Sídlo: Frankfurt nad Mohanom (Nemecko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA)?",
+"ok": "dohľad nad poisťovníctvom a dôchodkovým poistením",
+"bad": [
+"vydavateľské služby pre inštitúcie EÚ",
+"vedecké poradenstvo o rizikách v potravinovom reťazci"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: EIOPA je európsky orgán dohľadu pre dôchodkové poistenie zamestnancov a poisťovníctvo",
+"src": [
+[
+"eu-inst-european-insurance-and-occupational-pensions-authority-eiopa",
+"Úloha: EIOPA je európsky orgán dohľadu pre dôchodkové poistenie zamestnancov a poisťovníctvo"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Európska investičná banka (EIB)?",
+"ok": "Luxemburg",
+"bad": [
+"Brusel",
+"Varšava"
+],
+"v": "Európska investičná banka (EIB) sídli v meste Luxemburg (Luxembursko).",
+"src": [
+[
+"eu-inst-european-investment-bank-eib",
+"Sídlo: Luxemburg"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Európska investičná banka (EIB)?",
+"ok": "financovanie projektov, ktoré pomáhajú plniť ciele EÚ",
+"bad": [
+"vedecké poradenstvo o rizikách v potravinovom reťazci",
+"ochrana investorov a stabilita finančných trhov"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: poskytuje finančné prostriedky na projekty, ktoré prispievajú k dosiahnutiu cieľov EÚ, a to v rámci EÚ aj mimo nej",
+"src": [
+[
+"eu-inst-european-investment-bank-eib",
+"Úloha: poskytuje finančné prostriedky na projekty, ktoré prispievajú k dosiahnutiu cieľov EÚ, a to v rámci EÚ aj mimo nej"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikla Európska investičná banka (EIB)?",
+"ok": "1958",
+"bad": [
+"1953",
+"1962"
+],
+"v": "Európska investičná banka (EIB) – Rok založenia: 1958 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-investment-bank-eib",
+"Rok založenia: 1958"
+]
+]
+},
+{
+"kat": "svk",
+"n": 1,
+"text": "V ktorom meste sídli Európsky orgán práce (ELA)?",
+"ok": "Bratislava",
+"bad": [
+"Valletta",
+"Torrejón de Ardoz"
+],
+"v": "Európsky orgán práce (ELA) sídli v meste Bratislava (Slovensko).",
+"src": [
+[
+"eu-inst-european-labour-authority-ela",
+"811 09 Bratislava"
+]
+]
+},
+{
+"kat": "svk",
+"n": 1,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Bratislava (Slovensko)?",
+"ok": "Európsky orgán práce (ELA)",
+"bad": [
+"Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok)",
+"Europol"
+],
+"v": "V meste Bratislava sídli Európsky orgán práce (ELA). Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok) sídli v meste Dublin, Europol v meste Haag.",
+"src": [
+[
+"eu-inst-european-labour-authority-ela",
+"811 09 Bratislava"
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "Čím sa zaoberá Európsky orgán práce (ELA)?",
+"ok": "spolupráca krajín pri cezhraničnej mobilite pracovníkov",
+"bad": [
+"výberové konania na zamestnancov inštitúcií EÚ",
+"ochrana pred infekčnými chorobami"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Európsky orgán (ELA) práce pomáha zlepšovať spoluprácu medzi krajinami EÚ, koordinuje spoločné inšpekcie, vykonáva analýzy a posudzovanie rizika v súvislosti s otázkami cezhraničnej mobility pracovníkov a urovnáva spory medzi krajinami EÚ.",
+"src": [
+[
+"eu-inst-european-labour-authority-ela",
+"Úloha: Európsky orgán (ELA) práce pomáha zlepšovať spoluprácu medzi krajinami EÚ, koordinuje spoločné inšpekcie, vykonáva analýzy a posudzovanie rizika v súvislosti s otázkami cezhraničnej mobility pracovníkov a urovnáva spory medzi krajinami EÚ."
+]
+]
+},
+{
+"kat": "svk",
+"n": 3,
+"text": "V ktorom roku vznikol Európsky orgán práce (ELA)?",
+"ok": "2019",
+"bad": [
+"2014",
+"2023"
+],
+"v": "Európsky orgán práce (ELA) – Rok vzniku: 2019 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-labour-authority-ela",
+"Rok vzniku: 2019"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európska námorná bezpečnostná agentúra (EMSA)?",
+"ok": "Lisabon",
+"bad": [
+"Lyon",
+"Bratislava"
+],
+"v": "Európska námorná bezpečnostná agentúra (EMSA) sídli v meste Lisabon (Portugalsko).",
+"src": [
+[
+"eu-inst-european-maritime-safety-agency-emsa",
+"Sídlo: Lisabon (Portugalsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európska námorná bezpečnostná agentúra (EMSA)?",
+"ok": "námorná bezpečnosť a boj proti znečisťovaniu mora",
+"bad": [
+"spolupráca na európskych obranných projektoch",
+"ochrana pred infekčnými chorobami"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: poskytuje technickú expertízu a operačnú pomoc v oblastiach námornej bezpečnosti, ochrany námornej dopravy a boja proti znečisťovaniu.",
+"src": [
+[
+"eu-inst-european-maritime-safety-agency-emsa",
+"Úloha: poskytuje technickú expertízu a operačnú pomoc v oblastiach námornej bezpečnosti, ochrany námornej dopravy a boja proti znečisťovaniu."
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Európska agentúra pre lieky (EMA)?",
+"ok": "Amsterdam",
+"bad": [
+"Helsinki",
+"Praha"
+],
+"v": "Európska agentúra pre lieky (EMA) sídli v meste Amsterdam (Holandsko).",
+"src": [
+[
+"eu-inst-european-medicines-agency-ema",
+"1083 HS Amsterdam"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Amsterdam (Holandsko)?",
+"ok": "Európska agentúra pre lieky (EMA)",
+"bad": [
+"Európska environmentálna agentúra (EEA)",
+"Európsky úrad pre výber pracovníkov (EPSO)"
+],
+"v": "V meste Amsterdam sídli Európska agentúra pre lieky (EMA). Európska environmentálna agentúra (EEA) sídli v meste Kodaň, Európsky úrad pre výber pracovníkov (EPSO) v meste Brusel.",
+"src": [
+[
+"eu-inst-european-medicines-agency-ema",
+"1083 HS Amsterdam"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Európska agentúra pre lieky (EMA)?",
+"ok": "vedecké hodnotenie a dohľad nad bezpečnosťou liekov",
+"bad": [
+"posilňovanie kapacít Európy v kybernetickej bezpečnosti",
+"bezpečnosť civilného letectva"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Agentúra EMA zaisťuje vedecké hodnotenie, dohľad a kontrolu nad bezpečnosťou liekov na humánne a veterinárne použitie v EÚ.",
+"src": [
+[
+"eu-inst-european-medicines-agency-ema",
+"Úloha: Agentúra EMA zaisťuje vedecké hodnotenie, dohľad a kontrolu nad bezpečnosťou liekov na humánne a veterinárne použitie v EÚ."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikla Európska agentúra pre lieky (EMA)?",
+"ok": "1995",
+"bad": [
+"1990",
+"1999"
+],
+"v": "Európska agentúra pre lieky (EMA) – Rok založenia: 1995 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-medicines-agency-ema",
+"Rok založenia: 1995"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Európsky ombudsman?",
+"ok": "Štrasburg",
+"bad": [
+"Atény",
+"Viedeň"
+],
+"v": "Európsky ombudsman sídli v meste Štrasburg (Francúzsko).",
+"src": [
+[
+"eu-inst-european-ombudsman",
+"Sídlo: Štrasburg (Francúzsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Štrasburg (Francúzsko)?",
+"ok": "Európsky ombudsman",
+"bad": [
+"Jednotná rada pre riešenie krízových situácií (SRB)",
+"Inštitút Európskej únie pre bezpečnostné štúdie (EUISS)"
+],
+"v": "V meste Štrasburg sídli Európsky ombudsman. Jednotná rada pre riešenie krízových situácií (SRB) sídli v meste Brusel, Inštitút Európskej únie pre bezpečnostné štúdie (EUISS) v meste Paríž.",
+"src": [
+[
+"eu-inst-european-ombudsman",
+"Sídlo: Štrasburg (Francúzsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Európsky ombudsman?",
+"ok": "vyšetrovanie sťažností na nesprávny úradný postup inštitúcií EÚ",
+"bad": [
+"spolupráca krajín pri cezhraničnej mobilite pracovníkov",
+"podpora krajín pri spoločnom európskom azylovom systéme"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: vyšetruje sťažnosti občanov na administratívne postupy inštitúcií, orgánov, úradov a agentúr EÚ",
+"src": [
+[
+"eu-inst-european-ombudsman",
+"Úloha: vyšetruje sťažnosti občanov na administratívne postupy inštitúcií, orgánov, úradov a agentúr EÚ"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikol Európsky ombudsman?",
+"ok": "1995",
+"bad": [
+"1990",
+"1999"
+],
+"v": "Európsky ombudsman – Rok vzniku: 1995 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-ombudsman",
+"Rok vzniku: 1995"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Európska prokuratúra (EPPO)?",
+"ok": "Luxemburg",
+"bad": [
+"Vigo",
+"Angers"
+],
+"v": "Európska prokuratúra (EPPO) sídli v meste Luxemburg (Luxembursko).",
+"src": [
+[
+"eu-inst-european-public-prosecutors-office-eppo",
+"Sídlo: Luxemburg (Luxembursko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Európska prokuratúra (EPPO)?",
+"ok": "stíhanie trestných činov poškodzujúcich financie EÚ",
+"bad": [
+"ochrana pred infekčnými chorobami",
+"informácie a varovania o drogách"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: vyšetruje, stíha a podáva žaloby v prípade trestných činov poškodzujúcich finančné záujmy EÚ",
+"src": [
+[
+"eu-inst-european-public-prosecutors-office-eppo",
+"Úloha: vyšetruje, stíha a podáva žaloby v prípade trestných činov poškodzujúcich finančné záujmy EÚ"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európsky orgán pre cenné papiere a trhy (ESMA)?",
+"ok": "Paríž",
+"bad": [
+"Budapešť",
+"Vigo"
+],
+"v": "Európsky orgán pre cenné papiere a trhy (ESMA) sídli v meste Paríž (Francúzsko).",
+"src": [
+[
+"eu-inst-european-securities-and-markets-authority-esma",
+"Sídlo: Paríž (Francúzsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európsky orgán pre cenné papiere a trhy (ESMA)?",
+"ok": "ochrana investorov a stabilita finančných trhov",
+"bad": [
+"podpora regulátorov elektronických komunikácií",
+"financovanie projektov, ktoré pomáhajú plniť ciele EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: zlepšovať ochranu investorov a podporovať stabilné, riadne fungujúce finančné trhy",
+"src": [
+[
+"eu-inst-european-securities-and-markets-authority-esma",
+"Úloha: zlepšovať ochranu investorov a podporovať stabilné, riadne fungujúce finančné trhy"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európska nadácia pre odborné vzdelávanie (ETF)?",
+"ok": "Turín",
+"bad": [
+"Vigo",
+"Viedeň"
+],
+"v": "Európska nadácia pre odborné vzdelávanie (ETF) sídli v meste Turín (Taliansko).",
+"src": [
+[
+"eu-inst-european-training-foundation-etf",
+"Sídlo: Turín (Taliansko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Turín (Taliansko)?",
+"ok": "Európska nadácia pre odborné vzdelávanie (ETF)",
+"bad": [
+"Európsky orgán pre cenné papiere a trhy (ESMA)",
+"Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA)"
+],
+"v": "V meste Turín sídli Európska nadácia pre odborné vzdelávanie (ETF). Európsky orgán pre cenné papiere a trhy (ESMA) sídli v meste Paríž, Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA) v meste Frankfurt nad Mohanom.",
+"src": [
+[
+"eu-inst-european-training-foundation-etf",
+"Sídlo: Turín (Taliansko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európska nadácia pre odborné vzdelávanie (ETF)?",
+"ok": "rozvoj ľudského kapitálu v susedných krajinách EÚ",
+"bad": [
+"spolupráca regulačných orgánov v oblasti energetiky",
+"rozvoj odborného vzdelávania a prípravy"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: ETF podporuje rozvoj ľudského kapitálu v susedných krajinách",
+"src": [
+[
+"eu-inst-european-training-foundation-etf",
+"Úloha: ETF podporuje rozvoj ľudského kapitálu v susedných krajinách"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Agentúra Európskej únie pre azyl (EUAA)?",
+"ok": "Valletta",
+"bad": [
+"Solún",
+"Lyon"
+],
+"v": "Agentúra Európskej únie pre azyl (EUAA) sídli v meste Valletta (Malta).",
+"src": [
+[
+"eu-inst-european-union-agency-asylum-euaa",
+"Sídlo: Valletta, Malta"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Valletta (Malta)?",
+"ok": "Agentúra Európskej únie pre azyl (EUAA)",
+"bad": [
+"Železničná agentúra Európskej únie (ERA)",
+"Európska agentúra pre kontrolu rybárstva (EFCA)"
+],
+"v": "V meste Valletta sídli Agentúra Európskej únie pre azyl (EUAA). Železničná agentúra Európskej únie (ERA) sídli v meste Valenciennes, Európska agentúra pre kontrolu rybárstva (EFCA) v meste Vigo.",
+"src": [
+[
+"eu-inst-european-union-agency-asylum-euaa",
+"Sídlo: Valletta, Malta"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Agentúra Európskej únie pre azyl (EUAA)?",
+"ok": "podpora krajín pri spoločnom európskom azylovom systéme",
+"bad": [
+"právna ochrana nových odrôd rastlín",
+"bezpečnosť chemických látok"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Podporovať vnútroštátne orgány krajín EÚ pri vykonávaní spoločného európskeho azylového systému poskytovaním operačnej a technickej pomoci.",
+"src": [
+[
+"eu-inst-european-union-agency-asylum-euaa",
+"Úloha: Podporovať vnútroštátne orgány krajín EÚ pri vykonávaní spoločného európskeho azylového systému poskytovaním operačnej a technickej pomoci."
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA)?",
+"ok": "Atény",
+"bad": [
+"Budapešť",
+"Barcelona"
+],
+"v": "Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA) sídli v meste Atény (Grécko).",
+"src": [
+[
+"eu-inst-european-union-agency-cybersecurity-enisa",
+"Sídlo: ústredie v Aténach s kanceláriami v Heraklione a Bruseli"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Atény (Grécko)?",
+"ok": "Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA)",
+"bad": [
+"Jednotná rada pre riešenie krízových situácií (SRB)",
+"Európsky inštitút pre rodovú rovnosť (EIGE)"
+],
+"v": "V meste Atény sídli Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA). Jednotná rada pre riešenie krízových situácií (SRB) sídli v meste Brusel, Európsky inštitút pre rodovú rovnosť (EIGE) v meste Vilnius.",
+"src": [
+[
+"eu-inst-european-union-agency-cybersecurity-enisa",
+"Sídlo: ústredie v Aténach s kanceláriami v Heraklione a Bruseli"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA)?",
+"ok": "vysoká úroveň kybernetickej bezpečnosti v Európe",
+"bad": [
+"vedecké poradenstvo o rizikách v potravinovom reťazci",
+"vedecké hodnotenie a dohľad nad bezpečnosťou liekov"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: ENISA sa zameriava na dosiahnutie vysokej spoločnej úrovne kybernetickej bezpečnosti v celej Európe",
+"src": [
+[
+"eu-inst-european-union-agency-cybersecurity-enisa",
+"Úloha: ENISA sa zameriava na dosiahnutie vysokej spoločnej úrovne kybernetickej bezpečnosti v celej Európe"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikla Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA)?",
+"ok": "2004",
+"bad": [
+"1999",
+"2008"
+],
+"v": "Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA) – Rok vzniku: 2004 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-union-agency-cybersecurity-enisa",
+"Rok vzniku: 2004"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Agentúra Európskej únie pre základné práva (FRA)?",
+"ok": "Viedeň",
+"bad": [
+"Frankfurt nad Mohanom",
+"Štrasburg"
+],
+"v": "Agentúra Európskej únie pre základné práva (FRA) sídli v meste Viedeň (Rakúsko).",
+"src": [
+[
+"eu-inst-european-union-agency-fundamental-rights-fra",
+"Sídlo: Viedeň (Rakúsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Viedeň (Rakúsko)?",
+"ok": "Agentúra Európskej únie pre základné práva (FRA)",
+"bad": [
+"Agentúra Európskej únie pre vesmírny program (EUSPA)",
+"Europol"
+],
+"v": "V meste Viedeň sídli Agentúra Európskej únie pre základné práva (FRA). Agentúra Európskej únie pre vesmírny program (EUSPA) sídli v meste Praha, Europol v meste Haag.",
+"src": [
+[
+"eu-inst-european-union-agency-fundamental-rights-fra",
+"Sídlo: Viedeň (Rakúsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Agentúra Európskej únie pre základné práva (FRA)?",
+"ok": "poradenstvo o základných právach",
+"bad": [
+"diplomatické vzťahy EÚ a zahraničná politika",
+"analýzy zahraničnej, bezpečnostnej a obrannej politiky"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: poskytuje poradenstvo o základných právach založené na dôkazoch",
+"src": [
+[
+"eu-inst-european-union-agency-fundamental-rights-fra",
+"Úloha: poskytuje poradenstvo o základných právach založené na dôkazoch"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikla Agentúra Európskej únie pre základné práva (FRA)?",
+"ok": "2007",
+"bad": [
+"2002",
+"2011"
+],
+"v": "Agentúra Európskej únie pre základné práva (FRA) – Rok vzniku: 2007 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-union-agency-fundamental-rights-fra",
+"Rok vzniku: 2007"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL)?",
+"ok": "Budapešť",
+"bad": [
+"Ľubľana",
+"Vilnius"
+],
+"v": "Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL) sídli v meste Budapešť (Maďarsko).",
+"src": [
+[
+"eu-inst-european-union-agency-law-enforcement-training-cepol",
+"Sídlo: Budapešť (Maďarsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL)?",
+"ok": "odborná príprava príslušníkov polície a orgánov presadzovania práva",
+"bad": [
+"vysoká úroveň kybernetickej bezpečnosti v Európe",
+"podpora inovácií"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: poskytuje odbornú prípravu v oblasti presadzovania európskeho a medzinárodného práva",
+"src": [
+[
+"eu-inst-european-union-agency-law-enforcement-training-cepol",
+"Úloha: poskytuje odbornú prípravu v oblasti presadzovania európskeho a medzinárodného práva"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli eu-LISA (agentúra na riadenie rozsiahlych informačných systémov)?",
+"ok": "Tallinn",
+"bad": [
+"Ľubľana",
+"Haag"
+],
+"v": "eu-LISA (agentúra na riadenie rozsiahlych informačných systémov) sídli v meste Tallinn (Estónsko).",
+"src": [
+[
+"eu-inst-european-union-agency-operational-management-large-scale-it-systems-area-freedom-security-and",
+"Sídlo: Tallinn (Estónsko), operačné sídlo: Štrasburg (Francúzsko), podporné pracovisko: Sankt Johann im Pangau (Rakúsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Tallinn (Estónsko)?",
+"ok": "eu-LISA (agentúra na riadenie rozsiahlych informačných systémov)",
+"bad": [
+"Európsky úrad pre výber pracovníkov (EPSO)",
+"Jednotná rada pre riešenie krízových situácií (SRB)"
+],
+"v": "V meste Tallinn sídli eu-LISA (agentúra na riadenie rozsiahlych informačných systémov). Európsky úrad pre výber pracovníkov (EPSO) sídli v meste Brusel, Jednotná rada pre riešenie krízových situácií (SRB) v meste Brusel.",
+"src": [
+[
+"eu-inst-european-union-agency-operational-management-large-scale-it-systems-area-freedom-security-and",
+"Sídlo: Tallinn (Estónsko), operačné sídlo: Štrasburg (Francúzsko), podporné pracovisko: Sankt Johann im Pangau (Rakúsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá eu-LISA (agentúra na riadenie rozsiahlych informačných systémov)?",
+"ok": "riadenie rozsiahlych informačných systémov v oblasti spravodlivosti a vnútra",
+"bad": [
+"satelitná navigácia Galileo a EGNOS",
+"vedecké hodnotenie a dohľad nad bezpečnosťou liekov"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: podporovať vykonávanie politík EÚ v oblasti spravodlivosti a vnútorných vecí prostredníctvom riadenia rozsiahlych informačných systémov",
+"src": [
+[
+"eu-inst-european-union-agency-operational-management-large-scale-it-systems-area-freedom-security-and",
+"Úloha: podporovať vykonávanie politík EÚ v oblasti spravodlivosti a vnútorných vecí prostredníctvom riadenia rozsiahlych informačných systémov"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Železničná agentúra Európskej únie (ERA)?",
+"ok": "Valenciennes",
+"bad": [
+"Varšava",
+"Parma"
+],
+"v": "Železničná agentúra Európskej únie (ERA) sídli v meste Valenciennes (Francúzsko).",
+"src": [
+[
+"eu-inst-european-union-agency-railways-era",
+"59300 Valenciennes"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Valenciennes (Francúzsko)?",
+"ok": "Železničná agentúra Európskej únie (ERA)",
+"bad": [
+"Európska chemická agentúra (ECHA)",
+"Európska nadácia pre odborné vzdelávanie (ETF)"
+],
+"v": "V meste Valenciennes sídli Železničná agentúra Európskej únie (ERA). Európska chemická agentúra (ECHA) sídli v meste Helsinki, Európska nadácia pre odborné vzdelávanie (ETF) v meste Turín.",
+"src": [
+[
+"eu-inst-european-union-agency-railways-era",
+"59300 Valenciennes"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Agentúra Európskej únie pre vesmírny program (EUSPA)?",
+"ok": "Praha",
+"bad": [
+"Brusel",
+"Ľubľana"
+],
+"v": "Agentúra Európskej únie pre vesmírny program (EUSPA) sídli v meste Praha (Česko).",
+"src": [
+[
+"eu-inst-european-union-agency-space-programme-euspa",
+"Sídlo: Praha (Česká republika)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Praha (Česko)?",
+"ok": "Agentúra Európskej únie pre vesmírny program (EUSPA)",
+"bad": [
+"Európsky orgán pre cenné papiere a trhy (ESMA)",
+"Európsky úrad pre bezpečnosť potravín (EFSA)"
+],
+"v": "V meste Praha sídli Agentúra Európskej únie pre vesmírny program (EUSPA). Európsky orgán pre cenné papiere a trhy (ESMA) sídli v meste Paríž, Európsky úrad pre bezpečnosť potravín (EFSA) v meste Parma.",
+"src": [
+[
+"eu-inst-european-union-agency-space-programme-euspa",
+"Sídlo: Praha (Česká republika)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Agentúra Európskej únie pre vesmírny program (EUSPA)?",
+"ok": "satelitná navigácia Galileo a EGNOS",
+"bad": [
+"námorná bezpečnosť a boj proti znečisťovaniu mora",
+"diplomatické vzťahy EÚ a zahraničná politika"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: EUSPA riadi verejné záujmy súvisiace s programami európskeho globálneho navigačného satelitného systému (GNSS) – programom EGNOS (Európska prekryvná služba geostacionárnej navigácie) a Galileo, programom pozorovania Zeme (EO), programom Copernicus, ako aj programom vládnej satelitnej komunikácie Európskej únie (GOVSATCOM)",
+"src": [
+[
+"eu-inst-european-union-agency-space-programme-euspa",
+"Úloha: EUSPA riadi verejné záujmy súvisiace s programami európskeho globálneho navigačného satelitného systému (GNSS) – programom EGNOS (Európska prekryvná služba geostacionárnej navigácie) a Galileo, programom pozorovania Zeme (EO), programom Copernicus, ako aj programom vládnej satelitnej komunikácie Európskej únie (GOVSATCOM)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikla Agentúra Európskej únie pre vesmírny program (EUSPA)?",
+"ok": "2004",
+"bad": [
+"1999",
+"2008"
+],
+"v": "Agentúra Európskej únie pre vesmírny program (EUSPA) – Rok vzniku: 2004 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-european-union-agency-space-programme-euspa",
+"Rok vzniku: 2004"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Agentúra Európskej únie pre bezpečnosť letectva (EASA)?",
+"ok": "Kolín",
+"bad": [
+"Tallinn",
+"Dublin"
+],
+"v": "Agentúra Európskej únie pre bezpečnosť letectva (EASA) sídli v meste Kolín (Nemecko).",
+"src": [
+[
+"eu-inst-european-union-aviation-safety-agency-easa",
+"Sídlo: Kolín (Nemecko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Kolín (Nemecko)?",
+"ok": "Agentúra Európskej únie pre bezpečnosť letectva (EASA)",
+"bad": [
+"Úrad Spoločenstva pre odrody rastlín (CPVO)",
+"Zásobovacia agentúra Euratomu (ESA)"
+],
+"v": "V meste Kolín sídli Agentúra Európskej únie pre bezpečnosť letectva (EASA). Úrad Spoločenstva pre odrody rastlín (CPVO) sídli v meste Angers, Zásobovacia agentúra Euratomu (ESA) v meste Luxemburg.",
+"src": [
+[
+"eu-inst-european-union-aviation-safety-agency-easa",
+"Sídlo: Kolín (Nemecko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Agentúra Európskej únie pre bezpečnosť letectva (EASA)?",
+"ok": "bezpečnosť civilného letectva",
+"bad": [
+"ochrana pred infekčnými chorobami",
+"odborná príprava príslušníkov polície a orgánov presadzovania práva"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Zaisťovanie bezpečnosti a ochrany životného prostredia v civilnom letectve v Európe",
+"src": [
+[
+"eu-inst-european-union-aviation-safety-agency-easa",
+"Úloha: Zaisťovanie bezpečnosti a ochrany životného prostredia v civilnom letectve v Európe"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Agentúra Európskej únie pre drogy (EUDA)?",
+"ok": "Lisabon",
+"bad": [
+"Helsinki",
+"Bukurešť"
+],
+"v": "Agentúra Európskej únie pre drogy (EUDA) sídli v meste Lisabon (Portugalsko).",
+"src": [
+[
+"eu-inst-european-union-drugs-agency-euda",
+"Sídlo: Lisabon (Portugalsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Agentúra Európskej únie pre drogy (EUDA)?",
+"ok": "informácie a varovania o drogách",
+"bad": [
+"dohľad nad poisťovníctvom a dôchodkovým poistením",
+"podpora krajín pri spoločnom európskom azylovom systéme"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: poskytovanie faktických, objektívnych, spoľahlivých a porovnateľných informácií, vydávanie včasných varovaní, vypracúvanie hodnotení rizika v súvislosti s drogami a drogovou závislosťou, ako aj predkladanie odporúčaní o tom, ako riešiť problémy súvisiace s drogami.",
+"src": [
+[
+"eu-inst-european-union-drugs-agency-euda",
+"Úloha: poskytovanie faktických, objektívnych, spoľahlivých a porovnateľných informácií, vydávanie včasných varovaní, vypracúvanie hodnotení rizika v súvislosti s drogami a drogovou závislosťou, ako aj predkladanie odporúčaní o tom, ako riešiť problémy súvisiace s drogami."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Inštitút Európskej únie pre bezpečnostné štúdie (EUISS)?",
+"ok": "Paríž",
+"bad": [
+"Mníchov",
+"Helsinki"
+],
+"v": "Inštitút Európskej únie pre bezpečnostné štúdie (EUISS) sídli v meste Paríž (Francúzsko).",
+"src": [
+[
+"eu-inst-european-union-institute-security-studies-euiss",
+"Sídlo: sídlo inštitútu sa nachádza v Paríži (Francúzsko) a styčný úrad v Bruseli (Belgicko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Inštitút Európskej únie pre bezpečnostné štúdie (EUISS)?",
+"ok": "analýzy zahraničnej, bezpečnostnej a obrannej politiky",
+"bad": [
+"odborná príprava príslušníkov polície a orgánov presadzovania práva",
+"výberové konania na zamestnancov inštitúcií EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: poskytovať analýzu otázok zahraničnej, bezpečnostnej a obrannej politiky",
+"src": [
+[
+"eu-inst-european-union-institute-security-studies-euiss",
+"Úloha: poskytovať analýzu otázok zahraničnej, bezpečnostnej a obrannej politiky"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Úrad Európskej únie pre duševné vlastníctvo (EUIPO)?",
+"ok": "Alicante",
+"bad": [
+"Parma",
+"Štokholm"
+],
+"v": "Úrad Európskej únie pre duševné vlastníctvo (EUIPO) sídli v meste Alicante (Španielsko).",
+"src": [
+[
+"eu-inst-european-union-intellectual-property-office-euipo",
+"Sídlo: Alicante (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Alicante (Španielsko)?",
+"ok": "Úrad Európskej únie pre duševné vlastníctvo (EUIPO)",
+"bad": [
+"Spoločný podnik Fusion for Energy (F4E)",
+"Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA)"
+],
+"v": "V meste Alicante sídli Úrad Európskej únie pre duševné vlastníctvo (EUIPO). Spoločný podnik Fusion for Energy (F4E) sídli v meste Barcelona, Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA) v meste Frankfurt nad Mohanom.",
+"src": [
+[
+"eu-inst-european-union-intellectual-property-office-euipo",
+"Sídlo: Alicante (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Úrad Európskej únie pre duševné vlastníctvo (EUIPO)?",
+"ok": "ochranné známky a dizajny EÚ",
+"bad": [
+"spolupráca krajín pri cezhraničnej mobilite pracovníkov",
+"právna ochrana nových odrôd rastlín"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Úrad Európskej únie pre duševné vlastníctvo riadi práva EÚ týkajúce sa obchodných známok a dizajnu, Európske stredisko pre sledovanie porušovania práv duševného vlastníctva a databázu osirotených diel.",
+"src": [
+[
+"eu-inst-european-union-intellectual-property-office-euipo",
+"Úloha: Úrad Európskej únie pre duševné vlastníctvo riadi práva EÚ týkajúce sa obchodných známok a dizajnu, Európske stredisko pre sledovanie porušovania práv duševného vlastníctva a databázu osirotených diel."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Satelitné stredisko Európskej únie (SatCen)?",
+"ok": "Torrejón de Ardoz",
+"bad": [
+"Angers",
+"Viedeň"
+],
+"v": "Satelitné stredisko Európskej únie (SatCen) sídli v meste Torrejón de Ardoz (Španielsko).",
+"src": [
+[
+"eu-inst-european-union-satellite-centre-satcen",
+"Sídlo: Torrejón de Ardoz (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Torrejón de Ardoz (Španielsko)?",
+"ok": "Satelitné stredisko Európskej únie (SatCen)",
+"bad": [
+"Jednotná rada pre riešenie krízových situácií (SRB)",
+"Európsky orgán práce (ELA)"
+],
+"v": "V meste Torrejón de Ardoz sídli Satelitné stredisko Európskej únie (SatCen). Jednotná rada pre riešenie krízových situácií (SRB) sídli v meste Brusel, Európsky orgán práce (ELA) v meste Bratislava.",
+"src": [
+[
+"eu-inst-european-union-satellite-centre-satcen",
+"Sídlo: Torrejón de Ardoz (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Satelitné stredisko Európskej únie (SatCen)?",
+"ok": "služby založené na vesmírnych údajoch pre zahraničnú a bezpečnostnú politiku",
+"bad": [
+"financovanie projektov, ktoré pomáhajú plniť ciele EÚ",
+"ochranné známky a dizajny EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: podpora spoločnej zahraničnej a bezpečnostnej politiky (SZBP) poskytovaním služieb, ktoré sú založené na vesmírnych aktívach a sprievodných údajoch",
+"src": [
+[
+"eu-inst-european-union-satellite-centre-satcen",
+"Úloha: podpora spoločnej zahraničnej a bezpečnostnej politiky (SZBP) poskytovaním služieb, ktoré sú založené na vesmírnych aktívach a sprievodných údajoch"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Europol?",
+"ok": "Haag",
+"bad": [
+"Helsinki",
+"Valenciennes"
+],
+"v": "Europol sídli v meste Haag (Holandsko).",
+"src": [
+[
+"eu-inst-europol",
+"Sídlo: Haag (Holandsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Europol?",
+"ok": "pomoc polícii v boji proti závažnej medzinárodnej trestnej činnosti a terorizmu",
+"bad": [
+"diplomatické vzťahy EÚ a zahraničná politika",
+"rozvoj ľudského kapitálu v susedných krajinách EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Europol pomáha vnútroštátnym orgánom presadzovania práva v boji proti závažnej medzinárodnej trestnej činnosti a terorizmu.",
+"src": [
+[
+"eu-inst-europol",
+"Úloha: Europol pomáha vnútroštátnym orgánom presadzovania práva v boji proti závažnej medzinárodnej trestnej činnosti a terorizmu."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom roku vznikol Europol?",
+"ok": "1999",
+"bad": [
+"1994",
+"2003"
+],
+"v": "Europol – Rok vzniku: 1999 (oficiálny profil na portáli EÚ).",
+"src": [
+[
+"eu-inst-europol",
+"Rok vzniku: 1999"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž)?",
+"ok": "Varšava",
+"bad": [
+"Helsinki",
+"Tallinn"
+],
+"v": "Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž) sídli v meste Varšava (Poľsko).",
+"src": [
+[
+"eu-inst-frontex",
+"Sídlo: Varšava (Poľsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Varšava (Poľsko)?",
+"ok": "Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž)",
+"bad": [
+"Úrad Spoločenstva pre odrody rastlín (CPVO)",
+"eu-LISA (agentúra na riadenie rozsiahlych informačných systémov)"
+],
+"v": "V meste Varšava sídli Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž). Úrad Spoločenstva pre odrody rastlín (CPVO) sídli v meste Angers, eu-LISA (agentúra na riadenie rozsiahlych informačných systémov) v meste Tallinn.",
+"src": [
+[
+"eu-inst-frontex",
+"Sídlo: Varšava (Poľsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž)?",
+"ok": "riadenie vonkajších hraníc EÚ",
+"bad": [
+"podpora krajín pri spoločnom európskom azylovom systéme",
+"výberové konania na zamestnancov inštitúcií EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: Frontex, Európska agentúra pre pohraničnú a pobrežnú stráž, podporuje EÚ a krajiny schengenského priestoru pri riadení vonkajších hraníc EÚ a boji proti cezhraničnej trestnej činnosti.",
+"src": [
+[
+"eu-inst-frontex",
+"Úloha: Frontex, Európska agentúra pre pohraničnú a pobrežnú stráž, podporuje EÚ a krajiny schengenského priestoru pri riadení vonkajších hraníc EÚ a boji proti cezhraničnej trestnej činnosti."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Spoločný podnik Fusion for Energy (F4E)?",
+"ok": "Barcelona",
+"bad": [
+"Helsinki",
+"Lisabon"
+],
+"v": "Spoločný podnik Fusion for Energy (F4E) sídli v meste Barcelona (Španielsko).",
+"src": [
+[
+"eu-inst-fusion-energy-f4e",
+"Sídlo: Barcelona (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Ktorý orgán alebo agentúra EÚ sídli v meste Barcelona (Španielsko)?",
+"ok": "Spoločný podnik Fusion for Energy (F4E)",
+"bad": [
+"Európsky inštitút pre rodovú rovnosť (EIGE)",
+"Európsky ombudsman"
+],
+"v": "V meste Barcelona sídli Spoločný podnik Fusion for Energy (F4E). Európsky inštitút pre rodovú rovnosť (EIGE) sídli v meste Vilnius, Európsky ombudsman v meste Štrasburg.",
+"src": [
+[
+"eu-inst-fusion-energy-f4e",
+"Sídlo: Barcelona (Španielsko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Spoločný podnik Fusion for Energy (F4E)?",
+"ok": "výskum jadrovej syntézy (projekt ITER)",
+"bad": [
+"ochrana investorov a stabilita finančných trhov",
+"vedecké hodnotenie a dohľad nad bezpečnosťou liekov"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: riadi aktivity EÚ v rámci projektu ITER a spolupracuje s Japonskom na projektoch výskumu a vývoja jadrovej syntézy",
+"src": [
+[
+"eu-inst-fusion-energy-f4e",
+"Úloha: riadi aktivity EÚ v rámci projektu ITER a spolupracuje s Japonskom na projektoch výskumu a vývoja jadrovej syntézy"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Prekladateľské stredisko pre orgány Európskej únie (CdT)?",
+"ok": "Luxemburg",
+"bad": [
+"Solún",
+"Brusel"
+],
+"v": "Prekladateľské stredisko pre orgány Európskej únie (CdT) sídli v meste Luxemburg (Luxembursko).",
+"src": [
+[
+"eu-inst-translation-centre-bodies-european-union-cdt",
+"Sídlo: Luxemburg (Luxembursko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Prekladateľské stredisko pre orgány Európskej únie (CdT)?",
+"ok": "preklady pre agentúry a orgány EÚ",
+"bad": [
+"rodová rovnosť",
+"justičná spolupráca v trestných veciach"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: preklad a súvisiace služby pre agentúry, orgány a inštitúcie EÚ, medziinštitucionálna spolupráca",
+"src": [
+[
+"eu-inst-translation-centre-bodies-european-union-cdt",
+"Úloha: preklad a súvisiace služby pre agentúry, orgány a inštitúcie EÚ, medziinštitucionálna spolupráca"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Jednotná rada pre riešenie krízových situácií (SRB)?",
+"ok": "Brusel",
+"bad": [
+"Lisabon",
+"Viedeň"
+],
+"v": "Jednotná rada pre riešenie krízových situácií (SRB) sídli v meste Brusel (Belgicko).",
+"src": [
+[
+"eu-inst-single-resolution-board-srb",
+"Sídlo: Brusel (Belgicko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Jednotná rada pre riešenie krízových situácií (SRB)?",
+"ok": "riešenie krízových situácií bánk v ťažkostiach",
+"bad": [
+"bezpečnosť civilného letectva",
+"riadenie rozsiahlych informačných systémov v oblasti spravodlivosti a vnútra"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: zabezpečiť náležité riešenie krízovej situácie bánk v ťažkostiach tak, aby to malo minimálny dosah na reálnu ekonomiku a verejné financie zúčastnených krajín EÚ a ostatných krajín",
+"src": [
+[
+"eu-inst-single-resolution-board-srb",
+"Úloha: zabezpečiť náležité riešenie krízovej situácie bánk v ťažkostiach tak, aby to malo minimálny dosah na reálnu ekonomiku a verejné financie zúčastnených krajín EÚ a ostatných krajín"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európska obranná agentúra (EDA)?",
+"ok": "Brusel",
+"bad": [
+"Lyon",
+"Haag"
+],
+"v": "Európska obranná agentúra (EDA) sídli v meste Brusel (Belgicko).",
+"src": [
+[
+"eu-inst-european-defence-agency-eda",
+"Sídlo: Brusel (Belgicko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európska obranná agentúra (EDA)?",
+"ok": "spolupráca na európskych obranných projektoch",
+"bad": [
+"poradenstvo o základných právach",
+"právna ochrana nových odrôd rastlín"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: EDA podporuje spoluprácu pri európskych obranných projektoch a slúži ako fórum pre ministerstvá obrany európskych krajín.",
+"src": [
+[
+"eu-inst-european-defence-agency-eda",
+"Úloha: EDA podporuje spoluprácu pri európskych obranných projektoch a slúži ako fórum pre ministerstvá obrany európskych krajín."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Úrad pre vydávanie publikácií Európskej únie?",
+"ok": "Luxemburg",
+"bad": [
+"Barcelona",
+"Viedeň"
+],
+"v": "Úrad pre vydávanie publikácií Európskej únie sídli v meste Luxemburg (Luxembursko).",
+"src": [
+[
+"eu-inst-publications-office-european-union-op",
+"Sídlo: Luxemburg"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Úrad pre vydávanie publikácií Európskej únie?",
+"ok": "vydavateľské služby pre inštitúcie EÚ",
+"bad": [
+"posilňovanie kapacít Európy v kybernetickej bezpečnosti",
+"vedecké hodnotenie a dohľad nad bezpečnosťou liekov"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: podporovať politiky EÚ a poskytovať vydavateľské služby inštitúciám, orgánom a agentúram EÚ",
+"src": [
+[
+"eu-inst-publications-office-european-union-op",
+"Úloha: podporovať politiky EÚ a poskytovať vydavateľské služby inštitúciám, orgánom a agentúram EÚ"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Zásobovacia agentúra Euratomu (ESA)?",
+"ok": "Luxemburg",
+"bad": [
+"Viedeň",
+"Alicante"
+],
+"v": "Zásobovacia agentúra Euratomu (ESA) sídli v meste Luxemburg (Luxembursko).",
+"src": [
+[
+"eu-inst-euratom-supply-agency-esa",
+"Sídlo: Luxemburg"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Zásobovacia agentúra Euratomu (ESA)?",
+"ok": "bezpečné dodávky jadrového materiálu",
+"bad": [
+"spolupráca regulačných orgánov v oblasti energetiky",
+"spolupráca krajín pri cezhraničnej mobilite pracovníkov"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: udržiavať pravidelné a bezpečné dodávky jadrového materiálu (rúd, zdrojového materiálu a osobitného štiepneho materiálu) pre všetkých používateľov v EÚ.",
+"src": [
+[
+"eu-inst-euratom-supply-agency-esa",
+"Úloha: udržiavať pravidelné a bezpečné dodávky jadrového materiálu (rúd, zdrojového materiálu a osobitného štiepneho materiálu) pre všetkých používateľov v EÚ."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európsky dozorný úradník pre ochranu údajov (EDPS)?",
+"ok": "Brusel",
+"bad": [
+"Tallinn",
+"Lyon"
+],
+"v": "Európsky dozorný úradník pre ochranu údajov (EDPS) sídli v meste Brusel (Belgicko).",
+"src": [
+[
+"eu-inst-european-data-protection-supervisor-edps",
+"Sídlo: Brusel (Belgicko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európsky dozorný úradník pre ochranu údajov (EDPS)?",
+"ok": "ochrana osobných údajov v inštitúciách EÚ",
+"bad": [
+"námorná bezpečnosť a boj proti znečisťovaniu mora",
+"vedecké hodnotenie a dohľad nad bezpečnosťou liekov"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: zabezpečuje, aby inštitúcie a orgány EÚ dodržiavali práva ľudí na súkromie pri spracovávaní ich osobných údajov",
+"src": [
+[
+"eu-inst-european-data-protection-supervisor-edps",
+"Úloha: zabezpečuje, aby inštitúcie a orgány EÚ dodržiavali práva ľudí na súkromie pri spracovávaní ich osobných údajov"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "V ktorom meste sídli Európska služba pre vonkajšiu činnosť (ESVČ)?",
+"ok": "Brusel",
+"bad": [
+"Lisabon",
+"Parma"
+],
+"v": "Európska služba pre vonkajšiu činnosť (ESVČ) sídli v meste Brusel (Belgicko).",
+"src": [
+[
+"eu-inst-european-external-action-service-eeas",
+"Sídlo: Brusel (Belgicko)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Čím sa zaoberá Európska služba pre vonkajšiu činnosť (ESVČ)?",
+"ok": "diplomatické vzťahy EÚ a zahraničná politika",
+"bad": [
+"vysoká úroveň kybernetickej bezpečnosti v Európe",
+"podpora inovácií"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: udržiava diplomatické vzťahy EÚ s ďalšími krajinami mimo EÚ a vykonáva zahraničnú a bezpečnostnú politiku EÚ",
+"src": [
+[
+"eu-inst-european-external-action-service-eeas",
+"Úloha: udržiava diplomatické vzťahy EÚ s ďalšími krajinami mimo EÚ a vykonáva zahraničnú a bezpečnostnú politiku EÚ"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "V ktorom meste sídli Európsky úrad pre výber pracovníkov (EPSO)?",
+"ok": "Brusel",
+"bad": [
+"Lisabon",
+"Dublin"
+],
+"v": "Európsky úrad pre výber pracovníkov (EPSO) sídli v meste Brusel (Belgicko).",
+"src": [
+[
+"eu-inst-european-personnel-selection-office-epso",
+"Sídlo: Brusel (jedného zamestnanca má aj v Luxemburgu)"
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Čím sa zaoberá Európsky úrad pre výber pracovníkov (EPSO)?",
+"ok": "výberové konania na zamestnancov inštitúcií EÚ",
+"bad": [
+"riešenie krízových situácií bánk v ťažkostiach",
+"ochranné známky a dizajny EÚ"
+],
+"v": "Podľa oficiálneho profilu na portáli EÚ: organizovanie kvalitných výberových konaní na výber zamestnancov pre inštitúcie, orgány a agentúry EÚ",
+"src": [
+[
+"eu-inst-european-personnel-selection-office-epso",
+"Úloha: organizovanie kvalitných výberových konaní na výber zamestnancov pre inštitúcie, orgány a agentúry EÚ"
+]
+]
+}
+]

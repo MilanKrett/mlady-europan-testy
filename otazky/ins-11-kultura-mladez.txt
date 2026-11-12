@@ -1,0 +1,184 @@
+#kat ins
+#n 2
+
+Aký je rozpočet programu Erasmus+ na roky 2021 – 2027?
++ približne 26,2 miliardy EUR
+- približne 2,6 miliardy EUR
+- približne 262 miliónov EUR
+= Rozpočet Erasmus+ predstavuje približne 26,2 miliardy EUR – takmer dvojnásobok oproti obdobiu 2014 – 2020.
+> erasmus-what | Jeho rozpočet predstavuje približne 26,2 miliardy EUR.
+
+Ktoré oblasti podporuje program Erasmus+?
++ vzdelávanie, odbornú prípravu, mládež a šport
+- obranu, políciu a hranice
+- poľnohospodárstvo a rybárstvo
+= Erasmus+ je program EÚ na podporu vzdelávania, odbornej prípravy, mládeže a športu v Európe.
+> erasmus-what | Erasmus+ je program EÚ na podporu vzdelávania, odbornej prípravy, mládeže a športu v Európe.
+
+Koľko rokov musíš mať, aby si sa mohol/mohla prihlásiť do iniciatívy DiscoverEU?
++ 18 rokov
+- 15 rokov
+- 26 rokov
+= DiscoverEU je pre 18-ročných občanov EÚ alebo krajín pridružených k Erasmus+.
+> discovereu | Máš 18 rokov a si občanom niektorého z členských štátov EÚ
+
+Akým dopravným prostriedkom sa cestuje predovšetkým s cestovným poukazom DiscoverEU?
++ železničnou dopravou
+- lietadlom
+- autobusom
+= Cestovný poukaz DiscoverEU umožňuje cestovať prevažne železničnou dopravou.
+> discovereu | cestovný poukaz, ktorý ti umožní cestovať prevažne železničnou dopravou
+
+Koľkokrát do roka sa konajú kolá prihlášok do DiscoverEU?
++ dvakrát – na jar a na jeseň
+- raz za päť rokov
+- každý mesiac
+= Každý rok sa konajú dve kolá podávania prihlášok, jedno na jar a jedno na jeseň.
+> discovereu | Každý rok sa konajú dve kolá podávania prihlášok, jedno na jar a jedno na jeseň.
+
+@akt 2
+Kto sa môže prihlásiť do kola DiscoverEU na jar 2027?
++ mladí ľudia narodení od 1. júla 2008 do 30. júna 2009
+- všetci študenti do 26 rokov
+- len ľudia narodení v roku 2000
+= Do kola na jar 2027 sa môžu prihlásiť mladí ľudia narodení v období od 1. júla 2008 do 30. júna 2009.
+> discovereu | si budú môcť podať prihlášku mladí ľudia narodení v období od 1. júla 2008 do 30. júna 2009
+
+@akt 2
+Ktorá krajina sa od roku 2027 opäť zapojí do programu Erasmus+ vrátane DiscoverEU?
++ Spojené kráľovstvo
+- Rusko
+- Švajčiarsko
+= Od roku 2027 sa do programu Erasmus+ vrátane iniciatívy DiscoverEU zapojí aj Spojené kráľovstvo.
+> discovereu | Od roku 2027 sa do programu Erasmus+ vrátane iniciatívy DiscoverEU zapojí aj Spojené kráľovstvo.
+
+S koľkými kamarátmi môžeš najviac vytvoriť skupinu pri prihláške do DiscoverEU?
++ až so štyrmi
+- len sám
+- až s desiatimi
+= Môžeš cestovať sám alebo vytvoriť skupinu až so štyrmi kamarátmi.
+> discovereu | vytvoriť skupinu až so štyrmi kamarátmi
+
+@ins 3
+Ktorá z týchto krajín mimo EÚ je pridružená k programu Erasmus+?
++ Severné Macedónsko
+- Rusko
+- Kanada
+= K Erasmus+ sú pridružené Island, Lichtenštajnsko, Nórsko, Severné Macedónsko, Srbsko a Turecko.
+> discovereu | tretie krajiny pridružené k programu Erasmus+: Island, Lichtenštajnsko, Nórsko, Severné Macedónsko, Srbsko a Turecko
+
+Pre ktorú vekovú skupinu je Európsky zbor solidarity?
++ pre mladých ľudí vo veku 18 – 30 rokov
+- pre dôchodcov
+- pre deti do 12 rokov
+= Európsky zbor solidarity umožňuje mladým ľuďom vo veku 18 až 30 rokov účasť na projektoch v zahraničí alebo doma.
+> esc | Máš 18 až 30 rokov a hľadáš príležitosti, ako pomôcť iným v Európe či mimo nej?
+
+@ins 3
+Do akého veku sa možno zapojiť do dobrovoľníckej činnosti Európskeho zboru solidarity v oblasti humanitárnej pomoci?
++ do 35 rokov
+- do 18 rokov
+- do 65 rokov
+= Do dobrovoľníckej činnosti v oblasti humanitárnej pomoci sa môžu zapojiť ľudia vo veku do 35 rokov.
+> esc | dobrovoľnícka činnosť v oblasti humanitárnej pomoci (zapojiť sa môžu ľudia vo veku do 35 rokov)
+
+@ins 3
+Na aké obdobie platí stratégia EÚ pre mládež?
++ 2019 – 2027
+- 2004 – 2010
+- 2030 – 2040
+= Stratégia EÚ pre mládež na roky 2019 – 2027 má tri piliere: zapojenie, spájanie a posilňovanie postavenia.
+> ep-fs-141 | stratégii EÚ pre mládež na roky 2019 – 2027 a jej troch pilieroch – zapojenie, spájanie a posilňovanie postavenia
+
+@ins 3
+Koľko európskych cieľov v oblasti mládeže podporuje EÚ prostredníctvom Európskeho dialógu s mládežou?
++ 11
+- 3
+- 27
+= EÚ podporuje rozvoj 11 európskych cieľov v oblasti mládeže prostredníctvom Európskeho dialógu s mládežou.
+> ep-fs-141 | podporou rozvoja 11 európskych cieľov v oblasti mládeže prostredníctvom Európskeho dialógu s mládežou
+
+@ins 3
+Kedy Komisia vymenovala prvého koordinátora EÚ pre mládež?
++ v júni 2021
+- v máji 2004
+- v januári 2025
+= V júni 2021 Komisia vymenovala prvého koordinátora EÚ pre mládež.
+> ep-fs-141 | V júni 2021 Komisia v rámci tejto stratégie vymenovala prvého koordinátora EÚ pre mládež
+
+Ktorý článok Charty základných práv EÚ zakotvuje zákaz detskej práce?
++ článok 32
+- článok 2
+- článok 50
+= V článku 32 Charty je zakotvený zákaz detskej práce a ochrana mladých ľudí pri práci.
+> ep-fs-141 | V článku 32 je zakotvený zákaz detskej práce a ochrana mladých ľudí pri práci.
+
+@akt 3
+Ako sa nazýva nový strategický rámec EÚ pre kultúru, ktorý Komisia predstavila 12. novembra 2025?
++ Kultúrny kompas pre Európu
+- Nová európska stratégia pre kultúru
+- Kreatívna Európa 2030
+= Komisia predstavila 12. novembra 2025 rámec Kultúrny kompas pre Európu, nástupcu Novej európskej stratégie pre kultúru z roku 2018.
+> ep-fs-137 | Európska komisia predstavila 12. novembra 2025 nový strategický rámce pre odvetvie kultúry EÚ s názvom Kultúrny kompas pre Európu
+
+@ins 3
+Koľko kľúčových opatrení zavádza Kultúrny kompas pre Európu?
++ 20
+- 5
+- 100
+= Kultúrny kompas zavádza 20 kľúčových opatrení v štyroch smeroch.
+> ep-fs-137 | Týmto strategickým rámcom sa zavádza 20 kľúčových opatrení
+
+Akú úlohu má EÚ v oblasti kultúry podľa zmlúv?
++ podporovať, koordinovať alebo dopĺňať činnosti členských štátov
+- riadiť všetky múzeá a divadlá v EÚ
+- určovať národné kultúrne zákony
+= Úlohou EÚ v oblasti kultúry je podporovať, koordinovať alebo dopĺňať činnosti členských štátov.
+> ep-fs-137 | úlohou EÚ v oblasti kultúry je podporovať, koordinovať alebo dopĺňať činnosti členských štátov
+
+@ins 3
+Ktorou zmluvou bolo vzdelávanie formálne uznané ako oblasť patriaca do právomoci EÚ?
++ Maastrichtskou zmluvou (1992)
+- Rímskou zmluvou (1957)
+- Lisabonskou zmluvou (2007)
+= Odborná príprava bola oblasťou činnosti od Rímskej zmluvy, vzdelávanie bolo formálne uznané Maastrichtskou zmluvou v roku 1992.
+> ep-fs-139 | vzdelávanie bolo formálne uznané ako oblasť patriaca do právomoci EÚ Maastrichtskou zmluvou v roku 1992
+
+@ins 3
+Koľko kľúčových zásad obsahuje Európsky pilier sociálnych práv?
++ 20
+- 3
+- 50
+= V Európskom pilieri sociálnych práv prijatom v roku 2017 sa stanovuje 20 kľúčových zásad.
+> ep-fs-139 | V Európskom pilieri sociálnych práv prijatom v roku 2017 sa stanovuje 20 kľúčových zásad
+
+@ins 3
+Aký podiel dospelých by sa mal podľa cieľov EÚ do roku 2030 každoročne zúčastňovať na odbornej príprave?
++ aspoň 60 %
+- aspoň 6 %
+- 100 %
+= Cieľom EÚ do roku 2030 je každoročná účasť aspoň 60 % všetkých dospelých na odbornej príprave.
+> ep-fs-139 | každoročnej účasti aspoň 60 % všetkých dospelých na odbornej príprave
+
+@ins 3
+Do ktorého roka chcela Komisia vytvoriť európsky vzdelávací priestor (oznámenie z 30. septembra 2020)?
++ do roku 2025
+- do roku 2050
+- do roku 2004
+= V oznámení o vytvorení európskeho vzdelávacieho priestoru do roku 2025, prijatom 30. septembra 2020, Komisia načrtla prístup k zlepšeniu vzdelávania.
+> ep-fs-140 | V oznámení o vytvorení európskeho vzdelávacieho priestoru do roku 2025, ktoré bolo prijaté 30. septembra 2020
+
+@ins 3
+Na aké roky je pracovný plán EÚ pre šport?
++ 2024 – 2027
+- 2014 – 2020
+- 2030 – 2035
+= Informačný list zdôrazňuje pracovný plán EÚ pre šport na roky 2024 – 2027 a iniciatívy ako Erasmus+ Sport a Európsky týždeň športu.
+> ep-fs-143 | pracovný plán EÚ pre šport na roky 2024 – 2027
+
+S ktorou medzinárodnou organizáciou majú EÚ a členské štáty podľa článku 165 ZFEÚ spolupracovať najmä v oblasti vzdelávania a športu?
++ s Radou Európy
+- s NATO
+- s OPEC
+= Únia a členské štáty podporujú v oblasti vzdelávania a športu spoluprácu s tretími krajinami a medzinárodnými organizáciami, najmä s Radou Európy.
+> ep-fs-143 | najmä s Radou Európy

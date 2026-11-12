@@ -1,0 +1,109 @@
+#kat med
+#n 2
+
+Kedy nadobudli účinnosť nové pravidlá EÚ pre ochranu údajov (GDPR)?
++ v máji 2018
+- v máji 2004
+- v januári 2025
+= Nové pravidlá EÚ pre ochranu údajov nadobudli účinnosť v máji 2018.
+> ep-fs-157 | Nové pravidlá EÚ pre ochranu údajov posilňujúce práva občanov a zjednodušujúce pravidlá pre spoločnosti v digitálnom veku nadobudli účinnosť v máji 2018.
+
+@med 3
+V ktorých článkoch Charty základných práv EÚ sú zakotvené rešpektovanie súkromného života a ochrana osobných údajov?
++ v článkoch 7 a 8
+- v článkoch 1 a 2
+- v článku 50
+= Rešpektovanie súkromného života a ochrana osobných údajov sa uznávajú v článkoch 7 a 8 Charty ako oddelené základné práva.
+> ep-fs-157 | Rešpektovanie súkromného života a ochrana osobných údajov sa uznávajú v článkoch 7 a 8 Charty základných práv EÚ
+
+@med 3
+Ktorý dokument je prvým právne záväzným medzinárodným nástrojom v oblasti ochrany údajov?
++ Dohovor Rady Európy 108 z roku 1981
+- GDPR z roku 2016
+- Rímska zmluva z roku 1957
+= Dohovor Rady Európy 108 z 28. januára 1981 je prvým právne záväzným medzinárodným nástrojom v oblasti ochrany údajov.
+> ep-fs-157 | Dohovor Rady Európy 108 z 28. januára 1981 o ochrane jednotlivcov pri automatizovanom spracovaní osobných údajov je prvým právne záväzným medzinárodným nástrojom
+
+Čo zaručuje článok 11 ods. 2 Charty základných práv EÚ?
++ rešpektovanie slobody a plurality médií
+- právo na prácu
+- právo na azyl
+= Charta podľa článku 11 ods. 2 zaručuje rešpektovanie „slobody a plurality médií“.
+> ep-fs-138 | V Charte základných práv Európskej únie sa podľa článku 11 ods. 2 zaručuje rešpektovanie „slobody a plurality médií“.
+
+@med 3
+V ktorom roku bola prijatá smernica „Televízia bez hraníc“?
++ v roku 1989
+- v roku 1957
+- v roku 2010
+= Smernica o televízii bez hraníc z roku 1989 vymedzila spoločné minimálne normy.
+> ep-fs-138 | smernice o televízii bez hraníc z roku 1989
+
+@med 3
+Akú zásadu zaviedla revízia smernice o televízii bez hraníc v roku 1997?
++ zásadu krajiny pôvodu – vysielateľ podlieha štátu, kde má sídlo
+- zákaz reklamy
+- povinnosť vysielať v angličtine
+= Revíziou v roku 1997 sa zaviedla zásada krajiny pôvodu: vysielatelia podliehajú právomoci štátu, v ktorom majú sídlo.
+> ep-fs-138 | Jej prvou revíziou v roku 1997 sa zaviedla zásada krajiny pôvodu
+
+Ako sa od roku 2010 nazýva bývalá smernica o televízii bez hraníc?
++ smernica o audiovizuálnych mediálnych službách
+- akt o digitálnych službách
+- smernica o elektronickom obchode
+= Smernica bola kodifikovaná v roku 2010 a premenovala sa na smernicu o audiovizuálnych mediálnych službách.
+> ep-fs-138 | premenovala sa na smernicu o audiovizuálnych mediálnych službách
+
+@med 3
+Aké nové služby zahrnula revízia smernice o televízii bez hraníc v roku 2007?
++ video na požiadanie
+- tlačené noviny
+- rozhlas na dlhých vlnách
+= Revíziou z roku 2007 sa zaviedli ustanovenia pre nové služby, ako napríklad video na požiadanie.
+> ep-fs-138 | Revíziou z roku 2007 sa zaviedli ustanovenia pre nové služby, ako napríklad video na požiadanie.
+
+@med 3
+Aký podiel dospelých by mal mať podľa Digitálneho kompasu do roku 2030 aspoň základné digitálne zručnosti?
++ aspoň 80 %
+- aspoň 30 %
+- 100 %
+= Digitálny kompas: aspoň 80 % dospelých by malo mať základné digitálne zručnosti a v EÚ by malo pracovať 20 miliónov špecialistov na IKT.
+> ep-fs-64 | aspoň 80 % všetkých dospelých by malo mať základné digitálne zručnosti
+
+@med 3
+Koľko špecialistov na IKT by malo byť podľa Digitálneho kompasu zamestnaných v EÚ do roku 2030?
++ 20 miliónov
+- 2 milióny
+- 200 miliónov
+= Cieľom je, aby v EÚ bolo zamestnaných 20 miliónov špecialistov v oblasti IKT, a viac žien na týchto miestach.
+> ep-fs-64 | v EÚ by malo byť zamestnaných 20 miliónov špecialistov v oblasti IKT
+
+@med 3
+Kedy EÚ predstavila Digitálny kompas so štyrmi cieľmi na rok 2030?
++ v marci 2021
+- v máji 2004
+- v decembri 2019
+= V marci 2021 EÚ predstavila Digitálny kompas, v ktorom načrtla štyri ciele na rok 2030.
+> ep-fs-64 | V marci 2021 EÚ predstavila Digitálny kompas, v ktorom načrtla štyri ciele na rok 2030.
+
+Ako sa nazýva portál, cez ktorý môžu občania prispievať k tvorbe politík EÚ v konzultáciách?
++ Vyjadrite svoj názor
+- Hlas Bruselu
+- Euro Chat
+= Portál Vyjadrite svoj názor umožňuje občanom a podnikom prispievať k tvorbe politík EÚ prostredníctvom konzultácií.
+> ep-fs-144 | Portál Vyjadrite svoj názor (nástupca webového sídla „Váš hlas v Európe“)
+
+Ktorý portál slúži ako ústredný prístupový bod k informáciám o EÚ?
++ europa.eu
+- eu-info.com
+- brussels.org
+= Portál europa.eu slúži ako ústredný prístupový bod k informáciám o EÚ, jej právnych predpisoch, politikách a službách.
+> ep-fs-144 | portál europa.eu, ktorý slúži ako ústredný prístupový bod k informáciám o EÚ
+
+@sym 2
+Ktorý článok ZFEÚ zakotvuje právo predkladať petície Európskemu parlamentu?
++ článok 227
+- článok 50
+- článok 7
+= Právo predkladať petície Parlamentu je zakotvené v článku 227 ZFEÚ.
+> ep-fs-144 | Právo predkladať petície Parlamentu, ktoré je kľúčovým prvkom participatívnej demokracie, je zakotvené v článku 227 ZFEÚ.

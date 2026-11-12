@@ -1,0 +1,713 @@
+[
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Azory?",
+"ok": "Portugalsko",
+"bad": [
+"Francúzsko",
+"Španielsko"
+],
+"v": "Azory patrí krajine Portugalsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"dva portugalské autonómne regióny – Madeira a Azory"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Kanárske ostrovy?",
+"ok": "Španielsko",
+"bad": [
+"Francúzsko",
+"Portugalsko"
+],
+"v": "Kanárske ostrovy patrí krajine Španielsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"jedno španielske autonómne spoločenstvo – Kanárske ostrovy"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Guadeloupe?",
+"ok": "Francúzsko",
+"bad": [
+"Portugalsko",
+"Španielsko"
+],
+"v": "Guadeloupe patrí krajine Francúzsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Francúzska Guyana?",
+"ok": "Francúzsko",
+"bad": [
+"Portugalsko",
+"Španielsko"
+],
+"v": "Francúzska Guyana patrí krajine Francúzsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Madeira?",
+"ok": "Portugalsko",
+"bad": [
+"Francúzsko",
+"Španielsko"
+],
+"v": "Madeira patrí krajine Portugalsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"dva portugalské autonómne regióny – Madeira a Azory"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Martinik?",
+"ok": "Francúzsko",
+"bad": [
+"Portugalsko",
+"Španielsko"
+],
+"v": "Martinik patrí krajine Francúzsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Réunion?",
+"ok": "Francúzsko",
+"bad": [
+"Portugalsko",
+"Španielsko"
+],
+"v": "Réunion patrí krajine Francúzsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Svätý Martin?",
+"ok": "Francúzsko",
+"bad": [
+"Portugalsko",
+"Španielsko"
+],
+"v": "Svätý Martin patrí krajine Francúzsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"jedno francúzske zámorské spoločenstvo – Svätý Martin"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajine EÚ patrí najvzdialenejší región Mayotte?",
+"ok": "Francúzsko",
+"bad": [
+"Portugalsko",
+"Španielsko"
+],
+"v": "Mayotte patrí krajine Francúzsko. EÚ má deväť najvzdialenejších regiónov: šesť francúzskych, dva portugalské (Madeira, Azory) a jeden španielsky (Kanárske ostrovy).",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)?",
+"ok": "Azory",
+"bad": [
+"Svätý Bartolomej",
+"Faerské ostrovy"
+],
+"v": "Azory je jedným z deviatich najvzdialenejších regiónov EÚ; Svätý Bartolomej ani Faerské ostrovy medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"dva portugalské autonómne regióny – Madeira a Azory"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)? ",
+"ok": "Kanárske ostrovy",
+"bad": [
+"Kréta",
+"Sicília"
+],
+"v": "Kanárske ostrovy je jedným z deviatich najvzdialenejších regiónov EÚ; Kréta ani Sicília medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"jedno španielske autonómne spoločenstvo – Kanárske ostrovy"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)?  ",
+"ok": "Guadeloupe",
+"bad": [
+"Sicília",
+"Korzika"
+],
+"v": "Guadeloupe je jedným z deviatich najvzdialenejších regiónov EÚ; Sicília ani Korzika medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)?",
+"ok": "Francúzska Guyana",
+"bad": [
+"Grónsko",
+"Sicília"
+],
+"v": "Francúzska Guyana je jedným z deviatich najvzdialenejších regiónov EÚ; Grónsko ani Sicília medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)? ",
+"ok": "Madeira",
+"bad": [
+"Svätý Bartolomej",
+"Faerské ostrovy"
+],
+"v": "Madeira je jedným z deviatich najvzdialenejších regiónov EÚ; Svätý Bartolomej ani Faerské ostrovy medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"dva portugalské autonómne regióny – Madeira a Azory"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)?  ",
+"ok": "Martinik",
+"bad": [
+"Korzika",
+"Sicília"
+],
+"v": "Martinik je jedným z deviatich najvzdialenejších regiónov EÚ; Korzika ani Sicília medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)?",
+"ok": "Réunion",
+"bad": [
+"Grónsko",
+"Kréta"
+],
+"v": "Réunion je jedným z deviatich najvzdialenejších regiónov EÚ; Grónsko ani Kréta medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)? ",
+"ok": "Svätý Martin",
+"bad": [
+"Sardínia",
+"Korzika"
+],
+"v": "Svätý Martin je jedným z deviatich najvzdialenejších regiónov EÚ; Sardínia ani Korzika medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"jedno francúzske zámorské spoločenstvo – Svätý Martin"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto regiónov je najvzdialenejším regiónom EÚ (ultraperiférnym regiónom)?  ",
+"ok": "Mayotte",
+"bad": [
+"Svätý Bartolomej",
+"Kréta"
+],
+"v": "Mayotte je jedným z deviatich najvzdialenejších regiónov EÚ; Svätý Bartolomej ani Kréta medzi ne nepatria.",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+],
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Koľko najvzdialenejších regiónov má v súčasnosti EÚ?",
+"ok": "deväť",
+"bad": [
+"tri",
+"dvadsaťsedem"
+],
+"v": "EÚ má deväť najvzdialenejších regiónov: Martinik, Mayotte, Guadeloupe, Francúzska Guyana, Réunion, Svätý Martin, Madeira, Azory a Kanárske ostrovy.",
+"src": [
+[
+"ep-fs-100",
+"V súčasnosti má EÚ deväť najvzdialenejších regiónov:"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré tri štáty EÚ majú najvzdialenejšie regióny?",
+"ok": "Francúzsko, Portugalsko a Španielsko",
+"bad": [
+"Dánsko, Holandsko a Francúzsko",
+"Taliansko, Grécko a Cyprus"
+],
+"v": "Najvzdialenejšie regióny majú Francúzsko (6), Portugalsko (2) a Španielsko (1).",
+"src": [
+[
+"ep-fs-100",
+"päť francúzskych zámorských departmánov – Martinik, Mayotte, Guadeloupe, Francúzska Guyana a Réunion"
+],
+[
+"ep-fs-100",
+"dva portugalské autonómne regióny – Madeira a Azory"
+],
+[
+"ep-fs-100",
+"jedno španielske autonómne spoločenstvo – Kanárske ostrovy"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ má najviac obyvateľov?",
+"ok": "Kanárske ostrovy",
+"bad": [
+"Svätý Martin",
+"Guadeloupe"
+],
+"v": "Podľa údajov EP: Kanárske ostrovy 2 258 866 obyv., Svätý Martin 32 358 obyv., Guadeloupe 413 791 obyv.",
+"src": [
+[
+"ep-fs-100",
+"Kanárske ostrovy | 1 850 (priemer za všetky ostrovy) | 7 447 | 2 258 866 | 62"
+],
+[
+"ep-fs-100",
+"Svätý Martin | 6 700 | 86 (francúzska strana 53) | 32 358"
+],
+[
+"ep-fs-100",
+"Guadeloupe | 7 578 | 1 685 | 413 791 | 69"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ má najväčšiu rozlohu?",
+"ok": "Francúzska Guyana",
+"bad": [
+"Guadeloupe",
+"Kanárske ostrovy"
+],
+"v": "Podľa údajov EP: Francúzska Guyana 83 751 km², Guadeloupe 1 685 km², Kanárske ostrovy 7 447 km².",
+"src": [
+[
+"ep-fs-100",
+"Francúzska Guyana | 7 841 | 83 751 | 291 774 | 46"
+],
+[
+"ep-fs-100",
+"Guadeloupe | 7 578 | 1 685 | 413 791 | 69"
+],
+[
+"ep-fs-100",
+"Kanárske ostrovy | 1 850 (priemer za všetky ostrovy) | 7 447 | 2 258 866 | 62"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ je najďalej od hlavného mesta svojho štátu v kontinentálnej Európe?",
+"ok": "Réunion",
+"bad": [
+"Azory",
+"Mayotte"
+],
+"v": "Podľa údajov EP: Réunion 9 921 km, Azory 1 548 km, Mayotte 8 444 km.",
+"src": [
+[
+"ep-fs-100",
+"Réunion | 9 921 | 2 504 | 892 102 | 68"
+],
+[
+"ep-fs-100",
+"Azory | 1 548 | 2 322 | 236 488 | 67"
+],
+[
+"ep-fs-100",
+"Mayotte | 8 444 | 367 | 329 208 | 30"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ má najviac obyvateľov?",
+"ok": "Kanárske ostrovy",
+"bad": [
+"Francúzska Guyana",
+"Martinik"
+],
+"v": "Podľa údajov EP: Kanárske ostrovy 2 258 866 obyv., Francúzska Guyana 291 774 obyv., Martinik 359 419 obyv.",
+"src": [
+[
+"ep-fs-100",
+"Kanárske ostrovy | 1 850 (priemer za všetky ostrovy) | 7 447 | 2 258 866 | 62"
+],
+[
+"ep-fs-100",
+"Francúzska Guyana | 7 841 | 83 751 | 291 774 | 46"
+],
+[
+"ep-fs-100",
+"Martinik | 7 641 | 1 108 | 359 419 | 76"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ má najväčšiu rozlohu?",
+"ok": "Francúzska Guyana",
+"bad": [
+"Kanárske ostrovy",
+"Svätý Martin"
+],
+"v": "Podľa údajov EP: Francúzska Guyana 83 751 km², Kanárske ostrovy 7 447 km², Svätý Martin 86 km².",
+"src": [
+[
+"ep-fs-100",
+"Francúzska Guyana | 7 841 | 83 751 | 291 774 | 46"
+],
+[
+"ep-fs-100",
+"Kanárske ostrovy | 1 850 (priemer za všetky ostrovy) | 7 447 | 2 258 866 | 62"
+],
+[
+"ep-fs-100",
+"Svätý Martin | 6 700 | 86 (francúzska strana 53) | 32 358"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ je najďalej od hlavného mesta svojho štátu v kontinentálnej Európe?",
+"ok": "Réunion",
+"bad": [
+"Svätý Martin",
+"Mayotte"
+],
+"v": "Podľa údajov EP: Réunion 9 921 km, Svätý Martin 6 700 km, Mayotte 8 444 km.",
+"src": [
+[
+"ep-fs-100",
+"Réunion | 9 921 | 2 504 | 892 102 | 68"
+],
+[
+"ep-fs-100",
+"Svätý Martin | 6 700 | 86 (francúzska strana 53) | 32 358"
+],
+[
+"ep-fs-100",
+"Mayotte | 8 444 | 367 | 329 208 | 30"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ má najviac obyvateľov?",
+"ok": "Kanárske ostrovy",
+"bad": [
+"Guadeloupe",
+"Francúzska Guyana"
+],
+"v": "Podľa údajov EP: Kanárske ostrovy 2 258 866 obyv., Guadeloupe 413 791 obyv., Francúzska Guyana 291 774 obyv.",
+"src": [
+[
+"ep-fs-100",
+"Kanárske ostrovy | 1 850 (priemer za všetky ostrovy) | 7 447 | 2 258 866 | 62"
+],
+[
+"ep-fs-100",
+"Guadeloupe | 7 578 | 1 685 | 413 791 | 69"
+],
+[
+"ep-fs-100",
+"Francúzska Guyana | 7 841 | 83 751 | 291 774 | 46"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ má najväčšiu rozlohu?",
+"ok": "Francúzska Guyana",
+"bad": [
+"Madeira",
+"Réunion"
+],
+"v": "Podľa údajov EP: Francúzska Guyana 83 751 km², Madeira 802 km², Réunion 2 504 km².",
+"src": [
+[
+"ep-fs-100",
+"Francúzska Guyana | 7 841 | 83 751 | 291 774 | 46"
+],
+[
+"ep-fs-100",
+"Madeira | 1 041 | 802 | 259 440 | 69"
+],
+[
+"ep-fs-100",
+"Réunion | 9 921 | 2 504 | 892 102 | 68"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto najvzdialenejších regiónov EÚ je najďalej od hlavného mesta svojho štátu v kontinentálnej Európe?",
+"ok": "Réunion",
+"bad": [
+"Francúzska Guyana",
+"Martinik"
+],
+"v": "Podľa údajov EP: Réunion 9 921 km, Francúzska Guyana 7 841 km, Martinik 7 641 km.",
+"src": [
+[
+"ep-fs-100",
+"Réunion | 9 921 | 2 504 | 892 102 | 68"
+],
+[
+"ep-fs-100",
+"Francúzska Guyana | 7 841 | 83 751 | 291 774 | 46"
+],
+[
+"ep-fs-100",
+"Martinik | 7 641 | 1 108 | 359 419 | 76"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý najvzdialenejší región EÚ má najnižšie HDP na obyvateľa (30 % priemeru EÚ)?",
+"ok": "Mayotte",
+"bad": [
+"Azory",
+"Kanárske ostrovy"
+],
+"v": "Mayotte má HDP na obyvateľa na úrovni 30 % priemeru EÚ, najmenej zo všetkých najvzdialenejších regiónov.",
+"src": [
+[
+"ep-fs-100",
+"Mayotte | 8 444 | 367 | 329 208 | 30"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý región sa v roku 2014 rozhodnutím Európskej rady stal najvzdialenejším regiónom EÚ?",
+"ok": "Mayotte",
+"bad": [
+"Svätý Bartolomej",
+"Grónsko"
+],
+"v": "Mayotte bolo zámorskou krajinou a územím až do roku 2014, keď sa stalo najvzdialenejším regiónom.",
+"src": [
+[
+"ep-fs-100",
+"K opačnej situácii došlo v prípade Mayotte, ktoré bolo zámorskou krajinou a územím až do roku 2014"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktoré územie prestalo byť v roku 2012 najvzdialenejším regiónom EÚ a stalo sa zámorskou krajinou a územím?",
+"ok": "Svätý Bartolomej",
+"bad": [
+"Mayotte",
+"Madeira"
+],
+"v": "Do konca roka 2011 bol Svätý Bartolomej najvzdialenejším regiónom, v roku 2012 sa stal zámorskou krajinou a územím.",
+"src": [
+[
+"ep-fs-100",
+"Do konca roka 2011 bol napríklad Svätý Bartolomej najvzdialenejším regiónom EÚ, ale v roku 2012 sa stal zámorskou krajinou a územím."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "S ktorými štátmi EÚ majú ústavné väzby zámorské krajiny a územia (ZKÚ)?",
+"ok": "s Dánskom, Francúzskom a Holandskom",
+"bad": [
+"so Španielskom a Portugalskom",
+"s Talianskom a Gréckom"
+],
+"v": "Existuje 13 zámorských krajín a území s ústavnými väzbami na Dánsko, Francúzsko a Holandsko.",
+"src": [
+[
+"ep-fs-100",
+"Existuje 13 zámorských krajín a území, ktoré majú ústavné väzby na Dánsko, Francúzsko a Holandsko."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Sú zámorské krajiny a územia (napr. Grónsko) súčasťou jednotného trhu EÚ?",
+"ok": "nie, na rozdiel od najvzdialenejších regiónov",
+"bad": [
+"áno, rovnako ako najvzdialenejšie regióny",
+"áno, ale len v roku 2026"
+],
+"v": "Zámorské krajiny a územia nie sú súčasťou jednotného trhu; najvzdialenejšie regióny sú integrálnou súčasťou EÚ.",
+"src": [
+[
+"ep-fs-100",
+"Zámorské krajiny a územia nie sú súčasťou jednotného trhu"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom najvzdialenejšom regióne bola v roku 2020 nezamestnanosť nižšia ako priemer EÚ?",
+"ok": "na Azorách",
+"bad": [
+"na Kanárskych ostrovoch",
+"na Mayotte"
+],
+"v": "Len na Azorách bola miera nezamestnanosti nižšia ako priemer EÚ; na Kanárskych ostrovoch a Mayotte bola viac ako trojnásobná.",
+"src": [
+[
+"ep-fs-100",
+"Len na Azorách bola miera nezamestnanosti nižšia ako priemer EÚ"
+]
+]
+}
+]

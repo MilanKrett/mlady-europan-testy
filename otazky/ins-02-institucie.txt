@@ -1,0 +1,515 @@
+#kat ins
+#n 2
+
+@ins 1
+Ktorá inštitúcia EÚ je priamo volená občanmi?
++ Európsky parlament
+- Európska komisia
+- Rada EÚ
+= Európsky parlament je jediný priamo volený orgán EÚ s legislatívnou, kontrolnou a rozpočtovou zodpovednosťou.
+> eu-inst-european-parliament | Úloha: priamo volený orgán EÚ s legislatívnou, kontrolnou a rozpočtovou zodpovednosťou
+
+@ins 1
+Ako často sa konajú voľby do Európskeho parlamentu?
++ každých päť rokov
+- každé štyri roky
+- každých šesť rokov
+= Európsky parlament volia občania EÚ v priamych voľbách každých päť rokov.
+> eu-inst-european-parliament | Každých päť rokov ho volia občania EÚ v priamych voľbách.
+
+@akt 1
+Kedy sa konali posledné voľby do Európskeho parlamentu?
++ 6. – 9. júna 2024
+- 23. – 26. mája 2019
+- 9. – 12. júna 2025
+= Posledné voľby do EP sa konali 6. – 9. júna 2024.
+> eu-inst-european-parliament | Posledné voľby do Európskeho parlamentu sa konali 6. – 9. júna 2024.
+
+@ins 1
+Kto je predsedníčkou Európskeho parlamentu?
++ Roberta Metsolová
+- Ursula von der Leyenová
+- Christine Lagardová
+= Predsedníčkou Európskeho parlamentu je Roberta Metsolová.
+> eu-inst-european-parliament | Predseda/predsedníčka: Roberta Metsolová
+
+V ktorých troch mestách má Európsky parlament sídlo?
++ Štrasburg, Brusel a Luxemburg
+- Brusel, Haag a Frankfurt
+- Štrasburg, Ženeva a Viedeň
+= Sídlami EP sú Štrasburg (Francúzsko), Brusel (Belgicko) a Luxemburg (Luxembursko).
+> eu-inst-european-parliament | Sídlo: Štrasburg (Francúzsko), Brusel (Belgicko), Luxemburg (Luxembursko)
+
+@ins 1
+Kde sa zvyčajne konajú mesačné plenárne zasadnutia Európskeho parlamentu?
++ v Štrasburgu
+- v Bruseli
+- v Luxemburgu
+= Plenárne zasadnutia sa zvyčajne konajú každý mesiac v Štrasburgu počas štyroch dní; niekedy aj v Bruseli.
+> eu-inst-european-parliament | Zvyčajne sa konajú každý mesiac v Štrasburgu počas štyroch dní
+
+@ins 3
+Koľko výborov má Európsky parlament?
++ 20 výborov a tri podvýbory
+- 7 výborov
+- 50 výborov
+= Parlament má celkovo 20 výborov a tri podvýbory, každý pre konkrétnu oblasť politiky.
+> eu-inst-european-parliament | Parlament má celkovo 20 výborov a tri podvýbory
+
+Čo znamená „zostupná proporcionalita“ pri rozdeľovaní kresiel v Európskom parlamente?
++ počet poslancov je zhruba úmerný počtu obyvateľov, no menšie štáty sú zastúpené proporčne viac
+- každý štát má rovnaký počet poslancov
+- najväčšie štáty majú proporčne viac poslancov ako malé
+= Počet poslancov je zhruba úmerný počtu obyvateľov, ale žiadna krajina nemá menej ako 6 ani viac ako 96 poslancov.
+> eu-inst-european-parliament | Počet poslancov EP za každú krajinu je zhruba úmerný počtu jej obyvateľov, ale ide o zostupnú proporcionalitu
+
+Podľa čoho sa poslanci Európskeho parlamentu združujú?
++ podľa politickej príslušnosti
+- podľa štátnej príslušnosti
+- podľa materinského jazyka
+= Poslanci EP sa združujú podľa politickej, a nie podľa štátnej príslušnosti.
+> eu-inst-european-parliament | Poslanci EP sa združujú podľa politickej, a nie podľa štátnej príslušnosti.
+
+Kto môže podať petíciu Európskemu parlamentu?
++ občan členského štátu EÚ alebo osoba s pobytom v EÚ
+- iba poslanec národného parlamentu
+- iba vláda členského štátu
+= Petíciu môže podať občan členského štátu EÚ alebo osoba s pobytom v EÚ; organizácie musia mať sídlo v EÚ.
+> eu-inst-european-parliament | Podať petíciu môžete, ak ste občanom členského štátu EÚ alebo máte pobyt v Európskej únii.
+
+Ktorá z týchto právomocí patrí Európskemu parlamentu?
++ volí predsedu Komisie a schvaľuje zloženie Komisie
+- vymenúva guvernérov národných bánk
+- riadi menovú politiku eurozóny
+= EP volí predsedu Komisie a schvaľuje zloženie Komisie; hlasovaním o nedôvere ju môže prinútiť odstúpiť.
+> eu-inst-european-parliament | Volí predsedu Komisie a schvaľuje zloženie Komisie.
+
+@ins 3
+Čo znamená, že Európsky parlament „udeľuje absolutórium“?
++ schvaľuje, ako boli použité prostriedky z rozpočtu EÚ
+- odpúšťa členským štátom pokuty
+- schvaľuje vstup novej krajiny do eurozóny
+= Udelením absolutória EP schvaľuje použitie prostriedkov z rozpočtu EÚ.
+> eu-inst-european-parliament | Udeľuje absolutórium, t. j. schvaľuje použitie prostriedkov z rozpočtu EÚ.
+
+@ins 3
+Kedy vznikol predchodca Európskeho parlamentu – Spoločné zhromaždenie ESUO?
++ v roku 1952
+- v roku 1958
+- v roku 1979
+= EP vznikol v roku 1952 ako Spoločné zhromaždenie ESUO, od roku 1962 sa volá Európsky parlament.
+> eu-inst-european-parliament | Vznikol v roku 1952 ako spoločné zhromaždenie Európskeho spoločenstva uhlia a ocele a od roku 1962 ako Európsky parlament.
+
+Kto tvorí Európsku radu?
++ hlavy štátov alebo predsedovia vlád krajín EÚ, predseda Európskej rady a predseda Komisie
+- ministri zahraničných vecí krajín EÚ
+- poslanci Európskeho parlamentu
+= Európsku radu tvoria hlavy štátov alebo predsedovia vlád všetkých krajín EÚ, predseda Európskej rady a predseda Komisie.
+> eu-inst-european-council | Európsku radu tvoria hlavy štátov alebo predsedovia vlád všetkých krajín EÚ, predseda Európskej rady a predseda Európskej komisie.
+
+Prijíma Európska rada právne predpisy?
++ nie, rozhoduje o smerovaní a prioritách EÚ
+- áno, je hlavným zákonodarcom EÚ
+- áno, ale len v oblasti rozpočtu
+= Európska rada rozhoduje o celkovom smerovaní a politických prioritách EÚ, avšak neprijíma právne predpisy.
+> eu-inst-european-council | Rozhoduje o celkovom smerovaní a politických prioritách EÚ, avšak neprijíma právne predpisy.
+
+Ako často sa zvyčajne stretáva Európska rada?
++ štyrikrát ročne
+- každý týždeň
+- raz za päť rokov
+= Európska rada sa zvyčajne stretáva štyrikrát ročne; v naliehavých prípadoch sa zvoláva mimoriadne zasadnutie.
+> eu-inst-european-council | Zvyčajne sa stretáva štyrikrát ročne
+
+@ins 3
+Kedy sa Európska rada stala oficiálnou inštitúciou EÚ?
++ v roku 2009
+- v roku 1974
+- v roku 1992
+= Európska rada: 1974 neformálne fórum, 1992 formálny status, 2009 oficiálna inštitúcia EÚ.
+> eu-inst-european-council | Rok zriadenia: 1974 (neformálne fórum), 1992 (formálny status), 2009 (oficiálna inštitúcia EÚ)
+
+Ako Európska rada zvyčajne prijíma rozhodnutia?
++ konsenzom
+- jednoduchou väčšinou poslancov EP
+- žrebovaním
+= Rozhodnutia Európskej rady sa zvyčajne prijímajú konsenzom, niekedy jednomyseľne alebo kvalifikovanou väčšinou.
+> eu-inst-european-council | Rozhodnutia Európskej rady sa zvyčajne prijímajú konsenzom
+
+@ins 3
+Kto môže hlasovať v Európskej rade?
++ iba hlavy štátov alebo predsedovia vlád
+- aj predseda Európskej rady a predseda Komisie
+- všetci prítomní vrátane ministrov
+= Hlasovať môžu iba hlavy štátov alebo predsedovia vlád.
+> eu-inst-european-council | Hlasovať môžu iba hlavy štátov alebo predsedovia vlád.
+
+Kto tvorí Radu EÚ?
++ ministri z každej krajiny EÚ podľa prerokúvanej oblasti
+- hlavy štátov a vlád
+- komisári
+= V Rade EÚ sa schádzajú ministri vlád krajín EÚ – podľa oblasti politiky, o ktorej sa rokuje.
+> eu-inst-council-european-union | Členovia: ministri z každej krajiny EÚ, podľa oblasti politiky, o ktorej sa má diskutovať
+
+@ins 3
+V ktorých mesiacoch zasadá Rada EÚ v Luxemburgu namiesto Bruselu?
++ v apríli, júni a októbri
+- v januári, máji a septembri
+- v júli a auguste
+= Zasadnutia Rady sa konajú v Bruseli, okrem apríla, júna a októbra, keď sú v Luxemburgu.
+> eu-inst-council-european-union | Zasadnutia Rady sa konajú v Bruseli s výnimkou troch mesiacov (apríl, jún a október), keď sa konajú v Luxemburgu.
+
+Ktorý z týchto orgánov NIE JE orgánom EÚ?
++ Rada Európy
+- Rada EÚ
+- Európska rada
+= Radu EÚ treba odlíšiť od Európskej rady (samity lídrov) aj od Rady Európy, ktorá nie je orgánom EÚ.
+> eu-inst-council-european-union | Rady Európy – nejde o orgán EÚ.
+
+Ktorí ministri sa stretávajú v Rade pre hospodárske a finančné záležitosti (Ecofin)?
++ ministri financií
+- ministri obrany
+- ministri školstva
+= Na zasadnutí Rady Ecofin je prítomný minister financií každej krajiny.
+> eu-inst-council-european-union | keď sa koná zasadnutie Rady pre hospodárske a finančné záležitosti (tzv. Rada Ecofin), je prítomný minister financií každej krajiny
+
+Kto má trvalé predsedníctvo v Rade ministrov zahraničných vecí?
++ vysoký predstaviteľ Únie pre zahraničné veci a bezpečnostnú politiku
+- minister zahraničných vecí predsedajúcej krajiny
+- predseda Európskeho parlamentu
+= Rada ministrov zahraničných vecí má trvalého predsedu – vysokého predstaviteľa; ostatné Rady vedie minister predsedajúcej krajiny.
+> eu-inst-council-european-union | Rada ministrov zahraničných vecí má trvalého predsedu – je ním vysoký predstaviteľ Únie pre zahraničnú a bezpečnostnú politiku.
+
+@ins 3
+Ako sa nazýva zoskupenie ministrov hospodárstva a financií krajín eurozóny?
++ Euroskupina
+- Ecofin
+- Eurosystém
+= Krajiny eurozóny koordinujú hospodársku politiku v Euroskupine, ktorá sa stretáva deň pred zasadnutím Rady Ecofin.
+> eu-inst-council-european-union | Krajiny eurozóny koordinujú svoju hospodársku politiku prostredníctvom Euroskupiny, ktorú tvoria ministri hospodárstva a financií.
+
+Kto sú členovia Výboru stálych predstaviteľov (Coreper)?
++ veľvyslanci členských štátov pri EÚ
+- predsedovia národných parlamentov
+- generálni riaditelia Komisie
+= Výbor sa skladá zo stálych predstaviteľov jednotlivých krajín pri EÚ, ktorí sú vlastne ich veľvyslancami.
+> eu-inst-council-european-union | Výbor sa skladá zo stálych predstaviteľov jednotlivých krajín pri EÚ, ktorí sú vlastne veľvyslancami krajín pri EÚ.
+
+Kedy sú zasadania ministrov v Rade EÚ verejné?
++ keď sa rokuje alebo hlasuje o návrhoch legislatívnych aktov
+- nikdy
+- len počas slovenského predsedníctva
+= Zasadania Rady sú verejné, keď sa rokuje alebo hlasuje o návrhoch legislatívnych aktov.
+> eu-inst-council-european-union | Zasadania ministrov krajín EÚ sú verejné, keď sa rokuje alebo hlasuje o návrhoch legislatívnych aktov.
+
+Aká väčšina sa v Rade EÚ vyžaduje pri procedurálnych a administratívnych otázkach?
++ jednoduchá väčšina
+- jednomyseľnosť
+- posilnená kvalifikovaná väčšina
+= Jednoduchá väčšina sa vyžaduje v prípade procedurálnych a administratívnych otázok.
+> eu-inst-council-european-union | Jednoduchá väčšina sa vyžaduje v prípade procedurálnych a administratívnych otázok.
+
+Koľko komisárov tvorí Európsku komisiu?
++ 27, jeden z každej krajiny EÚ
+- 20
+- 15
+= Politické vedenie zabezpečuje tím 27 komisárov – jeden z každej krajiny EÚ.
+> eu-inst-european-commission | Politické vedenie zabezpečuje tím 27 komisárov (jeden z každej krajiny EÚ)
+
+@ins 3
+Ktorý člen kolégia komisárov je z titulu svojej funkcie zároveň podpredsedom Komisie?
++ vysoký predstaviteľ Únie pre zahraničné veci a bezpečnostnú politiku
+- komisár pre rozpočet
+- generálny tajomník Rady
+= Vysoký predstaviteľ Únie pre zahraničné veci a bezpečnostnú politiku je zároveň podpredsedom Komisie.
+> eu-inst-european-commission | vysoký predstaviteľ Únie pre zahraničné veci a bezpečnostnú politiku (je zároveň podpredsedom)
+
+Ako sa nazývajú útvary Európskej komisie zodpovedné za jednotlivé oblasti politiky?
++ generálne riaditeľstvá
+- ministerstvá
+- agentúry
+= Pracovníci Komisie sú rozdelení do útvarov nazývaných generálne riaditeľstvá (GR).
+> eu-inst-european-commission | ktorí sú rozdelení do útvarov známych ako generálne riaditeľstvá (GR)
+
+@akt 2
+Do kedy trvá funkčné obdobie súčasnej Európskej komisie?
++ do 30. novembra 2029
+- do 31. decembra 2027
+- do 1. júla 2030
+= Funkčné obdobie súčasnej Komisie bude trvať do 30. novembra 2029.
+> eu-inst-european-commission | Funkčné obdobie súčasnej Komisie bude trvať do 30. novembra 2029.
+
+Ako prijíma Európska komisia rozhodnutia, ak sa o nich hlasuje?
++ jednoduchou väčšinou, každý komisár má jeden hlas
+- jednomyseľne
+- rozhoduje sama predsedníčka
+= Rozhodnutia sa prijímajú spravidla konsenzom; ak sa hlasuje, stačí jednoduchá väčšina a každý komisár má jeden hlas.
+> eu-inst-european-commission | V tomto prípade sa rozhodnutia prijímajú jednoduchou väčšinou, pričom každý komisár má jeden hlas.
+
+Ktorou väčšinou Európska rada nakoniec vymenúva Komisiu po súhlase Parlamentu?
++ kvalifikovanou väčšinou
+- jednomyseľne
+- jednoduchou väčšinou
+= Po hlasovaní Parlamentu o kandidátoch ako tíme ich Európska rada vymenúva kvalifikovanou väčšinou.
+> eu-inst-european-commission | Nakoniec sú vymenovaní Európskou radou, a to kvalifikovanou väčšinou.
+
+Ktorá inštitúcia spolu so Súdnym dvorom zabezpečuje riadne uplatňovanie práva EÚ v členských štátoch?
++ Európska komisia
+- Európska rada
+- Výbor regiónov
+= Komisia spolu so Súdnym dvorom zabezpečuje riadne uplatňovanie právnych predpisov EÚ vo všetkých krajinách.
+> eu-inst-european-commission | Spolu so Súdnym dvorom zabezpečuje riadne uplatňovanie právnych predpisov EÚ vo všetkých krajinách EÚ.
+
+@ins 1
+Ktorá inštitúcia EÚ zabezpečuje jednotný výklad práva EÚ vo všetkých krajinách?
++ Súdny dvor Európskej únie
+- Európsky dvor audítorov
+- Európsky ombudsman
+= Súdny dvor EÚ vykladá právne predpisy EÚ, aby sa uplatňovali rovnako vo všetkých krajinách.
+> eu-inst-court-justice-european-union-cjeu | Zabezpečuje jednotný výklad a uplatňovanie právnych predpisov EÚ v každej krajine EÚ
+
+@ins 3
+Koľko generálnych advokátov má Súdny dvor?
++ 11
+- 27
+- 5
+= Súdny dvor tvorí jeden sudca z každej krajiny EÚ a 11 generálnych advokátov.
+> eu-inst-court-justice-european-union-cjeu | Súdny dvor: jeden sudca z každej krajiny EÚ a 11 generálni advokáti
+
+@ins 3
+Koľko sudcov z každej krajiny EÚ má Všeobecný súd?
++ dvoch
+- jedného
+- troch
+= Všeobecný súd tvoria dvaja sudcovia z každej krajiny EÚ.
+> eu-inst-court-justice-european-union-cjeu | Všeobecný súd: dvaja sudcovia z každej krajiny EÚ
+
+Na aké funkčné obdobie sú vymenúvaní sudcovia Súdneho dvora EÚ?
++ šesť rokov s možnosťou obnovenia
+- doživotne
+- päť rokov bez možnosti obnovenia
+= Vlády spoločne vymenúvajú sudcov a generálnych advokátov na obnoviteľné obdobie šiestich rokov.
+> eu-inst-court-justice-european-union-cjeu | Vnútroštátne vlády spoločne vymenúvajú každého sudcu a generálneho advokáta na funkčné obdobie šiestich rokov, ktoré možno obnoviť.
+
+Ako sa nazýva konanie, v ktorom sa národný súd pýta Súdneho dvora EÚ na výklad práva EÚ?
++ prejudiciálne konanie (prejudiciálne rozhodnutie)
+- konanie o nesplnení povinnosti
+- žaloba o náhradu škody
+= Ak má vnútroštátny súd pochybnosti o výklade alebo platnosti predpisu EÚ, obráti sa na Súdny dvor – ide o prejudiciálne rozhodnutie.
+> eu-inst-court-justice-european-union-cjeu | Výklad právnych predpisov (prejudiciálne rozhodnutia)
+
+Ako sa nazýva konanie Súdneho dvora proti štátu, ktorý neplní povinnosti vyplývajúce z práva EÚ?
++ konanie o nesplnení povinnosti
+- žaloba proti nečinnosti
+- prejudiciálne konanie
+= Konanie o nesplnení povinnosti môže iniciovať Komisia alebo iný štát; výsledkom môže byť aj pokuta.
+> eu-inst-court-justice-european-union-cjeu | Presadzovanie právnych predpisov (konania o nesplnení povinnosti)
+
+@ins 3
+Koľko sudcov zvyčajne rozhoduje vec na Súdnom dvore?
++ piati
+- traja
+- všetci
+= Vecou sa zaoberajú 3, 5 alebo 15 sudcovia; väčšinu vecí riešia piati sudcovia.
+> eu-inst-court-justice-european-union-cjeu | Väčšinu vecí riešia piati sudcovia a je veľmi zriedkavé, aby o veci rozhodoval celý súd
+
+@ins 1
+Kto je prezidentkou Európskej centrálnej banky?
++ Christine Lagardová
+- Ursula von der Leyenová
+- Nadia Calviñová
+= Prezidentkou ECB je Christine Lagardová.
+> eu-inst-european-central-bank-ecb | Prezidentka: Christine Lagardová
+
+@ins 1
+Aký je hlavný cieľ Európskej centrálnej banky?
++ udržiavať stabilné ceny
+- financovať rozpočet EÚ
+- vyberať dane v eurozóne
+= Hlavným cieľom ECB je udržiavať stabilné ceny, a tým podporovať rast a zamestnanosť.
+> eu-inst-european-central-bank-ecb | Jej hlavným cieľom je udržiavať stabilné ceny
+
+Ako ECB kontroluje infláciu a peňažnú zásobu?
++ určuje úrokové miery, za ktoré požičiava peniaze komerčným bankám
+- stanovuje ceny potravín v obchodoch
+- tlačí bankovky podľa želania vlád
+= ECB určuje úrokové miery pre komerčné banky v eurozóne, čím kontroluje peňažnú zásobu a infláciu.
+> eu-inst-european-central-bank-ecb | Určuje úrokové miery, za ktoré požičiava peniaze komerčným bankám v eurozóne, vďaka čomu kontroluje peňažnú zásobu a infláciu.
+
+@ins 3
+Ktorý je hlavný rozhodovací orgán ECB?
++ Rada guvernérov
+- Výkonná rada
+- Generálna rada
+= Hlavným rozhodovacím orgánom je Rada guvernérov – Výkonná rada a guvernéri národných centrálnych bánk eurozóny.
+> eu-inst-european-central-bank-ecb | Rada guvernérov – hlavný rozhodovací orgán.
+
+@ins 3
+Na aké obdobie sú menovaní členovia Výkonnej rady ECB?
++ na osem rokov
+- na päť rokov
+- na tri roky
+= Výkonnú radu tvorí prezident, viceprezident a štyria členovia menovaní na osemročné obdobie lídrami eurozóny.
+> eu-inst-european-central-bank-ecb | menovaní na osemročné obdobie lídrami krajín eurozóny
+
+Ako sa nazýva spolupráca ECB a národných centrálnych bánk krajín eurozóny?
++ Eurosystém
+- Euroskupina
+- Eurostat
+= Spolupráca centrálnych bánk v eurozóne sa označuje ako Eurosystém.
+> eu-inst-european-central-bank-ecb | Označuje sa ako Eurosystém.
+
+@ins 3
+Kto povoľuje krajinám eurozóny vyrábať eurobankovky?
++ Európska centrálna banka
+- Európska komisia
+- Európska investičná banka
+= ECB udeľuje krajinám eurozóny povolenie na výrobu eurobankoviek.
+> eu-inst-european-central-bank-ecb | Udeľuje krajinám eurozóny povolenie na výrobu eurobankoviek.
+
+Akú úlohu má Európsky dvor audítorov?
++ kontroluje, či sa financie EÚ správne vyberajú a používajú
+- súdi trestné činy proti rozpočtu EÚ
+- schvaľuje rozpočet EÚ
+= Dvor audítorov je nezávislý externý audítor EÚ; nemá zákonné právomoci, ale zlepšuje hospodárenie s financiami EÚ.
+> eu-inst-european-court-auditors-eca | Úloha: kontrolovať, či sa finančné prostriedky EÚ správne vyberajú a používajú
+
+@ins 3
+Kedy začal fungovať Európsky dvor audítorov?
++ v roku 1977
+- v roku 1958
+- v roku 1993
+= Dvor audítorov bol založený v roku 1975 a fungovať začal v roku 1977.
+> eu-inst-european-court-auditors-eca | Rok založenia: 1975, začal fungovať v roku 1977
+
+@ins 3
+Komu oznamuje Dvor audítorov podozrenia z podvodu alebo korupcie?
++ OLAF a Európskej prokuratúre (EPPO)
+- Europolu a Interpolu
+- Európskemu súdu pre ľudské práva
+= Podozrenia z podvodu, korupcie či inej nezákonnej činnosti oznamuje OLAF a EPPO.
+> eu-inst-european-court-auditors-eca | oznamuje podozrenia z podvodu, korupcie alebo inej nezákonnej činnosti Európskemu úradu pre boj proti podvodom (OLAF) a Európskej prokuratúre (EPPO)
+
+@ins 3
+Aký podiel finančných prostriedkov EÚ riadi Komisia v spolupráci s vnútroštátnymi orgánmi?
++ približne 80 %
+- približne 10 %
+- 100 %
+= Komisia riadi väčšinu finančných prostriedkov EÚ (približne 80 %) v spolupráci s národnými orgánmi.
+> eu-inst-european-court-auditors-eca | keďže Komisia riadi väčšinu finančných prostriedkov EÚ (približne 80 %) v spolupráci s nimi
+
+@ins 3
+Aké tri typy auditov vykonáva Európsky dvor audítorov?
++ finančné audity, audity zhody a audity výkonnosti
+- daňové, colné a trestné audity
+- audity bánk, poisťovní a búrz
+= Dvor audítorov vykonáva finančné audity, audity zhody a audity výkonnosti.
+> eu-inst-european-court-auditors-eca | finančné audity – kontrola správneho účtovania ... audity zhody ... audity výkonnosti
+
+Koho zastupuje Európsky hospodársky a sociálny výbor (EHSV)?
++ organizácie zamestnávateľov, zamestnancov a iné záujmové skupiny
+- regionálne a miestne samosprávy
+- národné parlamenty
+= EHSV je poradný orgán zastupujúci organizácie zamestnávateľov a zamestnancov a iné záujmové skupiny.
+> eu-inst-european-economic-and-social-committee-eesc | Úloha: poradný orgán zastupujúci organizácie zamestnávateľov a zamestnancov a iné záujmové skupiny
+
+@ins 3
+Koľko členov má Európsky hospodársky a sociálny výbor?
++ 329
+- 720
+- 27
+= EHSV má 329 členov zo všetkých krajín EÚ.
+> eu-inst-european-economic-and-social-committee-eesc | Členovia: 329 zo všetkých krajín EÚ
+
+Koho zastupuje Európsky výbor regiónov?
++ volených zástupcov miestnych a regionálnych orgánov
+- zamestnávateľov a odbory
+- europoslancov
+= VR je poradný orgán, ktorý tvoria zástupcovia volení na miestnej a regionálnej úrovni.
+> eu-inst-european-committee-regions-cor | Úloha: poradný orgán zastupujúci európske orgány na regionálnej a miestnej úrovni
+
+@ins 3
+Čo môže urobiť Európsky výbor regiónov, ak sa s ním inštitúcie neporadia v povinných oblastiach?
++ podať žalobu na Súdny dvor
+- rozpustiť Európsky parlament
+- zablokovať rozpočet EÚ
+= Ak sa inštitúcie s VR neporadia v oblastiach týkajúcich sa samospráv, VR môže podať žalobu na Súdny dvor.
+> eu-inst-european-committee-regions-cor | V opačnom prípade môže VR podať žalobu na Súdny dvor.
+
+@ins 3
+Koľko miestnych a regionálnych politikov zastupuje Európsky výbor regiónov?
++ 1 milión
+- 10 000
+- 100 miliónov
+= Európsky výbor regiónov zastupuje 1 milión miestnych a regionálnych politikov EÚ.
+> eu-inst-european-committee-regions-cor | Európsky výbor regiónov zastupuje 1 milión miestnych a regionálnych politikov Európskej únie
+
+@ins 3
+Kto je predsedníčkou Európskeho výboru regiónov?
++ Kata Tüttő
+- Roberta Metsolová
+- Nadia Calviñová
+= Predsedníčkou Európskeho výboru regiónov je Kata Tüttő.
+> eu-inst-european-committee-regions-cor | Predsedníčka: Kata Tüttő
+
+@ins 3
+Kto je prezidentkou Európskej investičnej banky?
++ Nadia Calviñová
+- Christine Lagardová
+- Kata Tüttő
+= Prezidentkou EIB je Nadia Calviñová.
+> eu-inst-european-investment-bank-eib | Prezident: Nadia Calviñová
+
+Kto vlastní Európsku investičnú banku?
++ krajiny EÚ spoločne
+- Európska centrálna banka
+- súkromní akcionári
+= EIB je v spoločnom vlastníctve krajín EÚ; jej akcionármi sú všetky krajiny EÚ.
+> eu-inst-european-investment-bank-eib | Európska investičná banka (EIB) je v spoločnom vlastníctve krajín EÚ.
+
+@ins 3
+Používa Európska investičná banka finančné prostriedky z rozpočtu EÚ?
++ nie, požičiava si peniaze na kapitálových trhoch
+- áno, je financovaná výhradne z rozpočtu EÚ
+- áno, z polovice
+= EIB si požičiava peniaze na kapitálových trhoch a nevyužíva nijaké prostriedky z rozpočtu EÚ.
+> eu-inst-european-investment-bank-eib | Banka nevyužíva nijaké finančné prostriedky z rozpočtu EÚ.
+
+@ins 3
+Komu poskytuje financovanie Európsky investičný fond (EIF)?
++ malým a stredným podnikom
+- vládam členských štátov
+- politickým stranám
+= EIF poskytuje financovanie malým a stredným podnikom (MSP); väčšinovým akcionárom je EIB.
+> eu-inst-european-investment-bank-eib | Európskeho investičného fondu (EIF), ktorý poskytuje finančné prostriedky malým a stredným podnikom (MSP)
+
+Kto volí Európskeho ombudsmana?
++ Európsky parlament
+- Európska rada
+- občania EÚ v priamych voľbách
+= Európsky parlament volí ombudsmana na obnoviteľné obdobie piatich rokov.
+> eu-inst-european-ombudsman | Európsky parlament volí ombudsmana na obnoviteľné obdobie piatich rokov.
+
+@sym 2
+Do akej lehoty treba podať sťažnosť Európskemu ombudsmanovi?
++ do dvoch rokov od zistenia nesprávneho postupu
+- do 30 dní
+- kedykoľvek, lehota neexistuje
+= Sťažnosť treba podať do dvoch rokov odo dňa zistenia nesprávneho úradného postupu.
+> eu-inst-european-ombudsman | Svoju sťažnosť musíte podať do dvoch rokov odo dňa zistenia nesprávneho úradného postupu.
+
+@sym 2
+Čo treba urobiť skôr, ako sa obrátite na Európskeho ombudsmana?
++ požiadať o nápravu priamo inštitúciu, na ktorú sa sťažujete
+- podať žalobu na Súdny dvor EÚ
+- zbierať milión podpisov
+= Najprv sa treba obrátiť na predmetný orgán; ak to zlyhá, možno podať sťažnosť ombudsmanovi.
+> eu-inst-european-ombudsman | v prvom rade by ste sa mali obrátiť na predmetný orgán a požiadať ho o nápravu situácie
+
+@ins 3
+Na aké funkčné obdobie je vymenovaný Európsky dozorný úradník pre ochranu údajov?
++ päť rokov s možnosťou obnovenia
+- šesť rokov bez možnosti obnovenia
+- doživotne
+= Dozorný úradník je vymenovaný na obnoviteľné päťročné funkčné obdobie.
+> eu-inst-european-data-protection-supervisor-edps | Dozorný úradník je vymenovaný na obnoviteľné päťročné funkčné obdobie.

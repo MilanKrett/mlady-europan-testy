@@ -1,0 +1,228 @@
+#kat fin
+#n 3
+
+@ins 3
+Ktoré články ZFEÚ zaväzujú členské štáty rokovať o zrušení dvojitého zdanenia a upravujú nepriame dane?
++ články 110 – 113
+- články 1 – 6
+- články 258 – 260
+= Na základe článkov 110 – 113 ZFEÚ sú členské štáty povinné rokovať o zrušení dvojitého zdanenia v EÚ.
+> ep-fs-80 | Na základe článkov 110 – 113 ZFEÚ sú členské štáty povinné rokovať o zrušení dvojitého zdanenia v EÚ.
+
+@ins 3
+Ako sa skratkou označuje návrh spoločného konsolidovaného základu dane z príjmov právnických osôb z roku 2011?
++ CCCTB
+- HICP
+- SEPA
+= V roku 2011 Komisia predložila návrh spoločného konsolidovaného základu dane z príjmov právnických osôb (CCCTB).
+> ep-fs-80 | spoločného konsolidovaného základu dane z príjmov právnických osôb (CCCTB)
+
+@his 3
+V ktorom roku bolo prijaté rozhodnutie o financovaní EHS z vlastných zdrojov Spoločenstiev?
++ v roku 1970
+- v roku 1957
+- v roku 1993
+= V roku 1970 bolo prijaté rozhodnutie o financovaní Európskeho hospodárskeho spoločenstva z vlastných zdrojov Spoločenstiev.
+> ep-fs-81 | V roku 1970 bolo prijaté rozhodnutie o financovaní Európskeho hospodárskeho spoločenstva z vlastných zdrojov Spoločenstiev
+
+@ins 3
+Kedy nadobudol účinnosť prechodný systém DPH v EÚ, založený na zásade miesta určenia?
++ v roku 1993
+- v roku 1957
+- v roku 2021
+= Zásada miesta určenia vytvorila základ pre prechodný systém DPH, ktorý nadobudol účinnosť v roku 1993.
+> ep-fs-81 | čím sa vytvoril základ pre prechodný systém, ktorý nadobudol účinnosť v roku 1993
+
+@ins 3
+Ktorý článok ZFEÚ zakazuje dohody medzi podnikmi obmedzujúce hospodársku súťaž vrátane kartelov?
++ článok 101
+- článok 50
+- článok 214
+= Podľa článku 101 ZFEÚ sa medzi podnikmi zakazujú dohody, ktoré obmedzujú hospodársku súťaž, vrátane kartelov.
+> ep-fs-82 | Podľa článku 101 ZFEÚ sa medzi podnikmi zakazujú dohody, ktoré obmedzujú hospodársku súťaž, vrátane kartelov.
+
+@ins 3
+Ktorý článok ZFEÚ zakazuje štátnu pomoc, ktorá narúša hospodársku súťaž?
++ článok 107
+- článok 7
+- článok 165
+= V článku 107 ZFEÚ sa zakazuje štátna pomoc, ktorá narúša hospodársku súťaž, pokiaľ ju nemožno odôvodniť podľa zmluvy.
+> ep-fs-82 | V článku 107 ZFEÚ sa zakazuje štátna pomoc, ktorá narúša hospodársku súťaž
+
+Čo je kartel v zmysle súťažného práva EÚ?
++ zakázaná dohoda podnikov, ktorá obmedzuje hospodársku súťaž
+- druh bankového účtu
+- povolená forma štátnej pomoci
+= Podľa článku 101 ZFEÚ sa zakazujú dohody medzi podnikmi, ktoré obmedzujú hospodársku súťaž, vrátane kartelov.
+> ep-fs-82 | sa medzi podnikmi zakazujú dohody, ktoré obmedzujú hospodársku súťaž, vrátane kartelov
+
+@his 3
+V ktorom roku prestali v EHS existovať obmedzenia slobody poskytovať služby a slobody usadiť sa?
++ v roku 1962
+- v roku 1993
+- v roku 2004
+= V roku 1962 prestali existovať obmedzenia slobody poskytovať služby a slobody usadiť sa.
+> ep-fs-83 | V roku 1962 prestali existovať obmedzenia slobody poskytovať služby a slobody usadiť sa.
+
+@ins 3
+Kto predsedal skupine, ktorej správa z februára 2009 viedla k vytvoreniu Európskeho systému finančného dohľadu?
++ Jacques de Larosière
+- Jacques Delors
+- Mario Draghi
+= Na základe odporúčaní správy skupiny, ktorej predsedal Jacques de Larosière, bol v roku 2010 zavedený Európsky systém finančného dohľadu.
+> ep-fs-84 | v správe skupiny na vysokej úrovni, ktorej predsedal Jacques de Larosière
+
+Ktorý európsky orgán dohliada na bankovníctvo?
++ EBA (Európsky orgán pre bankovníctvo)
+- EIOPA
+- EFSA
+= Orgány EBA, ESMA a EIOPA dohliadajú na bankovníctvo, kapitálové trhy a poisťovníctvo.
+> ep-fs-84 | boli zriadené orgány EBA, ESMA a EIOPA, aby riešili tieto problémy vo svojich príslušných sektoroch finančných služieb – bankovníctve, kapitálových trhoch a poisťovníctve
+
+@ins 3
+Ktorý orgán zodpovedá za makroprudenciálny dohľad nad finančným systémom EÚ a prevenciu systémového rizika?
++ Európsky výbor pre systémové riziká (ESRB)
+- Európsky dvor audítorov
+- Euroskupina
+= ESRB nesie zodpovednosť za makroprudenciálny dohľad nad finančným systémom EÚ a za prevenciu systémového rizika.
+> ep-fs-84 | Preto bol zriadený ESRB, ktorý nesie zodpovednosť za makroprudenciálny dohľad nad finančným systémom EÚ
+
+@his 3
+Ktorá inštitúcia bola zriadená na začiatku druhej etapy HMÚ (1994) a v roku 1998 ju nahradila ECB?
++ Európsky menový inštitút (EMI)
+- Európska investičná banka
+- Medzinárodný menový fond
+= EMI bol zriadený na začiatku druhej etapy HMÚ a bol zrušený po zriadení ECB 1. júna 1998.
+> ep-fs-85 | EMI s okamžitou platnosťou zrušený po zriadení Európskej centrálnej banky (ECB) 1. júna 1998
+
+@his 3
+Kedy bola zriadená Európska centrálna banka?
++ 1. júna 1998
+- 1. januára 2002
+- 9. mája 1950
+= ECB bola zriadená 1. júna 1998, čím bol zrušený Európsky menový inštitút.
+> ep-fs-85 | po zriadení Európskej centrálnej banky (ECB) 1. júna 1998
+
+@his 3
+Kedy trvala prvá etapa hospodárskej a menovej únie?
++ 1. júla 1990 – 31. decembra 1993
+- 1. januára 1999 – 31. decembra 2001
+- 1. mája 2004 – 31. decembra 2008
+= Počas prvej etapy HMÚ (1. júl 1990 – 31. december 1993) neboli zriadené žiadne menové inštitúcie.
+> ep-fs-85 | Inštitúcie v prvej etape HMÚ (1. júl 1990 – 31. december 1993)
+
+Kedy ECB naposledy preskúmala svoju stratégiu menovej politiky?
++ v júni 2025
+- v roku 1998
+- v januári 2009
+= Stratégia ECB bola naposledy preskúmaná v júni 2025.
+> ep-fs-86 | stratégie ECB, ktorá bola naposledy preskúmaná v júni 2025
+
+Kedy ECB po prvý raz uverejnila správu zo zasadnutia Rady guvernérov k menovej politike?
++ vo februári 2015
+- v júni 1998
+- v januári 2002
+= Vo februári 2015 ECB po prvý raz uverejnila správu zo zasadnutia Rady guvernérov k menovej politike.
+> ep-fs-86 | Vo februári 2015 ECB po prvý raz uverejnila správu zo zasadnutia Rady guvernérov k menovej politike
+
+Z čoho pozostávalo „komplexné posúdenie“ bánk, ktoré ECB vykonala pred prevzatím dohľadu?
++ z posúdenia kvality aktív a stresového testu
+- z volieb a referenda
+- z auditu daní a cla
+= Komplexné posúdenie súvah bánk pozostáva z posúdenia kvality aktív a stresového testu.
+> ep-fs-88 | ktoré pozostáva z posúdenia kvality aktív a stresového testu
+
+@ins 3
+Ktoré články ZFEÚ sú hlavným právnym základom Paktu stability a rastu?
++ články 121 a 126
+- články 49 a 50
+- články 2 a 7
+= Hlavným právnym základom PSR sú články 121 (mnohostranný dohľad) a 126 (postup pri nadmernom deficite) ZFEÚ.
+> ep-fs-89 | konkrétne články 121 (mnohostranný dohľad) a 126 (postup pri nadmernom deficite) ZFEÚ
+
+Kedy nadobudol účinnosť tzv. balík šiestich legislatívnych aktov (six-pack) o správe hospodárskych záležitostí?
++ 13. decembra 2011
+- 1. januára 1999
+- 1. mája 2004
+= Prvý balík o správe hospodárskych záležitostí (tzv. balík šiestich legislatívnych aktov) nadobudol účinnosť 13. decembra 2011.
+> ep-fs-89 | nadobudol účinnosť 13. decembra 2011
+
+Kedy boli naposledy zmenené preventívna a nápravná časť Paktu stability a rastu?
++ v roku 2024
+- v roku 1997
+- v roku 2005
+= Preventívna a nápravná časť PSR boli opäť zmenené v roku 2024.
+> ep-fs-89 | Preventívna a nápravná časť boli opäť zmenené v roku 2024.
+
+@ins 3
+Ktorý postup zaviedla EÚ v roku 2011 na odhaľovanie a nápravu makroekonomických nerovnováh?
++ postup pri makroekonomickej nerovnováhe (PMN)
+- postup pri porušení povinnosti
+- postup posilnenej spolupráce
+= V roku 2011 EÚ zaviedla postup pri makroekonomickej nerovnováhe s cieľom identifikovať a napraviť nerovnováhy.
+> ep-fs-90 | V roku 2011 EÚ zaviedla postup pri makroekonomickej nerovnováhe
+
+Koľko si môže Komisia v mene EÚ požičať v rámci Európskeho finančného stabilizačného mechanizmu (EFSM)?
++ až 60 miliárd EUR
+- až 6 miliárd EUR
+- až 600 miliárd EUR
+= V rámci EFSM si Komisia môže v mene EÚ požičať na finančných trhoch celkovo až 60 miliárd EUR.
+> ep-fs-91 | si Komisia môže v mene EÚ požičať na finančných trhoch celkovo až 60 miliárd EUR
+
+Aká je efektívna úverová kapacita Európskeho mechanizmu stability (EMS)?
++ 500 miliárd EUR
+- 50 miliárd EUR
+- 5 biliónov EUR
+= EMS bol vytvorený v októbri 2012 ako stály podporný mechanizmus s úverovou kapacitou 500 miliárd EUR.
+> ep-fs-91 | Jeho efektívna úverová kapacita je 500 miliárd EUR.
+
+Kedy bol vytvorený Európsky mechanizmus stability (EMS)?
++ v októbri 2012
+- v máji 1998
+- v januári 2021
+= V októbri 2012 bol EMS vytvorený ako stály podporný mechanizmus na základe medzivládnej zmluvy.
+> ep-fs-91 | V októbri 2012 bol EMS vytvorený ako stály podporný mechanizmus
+
+Koľko štátov sú akcionármi Európskeho mechanizmu stability?
++ 21 členských štátov eurozóny
+- všetkých 27 štátov EÚ
+- 6 zakladajúcich štátov
+= Úvery EMS sú zaručené akcionármi – 21 členskými štátmi v eurozóne.
+> ep-fs-91 | zaručené akcionármi (21 členských štátov v eurozóne)
+
+Aká bola efektívna úverová kapacita dočasného Európskeho nástroja finančnej stability (ENFS) z júna 2010?
++ 440 miliárd EUR
+- 44 miliárd EUR
+- 4,4 bilióna EUR
+= ENFS bol zriadený v júni 2010 ako dočasný mechanizmus s celkovou efektívnou úverovou kapacitou 440 miliárd EUR.
+> ep-fs-91 | Jeho celková efektívna úverová kapacita je 440 miliárd EUR.
+
+Akú globálnu minimálnu sadzbu dane pre veľké nadnárodné podniky zavádza smernica EÚ podľa dohody OECD?
++ 15 %
+- 1,5 %
+- 50 %
+= Smernica vykonáva druhý pilier dohody OECD o globálnej minimálnej efektívnej sadzbe dane vo výške 15 % pre veľké nadnárodné podniky.
+> ep-fs-92 | globálnej minimálnej efektívnej sadzbe dane vo výške 15 % pre veľké nadnárodné podniky
+
+@ins 3
+Ako sa v Rade EÚ dnes rozhoduje o daňových otázkach, čo chcela Komisia v roku 2019 postupne zmeniť?
++ jednomyseľne
+- jednoduchou väčšinou
+- rozhoduje len Parlament
+= V roku 2019 Komisia navrhla postupné ukončenie jednomyseľného hlasovania o daňových rozhodnutiach.
+> ep-fs-92 | V roku 2019 Komisia navrhla postupné ukončenie jednomyseľného hlasovania o daňových rozhodnutiach
+
+@akt 3
+Na aké obdobie predložila Komisia v júli 2025 návrh nového viacročného finančného rámca?
++ 2028 – 2034
+- 2021 – 2027
+- 2030 – 2040
+= Návrh Komisie na nový VFR na roky 2028 – 2034 bol predložený v júli 2025 a zahŕňa nové vlastné zdroje.
+> ep-fs-92 | Návrh Komisie na nový viacročný finančný rámec (VFR) na roky 2028 – 2034, ktorý bol predložený v júli 2025
+
+Môže si členský štát EÚ sám vybrať svoj daňový systém?
++ áno, ak je v súlade s pravidlami EÚ
+- nie, všetky štáty majú rovnaké dane
+- nie, dane určuje ECB
+= Každý členský štát si môže slobodne vybrať daňový systém, ktorý považuje za najvhodnejší, ak je v súlade s pravidlami EÚ.
+> ep-fs-92 | Každý členský štát si môže slobodne vybrať daňový systém, ktorý považuje za najvhodnejší, ak je tento systém v súlade s pravidlami EÚ

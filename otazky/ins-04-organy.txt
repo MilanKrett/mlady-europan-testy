@@ -1,0 +1,193 @@
+#kat ins
+#n 2
+
+Čo môže Súdny dvor uložiť členskému štátu, ktorý nevyhovel jeho rozsudku o porušení povinností?
++ peňažný trest – paušálnu pokutu a/alebo penále
+- vylúčenie z EÚ
+- pozastavenie volieb do Európskeho parlamentu
+= Ak štát rozsudku nevyhovel, Súdny dvor mu môže uložiť paušálnu pokutu a/alebo pravidelné penále (článok 260 ZFEÚ).
+> ep-fs-12 | môže mu uložiť peňažný trest (paušálnu pokutu a/alebo pravidelné penále)
+
+Ako sa nazýva žaloba, ktorou žiadateľ žiada Súdny dvor, aby vyhlásil akt EÚ za neplatný?
++ žaloba o neplatnosť
+- žaloba pre nečinnosť
+- prejudiciálna otázka
+= Žaloba o neplatnosť umožňuje žiadateľom požiadať Súdny dvor, aby vyhlásil akt EÚ za neplatný (článok 263 ZFEÚ).
+> ep-fs-12 | Žaloba o neplatnosť je druh konania, ktorý umožňuje žiadateľom požiadať Súdny dvor, aby vyhlásil akt EÚ za neplatný
+
+@ins 3
+Na čo slúži žaloba pre nečinnosť?
++ na napadnutie nečinnosti inštitúcie EÚ, ktorá mala konať
+- na zrušenie národného zákona
+- na odvolanie komisára
+= Žaloby pre nečinnosť umožňujú napadnúť nečinnosť inštitúcie, orgánu, úradu alebo agentúry EÚ, ak je ich povinnosťou konať.
+> ep-fs-12 | žaloby pre nečinnosť umožňujú žiadateľom napadnúť nečinnosť inštitúcie, orgánu, úradu alebo agentúry EÚ
+
+Koľko členov má v zásade Európsky dvor audítorov?
++ 27 – jedného za každý členský štát
+- 9
+- 54
+= Dvor audítorov je tvorený jedným členom za každý členský štát, takže má v zásade 27 členov.
+> ep-fs-14 | Európsky dvor audítorov je tvorený jedným členom za každý členský štát EÚ
+
+Ako dlho trvá funkčné obdobie členov Európskeho dvora audítorov?
++ šesť rokov s možnosťou obnovenia
+- štyri roky bez možnosti obnovenia
+- doživotne
+= Funkčné obdobie členov trvá šesť rokov a možno ho obnoviť.
+> ep-fs-14 | Funkčné obdobie členov trvá šesť rokov a možno ho obnoviť.
+
+@ins 3
+Na aké obdobie si členovia Dvora audítorov volia svojho predsedu?
++ na tri roky
+- na šesť rokov
+- na jeden rok
+= Členovia si spomedzi seba volia predsedu na obdobie troch rokov s možnosťou opätovného zvolenia.
+> ep-fs-14 | Členovia Dvora audítorov si spomedzi seba volia predsedu na obdobie troch rokov
+
+Kto formálne vymenúva členov Európskeho dvora audítorov?
++ Rada EÚ po konzultácii s Európskym parlamentom
+- Európsky parlament sám
+- predseda Komisie
+= Rada EÚ ich po konzultácii s Európskym parlamentom formálne vymenuje.
+> ep-fs-14 | Rada EÚ ich potom po konzultácii s Európskym parlamentom formálne vymenuje za členov Dvora audítorov.
+
+@ins 3
+Koľko zamestnancov má približne Európsky dvor audítorov?
++ približne 900
+- približne 90
+- približne 32 000
+= Dvor audítorov má približne 900 zamestnancov a sídli v Luxemburgu.
+> ep-fs-14 | Európsky dvor audítorov má približne 900 zamestnancov a sídli v Luxemburgu.
+
+@ins 3
+Do kedy najneskôr uverejňuje Dvor audítorov výročnú správu o plnení rozpočtu EÚ?
++ do 15. novembra
+- do 1. januára
+- do 9. mája
+= Výročné správy o plnení rozpočtu EÚ uverejňuje najneskôr do 15. novembra.
+> ep-fs-14 | (najneskôr do 15. novembra)
+
+Komu nahlasuje Dvor audítorov prípady možného podvodu a korupcie?
++ úradu OLAF a/alebo Európskej prokuratúre
+- Europolu a NATO
+- Európskemu ombudsmanovi
+= Prípady možného podvodu a korupcie nahlasuje Európskemu úradu pre boj proti podvodom (OLAF) a/alebo Európskej prokuratúre.
+> ep-fs-14 | Prípady možného podvodu a korupcie preto nahlasuje Európskemu úradu pre boj proti podvodom a/alebo Európskej prokuratúre
+
+@ins 3
+Koľko kresiel v Európskom hospodárskom a sociálnom výbore má Nemecko, Francúzsko a Taliansko?
++ po 24
+- po 12
+- po 96
+= V EHSV majú Nemecko, Francúzsko a Taliansko po 24 kresiel, Španielsko a Poľsko po 21.
+> ep-fs-15 | 24 pre Nemecko, Francúzsko a Taliansko, 21 pre Španielsko a Poľsko
+
+Na aké obdobie sú vymenúvaní členovia Európskeho hospodárskeho a sociálneho výboru?
++ na päť rokov s možnosťou obnovenia
+- na dva a pol roka
+- na desať rokov
+= Členov EHSV nominujú vlády a vymenúva Rada na obdobie piatich rokov s možnosťou obnovenia.
+> ep-fs-15 | vymenúva Rada na obdobie piatich rokov s možnosťou obnovenia mandátu
+
+@ins 3
+Aký je podľa Lisabonskej zmluvy maximálny počet členov EHSV?
++ 350
+- 329
+- 720
+= Maximálny počet členov EHSV zavedený Lisabonskou zmluvou je 350; v súčasnosti má 329 členov.
+> ep-fs-15 | Maximálny počet členov EHSV zavedený Lisabonskou zmluvou je 350
+
+@ins 3
+Prečo sa počet členov EHSV v roku 2020 znížil z 350 na 329?
++ pre vystúpenie Spojeného kráľovstva z EÚ
+- pre úsporné opatrenia
+- pre zlúčenie s Výborom regiónov
+= Počet členov EHSV sa znížil z 350 na 329 od 1. februára 2020 po vystúpení Spojeného kráľovstva.
+> ep-fs-15 | Počet členov EHSV sa celkovo znížil z 350 na 329 s účinnosťou od 1. februára 2020
+
+@akt 2
+Na aké funkčné obdobie bol naposledy (v októbri 2025) obnovený mandát Európskeho hospodárskeho a sociálneho výboru?
++ 2025 – 2030
+- 2024 – 2029
+- 2026 – 2031
+= Mandát EHSV bol naposledy obnovený v októbri 2025 na funkčné obdobie 2025 – 2030.
+> ep-fs-15 | Naposledy bol mandát obnovený v októbri 2025 na funkčné obdobie 2025 – 2030.
+
+V ktorom roku bol zriadený Európsky výbor regiónov?
++ v roku 1994
+- v roku 1958
+- v roku 2009
+= Európsky výbor regiónov bol zriadený v roku 1994 po nadobudnutí platnosti Maastrichtskej zmluvy.
+> ep-fs-16 | Európsky výbor regiónov (VR), zriadený v roku 1994 po nadobudnutí platnosti Maastrichtskej zmluvy
+
+Koho zastupuje Európsky výbor regiónov?
++ regionálne a miestne orgány v EÚ
+- odborové zväzy a zamestnávateľov
+- národné parlamenty
+= VR je poradným orgánom zastupujúcim regionálne a miestne orgány v Európskej únii.
+> ep-fs-16 | je poradným orgánom zastupujúcim regionálne a miestne orgány v Európskej únii
+
+@ins 3
+Koľko regiónov a miestnych orgánov EÚ spoločne zastupujú členovia Výboru regiónov?
++ 300 regiónov a 100 000 miestnych orgánov
+- 27 regiónov a 1 000 obcí
+- 1 000 regiónov a 1 milión obcí
+= Členovia VR zastupujú 300 regiónov EÚ, 100 000 miestnych orgánov a takmer 450 miliónov občanov.
+> ep-fs-16 | spoločne zastupujú 300 regiónov EÚ, 100 000 miestnych orgánov a takmer 450 miliónov občanov
+
+@akt 3
+Kedy prijal Európsky výbor regiónov svoje tri politické priority na roky 2025 – 2030?
++ 15. mája 2025
+- 9. mája 2024
+- 1. januára 2026
+= Tri politické priority VR na roky 2025 – 2030 boli prijaté 15. mája 2025; prvou je súdržnosť.
+> ep-fs-16 | Podľa troch politických priorít VR na roky 2025 – 2030, ktoré boli prijaté 15. mája 2025
+
+@ins 3
+Aké je celkové upísané základné imanie Európskej investičnej banky?
++ 248,8 miliardy EUR
+- 2,5 miliardy EUR
+- 2 488 miliárd EUR
+= Celkové upísané základné imanie EIB predstavuje 248,8 miliardy EUR.
+> ep-fs-17 | Celkové upísané základné imanie EIB predstavuje 248,8 miliardy EUR.
+
+@ins 3
+Akú časť projektu EIB všeobecne financuje?
++ tretinu (podporné financovanie až 50 %)
+- celý projekt
+- desatinu
+= EIB všeobecne financuje tretinu každého projektu, ale podporné financovanie môže dosiahnuť až 50 %.
+> ep-fs-17 | EIB všeobecne financuje tretinu každého projektu, ale podporné financovanie môže dosiahnuť až 50 %.
+
+@ins 3
+Z koľkých členov sa skladá Správna rada Európskej investičnej banky?
++ z 28 – jeden za každý štát a jeden za Komisiu
+- z 27 – jeden za každý štát
+- z 9
+= Správna rada EIB pozostáva z 28 členov (jeden za každý členský štát a jeden za Komisiu).
+> ep-fs-17 | Správna rada pozostáva z 28 členov (jeden za každý členský štát a jeden za Komisiu)
+
+@ins 3
+Kedy bola založená skupina EIB, ktorú tvorí EIB a Európsky investičný fond?
++ v roku 2000 (EIF vznikol v roku 1994)
+- v roku 1958
+- v roku 2009
+= Skupina EIB bola založená v roku 2000 a pozostáva z EIB a EIF, ktorý bol založený v roku 1994.
+> ep-fs-17 | Skupina EIB bola založená v roku 2000 a pozostáva z EIB a Európskeho investičného fondu (EIF), ktorý bol založený v roku 1994
+
+@ins 3
+Aké sú minimálne celkové investičné náklady projektu, aby mohol dostať priamy úver EIB?
++ viac ako 25 miliónov EUR
+- viac ako 25 000 EUR
+- viac ako 1 miliarda EUR
+= Pri priamych úveroch musia byť celkové investičné náklady vyššie ako 25 miliónov EUR a úver nesmie pokryť viac ako 50 % nákladov.
+> ep-fs-17 | celkové investičné náklady musia byť vyššie ako 25 miliónov EUR
+
+@svk 2
+Koľko kresiel má Slovensko v Európskom hospodárskom a sociálnom výbore?
++ 9
+- 15
+- 24
+= Kreslá v EHSV: po 9 majú Chorvátsko, Dánsko, Fínsko, Írsko, Litva a Slovensko.
+> ep-fs-15 | 9 pre Chorvátsko, Dánsko, Fínsko, Írsko, Litvu a S

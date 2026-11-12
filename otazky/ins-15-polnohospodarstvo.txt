@@ -1,0 +1,298 @@
+#kat ins
+#n 2
+
+Ktorá zmluva položila základy spoločnej poľnohospodárskej politiky (SPP)?
++ Rímska zmluva (EHS)
+- Maastrichtská zmluva
+- Zmluva z Nice
+= Základy SPP boli položené Rímskou zmluvou, ktorou sa 1. januára 1958 zriadilo Európske hospodárske spoločenstvo.
+> ep-fs-103 | Základy SPP boli položené Rímskou zmluvou, ktorou sa 1. januára 1958 zriadilo Európske hospodárske spoločenstvo (EHS).
+
+@ins 3
+V ktorom článku Zmluvy o fungovaní EÚ sú zakotvené ciele spoločnej poľnohospodárskej politiky?
++ v článku 39
+- v článku 2
+- v článku 50
+= Ciele SPP (zvýšiť produktivitu, zabezpečiť primeranú životnú úroveň poľnohospodárov, stabilizovať trhy…) sú zakotvené v článku 39 ZFEÚ.
+> ep-fs-103 | Týmito cieľmi, zakotvenými v Zmluve o fungovaní Európskej únie (ZFEÚ, článok 39), sú: zvýšiť produktivitu poľnohospodárstva
+
+Aký typ právomoci má EÚ v oblasti poľnohospodárstva?
++ spoločnú právomoc s členskými štátmi
+- výlučnú právomoc
+- žiadnu právomoc
+= Podľa článku 4 ods. 2 písm. d) ZFEÚ patrí poľnohospodárstvo do spoločnej právomoci EÚ a členských štátov.
+> ep-fs-103 | V článku 4 ods. 2 písm. d) ZFEÚ sa uvádza, že poľnohospodárstvo patrí do spoločnej právomoci EÚ a členských štátov.
+
+@ins 3
+Akým postupom sa rozhodovalo o poľnohospodárskej politike pred Lisabonskou zmluvou?
++ konzultačným postupom
+- riadnym legislatívnym postupom
+- referendom
+= Pred Lisabonskou zmluvou sa rozhodnutia o poľnohospodárskej politike prijímali v rámci konzultačného postupu; dnes ide o riadny legislatívny postup.
+> ep-fs-103 | Pred Lisabonskou zmluvou v roku 2007 sa rozhodnutia o poľnohospodárskej politike prijímali v rámci tzv. konzultačného postupu.
+
+Ako sa nazývajú dva fondy (piliere) spoločnej poľnohospodárskej politiky od roku 2007?
++ Európsky poľnohospodársky záručný fond a Európsky poľnohospodársky fond pre rozvoj vidieka
+- Kohézny fond a Európsky sociálny fond
+- Fond solidarity a Fond na spravodlivú transformáciu
+= Od roku 2007 sa prostriedky SPP prideľujú v rámci EPZF (pilier I) a EPFRV (pilier II).
+> ep-fs-106 | Od roku 2007 sa finančné prostriedky SPP prideľujú v rámci dvoch pilierov, Európskeho poľnohospodárskeho záručného fondu (pilier I) a Európskeho poľnohospodárskeho fondu pre rozvoj vidieka (pilier II).
+
+Čo financuje prvý pilier SPP – Európsky poľnohospodársky záručný fond (EPZF)?
++ priame platby poľnohospodárom a výdavky súvisiace s trhom
+- výstavbu diaľnic
+- štipendiá Erasmus+
+= EPZF (pilier I) financuje všetky výdavky na priame platby poľnohospodárom a výdavky súvisiace s trhom.
+> ep-fs-106 | Európsky poľnohospodársky záručný fond (EPZF) (pilier I) financuje všetky výdavky súvisiace s priamymi platbami poľnohospodárom (3.2.7) a všetky výdavky súvisiace s trhom
+
+Približne aká časť rozpočtu EÚ je vyčlenená na spoločnú poľnohospodársku politiku?
++ približne 25 %
+- približne 2,5 %
+- približne 75 %
+= Približne 25 % rozpočtu EÚ je vyčlenených na SPP.
+> ep-fs-106 | Približne 25 % rozpočtu EÚ je vyčlenených na SPP.
+
+@ins 3
+Aký podiel rozpočtu Spoločenstva tvorili výdavky na SPP v roku 1980?
++ viac ako 70 %
+- menej ako 10 %
+- presne 25 %
+= Podiel SPP na rozpočte, ktorý v roku 1980 dosahoval viac ako 70 %, sa vďaka reformám neustále znižoval.
+> ep-fs-106 | ich podiel na rozpočte, ktorý v roku 1980 dosahoval viac ako 70 %, sa v priebehu rokov neustále znižoval
+
+@ins 3
+Koľko eur je na obdobie 2021 – 2027 k dispozícii na výdavky súvisiace so SPP?
++ viac ako 378 miliárd EUR
+- približne 3,78 miliardy EUR
+- viac ako 3 780 miliárd EUR
+= Na obdobie 2021 – 2027 je na SPP k dispozícii viac ako 378 miliárd EUR (283 mld. pilier I, 94 mld. pilier II).
+> ep-fs-106 | Na obdobie 2021 – 2027 je na výdavky súvisiace so SPP v rámci prírodných zdrojov a životného prostredia k dispozícii celkovo viac ako 378 miliárd EUR.
+
+@ins 3
+Na koľko konkrétnych cieľov sa zameriava reforma SPP z roku 2021?
++ na 10
+- na 3
+- na 27
+= Najnovšia reforma z roku 2021 sa zameriava na 10 konkrétnych cieľov v oblasti sociálnej, environmentálnej a hospodárskej udržateľnosti.
+> ep-fs-107 | Najnovšia reforma z roku 2021 sa zameriava na 10 konkrétnych cieľov
+
+Kedy nadobudla účinnosť posledná reforma spoločnej poľnohospodárskej politiky?
++ v januári 2023
+- v januári 2004
+- v januári 2030
+= Posledná reforma SPP a nové právne predpisy nadobudli účinnosť v januári 2023.
+> ep-fs-107 | Posledná reforma a nové právne predpisy nadobudli účinnosť v januári 2023.
+
+@ins 3
+Na ktorom zasadnutí Európskej rady bola v marci 1999 dohodnutá reforma SPP „Agenda 2000“?
++ v Berlíne
+- v Laekene
+- v Lisabone
+= Agenda 2000 vychádzala z dohody na berlínskom zasadnutí Európskej rady 24. – 25. marca 1999.
+> ep-fs-107 | Podľa dohody dosiahnutej na konci berlínskeho zasadnutia Európskej rady (v dňoch 24. a 25. marca 1999)
+
+@ins 3
+Čo zaviedla reforma SPP z júna 2003 dohodnutá v Luxemburgu?
++ oddelenie pomoci od výroby (režim jednotnej platby)
+- zrušenie všetkých dotácií
+- spoločnú menu euro
+= Ministri poľnohospodárstva dosiahli 26. júna 2003 v Luxemburgu dohodu, ktorá viedla k SPP s oddelenou pomocou.
+> ep-fs-107 | Reforma z júna 2003: k SPP s oddelenou pomocou Ministri poľnohospodárstva EÚ dospeli 26. júna 2003 v Luxemburgu k dohode
+
+Koľko príjemcov dostáva každý rok priame platby SPP?
++ viac ako 6 miliónov
+- približne 6 000
+- viac ako 600 miliónov
+= Každý rok dostáva priame platby viac ako 6 miliónov príjemcov.
+> ep-fs-109 | Každý rok dostáva priame platby viac ako 6 miliónov príjemcov.
+
+@ins 3
+Akú najvyššiu sumu ročne môže dostať malý poľnohospodár v zjednodušenom režime (po zmene v roku 2025)?
++ 3 000 EUR
+- 300 EUR
+- 30 000 EUR
+= Platby pre malých poľnohospodárov nepresahujú 3 000 EUR ročne (predtým 1 250 EUR).
+> ep-fs-109 | Platby pre malých poľnohospodárov, ktoré nepresahujú 3 000 EUR ročne
+
+@ins 3
+Akú hornú vekovú hranicu stanovujú členské štáty pre podporu mladých poľnohospodárov?
++ od 35 do 40 rokov
+- od 18 do 21 rokov
+- od 60 do 65 rokov
+= Členské štáty stanovujú hornú vekovú hranicu od 35 do 40 rokov a požiadavky na odbornú prípravu mladých poľnohospodárov.
+> ep-fs-109 | Stanovujú aj požadovanú hornú vekovú hranicu – od 35 do 40 rokov
+
+Čo po prvý raz zaviedla SPP na roky 2023 – 2027?
++ sociálnu podmienenosť (prepojenie platieb so zásadami práce)
+- zákaz chovu zvierat
+- spoločnú poľnohospodársku menu
+= SPP na roky 2023 – 2027 po prvýkrát zavádza sociálnu podmienenosť – priame platby sa prepájajú so základnými sociálnymi a pracovnými zásadami.
+> ep-fs-109 | SPP na roky 2023 – 2027 po prvýkrát zavádza aj sociálnu podmienenosť
+
+Kedy sa začala v rámci spoločnej rybárskej politiky riešiť ochrana populácií rýb a hospodárenie s nimi?
++ v roku 1983
+- v roku 1958
+- v roku 2013
+= Hlavná oblasť SRP – ochrana populácií rýb a hospodárenie s nimi – sa začala riešiť v roku 1983.
+> ep-fs-114 | Hlavná oblasť SRP – ochrana populácií rýb a hospodárenie s nimi – sa začala riešiť v roku 1983.
+
+@ins 3
+V ktorých rokoch prešla spoločná rybárska politika reformami?
++ 1992, 2002 a 2013
+- 1957, 1986 a 2009
+- 2000, 2010 a 2020
+= SRP prešla od svojho vzniku tromi reformami – v rokoch 1992, 2002 a 2013.
+> ep-fs-114 | V rokoch 1992, 2002 a 2013 prešla SRP reformami.
+
+@ins 3
+Akú širokú výhradnú hospodársku zónu vyhlásili členské štáty v roku 1977 v Atlantiku a Severnom mori?
++ 200 námorných míľ
+- 12 námorných míľ
+- 2 000 námorných míľ
+= V roku 1977 vyhlásili členské štáty výhradnú hospodársku zónu širokú 200 námorných míľ.
+> ep-fs-114 | v roku 1977 vyhlásili výhradnú hospodársku zónu (VHZ) širokú 200 námorných míľ
+
+Ako sa nazýva systém obmedzení výlovu, o ktorom každoročne rozhoduje Rada?
++ celkový povolený výlov (TAC)
+- spoločný colný sadzobník
+- jednotný európsky akt
+= SRP bola založená na systéme obmedzení výlovu – celkovom povolenom výlove (TAC), o ktorom každoročne rozhodovala Rada.
+> ep-fs-114 | SRP bola založená na systéme obmedzení výlovu (tzv. celkový povolený výlov – TAC), o ktorom každoročne rozhodovala Rada.
+
+@ins 3
+Pri prístupovej rokovaní ktorých krajín v roku 1973 zohrávalo rybárstvo významnú úlohu?
++ Spojeného kráľovstva, Írska a Dánska
+- Grécka, Španielska a Portugalska
+- Rakúska, Švédska a Fínska
+= Rybárstvo zohrávalo významnú úlohu počas rokovaní o pristúpení Spojeného kráľovstva, Írska a Dánska k EHS v roku 1973.
+> ep-fs-114 | Rybárstvo zohrávalo významnú úlohu počas rokovaní o pristúpení Spojeného kráľovstva, Írska a Dánska k EHS v roku 1973.
+
+@ins 3
+Aký podiel svetových populácií rýb žije vo výhradných hospodárskych zónach, hoci tvoria len 35 % plochy morí?
++ až 90 %
+- len 9 %
+- presne 35 %
+= Výhradné hospodárske zóny tvoria len 35 % plochy morí, no žije v nich až 90 % svetových populácií rýb.
+> ep-fs-119 | Aj napriek tomu, že výhradné hospodárske zóny predstavujú len 35 % celkovej plochy morí, žije v nich až 90 % svetových populácií rýb.
+
+@ins 3
+Kedy OSN prijala Dohovor o morskom práve (UNCLOS)?
++ v roku 1982
+- v roku 1945
+- v roku 2013
+= OSN prijala v roku 1982 Dohovor o morskom práve (UNCLOS), ktorý nadobudol platnosť v roku 1994.
+> ep-fs-119 | OSN prijala v roku 1982 Dohovor o morskom práve (UNCLOS), ktorý nadobudol platnosť v roku 1994.
+
+@ins 3
+Ktoré morské plody tvoria najväčší objem produkcie akvakultúry v EÚ?
++ slávky (mušle)
+- tuniaky
+- krevety
+= Výrobcovia v EÚ sa zameriavajú najmä na slávky (30 % objemu), pstruhy (17 %), ustrice (9 %) a zubaticovité (8 %).
+> ep-fs-120 | Výrobcovia v oblasti akvakultúry v EÚ sa zameriavajú najmä na štyri druhy – slávky (30 % celkového objemu), pstruhy (17 %), ustrice (9 %) a zubaticovité (8 %).
+
+@ins 3
+Ktorý členský štát bol v roku 2020 najväčším producentom akvakultúry v EÚ podľa objemu?
++ Španielsko
+- Slovensko
+- Rakúsko
+= Hlavnými výrobcami v oblasti akvakultúry boli Španielsko (24 %), Francúzsko (21 %), Grécko (11 %) a Taliansko (10 %).
+> ep-fs-120 | hlavnými výrobcami v oblasti akvakultúry Španielsko (24 %), Francúzsko (21 %), Grécko (11 %) a Taliansko (10 %)
+
+Kedy Komisia oficiálne začala integrovanú námornú politiku?
++ v roku 2007
+- v roku 1977
+- v roku 2020
+= Integrovaná námorná politika, ktorá sa uplatňuje od roku 2007, podporuje udržateľný rast modrého hospodárstva.
+> ep-fs-121 | Komisia oficiálne začala integrovanú námornú politiku v roku 2007.
+
+Aký podiel povrchu EÚ pokrývajú lesy?
++ 39 %
+- 9 %
+- 69 %
+= Lesy celkovo pokrývajú 39 % povrchu EÚ.
+> ep-fs-105 | Lesy celkovo pokrývajú 39 % povrchu EÚ
+
+@ins 3
+Ktorý z týchto štátov EÚ má najnižší podiel lesov (približne 10 %)?
++ Holandsko
+- Fínsko
+- Slovinsko
+= Fínsko, Švédsko a Slovinsko sú z takmer 60 % pokryté lesmi, v Holandsku predstavuje podiel lesov len 10 %.
+> ep-fs-105 | Zatiaľ čo Fínsko, Švédsko a Slovinsko sú z takmer 60 % pokryté lesmi, v Holandsku predstavuje podiel lesov len 10 %.
+
+@ins 3
+Aká časť lesov v Európe je v súkromnom vlastníctve?
++ približne 60 %
+- približne 6 %
+- 100 %
+= Približne 60 % európskych lesov je v súkromnom vlastníctve a 40 % vo verejnom vlastníctve.
+> ep-fs-105 | Približne 60 % európskych lesov je v súkromnom vlastníctve a len zvyšných 40 % je vo verejnom vlastníctve.
+
+Akú minimálnu výšku by mali stromy v dospelosti dosiahnuť, aby sa plocha považovala za les podľa definície FAO?
++ 5 metrov
+- 50 centimetrov
+- 50 metrov
+= Podľa klasifikácie FAO, ktorú prijal Eurostat, by stromy mali byť schopné v dospelosti dosiahnuť minimálnu výšku 5 metrov.
+> ep-fs-105 | Stromy by mali byť schopné na danom mieste v dospelosti dosiahnuť minimálnu výšku 5 metrov.
+
+@ins 3
+Kedy bola prijatá prvá smernica EÚ o pitnej vode?
++ v roku 1980
+- v roku 1957
+- v roku 2000
+= V roku 1980 bola zavedená prvá smernica o pitnej vode (80/778/EHS).
+> ep-fs-74 | V roku 1980 bola zavedená prvá smernica o pitnej vode (smernica 80/778/EHS)
+
+Ktorý predpis stanovuje rámec EÚ na ochranu povrchových, pobrežných a podzemných vôd?
++ rámcová smernica o vode (2000/60/ES)
+- nariadenie REACH
+- smernica o vtákoch
+= Rámcovou smernicou EÚ o vode (2000/60/ES) sa stanovuje rámec na ochranu vnútrozemskej povrchovej, brakickej, pobrežnej a podzemnej vody.
+> ep-fs-74 | Rámcovou smernicou EÚ o vode (2000/60/ES) sa stanovuje rámec na ochranu vnútrozemskej povrchovej vody, brakickej vody, pobrežnej vody a podzemnej vody.
+
+Ktoré znečisťujúce látky v ovzduší sú dnes v EÚ najproblematickejšie?
++ jemné tuhé častice (PM2,5), oxidy dusíka a prízemný ozón
+- kyslík a dusík
+- vodná para a hélium
+= Najproblematickejšie sú jemné tuhé častice (PM2,5), oxidy dusíka (NOx) a prízemný ozón (O₃).
+> ep-fs-75 | V súčasnosti sú najproblematickejšími znečisťujúcimi látkami jemné tuhé častice (PM2,5), oxidy dusíka (NOx) a prízemný ozón (O₃).
+
+@ins 3
+O koľko chce EÚ do roku 2030 znížiť počet predčasných úmrtí spôsobených jemnými tuhými časticami (oproti roku 2005)?
++ aspoň o 55 %
+- o 5 %
+- o 100 %
+= EÚ si stanovila cieľ znížiť do roku 2030 počet predčasných úmrtí spôsobených jemnými tuhými časticami aspoň o 55 % oproti roku 2005.
+> ep-fs-75 | EÚ si stanovila cieľ znížiť do roku 2030 počet predčasných úmrtí spôsobených jemnými tuhými časticami aspoň o 55 % v porovnaní s rokom 2005.
+
+@ins 3
+Aký podiel obyvateľov miest v EÚ je stále vystavený koncentráciám PM2,5 nad rámec usmernení WHO?
++ 94 %
+- 4 %
+- 44 %
+= Väčšina ľudí žijúcich v mestských oblastiach (94 %) je stále vystavená koncentráciám PM2,5 nad rámec usmernení WHO.
+> ep-fs-75 | Väčšina ľudí žijúcich v mestských oblastiach (94 %) je stále vystavená koncentráciám PM2,5 nad rámec týchto usmernení.
+
+Ktorá agentúra so sídlom v Helsinkách riadi činnosti súvisiace s nariadením REACH o chemických látkach?
++ Európska chemická agentúra (ECHA)
+- Európska agentúra pre životné prostredie (EEA)
+- Európska agentúra pre lieky (EMA)
+= Technickú, vedeckú a administratívnu činnosť súvisiacu s nariadením REACH riadi ECHA so sídlom v Helsinkách.
+> ep-fs-78 | Technickú, vedeckú a administratívnu činnosť súvisiacu s nariadením REACH riadi Európska chemická agentúra (ECHA) so sídlom v Helsinkách
+
+@akt 3
+K obmedzeniu ktorej skupiny látok prijal výbor ECHA pre hodnotenie rizík stanovisko v marci 2026?
++ PFAS („večné chemikálie“)
+- vitamínov
+- solí
+= Výbor ECHA pre hodnotenie rizík prijal stanovisko k rozsiahlemu obmedzeniu PFAS v marci 2026; obmedzenia sa pravdepodobne budú uplatňovať od roku 2027.
+> ep-fs-78 | Výbor agentúry ECHA pre hodnotenie rizík prijal stanovisko k rozsiahlemu obmedzeniu PFAS v marci 2026.
+
+@ins 3
+Koľko starších legislatívnych aktov nahradilo nariadenie REACH?
++ približne 40
+- približne 4
+- približne 400
+= Nariadenie REACH nahrádza približne 40 starších legislatívnych aktov.
+> ep-fs-78 | Nahrádza približne 40 starších legislatívnych aktov.

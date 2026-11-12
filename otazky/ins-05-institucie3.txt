@@ -1,0 +1,297 @@
+#kat ins
+#n 2
+
+Ako sa nazývajú neformálne trojstranné stretnutia Komisie, Rady a Parlamentu počas legislatívneho procesu?
++ trialógy
+- triumviráty
+- konklávy
+= Neformálne trojstranné stretnutia delegácií Komisie, Rady a Európskeho parlamentu sa nazývajú trialógy.
+> ep-fs-22 | neformálnych trojstranných stretnutí, tzv. trialógov
+
+@his 2
+Ako sa vyberali poslanci Európskeho parlamentu do roku 1979?
++ boli vymenúvaní spomedzi poslancov národných parlamentov
+- volili ich priamo občania
+- vymenúvala ich Komisia
+= Do roku 1979 boli poslanci EP vymenúvaní spomedzi poslancov národných parlamentov.
+> ep-fs-22 | Do roku 1979 bol Európsky parlament prirodzene prepojený s národnými parlamentmi, pretože jeho poslanci (poslanci EP) boli vymenúvaní spomedzi poslancov národných parlamentov.
+
+Má Európsky parlament právo skutočnej legislatívnej iniciatívy (predkladať vlastné návrhy zákonov)?
++ nie, návrhy predkladá najmä Komisia
+- áno, výlučné
+- áno, ale len v rozpočte
+= Hoci Parlament postupne posilňoval svoju úlohu, nemá právo skutočnej legislatívnej iniciatívy.
+> ep-fs-22 | nemá právo skutočnej legislatívnej iniciatívy
+
+Na dodržiavanie ktorej zásady dohliadajú podľa článku 12 ZEÚ okrem iného národné parlamenty?
++ zásady subsidiarity
+- zásady jednomyseľnosti
+- zásady neutrality
+= Článok 12 ZEÚ vymedzuje úlohu národných parlamentov vrátane monitorovania dodržiavania zásady subsidiarity.
+> ep-fs-22 | monitorovania dodržiavania zásady subsidiarity v súlade s protokolom č. 2
+
+@his 3
+Kde a kedy sa uskutočnilo prvé európske vrcholné stretnutie hláv štátov alebo predsedov vlád?
++ v Paríži v roku 1961
+- v Ríme v roku 1957
+- v Bruseli v roku 1979
+= Prvé európske vrcholné stretnutie sa uskutočnilo v Paríži v roku 1961, od roku 1969 sa samity konajú čoraz častejšie.
+> ep-fs-23 | Prvé takéto európske vrcholné stretnutie sa uskutočnilo v Paríži v roku 1961
+
+@his 3
+Na ktorom samite sa rozhodlo, že stretnutia hláv štátov a vlád sa budú pravidelne konať pod názvom „Európska rada“?
++ na samite v Paríži vo februári 1974
+- na samite v Haagu v roku 1969
+- v Maastrichte v roku 1991
+= Na samite vo februári 1974 v Paríži sa rozhodlo o pravidelných stretnutiach pod názvom „Európska rada“.
+> ep-fs-23 | Na európskom samite vo februári 1974 v Paríži sa rozhodlo, že v budúcnosti by sa mali tieto stretnutia hláv štátov alebo predsedov vlád konať pravidelne pod názvom „Európska rada“
+
+@his 3
+Ktorý dokument prvýkrát zaradil Európsku radu do zmlúv a stanovil, že sa bude schádzať dvakrát ročne?
++ Jednotný európsky akt (1986)
+- Rímska zmluva (1957)
+- Lisabonská zmluva (2007)
+= Jednotný európsky akt (1986) prvýkrát zaradil Európsku radu do zmlúv a stanovil, že sa bude schádzať dvakrát ročne.
+> ep-fs-23 | Európska rada sa do súboru zmlúv Spoločenstva prvýkrát zaradila Jednotným európskym aktom (1986), ktorý vymedzil jej zloženie a stanovil, že sa bude schádzať dvakrát ročne.
+
+Ktorou zmluvou sa Európska rada stala skutočnou inštitúciou EÚ?
++ Lisabonskou zmluvou
+- Maastrichtskou zmluvou
+- Zmluvou z Nice
+= Lisabonskou zmluvou (2009) sa z Európskej rady stala skutočná inštitúcia EÚ (článok 13 ZEÚ).
+> ep-fs-23 | Lisabonskou zmluvou (2009) sa z Európskej rady stala skutočná inštitúcia EÚ
+
+Čo podľa článku 15 ZEÚ robí Európska rada?
++ dáva Únii podnety na rozvoj a určuje jej všeobecné politické smerovanie a priority
+- prijíma nariadenia a smernice
+- rozhoduje spory medzi štátmi
+= Európska rada „dáva Únii potrebné podnety na jej rozvoj a určuje jej všeobecné politické smerovanie a priority“.
+> ep-fs-23 | dáva Únii potrebné podnety na jej rozvoj a určuje jej všeobecné politické smerovanie a priority
+
+Ktorá inštitúcia uzatvára medzinárodné dohody EÚ, o ktorých rokuje Komisia?
++ Rada Európskej únie
+- Európsky dvor audítorov
+- Európska centrálna banka
+= Rada uzatvára medzinárodné dohody EÚ, o ktorých rokuje Komisia a ktoré si zvyčajne vyžadujú súhlas Parlamentu.
+> ep-fs-24 | Rada uzatvára medzinárodné dohody Európskej únie, o ktorých rokuje Komisia
+
+@ins 3
+Ako rozhoduje Rada o systéme vlastných zdrojov EÚ a o viacročnom finančnom rámci?
++ jednomyseľne (mimoriadny legislatívny postup)
+- jednoduchou väčšinou
+- kvalifikovanou väčšinou bez Parlamentu
+= Rada v súlade s mimoriadnym legislatívnym postupom jednomyseľne prijíma rozhodnutia o vlastných zdrojoch a VFR.
+> ep-fs-24 | Rada tiež v súlade s mimoriadnym legislatívnym postupom jednomyseľne prijíma rozhodnutia o ustanoveniach, ktoré sa týkajú systému vlastných zdrojov EÚ a viacročného finančného rámca
+
+Na ktoré roky platí súčasný viacročný finančný rámec EÚ?
++ 2021 – 2027
+- 2014 – 2020
+- 2024 – 2029
+= Najnovší viacročný finančný rámec (2021 – 2027) prijal Parlament v novembri 2020.
+> ep-fs-24 | Najnovší viacročný finančný rámec (na roky 2021 – 2027) prijal Parlament v novembri 2020.
+
+@akt 2
+Kedy predložila Komisia návrh viacročného finančného rámca na obdobie 2028 – 2034?
++ 16. júla 2025
+- 1. januára 2024
+- 9. mája 2026
+= Komisia predložila 16. júla 2025 návrh viacročného finančného rámca na obdobie 2028 – 2034.
+> ep-fs-24 | Komisia predložila 16. júla 2025 návrh viacročného finančného rámca na obdobie 2028 – 2034.
+
+@akt 2
+Na aké obdobie navrhla Komisia v júli 2025 nový viacročný finančný rámec?
++ 2028 – 2034
+- 2026 – 2030
+- 2027 – 2033
+= Komisia predložila 16. júla 2025 návrh viacročného finančného rámca na obdobie 2028 – 2034.
+> ep-fs-24 | návrh viacročného finančného rámca na obdobie 2028 – 2034
+
+@his 3
+Ktorá zmluva z 8. apríla 1965 zlúčila výkonné orgány ESUO, EHS a Euratomu do jednej Komisie?
++ Zmluva o zlúčení
+- Rímska zmluva
+- Bruselská zmluva o rozpočte
+= Zmluvou o zlúčení z 8. apríla 1965 sa výkonné štruktúry ESUO, EHS a Euratomu zlúčili do jednej Komisie Európskych spoločenstiev.
+> ep-fs-25 | Zmluvou o zlúčení z 8. apríla 1965 sa výkonné štruktúry ESUO, EHS a Euratomu
+
+@ins 3
+Čo sa stalo s aktívami ESUO po skončení platnosti Zmluvy o ESUO v roku 2002?
++ vrátili sa Komisii (Výskumný fond pre uhlie a oceľ)
+- rozdelili sa medzi šesť zakladajúcich štátov
+- prešli na NATO
+= Po skončení platnosti Zmluvy o ESUO v roku 2002 sa aktíva ESUO vrátili Komisii.
+> ep-fs-25 | sa aktíva ESUO vrátili Komisii
+
+@ins 3
+Čo sa v roku 2009 rozhodlo o počte členov Komisie?
++ Komisia bude mať naďalej toľko členov, koľko je členských štátov
+- počet komisárov sa zníži na dve tretiny štátov
+- Komisia bude mať 15 členov
+= Hoci Lisabonská zmluva umožňuje Európskej rade stanoviť počet komisárov, v roku 2009 sa rozhodlo, že Komisia bude mať toľko členov, koľko je štátov.
+> ep-fs-25 | v roku 2009 sa rozhodlo, že Komisia bude mať naďalej toľko členov, koľko je členských štátov
+
+Akou väčšinou volí Európsky parlament kandidáta na predsedu Komisie?
++ väčšinou svojich členov
+- jednomyseľne
+- dvojtretinovou väčšinou prítomných
+= Kandidáta, ktorého navrhne Európska rada, volí Európsky parlament väčšinou svojich členov (článok 17 ods. 7 ZEÚ).
+> ep-fs-25 | Tohto kandidáta volí Európsky parlament väčšinou svojich členov
+
+Kto navrhuje Európskemu parlamentu kandidáta na predsedu Komisie?
++ Európska rada kvalifikovanou väčšinou
+- Rada Európy
+- Súdny dvor EÚ
+= Európska rada navrhne po konzultáciách kvalifikovanou väčšinou Európskemu parlamentu kandidáta na predsedu Komisie.
+> ep-fs-25 | navrhne po príslušných konzultáciách
+
+Ktorý článok ZFEÚ splnomocňuje Parlament vysloviť Komisii nedôveru?
++ článok 234
+- článok 50
+- článok 7
+= V článku 234 ZFEÚ sa Parlament splnomocňuje, aby na základe návrhov na vyslovenie nedôvery vyvodil voči Komisii zodpovednosť.
+> ep-fs-25 | V článku 234 Zmluvy o fungovaní Európskej únie (ZFEÚ) sa Európsky parlament splnomocňuje, aby na základe návrhov na vyslovenie nedôvery vyvodil voči Európskej komisii zodpovednosť.
+
+Koľko inštitúcií EÚ existuje podľa zmlúv (Súdny dvor EÚ je jednou z nich)?
++ sedem
+- päť
+- dvanásť
+= Súdny dvor Európskej únie je jednou zo siedmich inštitúcií EÚ.
+> ep-fs-26 | Súdny dvor Európskej únie (SDEÚ) je jednou zo siedmich inštitúcií EÚ.
+
+@ins 3
+Na aké obdobie si sudcovia Súdneho dvora volia predsedu a podpredsedu?
++ na tri roky
+- na šesť rokov
+- na jeden rok
+= Sudcovia Súdneho dvora si spomedzi seba volia predsedu a podpredsedu na obdobie troch rokov s možnosťou opätovného zvolenia.
+> ep-fs-26 | Sudcovia Súdneho dvora si spomedzi seba volia predsedu a podpredsedu na obdobie troch rokov
+
+Koľko sudcov tvorí Súdny dvor?
++ 27 – jeden za každý členský štát
+- 15
+- 54
+= Súdny dvor tvorí 27 sudcov (jeden za každý členský štát) a pomáha mu 11 generálnych advokátov.
+> ep-fs-26 | Súdny dvor tvorí 27 sudcov (jeden za každý členský štát)
+
+Pre koho sú záväzné rozhodnutia Súdneho dvora EÚ?
++ pre všetkých 27 členských štátov a ich vnútroštátne súdy
+- len pre štáty eurozóny
+- len pre inštitúcie EÚ
+= SDEÚ je najvyšším súdnym orgánom EÚ, jeho rozhodnutia sú záväzné pre všetkých 27 členských štátov a ich vnútroštátne súdy.
+> ep-fs-26 | ktorého rozhodnutia sú záväzné pre všetkých 27 členských štátov a ich vnútroštátne súdy
+
+@ins 3
+Kto vymenúva sudcov a generálnych advokátov Súdneho dvora EÚ?
++ zástupcovia vlád členských štátov vzájomnou dohodou
+- Európsky parlament tajnou voľbou
+- predseda Komisie
+= Zástupcovia vlád členských štátov vymenúvajú sudcov a generálnych advokátov vzájomnou dohodou po porade s výborom (článok 255 ZFEÚ).
+> ep-fs-26 | pristúpia zástupcovia vlád členských štátov k vymenovaniu ich nástupcov na základe vzájomnej dohody
+
+#kat ins
+#n 2
+
+@ins 3
+Koľko podpredsedov má Európsky parlament?
++ 14
+- 5
+- 27
+= Predsedu Parlamentu môže nahradiť jeden zo 14 podpredsedov.
+> ep-fs-20 | Predsedu môže nahradiť jeden zo 14 podpredsedov
+
+Kto podpisuje rozpočet EÚ, čím sa rozpočet stáva platným?
++ predseda Európskeho parlamentu
+- predseda Európskej rady
+- prezident ECB
+= Keď Parlament schváli rozpočet EÚ, predseda ho podpíše, čím sa rozpočet stáva platným.
+> ep-fs-20 | Keď Parlament schváli rozpočet EÚ, predseda ho podpíše, čím sa rozpočet stáva platným.
+
+Kto podpisuje legislatívne akty prijaté riadnym legislatívnym postupom?
++ predseda Parlamentu a predseda Rady EÚ
+- iba predsedníčka Komisie
+- predseda Súdneho dvora
+= Predseda Parlamentu aj predseda Rady EÚ podpisujú všetky legislatívne akty prijaté v rámci riadneho legislatívneho postupu.
+> ep-fs-20 | Predseda Parlamentu aj predseda Rady Európskej únie podpisujú všetky legislatívne akty prijaté v rámci riadneho legislatívneho postupu.
+
+Podľa čoho sú rozdelené miesta poslancov v rokovacej sále Európskeho parlamentu?
++ podľa politickej príslušnosti zľava doprava
+- podľa krajín v abecednom poradí
+- podľa veku poslancov
+= Miesta v rokovacej sále sú rozdeľované podľa politickej príslušnosti, zľava doprava.
+> ep-fs-20 | Miesta pridelené poslancom v rokovacej sále sú rozdeľované podľa politickej príslušnosti, zľava doprava
+
+@akt 1
+V ktorom roku sa budú konať najbližšie voľby do Európskeho parlamentu?
++ v roku 2029
+- v roku 2027
+- v roku 2028
+= Posledné voľby sa konali v júni 2024, nasledujúce sa budú konať v roku 2029.
+> ep-fs-20 | nasledujúce voľby sa budú konať v roku 2029
+
+@ins 3
+Z koľkých na koľko kresiel sa zvýšil počet poslancov Európskeho parlamentu pre obdobie 2024 – 2029?
++ zo 705 na 720
+- zo 751 na 720
+- zo 720 na 751
+= Európska rada 22. septembra 2023 zvýšila celkový počet kresiel v Parlamente zo 705 na 720.
+> ep-fs-20 | zvýšil celkový počet kresiel v Parlamente zo 705 na 720
+
+@ins 3
+Od nadobudnutia platnosti ktorého dokumentu si všetky zmluvy o pristúpení nových štátov vyžadujú súhlas Európskeho parlamentu?
++ Jednotného európskeho aktu
+- Rímskej zmluvy
+- Zmluvy z Nice
+= Od nadobudnutia platnosti Jednotného európskeho aktu si všetky zmluvy o pristúpení a pridružení vyžadujú súhlas Parlamentu.
+> ep-fs-19 | Od nadobudnutia platnosti Jednotného európskeho aktu si všetky zmluvy o pristúpení nového členského štátu a všetky zmluvy o pridružení vyžadujú súhlas Parlamentu.
+
+@ins 3
+Ktorý legislatívny postup zaviedol Jednotný európsky akt a Lisabonská zmluva ho zrušila?
++ postup spolupráce
+- riadny legislatívny postup
+- konzultačný postup
+= Postup spolupráce bol zavedený Jednotným európskym aktom a po nadobudnutí platnosti Lisabonskej zmluvy bol zrušený.
+> ep-fs-19 | Postup spolupráce (pôvodný článok 252 Zmluvy o ES) bol zavedený Jednotným európskym aktom
+
+Ktorou zmluvou sa spolurozhodovací postup premenoval na riadny legislatívny postup?
++ Lisabonskou zmluvou
+- Zmluvou z Nice
+- Amsterdamskou zmluvou
+= Lisabonskou zmluvou sa spolurozhodovací postup premenoval na riadny legislatívny postup (článok 294 ZFEÚ).
+> ep-fs-19 | Lisabonskou zmluvou (1.1.5) sa spolurozhodovací postup premenoval na riadny legislatívny postup
+
+Ktorou zmluvou bol zriadený Európsky ombudsman?
++ Maastrichtskou zmluvou (1992)
+- Rímskou zmluvou (1957)
+- Lisabonskou zmluvou (2007)
+= Európsky ombudsman bol zriadený Maastrichtskou zmluvou (1992).
+> ep-fs-18 | bol zriadený Maastrichtskou zmluvou (1992)
+
+@ins 3
+Podporu koľkých poslancov EP musí mať kandidát na európskeho ombudsmana?
++ najmenej 39 poslancov z aspoň dvoch štátov
+- najmenej 100 poslancov z jedného štátu
+- všetkých predsedov politických skupín
+= Navrhovaní kandidáti musia mať podporu najmenej 39 poslancov Európskeho parlamentu z aspoň dvoch členských štátov.
+> ep-fs-18 | Navrhovaní kandidáti musia mať podporu najmenej 39 poslancov Európskeho parlamentu z aspoň dvoch členských štátov.
+
+Kde je sídlo európskeho ombudsmana?
++ v Štrasburgu (sídlo Európskeho parlamentu)
+- v Luxemburgu
+- vo Frankfurte
+= Sídlom európskeho ombudsmana je sídlo Európskeho parlamentu v Štrasburgu.
+> ep-fs-18 | Sídlom európskeho ombudsmana je sídlo Európskeho parlamentu v Štrasburgu.
+
+@ins 3
+Čoho sa týkala približne tretina vyšetrovaní európskeho ombudsmana v rokoch 2021 – 2023?
++ nedostatku informácií o dokumentoch EÚ alebo odmietnutia ich poskytnúť
+- daňových podvodov
+- volebných sporov
+= Približne tretina vyšetrovaní sa týkala nedostatku informácií súvisiacich s dokumentmi EÚ alebo odmietnutia takéto informácie poskytnúť.
+> ep-fs-18 | Približne tretina vyšetrovaní, ktoré úrad európskeho ombudsmana vykonal v rokoch 2021 až 2023, sa týkala nedostatku informácií súvisiacich s dokumentmi EÚ
+
+Môže európsky ombudsman vyšetrovať sťažnosti proti národnému alebo miestnemu úradu (napr. mestu)?
++ nie, vyšetruje len inštitúcie a orgány EÚ
+- áno, akýkoľvek úrad v EÚ
+- áno, ale len na Slovensku
+= Vyšetrovať nemožno sťažnosti proti miestnym, regionálnym alebo národným orgánom, ani súdnu činnosť SDEÚ.
+> ep-fs-18 | sťažnosti proti miestnym, regionálnym alebo národným or

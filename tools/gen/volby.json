@@ -1,0 +1,805 @@
+[
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorej z týchto krajín môžu vo voľbách do Európskeho parlamentu voliť už 16-roční?",
+"ok": "Belgicko",
+"bad": [
+"Poľsko",
+"Španielsko"
+],
+"v": "Voliť od 16 rokov sa dá v Belgicku, na Malte, v Nemecku a Rakúsku; v Grécku od 17, inde od 18 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od koľkých rokov môžu občania voliť vo voľbách do Európskeho parlamentu v Belgicku?",
+"ok": "od 16 rokov",
+"bad": [
+"od 18 rokov",
+"od 21 rokov"
+],
+"v": "Voliť od 16 rokov sa dá v Belgicku, na Malte, v Nemecku a Rakúsku.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorej z týchto krajín môžu vo voľbách do Európskeho parlamentu voliť už 16-roční?",
+"ok": "Malta",
+"bad": [
+"Slovinsko",
+"Cyprus"
+],
+"v": "Voliť od 16 rokov sa dá v Belgicku, na Malte, v Nemecku a Rakúsku; v Grécku od 17, inde od 18 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od koľkých rokov môžu občania voliť vo voľbách do Európskeho parlamentu na Malte?",
+"ok": "od 16 rokov",
+"bad": [
+"od 18 rokov",
+"od 21 rokov"
+],
+"v": "Voliť od 16 rokov sa dá v Belgicku, na Malte, v Nemecku a Rakúsku.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorej z týchto krajín môžu vo voľbách do Európskeho parlamentu voliť už 16-roční?",
+"ok": "Nemecko",
+"bad": [
+"Francúzsko",
+"Maďarsko"
+],
+"v": "Voliť od 16 rokov sa dá v Belgicku, na Malte, v Nemecku a Rakúsku; v Grécku od 17, inde od 18 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od koľkých rokov môžu občania voliť vo voľbách do Európskeho parlamentu v Nemecku?",
+"ok": "od 16 rokov",
+"bad": [
+"od 18 rokov",
+"od 21 rokov"
+],
+"v": "Voliť od 16 rokov sa dá v Belgicku, na Malte, v Nemecku a Rakúsku.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorej z týchto krajín môžu vo voľbách do Európskeho parlamentu voliť už 16-roční?",
+"ok": "Rakúsko",
+"bad": [
+"Taliansko",
+"Rumunsko"
+],
+"v": "Voliť od 16 rokov sa dá v Belgicku, na Malte, v Nemecku a Rakúsku; v Grécku od 17, inde od 18 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od koľkých rokov môžu občania voliť vo voľbách do Európskeho parlamentu v Rakúsku?",
+"ok": "od 16 rokov",
+"bad": [
+"od 18 rokov",
+"od 21 rokov"
+],
+"v": "Voliť od 16 rokov sa dá v Belgicku, na Malte, v Nemecku a Rakúsku.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od koľkých rokov môžu občania voliť vo voľbách do Európskeho parlamentu v Grécku?",
+"ok": "od 17 rokov",
+"bad": [
+"od 16 rokov",
+"od 21 rokov"
+],
+"v": "Grécko má pre eurovoľby hranicu 17 rokov; Belgicko, Malta, Nemecko a Rakúsko 16 rokov, ostatné štáty 18.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "svk",
+"n": 1,
+"text": "Od koľkých rokov sa môžu Slováci zúčastniť na voľbách do Európskeho parlamentu ako voliči?",
+"ok": "od 18 rokov",
+"bad": [
+"od 16 rokov",
+"od 21 rokov"
+],
+"v": "Vo väčšine štátov vrátane Slovenska sa volí od 18 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Vo väčšine členských štátov môžu voliť občania, ktorí dosiahli vek 18 rokov, s výnimkou Belgicka, Malty, Nemecka a Rakúska, kde je táto hranica stanovená na 16 rokov, a Grécka s hranicou 17 rokov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorej z týchto krajín je účasť na voľbách do Európskeho parlamentu povinná?",
+"ok": "Belgicko",
+"bad": [
+"Chorvátsko",
+"Slovensko"
+],
+"v": "Povinná účasť na eurovoľbách platí v Belgicku, Bulharsku, Luxembursku a Grécku.",
+"src": [
+[
+"ep-fs-21",
+"Účasť na voľbách je povinná v štyroch členských štátoch (Belgicko, Bulharsko, Luxembursko a Grécko)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorej z týchto krajín je účasť na voľbách do Európskeho parlamentu povinná?",
+"ok": "Bulharsko",
+"bad": [
+"Rakúsko",
+"Litva"
+],
+"v": "Povinná účasť na eurovoľbách platí v Belgicku, Bulharsku, Luxembursku a Grécku.",
+"src": [
+[
+"ep-fs-21",
+"Účasť na voľbách je povinná v štyroch členských štátoch (Belgicko, Bulharsko, Luxembursko a Grécko)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorej z týchto krajín je účasť na voľbách do Európskeho parlamentu povinná?",
+"ok": "Luxembursko",
+"bad": [
+"Malta",
+"Poľsko"
+],
+"v": "Povinná účasť na eurovoľbách platí v Belgicku, Bulharsku, Luxembursku a Grécku.",
+"src": [
+[
+"ep-fs-21",
+"Účasť na voľbách je povinná v štyroch členských štátoch (Belgicko, Bulharsko, Luxembursko a Grécko)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorej z týchto krajín je účasť na voľbách do Európskeho parlamentu povinná?",
+"ok": "Grécko",
+"bad": [
+"Slovinsko",
+"Francúzsko"
+],
+"v": "Povinná účasť na eurovoľbách platí v Belgicku, Bulharsku, Luxembursku a Grécku.",
+"src": [
+[
+"ep-fs-21",
+"Účasť na voľbách je povinná v štyroch členských štátoch (Belgicko, Bulharsko, Luxembursko a Grécko)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V koľkých členských štátoch je účasť na voľbách do Európskeho parlamentu povinná?",
+"ok": "v štyroch",
+"bad": [
+"v žiadnom",
+"vo všetkých"
+],
+"v": "Povinná účasť platí v štyroch štátoch: Belgicko, Bulharsko, Luxembursko a Grécko.",
+"src": [
+[
+"ep-fs-21",
+"Účasť na voľbách je povinná v štyroch členských štátoch (Belgicko, Bulharsko, Luxembursko a Grécko)"
+]
+]
+},
+{
+"kat": "svk",
+"n": 1,
+"text": "Je účasť na voľbách do Európskeho parlamentu na Slovensku povinná?",
+"ok": "nie, povinná je len v Belgicku, Bulharsku, Luxembursku a Grécku",
+"bad": [
+"áno, pod hrozbou pokuty",
+"áno, ale len pre študentov"
+],
+"v": "Povinná účasť platí iba v štyroch štátoch – Slovensko medzi nimi nie je.",
+"src": [
+[
+"ep-fs-21",
+"Účasť na voľbách je povinná v štyroch členských štátoch (Belgicko, Bulharsko, Luxembursko a Grécko)"
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu na Slovensku?",
+"ok": "5 %",
+"bad": [
+"4 %",
+"3 %"
+],
+"v": "Slovensko: prah 5 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Francúzsko, Belgicko, Litva, Poľsko, Slovensko, Česko, Rumunsko, Chorvátsko, Lotyšsko a Maďarsko (5 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu vo Francúzsku?",
+"ok": "5 %",
+"bad": [
+"4 %",
+"3 %"
+],
+"v": "Francúzsko: prah 5 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Francúzsko, Belgicko, Litva, Poľsko, Slovensko, Česko, Rumunsko, Chorvátsko, Lotyšsko a Maďarsko (5 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu v Poľsku?",
+"ok": "5 %",
+"bad": [
+"4 %",
+"3 %"
+],
+"v": "Poľsko: prah 5 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Francúzsko, Belgicko, Litva, Poľsko, Slovensko, Česko, Rumunsko, Chorvátsko, Lotyšsko a Maďarsko (5 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu v Česku?",
+"ok": "5 %",
+"bad": [
+"4 %",
+"3 %"
+],
+"v": "Česko: prah 5 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Francúzsko, Belgicko, Litva, Poľsko, Slovensko, Česko, Rumunsko, Chorvátsko, Lotyšsko a Maďarsko (5 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu v Rakúsku?",
+"ok": "4 %",
+"bad": [
+"5 %",
+"3 %"
+],
+"v": "Rakúsko: prah 4 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Rakúsko, Taliansko a Švédsko (4 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu v Taliansku?",
+"ok": "4 %",
+"bad": [
+"5 %",
+"3 %"
+],
+"v": "Taliansko: prah 4 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Rakúsko, Taliansko a Švédsko (4 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu vo Švédsku?",
+"ok": "4 %",
+"bad": [
+"5 %",
+"3 %"
+],
+"v": "Švédsko: prah 4 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Rakúsko, Taliansko a Švédsko (4 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu v Grécku?",
+"ok": "3 %",
+"bad": [
+"5 %",
+"4 %"
+],
+"v": "Grécko: prah 3 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Grécko (3 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký volebný prah (minimálny podiel hlasov na získanie kresla) platí vo voľbách do Európskeho parlamentu na Cypre?",
+"ok": "1,8 %",
+"bad": [
+"5 %",
+"4 %"
+],
+"v": "Cyprus: prah 1,8 %. Prah 5 % majú napr. Francúzsko, Poľsko či Slovensko, 4 % Rakúsko, Taliansko a Švédsko.",
+"src": [
+[
+"ep-fs-21",
+"Cyprus (1,8 %)"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý súd vyhlásil v rokoch 2011 a 2014 volebné prahy pre eurovoľby vo svojej krajine za protiústavné?",
+"ok": "nemecký ústavný súd",
+"bad": [
+"Súdny dvor EÚ",
+"francúzska Ústavná rada"
+],
+"v": "Nemecký ústavný súd vyhlásil prahy (najprv 5 %, potom 3 %) za protiústavné; v roku 2024 rozhodol, že prah podľa rozhodnutia 2018/994 protiústavný nebude.",
+"src": [
+[
+"ep-fs-21",
+"nemecký ústavný súd vyhlásil existujúce prahové hodnoty jednotlivých krajín pre voľby do EÚ (ktoré boli najprv 5 %, potom 3 %) za protiústavné"
+]
+]
+},
+{
+"kat": "ins",
+"n": 2,
+"text": "Aký volebný systém musia všetky členské štáty použiť pri voľbách do Európskeho parlamentu?",
+"ok": "systém pomerného zastúpenia",
+"bad": [
+"väčšinový systém",
+"nepriame voľby v národných parlamentoch"
+],
+"v": "Všetky členské štáty musia používať systém založený na pomernom zastúpení.",
+"src": [
+[
+"ep-fs-21",
+"Všetky členské štáty musia používať systém založený na pomernom zastúpení."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto štátov má vo voľbách do Európskeho parlamentu viacero regionálnych volebných obvodov?",
+"ok": "Belgicko",
+"bad": [
+"Cyprus",
+"Portugalsko"
+],
+"v": "Väčšina štátov tvorí jeden volebný obvod; viac regionálnych obvodov majú Belgicko, Írsko, Taliansko a Poľsko.",
+"src": [
+[
+"ep-fs-21",
+"Štyri členské štáty (Belgicko, Írsko, Taliansko a Poľsko) však rozdelili svoje štátne územie na viacero regionálnych volebných obvodov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto štátov má vo voľbách do Európskeho parlamentu viacero regionálnych volebných obvodov?",
+"ok": "Írsko",
+"bad": [
+"Švédsko",
+"Lotyšsko"
+],
+"v": "Väčšina štátov tvorí jeden volebný obvod; viac regionálnych obvodov majú Belgicko, Írsko, Taliansko a Poľsko.",
+"src": [
+[
+"ep-fs-21",
+"Štyri členské štáty (Belgicko, Írsko, Taliansko a Poľsko) však rozdelili svoje štátne územie na viacero regionálnych volebných obvodov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto štátov má vo voľbách do Európskeho parlamentu viacero regionálnych volebných obvodov?",
+"ok": "Taliansko",
+"bad": [
+"Rakúsko",
+"Dánsko"
+],
+"v": "Väčšina štátov tvorí jeden volebný obvod; viac regionálnych obvodov majú Belgicko, Írsko, Taliansko a Poľsko.",
+"src": [
+[
+"ep-fs-21",
+"Štyri členské štáty (Belgicko, Írsko, Taliansko a Poľsko) však rozdelili svoje štátne územie na viacero regionálnych volebných obvodov."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Ktorý z týchto štátov má vo voľbách do Európskeho parlamentu viacero regionálnych volebných obvodov?",
+"ok": "Poľsko",
+"bad": [
+"Španielsko",
+"Švédsko"
+],
+"v": "Väčšina štátov tvorí jeden volebný obvod; viac regionálnych obvodov majú Belgicko, Írsko, Taliansko a Poľsko.",
+"src": [
+[
+"ep-fs-21",
+"Štyri členské štáty (Belgicko, Írsko, Taliansko a Poľsko) však rozdelili svoje štátne územie na viacero regionálnych volebných obvodov."
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "Koľko volebných obvodov má Slovensko vo voľbách do Európskeho parlamentu?",
+"ok": "jeden – celé územie štátu",
+"bad": [
+"osem – podľa krajov",
+"štyri"
+],
+"v": "Väčšina štátov vrátane Slovenska tvorí v eurovoľbách jediný volebný obvod; viac obvodov majú len Belgicko, Írsko, Taliansko a Poľsko.",
+"src": [
+[
+"ep-fs-21",
+"V európskych voľbách tvorí väčšina členských štátov jediný volebný obvod."
+],
+[
+"ep-fs-21",
+"Štyri členské štáty (Belgicko, Írsko, Taliansko a Poľsko) však rozdelili svoje štátne územie na viacero regionálnych volebných obvodov."
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "Koľko rokov musí mať najmenej kandidát vo voľbách do Európskeho parlamentu na Slovensku?",
+"ok": "21 rokov",
+"bad": [
+"18 rokov",
+"25 rokov"
+],
+"v": "Minimálny vek kandidáta je vo väčšine štátov 18 rokov; na Slovensku (a napr. v Česku či Poľsku) 21 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Výnimkou sú Belgicko, Bulharsko, Cyprus, Česko, Estónsko, Írsko, Litva, Lotyšsko, Poľsko a Slovensko (21 rokov), Rumunsko (23 rokov) a Taliansko a Grécko (25 rokov)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej krajine musí mať kandidát do Európskeho parlamentu najmenej 23 rokov?",
+"ok": "Rumunsko",
+"bad": [
+"Taliansko",
+"Slovensko"
+],
+"v": "Rumunsko má hranicu 23 rokov, Taliansko a Grécko 25 rokov, Slovensko 21 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Výnimkou sú Belgicko, Bulharsko, Cyprus, Česko, Estónsko, Írsko, Litva, Lotyšsko, Poľsko a Slovensko (21 rokov), Rumunsko (23 rokov) a Taliansko a Grécko (25 rokov)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký je minimálny vek kandidáta vo voľbách do Európskeho parlamentu v Taliansku?",
+"ok": "25 rokov",
+"bad": [
+"18 rokov",
+"21 rokov"
+],
+"v": "Taliansko a Grécko majú najvyššiu hranicu – 25 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Výnimkou sú Belgicko, Bulharsko, Cyprus, Česko, Estónsko, Írsko, Litva, Lotyšsko, Poľsko a Slovensko (21 rokov), Rumunsko (23 rokov) a Taliansko a Grécko (25 rokov)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký je minimálny vek kandidáta vo voľbách do Európskeho parlamentu v Grécku?",
+"ok": "25 rokov",
+"bad": [
+"18 rokov",
+"21 rokov"
+],
+"v": "Taliansko a Grécko majú najvyššiu hranicu – 25 rokov.",
+"src": [
+[
+"ep-fs-21",
+"Výnimkou sú Belgicko, Bulharsko, Cyprus, Česko, Estónsko, Írsko, Litva, Lotyšsko, Poľsko a Slovensko (21 rokov), Rumunsko (23 rokov) a Taliansko a Grécko (25 rokov)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký je minimálny vek kandidáta vo voľbách do Európskeho parlamentu v Česku?",
+"ok": "21 rokov",
+"bad": [
+"18 rokov",
+"25 rokov"
+],
+"v": "Česko patrí medzi štáty s hranicou 21 rokov (spolu so Slovenskom).",
+"src": [
+[
+"ep-fs-21",
+"Výnimkou sú Belgicko, Bulharsko, Cyprus, Česko, Estónsko, Írsko, Litva, Lotyšsko, Poľsko a Slovensko (21 rokov), Rumunsko (23 rokov) a Taliansko a Grécko (25 rokov)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký je minimálny vek kandidáta vo voľbách do Európskeho parlamentu v Poľsku?",
+"ok": "21 rokov",
+"bad": [
+"18 rokov",
+"25 rokov"
+],
+"v": "Poľsko patrí medzi štáty s hranicou 21 rokov (spolu so Slovenskom).",
+"src": [
+[
+"ep-fs-21",
+"Výnimkou sú Belgicko, Bulharsko, Cyprus, Česko, Estónsko, Írsko, Litva, Lotyšsko, Poľsko a Slovensko (21 rokov), Rumunsko (23 rokov) a Taliansko a Grécko (25 rokov)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký je minimálny vek kandidáta vo voľbách do Európskeho parlamentu v Írsku?",
+"ok": "21 rokov",
+"bad": [
+"18 rokov",
+"25 rokov"
+],
+"v": "Írsko patrí medzi štáty s hranicou 21 rokov (spolu so Slovenskom).",
+"src": [
+[
+"ep-fs-21",
+"Výnimkou sú Belgicko, Bulharsko, Cyprus, Česko, Estónsko, Írsko, Litva, Lotyšsko, Poľsko a Slovensko (21 rokov), Rumunsko (23 rokov) a Taliansko a Grécko (25 rokov)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aký je minimálny vek kandidáta vo voľbách do Európskeho parlamentu v Estónsku?",
+"ok": "21 rokov",
+"bad": [
+"18 rokov",
+"25 rokov"
+],
+"v": "Estónsko patrí medzi štáty s hranicou 21 rokov (spolu so Slovenskom).",
+"src": [
+[
+"ep-fs-21",
+"Výnimkou sú Belgicko, Bulharsko, Cyprus, Česko, Estónsko, Írsko, Litva, Lotyšsko, Poľsko a Slovensko (21 rokov), Rumunsko (23 rokov) a Taliansko a Grécko (25 rokov)."
+]
+]
+},
+{
+"kat": "ins",
+"n": 3,
+"text": "Môže občan kandidovať v tých istých voľbách do Európskeho parlamentu vo viac ako jednom členskom štáte?",
+"ok": "nie, nikto nesmie kandidovať vo viac než jednom štáte",
+"bad": [
+"áno, najviac v dvoch štátoch",
+"áno, bez obmedzenia"
+],
+"v": "Nikto nesmie kandidovať v tých istých voľbách vo viac než jednom členskom štáte (smernica 93/109/ES).",
+"src": [
+[
+"ep-fs-21",
+"Nikto nesmie kandidovať v tých istých voľbách vo viac než jednom členskom štáte"
+]
+]
+},
+{
+"kat": "his",
+"n": 3,
+"text": "V ktorých eurovoľbách prvýkrát kandidovali hlavní kandidáti (Spitzenkandidaten) na predsedu Komisie?",
+"ok": "v roku 2014",
+"bad": [
+"v roku 1979",
+"v roku 2004"
+],
+"v": "Hlavní kandidáti prvýkrát kandidovali vo voľbách v roku 2014; Parlament potom zvolil Jeana-Clauda Junckera.",
+"src": [
+[
+"ep-fs-21",
+"vo voľbách v roku 2014 prvýkrát kandidovali hlavní kandidáti"
+]
+]
+},
+{
+"kat": "his",
+"n": 2,
+"text": "Kto bol v roku 2014 ako prvý „hlavný kandidát“ zvolený za predsedu Komisie?",
+"ok": "Jean-Claude Juncker",
+"bad": [
+"José Manuel Barroso",
+"Ursula von der Leyenová"
+],
+"v": "Európsky parlament 22. októbra 2014 zvolil za predsedu Komisie hlavného kandidáta Jeana-Clauda Junckera.",
+"src": [
+[
+"ep-fs-21",
+"Nakoniec Európsky parlament 22. októbra 2014 zvolil na základe výsledkov volieb z roku 2014 jedného z týchto kandidátov – Jeana-Clauda Junckera – za predsedu Komisie."
+]
+]
+},
+{
+"kat": "his",
+"n": 2,
+"text": "V ktorom roku sa konali prvé priame voľby do Európskeho parlamentu?",
+"ok": "v roku 1979",
+"bad": [
+"v roku 1957",
+"v roku 1992"
+],
+"v": "Prvé priame voľby sa konali v roku 1979 na základe Aktu o voľbách z 20. septembra 1976.",
+"src": [
+[
+"ep-fs-21",
+"Toto ustanovenie implementovala Rada pred prvými priamymi voľbami v roku 1979"
+]
+]
+},
+{
+"kat": "med",
+"n": 3,
+"text": "Kedy Komisia navrhla celoeurópsky Kódex postupov proti šíreniu dezinformácií?",
+"ok": "v apríli 2018",
+"bad": [
+"v roku 2004",
+"v roku 2025"
+],
+"v": "V apríli 2018 Komisia vydala oznámenie Boj proti dezinformáciám na internete a navrhla Kódex postupov; v septembri 2018 ho podpísali tri online platformy.",
+"src": [
+[
+"ep-fs-21",
+"Komisia v apríli 2018 vydala oznámenie s názvom Boj proti dezinformáciám na internete: európsky prístup a navrhla celoeurópsky Kódex postupov proti šíreniu dezinformácií"
+]
+]
+},
+{
+"kat": "med",
+"n": 2,
+"text": "Čo okrem iného žiadal od online platforiem akčný plán EÚ proti dezinformáciám z decembra 2018 pred eurovoľbami?",
+"ok": "vymazávať falošné účty a označovať správy od „botov“",
+"bad": [
+"zrušiť všetky politické reklamy na svete",
+"zverejniť heslá používateľov"
+],
+"v": "Akčný plán vyzval platformy na vymazanie falošných účtov, označovanie správ od botov a spoluprácu s overovateľmi faktov.",
+"src": [
+[
+"ep-fs-21",
+"vrátane vymazania falošných účtov, označovania správ doručených prostredníctvom „botov“"
+]
+]
+},
+{
+"kat": "akt",
+"n": 3,
+"text": "Kedy bol prijatý záverečný akt prepracovaného nariadenia o štatúte a financovaní európskych politických strán?",
+"ok": "26. novembra 2025",
+"bad": [
+"9. mája 2024",
+"1. januára 2027"
+],
+"v": "Po dlhých rokovaniach bol záverečný akt prijatý 26. novembra 2025.",
+"src": [
+[
+"ep-fs-21",
+"záverečný akt bol prijatý 26. novembra 2025"
+]
+]
+}
+]

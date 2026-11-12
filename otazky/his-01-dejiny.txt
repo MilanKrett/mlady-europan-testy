@@ -1,0 +1,795 @@
+#kat his
+#n 2
+
+@his 1
+Ktorý deň sa v Európskej únii oslavuje ako Deň Európy?
++ 9. máj
+- 1. máj
+- 25. marec
+= Dňa 9. mája 1950 predstavil Robert Schuman plán hlbšej spolupráce; tento deň sa neskôr oslavuje ako Deň Európy.
+> eu-history-1945-59 | Neskôr sa 9. máj v Európskej únii oslavuje ako Deň Európy.
+
+@his 1
+Kto predstavil 9. mája 1950 plán integrovať uhoľný a oceliarsky priemysel západnej Európy?
++ Robert Schuman
+- Konrad Adenauer
+- Winston Churchill
+= Francúzsky minister zahraničných vecí Robert Schuman predstavil 9. mája 1950 plán hlbšej spolupráce (Schumanova deklarácia).
+> eu-history-1945-59 | Francúzsky minister zahraničných vecí Robert Schuman predstavil plán hlbšej spolupráce. Navrhuje integrovať uhoľný a oceliarsky priemysel v západnej Európe.
+
+Akú funkciu zastával Robert Schuman, keď 9. mája 1950 predstavil svoj plán?
++ francúzsky minister zahraničných vecí
+- predseda Európskej komisie
+- nemecký kancelár
+= Robert Schuman bol vtedy francúzskym ministrom zahraničných vecí.
+> eu-history-1945-59 | Francúzsky minister zahraničných vecí Robert Schuman predstavil plán hlbšej spolupráce.
+
+V ktorom roku bolo založené Európske spoločenstvo uhlia a ocele?
++ 1951
+- 1957
+- 1945
+= Zmluvu o Európskom spoločenstve uhlia a ocele podpísalo šesť krajín 18. apríla 1951; ESUO začalo fungovať v roku 1952.
+> eu-history-1945-59 | Európske spoločenstvo uhlia a ocele, založené v roku 1951, je prvým krokom k zabezpečeniu trvalého mieru.
+
+@his 3
+Kedy bola podpísaná zmluva o Európskom spoločenstve uhlia a ocele?
++ 18. apríla 1951
+- 9. mája 1950
+- 25. marca 1957
+= Na základe Schumanovho plánu podpísalo 18. apríla 1951 šesť krajín zmluvu o spoločnom riadení uhoľného a oceliarskeho priemyslu.
+> eu-history-1945-59 | 18. apríla 1951 – Európske spoločenstvo uhlia a ocele
+
+Ktorá krajina NEPATRILA medzi šesť zakladajúcich krajín Európskeho spoločenstva uhlia a ocele?
++ Spojené kráľovstvo
+- Luxembursko
+- Holandsko
+= Zakladajúcimi krajinami boli Nemecko, Francúzsko, Taliansko, Holandsko, Belgicko a Luxembursko. Spojené kráľovstvo pristúpilo až v roku 1973.
+> eu-history-1945-59 | Týmito šiestimi krajinami sú Nemecko, Francúzsko, Taliansko, Holandsko, Belgicko a Luxembursko.
+
+@his 3
+Od ktorého roku začalo Európske spoločenstvo uhlia a ocele fungovať?
++ 1952
+- 1951
+- 1958
+= Zmluva bola podpísaná v roku 1951, spoločenstvo začalo fungovať od roku 1952.
+> eu-history-1945-59 | Európske spoločenstvo uhlia a ocele začalo fungovať od roku 1952.
+
+Aký bol hlavný cieľ spoločného riadenia uhoľného a oceliarskeho priemyslu v roku 1951?
++ aby žiadna krajina nemohla obrátiť svoje vojnové zbrane proti inej
+- aby sa znížili ceny elektriny pre domácnosti
+- aby sa zaviedla spoločná mena
+= Spoločné riadenie uhlia a ocele (vtedy kľúčových pre zbrojenie) malo zabrániť ďalšej vojne medzi európskymi krajinami.
+> eu-history-1945-59 | Takto nebude môcť žiadna krajina obrátiť svoje vojnové zbrane proti inej.
+
+@his 1
+Kedy boli podpísané Rímske zmluvy?
++ 25. marca 1957
+- 9. mája 1950
+- 7. februára 1992
+= Rímske zmluvy zakladajúce EHS a Euratom boli podpísané 25. marca 1957.
+> eu-history-1945-59 | 25. marca 1957 – Rímske zmluvy
+
+Ktoré dve spoločenstvá založili Rímske zmluvy?
++ Európske hospodárske spoločenstvo a Euratom
+- Európske spoločenstvo uhlia a ocele a NATO
+- Európsku úniu a Európsky hospodársky priestor
+= Rímske zmluvy z roku 1957 založili Európske hospodárske spoločenstvo (EHS) a Európske spoločenstvo pre atómovú energiu (Euratom).
+> eu-history-1945-59 | ktorými sa zakladá Európske hospodárske spoločenstvo (EHS) a Európske spoločenstvo pre atómovú energiu (Euratom)
+
+@his 3
+Odkedy začali fungovať orgány založené Rímskymi zmluvami?
++ od 1. januára 1958
+- od 1. januára 1957
+- od 1. júla 1967
+= EHS a Euratom začali fungovať 1. januára 1958.
+> eu-history-1945-59 | Tieto orgány začali fungovať 1. januára 1958.
+
+Čo znamená skratka Euratom?
++ Európske spoločenstvo pre atómovú energiu
+- Európsky úrad pre atmosférický monitoring
+- Európska agentúra pre telekomunikácie
+= Euratom je Európske spoločenstvo pre atómovú energiu, založené Rímskymi zmluvami v roku 1957.
+> eu-history-1945-59 | Európske spoločenstvo pre atómovú energiu (Euratom)
+
+@his 3
+Kde sa 19. marca 1958 konalo prvé zasadnutie Európskeho parlamentného zhromaždenia?
++ v Štrasburgu
+- v Bruseli
+- v Luxemburgu
+= Prvé zasadnutie Európskeho parlamentného zhromaždenia, predchodcu Európskeho parlamentu, sa konalo vo francúzskom Štrasburgu.
+> eu-history-1945-59 | Vo francúzskom Štrasburgu sa koná prvé zasadnutie Európskeho parlamentného zhromaždenia
+
+@his 3
+Kto bol zvolený za prvého predsedu Európskeho parlamentného zhromaždenia v roku 1958?
++ Robert Schuman
+- Paul-Henri Spaak
+- Walter Hallstein
+= Na prvom zasadnutí 19. marca 1958 bol za predsedu zvolený Robert Schuman.
+> eu-history-1945-59 | Robert Schuman je zvolený za jeho predsedu.
+
+@his 3
+Kedy si Európske parlamentné zhromaždenie zmenilo názov na Európsky parlament?
++ 30. marca 1962
+- 19. marca 1958
+- v júni 1979
+= Zhromaždenie si 30. marca 1962 zmenilo názov na Európsky parlament.
+> eu-history-1945-59 | 30. marca 1962 mení svoj názov na Európsky parlament
+
+Kedy sa skončila druhá svetová vojna v Európe?
++ 8. mája 1945
+- 9. mája 1950
+- 11. novembra 1918
+= Druhá svetová vojna sa v Európe skončila 8. mája 1945.
+> eu-history-1945-59 | 8. mája 1945 – Koniec druhej svetovej vojny v Európe
+
+Koľko Židov bolo zavraždených počas holokaustu?
++ šesť miliónov
+- šesťstotisíc
+- šesťdesiat miliónov
+= Počas holokaustu bolo zavraždených šesť miliónov Židov.
+> eu-history-1945-59 | Počas holokaustu bolo zavraždených šesť miliónov Židov.
+
+V ktorom roku vznikla Organizácia Severoatlantickej zmluvy (NATO)?
++ 1949
+- 1957
+- 1945
+= NATO vzniklo 4. apríla 1949 ako bezpečnostná aliancia USA, Kanady a 10 západoeurópskych krajín.
+> eu-history-1945-59 | 4. apríla 1949 – Vznik organizácie NATO
+
+@his 3
+Koľko západoeurópskych krajín vytvorilo 5. mája 1949 Radu Európy?
++ 10
+- 6
+- 12
+= Radu Európy vytvorilo 10 západoeurópskych krajín na podporu demokracie, ľudských práv a právneho štátu.
+> eu-history-1945-59 | 10 západoeurópskych krajín vytvorilo Radu Európy na podporu demokracie a ochranu ľudských práv a právneho štátu.
+
+Čo je Rada Európy?
++ organizácia na podporu demokracie, ľudských práv a právneho štátu, ktorá nie je inštitúciou EÚ
+- inštitúcia EÚ, v ktorej zasadajú ministri členských štátov
+- stretnutie hláv štátov a vlád krajín EÚ
+= Rada Európy vznikla v roku 1949 a je samostatnou medzinárodnou organizáciou – EÚ s ňou napríklad rokuje o pristúpení k Európskemu dohovoru o ľudských právach. Nesmie sa zamieňať s Radou EÚ ani s Európskou radou.
+> eu-history-1945-59 | 5. mája 1949 – Vznik Rady Európy
+> ep-fs-146 | V roku 2019 EÚ a Rada Európy po úvahách o tom, ako prekonať tieto nezlučiteľnosti, obnovili rokovania.
+
+@his 3
+Kedy nadobudol platnosť Európsky dohovor o ľudských právach?
++ 3. septembra 1953
+- 10. decembra 1948
+- 1. decembra 2009
+= Európsky dohovor o ľudských právach (Rady Európy) nadobudol platnosť 3. septembra 1953.
+> eu-history-1945-59 | Dňa 3. septembra 1953 nadobúda platnosť Európsky dohovor o ľudských právach.
+
+@his 3
+Kedy bolo založené Európske združenie voľného obchodu (EZVO)?
++ 3. mája 1960
+- 1. januára 1994
+- 25. marca 1957
+= EZVO vzniklo 3. mája 1960 na podporu voľného obchodu medzi niektorými krajinami, ktoré neboli členmi EHS.
+> eu-history-1960-69 | 3. mája 1960 – založenie Európskeho združenia voľného obchodu
+
+Ktoré krajiny sú dnes členmi Európskeho združenia voľného obchodu (EZVO)?
++ Island, Lichtenštajnsko, Nórsko a Švajčiarsko
+- Spojené kráľovstvo, Nórsko, Turecko a Island
+- Švajčiarsko, Rakúsko, Švédsko a Dánsko
+= Členmi EZVO sú Island, Lichtenštajnsko, Nórsko a Švajčiarsko.
+> eu-history-1960-69 | V roku 2020 sú členmi EZVO Island, Lichtenštajnsko, Nórsko a Švajčiarsko.
+
+V ktorom roku začala komunistická vláda východného Nemecka stavať Berlínsky múr?
++ 1961
+- 1949
+- 1968
+= Berlínsky múr sa začal stavať v auguste 1961 a stal sa symbolom rozdelenia Európy.
+> eu-history-1960-69 | August 1961 – stavba Berlínskeho múru
+
+@his 3
+Kedy vznikla prvá spoločná poľnohospodárska politika?
++ 30. júla 1962
+- 1. júla 1968
+- 25. marca 1957
+= Prvá spoločná poľnohospodárska politika z 30. júla 1962 dala krajinám EHS spoločnú kontrolu nad potravinárskou výrobou.
+> eu-history-1960-69 | 30. júla 1962 – prvá spoločná poľnohospodárska politika
+
+Aký nechcený vedľajší dôsledok mala prvá spoločná poľnohospodárska politika?
++ nadvýrobu s mnohými prebytočnými výrobkami
+- nedostatok potravín v mestách
+- zánik všetkých malých fariem
+= Spoločná poľnohospodárska politika viedla k nadvýrobe; od 90. rokov je prioritou znižovanie prebytkov a kvalita potravín.
+> eu-history-1960-69 | Nechceným vedľajším dôsledkom je nadvýroba s mnohými prebytočnými výrobkami.
+
+@his 3
+Ako sa volá prvá veľká medzinárodná dohoda EHS z roku 1963 s 18 bývalými africkými kolóniami?
++ Dohovor z Yaoundé
+- Dohoda z Cotonou
+- Dohovor z Lomé
+= 20. júla 1963 podpísalo šesť členských štátov Dohovor z Yaoundé s 18 bývalými kolóniami v Afrike.
+> eu-history-1960-69 | Šesť členských štátov podpísalo Dohovor z Yaoundé na podporu spolupráce a obchodu s 18 bývalými kolóniami v Afrike.
+
+@his 3
+S koľkými krajinami Afriky, Karibiku a Tichomoria (AKT) má dnes EÚ osobitné vzťahy?
++ so 79
+- s 18
+- so 154
+= EÚ má osobitné vzťahy so 79 krajinami v Afrike, v regiónoch Karibiku a Tichomoria (AKT).
+> eu-history-1960-69 | V súčasnosti má EÚ osobitné vzťahy tohto druhu so 79 krajinami v Afrike, v regiónoch Karibiku a Tichomoria (AKT)
+
+@his 3
+Čo zlúčila Zmluva o zlúčení podpísaná v Bruseli 8. apríla 1965?
++ výkonné orgány troch spoločenstiev – ESUO, EHS a Euratomu
+- Západné a Východné Nemecko
+- Európsky parlament a Radu Európy
+= Zmluvou o zlúčení dostali Európske spoločenstvá jednu Komisiu a jednu Radu; platnosť nadobudla 1. júla 1967.
+> eu-history-1960-69 | Zmluva o zlúčení výkonných orgánov 3 spoločenstiev (Európskeho spoločenstva uhlia a ocele, Európskeho hospodárskeho spoločenstva a Euratomu) je podpísaná v Bruseli
+
+@his 3
+Kedy nadobudla platnosť Zmluva o zlúčení výkonných orgánov troch spoločenstiev?
++ 1. júla 1967
+- 8. apríla 1965
+- 1. januára 1973
+= Zmluva o zlúčení bola podpísaná 8. apríla 1965 a do platnosti vstúpila 1. júla 1967.
+> eu-history-1960-69 | je podpísaná v Bruseli a vstupuje do platnosti 1. júla 1967
+
+Kedy začala fungovať colná únia šiestich krajín EHS?
++ 1. júla 1968
+- 1. januára 1993
+- 25. marca 1957
+= 1. júla 1968 zrušilo šesť krajín EHS clá na vzájomný dovoz tovaru a zaviedlo rovnaké clá voči tretím krajinám.
+> eu-history-1960-69 | 1. júla 1968 – začiatok colnej únie
+
+Čo znamená colná únia, ktorá v EHS vznikla v roku 1968?
++ zrušenie ciel medzi členmi a rovnaké clá na dovoz z iných krajín
+- spoločná mena pre všetkých členov
+- zrušenie pasových kontrol na hraniciach
+= Krajiny EHS zrušili clá na tovar dovážaný jedna od druhej a uplatňovali rovnaké clá na dovoz z ostatných krajín.
+> eu-history-1960-69 | Šesť členských krajín EHS ruší clá na tovar dovážaný z každej z nich ... Takisto uplatňujú rovnaké clá na svoj dovoz z iných krajín.
+
+@his 1
+Čo sa stalo v auguste 1968 v Československu?
++ sovietske tanky potlačili Pražskú jar
+- Československo vstúpilo do EHS
+- padol Berlínsky múr
+= V auguste 1968 sovietske tanky potlačili krátko trvajúcu Pražskú jar.
+> eu-history-1960-69 | Sovietske tanky potláčajú krátko trvajúcu Pražskú jar – rodiacu sa demokraciu v Československu.
+
+Ako sa označujú študentské a robotnícke nepokoje vo Francúzsku v máji 1968 spojené s novou generáciou?
++ generácia 68
+- generácia Erasmus
+- nežná revolúcia
+= Študentské nepokoje v Paríži v máji 1968 a s nimi spojené zmeny v spoločnosti sa spájajú s „generáciou 68“.
+> eu-history-1960-69 | V máji 1968 sa konajú študentské nepokoje v Paríži a mnohé zmeny v spoločnosti a správaní sa spájajú s „generáciou 68“.
+
+@his 1
+Ktoré tri krajiny pristúpili k Európskym spoločenstvám 1. januára 1973?
++ Dánsko, Írsko a Spojené kráľovstvo
+- Grécko, Španielsko a Portugalsko
+- Rakúsko, Fínsko a Švédsko
+= 1. januára 1973 pristúpili Dánsko, Írsko a Spojené kráľovstvo a počet členov sa zvýšil zo 6 na 9.
+> eu-history-1970-79 | K Európskym spoločenstvám 1. januára 1973 pristupuje Dánsko, Írsko a Spojené kráľovstvo, čím sa počet členských krajín zvyšuje na deväť.
+
+Koľko členov mali Európske spoločenstvá po prvom rozšírení v roku 1973?
++ 9
+- 7
+- 12
+= Po vstupe Dánska, Írska a Spojeného kráľovstva sa zo 6 členských krajín stalo 9.
+> eu-history-1970-79 | Dánsko, Írsko a Spojené kráľovstvo formálne pristupujú k Európskym spoločenstvám, čím sa zo 6 členských krajín stáva 9.
+
+Aká zásada ochrany životného prostredia sa zaviedla v európskych právnych predpisoch v 70. rokoch?
++ znečisťovateľ platí
+- kto skôr príde, ten skôr berie
+- spotrebiteľ vždy rozhoduje
+= V 70. rokoch prijali Európske spoločenstvá predpisy na ochranu životného prostredia so zásadou „znečisťovateľ platí“.
+> eu-history-1970-79 | v ktorých sa zavádza zásada „znečisťovateľ platí“
+
+Aká kríza zasiahla Európu v roku 1973 po arabsko-izraelskej vojne?
++ ropná kríza
+- hypotekárna kríza
+- migračná kríza
+= Producenti ropy výrazne zvýšili ceny a obmedzili predaj niektorým krajinám, čo spôsobilo hospodárske problémy celej EHS.
+> eu-history-1970-79 | 1973 – Európu zasiahla ropná kríza
+
+@his 3
+Aký fond bol zriadený v roku 1975 na presúvanie peňazí z bohatších do chudobnejších regiónov?
++ Európsky fond regionálneho rozvoja
+- Európsky sociálny fond
+- Európsky stabilizačný mechanizmus
+= Lídri EHS sa 10. decembra 1974 dohodli na novom fonde regionálnej politiky; v nasledujúcom roku vznikol Európsky fond regionálneho rozvoja.
+> eu-history-1970-79 | V nasledujúcom roku je zriadený Európsky fond regionálneho rozvoja.
+
+V ktorých troch krajinách padli diktatúry v rokoch 1974 – 1975?
++ v Portugalsku, Grécku a Španielsku
+- v Poľsku, Maďarsku a Československu
+- v Taliansku, Nemecku a Rakúsku
+= Pád Salazarovho režimu v Portugalsku, vojenskej vlády v Grécku (1974) a smrť generála Franca v Španielsku (1975) ukončili tieto diktatúry.
+> eu-history-1970-79 | Zvrhnutím Salazarovho režimu v Portugalsku a pádom vojenskej vlády v Grécku v roku 1974 a smrťou generála Franca v Španielsku v roku 1975
+
+@his 1
+V ktorom roku sa konali prvé priame voľby do Európskeho parlamentu?
++ 1979
+- 1958
+- 1993
+= V júni 1979 si európski občania po prvýkrát priamo zvolili poslancov EP; dovtedy ich menovali národné parlamenty.
+> eu-history-1970-79 | Jún 1979 – Prvé priame voľby do Európskeho parlamentu
+
+Kto menoval poslancov Európskeho parlamentu pred prvými priamymi voľbami v roku 1979?
++ národné parlamenty
+- Európska komisia
+- hlavy štátov
+= Do roku 1979 menovali poslancov Európskeho parlamentu národné parlamenty.
+> eu-history-1970-79 | Dovtedy menovali poslancov Európskeho parlamentu národné parlamenty.
+
+Ako sa v Európskom parlamente združujú poslanci?
++ v celoeurópskych politických skupinách
+- v národných delegáciách podľa krajín
+- podľa veku a pohlavia
+= Poslanci sa združujú v celoeurópskych politických skupinách, a nie v národných delegáciách.
+> eu-history-1970-79 | Poslanci sa združujú v celoeurópskych politických skupinách, a nie v národných delegáciách.
+
+Ktorý poľský odborový zväz vznikol v roku 1980 po štrajkoch v gdanských lodeniciach?
++ Solidarność (Solidarita)
+- Charta 77
+- Verejnosť proti násiliu
+= Solidarność na čele s Lechom Walesom vznikla v septembri 1980 ako nezávislá odborová organizácia.
+> eu-history-1980-89 | Poľský odborový zväz Solidarność (Solidarita) na čele s Lechom Walesom
+
+Kto viedol štrajk robotníkov v gdanských lodeniciach v roku 1980?
++ Lech Wałęsa
+- Václav Havel
+- Michail Gorbačov
+= Robotníci v gdanských lodeniciach štrajkovali pod vedením Lecha Walesu.
+> eu-history-1980-89 | Robotníci v gdanských lodeniciach pod vedením Lecha Walesu štrajkujú za väčšie práva.
+
+@his 1
+Ktorá krajina sa 1. januára 1981 stala 10. členom Európskych spoločenstiev?
++ Grécko
+- Španielsko
+- Portugalsko
+= Grécko vstúpilo do Európskych spoločenstiev 1. januára 1981 ako desiaty člen.
+> eu-history-1980-89 | 1. januára 1981 – Grécko sa stáva 10. členskou krajinou
+
+@his 3
+Ako sa volal prvý európsky výskumný program spustený v roku 1984?
++ Esprit
+- Horizont
+- Galileo
+= Program Esprit z roku 1984 bol prvým z mnohých výskumných a inovačných programov na európskej úrovni.
+> eu-history-1980-89 | sa v roku 1984 začína program „Esprit“, ktorý je prvým z mnohých výskumných a inovačných programov na európskej úrovni
+
+Koľko členov mali Európske spoločenstvá po vstupe Španielska a Portugalska v roku 1986?
++ 12
+- 10
+- 15
+= 1. januára 1986 vstúpili Španielsko a Portugalsko a počet členských štátov sa zvýšil na 12.
+> eu-history-1980-89 | Španielsko a Portugalsko vstupujú do Európskych spoločenstiev, čím sa počet členských štátov zvyšuje na 12.
+
+@akt 2
+Ktoré dve krajiny si v roku 2026 pripomínajú 40. výročie vstupu do európskeho spoločenstva?
++ Španielsko a Portugalsko
+- Grécko a Cyprus
+- Rakúsko a Fínsko
+= Španielsko a Portugalsko vstúpili do Európskych spoločenstiev 1. januára 1986, teda pred 40 rokmi.
+> eu-history-1980-89 | 1. januára 1986 – Dvaja noví členovia, Španielsko a Portugalsko
+
+Ktorý dokument spustil v roku 1986 šesťročný program na vytvorenie jednotného trhu?
++ Jednotný európsky akt
+- Maastrichtská zmluva
+- Zmluva z Nice
+= Jednotný európsky akt (účinný od 1. júla 1987) spustil 6-ročný program odstraňovania prekážok a vytvorenia jednotného trhu.
+> eu-history-1980-89 | Jednotným európskym aktom sa spúšťa rozsiahly 6-ročný program na ich odstránenie a vytvorenie jednotného trhu.
+
+@his 3
+Kedy nadobudol účinnosť Jednotný európsky akt?
++ 1. júla 1987
+- 1. januára 1986
+- 1. novembra 1993
+= Jednotný európsky akt nadobudol účinnosť 1. júla 1987.
+> eu-history-1980-89 | Akt, ktorý nadobudol účinnosť 1. júla 1987
+
+@his 1
+V ktorom roku bol spustený program Erasmus?
++ 1987
+- 1957
+- 2004
+= Program Erasmus bol spustený 13. júna 1987 na financovanie štúdia univerzitných študentov v inej európskej krajine.
+> eu-history-1980-89 | 13. júna 1987 – Spustenie programu Erasmus
+
+Koľkým ľuďom podľa EÚ poskytol program Erasmus možnosť študovať alebo získať skúsenosti v zahraničí?
++ viac ako 10 miliónom
+- približne 100 000
+- viac ako 100 miliónom
+= Erasmus odvtedy umožnil štúdium, odbornú prípravu, dobrovoľníctvo či prax v zahraničí viac ako 10 miliónom ľudí.
+> eu-history-1980-89 | viac ako 10 miliónom ľudí
+
+@his 1
+Kedy padol Berlínsky múr?
++ 9. novembra 1989
+- 17. novembra 1989
+- 3. októbra 1990
+= Berlínsky múr padol 9. novembra 1989 po 28 rokoch.
+> eu-history-1980-89 | 9. novembra 1989 – Pád Berlínskeho múru
+
+Koľko rokov stál Berlínsky múr?
++ 28 rokov
+- 40 rokov
+- 12 rokov
+= Po páde múru 9. novembra 1989 sa po 28 rokoch otvorili hranice medzi Východom a Západnom.
+> eu-history-1980-89 | Berlínsky múr padol a po 28 rokoch dochádza k otvoreniu hraníc medzi Východom a Západnom.
+
+@his 3
+Kedy sa východná časť zjednoteného Nemecka pripojila k Európskym spoločenstvám?
++ v októbri 1990
+- 1. januára 1995
+- 1. mája 2004
+= Východná časť Nemecka sa po zjednotení v októbri 1990 pripojila k Európskym spoločenstvám.
+> eu-history-1980-89 | jeho východná časť sa v októbri 1990 pripája k Európskym spoločenstvám
+
+Ktoré štyri slobody zaručuje jednotný trh EÚ?
++ voľný pohyb osôb, tovaru, služieb a peňazí
+- slobodu prejavu, zhromažďovania, vierovyznania a tlače
+- voľný pohyb osôb, zbraní, energií a údajov
+= Jednotný trh od roku 1993 zaručuje štyri slobody: voľný pohyb osôb, tovaru, služieb a peňazí (kapitálu).
+> eu-history-1990-99 | jednotný trh so štyrmi slobodami, ktorými sú voľný pohyb osôb, tovaru, služieb a peňazí
+
+@his 1
+Odkedy funguje jednotný trh EÚ?
++ od 1. januára 1993
+- od 1. januára 1958
+- od 1. januára 2002
+= Jednotný trh a jeho štyri slobody vznikli 1. januára 1993.
+> eu-history-1990-99 | 1. januára 1993 – vznik jednotného trhu
+
+@his 1
+V ktorom meste bola podpísaná Zmluva o Európskej únii?
++ v Maastrichte
+- v Ríme
+- v Lisabone
+= Zmluva o Európskej únii bola podpísaná 7. februára 1992 v holandskom Maastrichte.
+> eu-history-1990-99 | V holandskom Maastrichte dochádza k podpisu Zmluvy o Európskej únii.
+
+Kedy bola podpísaná Maastrichtská zmluva?
++ 7. februára 1992
+- 1. novembra 1993
+- 2. októbra 1997
+= Maastrichtská zmluva bola podpísaná 7. februára 1992 a platnosť nadobudla 1. novembra 1993.
+> eu-history-1990-99 | 7. februára 1992 – Maastrichtská zmluva
+
+Na základe ktorej zmluvy oficiálne vznikla Európska únia?
++ Maastrichtskej zmluvy
+- Rímskej zmluvy
+- Lisabonskej zmluvy
+= Na základe Zmluvy o Európskej únii (Maastrichtskej), ktorá nadobudla platnosť 1. novembra 1993, oficiálne vzniká Európska únia.
+> eu-history-1990-99 | Na základe tejto zmluvy, ktorá nadobúda platnosť 1. novembra 1993, oficiálne vzniká Európska únia.
+
+@his 3
+Kedy nadobudla platnosť Maastrichtská zmluva?
++ 1. novembra 1993
+- 7. februára 1992
+- 1. januára 1993
+= Maastrichtská zmluva nadobudla platnosť 1. novembra 1993.
+> eu-history-1990-99 | ktorá nadobúda platnosť 1. novembra 1993
+
+V ktorom roku sa začal rozpad Juhoslávie?
++ 1991
+- 1989
+- 1999
+= Rozpad Juhoslávie sa začal v roku 1991 a nasledujúce vojny trvali veľkú časť desaťročia.
+> eu-history-1990-99 | 1991 – rozpad Juhoslávie
+
+Čo vzniklo 1. januára 1994 a rozšírilo jednotný trh na krajiny EZVO?
++ Európsky hospodársky priestor
+- schengenský priestor
+- eurozóna
+= Dohoda o Európskom hospodárskom priestore (EHP) nadobudla platnosť 1. januára 1994.
+> eu-history-1990-99 | 1. januára 1994 – vzniká Európsky hospodársky priestor
+
+Ktoré krajiny okrem EÚ27 tvoria Európsky hospodársky priestor?
++ Island, Lichtenštajnsko a Nórsko
+- Švajčiarsko, Island a Nórsko
+- Spojené kráľovstvo, Nórsko a Turecko
+= EHP tvorí 30 krajín: EÚ27 plus Island, Lichtenštajnsko a Nórsko. Švajčiarsko nie je súčasťou EHP.
+> eu-history-1990-99 | EÚ27 plus Island, Lichtenštajnsko a Nórsko). Švajčiarsko nie je súčasťou EHP
+
+Koľko krajín tvorí Európsky hospodársky priestor (EHP)?
++ 30
+- 27
+- 32
+= EHP tvorí 30 krajín – 27 štátov EÚ a Island, Lichtenštajnsko a Nórsko.
+> eu-history-1990-99 | po 30 krajinách EHP (EÚ27 plus Island, Lichtenštajnsko a Nórsko)
+
+@his 1
+Ktoré tri krajiny vstúpili do EÚ 1. januára 1995?
++ Rakúsko, Fínsko a Švédsko
+- Španielsko, Portugalsko a Grécko
+- Nórsko, Švajčiarsko a Island
+= 1. januára 1995 vstúpili do EÚ Rakúsko, Fínsko a Švédsko a EÚ mala 15 členov.
+> eu-history-1990-99 | 1. januára 1995 – do EÚ vstupujú tri nové členské štáty: Rakúsko, Fínsko a Švédsko.
+
+Koľko členských štátov mala EÚ po rozšírení v roku 1995?
++ 15
+- 12
+- 25
+= Po vstupe Fínska, Rakúska a Švédska mala EÚ 15 členských štátov.
+> eu-history-1990-99 | Jej 15 členských štátov odteraz pokrýva územie takmer celej západnej Európy.
+
+Po čom je pomenovaná Schengenská dohoda?
++ po malej obci v Luxembursku
+- po francúzskom diplomatovi
+- po rieke na hranici Nemecka a Poľska
+= Malá obec v Luxembursku prepožičala svoj názov Schengenskej dohode.
+> eu-history-1990-99 | malá obec v Luxembursku prepožičiava svoj názov Schengenskej dohode
+
+@his 3
+Kedy nadobudla Schengenská dohoda účinnosť v prvých siedmich krajinách?
++ 26. marca 1995
+- 1. januára 1993
+- 21. decembra 2007
+= 26. marca 1995 nadobudla Schengenská dohoda účinnosť v Belgicku, Francúzsku, Holandsku, Luxembursku, Nemecku, Portugalsku a Španielsku.
+> eu-history-1990-99 | 26. marca 1995 – v siedmich krajinách sa zavádza cestovanie bez hraničných kontrol
+
+@his 3
+Ktorá z týchto krajín patrila medzi prvých sedem krajín, kde v roku 1995 začal platiť Schengen?
++ Portugalsko
+- Taliansko
+- Rakúsko
+= Prvými krajinami boli Belgicko, Francúzsko, Holandsko, Luxembursko, Nemecko, Portugalsko a Španielsko.
+> eu-history-1990-99 | Belgicku, Francúzsku, Holandsku, Luxembursku, Nemecku, Portugalsku a Španielsku – nadobúda účinnosť Schengenská dohoda
+
+Kedy bola podpísaná Amsterdamská zmluva?
++ 2. októbra 1997
+- 7. februára 1992
+- 26. februára 2001
+= Amsterdamská zmluva bola podpísaná 2. októbra 1997 a platnosť nadobudla 1. mája 1999.
+> eu-history-1990-99 | 2. októbra 1997 – Amsterdamská zmluva
+
+@his 3
+Kedy nadobudla platnosť Amsterdamská zmluva?
++ 1. mája 1999
+- 2. októbra 1997
+- 1. februára 2003
+= Amsterdamská zmluva nadobudla platnosť 1. mája 1999.
+> eu-history-1990-99 | Platnosť nadobúda 1. mája 1999.
+
+Kedy vzniklo euro ako mena pre obchodné a finančné transakcie?
++ 1. januára 1999
+- 1. januára 2002
+- 1. novembra 1993
+= Euro vzniklo 1. januára 1999 v 11 krajinách, najprv len pre obchodné a finančné transakcie; bankovky a mince prišli v roku 2002.
+> eu-history-1990-99 | 1. januára 1999 – vznik eura
+
+V koľkých krajinách sa euro zaviedlo 1. januára 1999?
++ v jedenástich
+- v dvanástich
+- v šiestich
+= Prvými krajinami eurozóny bolo 11 krajín: Belgicko, Fínsko, Francúzsko, Holandsko, Írsko, Luxembursko, Nemecko, Portugalsko, Rakúsko, Španielsko a Taliansko.
+> eu-history-1990-99 | V jedenástich krajinách sa zavádza euro len na účely obchodných a finančných transakcií.
+
+@his 3
+Ktorá z týchto krajín NEPATRILA medzi 11 prvých krajín eurozóny v roku 1999?
++ Grécko
+- Írsko
+- Fínsko
+= Grécko vstúpilo do eurozóny až v roku 2001; medzi prvých 11 patrilo aj Írsko a Fínsko.
+> eu-history-1990-99 | Prvými krajinami eurozóny sa stávajú Belgicko, Fínsko, Francúzsko, Holandsko, Írsko, Luxembursko, Nemecko, Portugalsko, Rakúsko, Španielsko a Taliansko.
+> eu-history-2000-09 | Grécko vstúpilo do eurozóny v roku 2001
+
+Kedy bola podpísaná Zmluva z Nice?
++ 26. februára 2001
+- 13. decembra 2007
+- 2. októbra 1997
+= Zmluva z Nice bola podpísaná 26. februára 2001 a platnosť nadobudla 1. februára 2003.
+> eu-history-2000-09 | 26. februára 2001 – Zmluva z Nice
+
+Aký bol hlavný cieľ Zmluvy z Nice?
++ reformovať inštitúcie pred veľkým rozšírením EÚ
+- zaviesť euro ako spoločnú menu
+- založiť Európske spoločenstvo uhlia a ocele
+= Zmluva z Nice mala pripraviť inštitúcie EÚ na fungovanie po rozšírení na 25 krajín.
+> eu-history-2000-09 | Jej cieľom je reformovať inštitúcie tak, aby sa mohla EÚ pripraviť na ďalšiu veľkú skupinu nových členov
+
+@his 3
+Kedy nadobudla platnosť Zmluva z Nice?
++ 1. februára 2003
+- 26. februára 2001
+- 1. mája 2004
+= Zmluva z Nice nadobudla platnosť 1. februára 2003.
+> eu-history-2000-09 | Platnosť nadobúda 1. februára 2003.
+
+@his 1
+Kedy sa eurobankovky a euromince stali zákonnou menou v 12 krajinách EÚ?
++ 1. januára 2002
+- 1. januára 1999
+- 1. januára 2009
+= Eurobankovky a euromince sa 1. januára 2002 stali zákonnou menou v 12 krajinách EÚ.
+> eu-history-2000-09 | 1. januára 2002 – V 12 krajinách EÚ sa zaviedli eurobankovky a mince
+
+Čím sa líšia euromince jednotlivých krajín?
++ jedna strana je spoločná, druhá zobrazuje národné symboly
+- každá krajina má úplne iné rozmery mincí
+- mince sa nelíšia vôbec, líšia sa len bankovky
+= Bankovky sú pre všetky krajiny rovnaké; mince majú jednu stranu spoločnú a druhá strana znázorňuje národné symboly.
+> eu-history-2000-09 | Bankovky sú pre všetky krajiny rovnaké. Mince majú štandardizovanú jednu stranu, druhá strana znázorňuje národné symboly.
+
+@his 3
+V ktorej krajine uskutočnila EÚ v roku 2003 svoju mierovú operáciu, pri ktorej nahradila jednotky NATO?
++ v Severnom Macedónsku (vtedy bývalá Juhoslovanská republika Macedónsko)
+- v Afganistane
+- v Kosove
+= EÚ najprv pôsobila v bývalej Juhoslovanskej republike Macedónsko (dnes Severné Macedónsko) a neskôr v Bosne a Hercegovine.
+> eu-history-2000-09 | najprv v bývalej Juhoslovanskej republike Macedónsko (dnes Severné Macedónsko) a neskôr v Bosne a Hercegovine
+
+@his 1
+Koľko krajín vstúpilo do EÚ 1. mája 2004?
++ 10
+- 8
+- 12
+= 1. mája 2004 vstúpilo do EÚ 10 krajín – osem krajín strednej a východnej Európy spolu s Cyprom a Maltou.
+> eu-history-2000-09 | 1. mája 2004 – 10 nových krajín
+
+Ktoré dve ostrovné krajiny vstúpili do EÚ v roku 2004 spolu s ôsmimi krajinami strednej a východnej Európy?
++ Cyprus a Malta
+- Írsko a Island
+- Malta a Sicília
+= V roku 2004 vstúpili do EÚ okrem 8 krajín strednej a východnej Európy aj Cyprus a Malta.
+> eu-history-2000-09 | vstupuje spolu s Cyprusom a Maltou do EÚ
+
+Voliči ktorých dvoch krajín odmietli v roku 2005 Zmluvu o Ústave pre Európu?
++ Francúzska a Holandska
+- Írska a Dánska
+- Spojeného kráľovstva a Poľska
+= Voliči vo Francúzsku a Holandsku odmietli v roku 2005 Zmluvu o Ústave pre Európu.
+> eu-history-2000-09 | Voliči vo Francúzsku a Holandsku odmietajú Zmluvu o Ústave pre Európu
+
+@his 3
+Koľko členských štátov podpísalo v októbri 2004 Zmluvu o Ústave pre Európu?
++ 25
+- 15
+- 27
+= Zmluvu o Ústave pre Európu podpísalo v októbri 2004 25 členských štátov, ale v referendách ju odmietli Francúzsko a Holandsko.
+> eu-history-2000-09 | ktorú v októbri 2004 podpísalo 25 členských štátov EÚ
+
+@his 1
+Ktoré dve krajiny vstúpili do EÚ 1. januára 2007?
++ Bulharsko a Rumunsko
+- Chorvátsko a Slovinsko
+- Cyprus a Malta
+= 1. januára 2007 vstúpili do EÚ Bulharsko a Rumunsko a počet členov sa zvýšil na 27.
+> eu-history-2000-09 | 1. januára 2007 – EÚ víta Bulharsko a Rumunsko
+
+Kedy bola podpísaná Lisabonská zmluva?
++ 13. decembra 2007
+- 1. decembra 2009
+- 7. februára 1992
+= Lisabonskú zmluvu podpísalo všetkých 27 krajín 13. decembra 2007; účinnosť nadobudla 1. decembra 2009.
+> eu-history-2000-09 | 13. decembra 2007 – Lisabonská zmluva
+
+@his 1
+Odkedy je účinná Lisabonská zmluva?
++ od 1. decembra 2009
+- od 1. januára 2007
+- od 1. mája 2004
+= Lisabonská zmluva nadobudla účinnosť 1. decembra 2009.
+> eu-history-2000-09 | účinnosť nadobúda 1. decembra 2009
+
+Z čoho vznikla globálna finančná kríza, ktorá zasiahla svet v septembri 2008?
++ z hypotekárnej krízy v Spojených štátoch
+- z ropného embarga arabských krajín
+- z rozpadu Sovietskeho zväzu
+= Finančná kríza z roku 2008 vznikla následkom hypotekárnej krízy v USA a zasiahla aj európske banky.
+> eu-history-2000-09 | Vzniká následkom hypotekárnej krízy v Spojených štátoch.
+
+@his 1
+Akú významnú cenu získala Európska únia v roku 2012?
++ Nobelovu cenu za mier
+- Cenu princeznej Asturijskej
+- Karlovu cenu
+= EÚ si 10. decembra 2012 v Oslo prevzala Nobelovu cenu za mier za vyše šesťdesiatročné úsilie o mier, zmierenie, demokraciu a ľudské práva.
+> eu-history-2010-19 | Európska únia získava v roku 2012 Nobelovu cenu za mier.
+
+@his 3
+V ktorom meste si EÚ prevzala Nobelovu cenu za mier?
++ v Oslo
+- v Štokholme
+- v Bruseli
+= Na slávnostnom odovzdávaní 10. decembra 2012 v Oslo si EÚ prevzala Nobelovu cenu za mier.
+> eu-history-2010-19 | Na slávnostnom odovzdávaní cien v Oslo si Európska únia prevzala Nobelovu cenu za mier.
+
+@his 1
+Ktorá krajina sa 1. júla 2013 stala 28. členským štátom EÚ?
++ Chorvátsko
+- Slovinsko
+- Čierna Hora
+= Chorvátsko pristúpilo k EÚ 1. júla 2013 ako 28. členský štát.
+> eu-history-2010-19 | 1. júla 2013 – Chorvátsko sa stáva 28. členským štátom EÚ
+
+Čo zriadila EÚ v záujme bezpečnejších a spoľahlivejších bánk po finančnej kríze?
++ bankovú úniu
+- colnú úniu
+- energetickú úniu
+= V záujme vytvorenia bezpečnejších bánk EÚ zriadila „bankovú úniu“.
+> eu-history-2010-19 | v záujme vytvorenia bezpečnejších a spoľahlivejších bánk zriaďuje „bankovú úniu“
+
+Koľko krajín uzavrelo v decembri 2015 Parížsku dohodu o zmene klímy?
++ 195
+- 27
+- 50
+= Na konferencii OSN v Paríži uzavrelo 195 krajín dohodu o zmene klímy.
+> eu-history-2010-19 | Na konferencii OSN v Paríži uzavrelo 195 krajín novú dohodu o zmene klímy.
+
+Aký cieľ pre globálne otepľovanie obsahuje Parížska dohoda?
++ obmedziť ho výrazne pod 2 °C oproti predindustriálnemu obdobiu
+- zastaviť ho presne na 0 °C do roku 2030
+- obmedziť ho na 5 °C do roku 2100
+= Parížska dohoda má akčný plán na obmedzenie otepľovania „výrazne pod“ 2 °C v porovnaní s predindustriálnym obdobím.
+> eu-history-2010-19 | na obmedzenie globálneho otepľovania „výrazne pod“ 2 °C v porovnaní s hodnotami z predindustriálneho obdobia
+
+Koľko žiadateľov o azyl prišlo do Európy do konca roku 2015?
++ viac než milión
+- približne 100 000
+- viac než 10 miliónov
+= Do konca roku 2015 prišlo do Európy viac než milión žiadateľov o azyl, mnohí utekali pred vojnou v Sýrii.
+> eu-history-2010-19 | Do konca roku 2015 prichádza do Európy viac než milión žiadateľov o azyl.
+
+@his 1
+Kedy sa v Spojenom kráľovstve konalo referendum o vystúpení z EÚ?
++ 23. júna 2016
+- 31. januára 2020
+- 1. januára 1973
+= Referendum sa konalo 23. júna 2016; za odchod hlasovalo 52 % voličov.
+> eu-history-2010-19 | 23. júna 2016 – Spojené kráľovstvo hlasuje za odchod z EÚ
+
+Koľko percent voličov Spojeného kráľovstva hlasovalo v roku 2016 za odchod z EÚ?
++ 52 %
+- 72 %
+- 48 %
+= Za vystúpenie z EÚ hlasovalo 52 % voličov.
+> eu-history-2010-19 | hlasuje 52 % voličov Spojeného kráľovstva za vystúpenie krajiny z Európskej únie
+
+@his 1
+Kedy Spojené kráľovstvo vystúpilo z EÚ?
++ 31. januára 2020
+- 23. júna 2016
+- 1. januára 2021
+= Spojené kráľovstvo opustilo EÚ 31. januára 2020 po 47 rokoch členstva.
+> eu-history-2020-today | 31. januára 2020 – Spojené kráľovstvo vystupuje z EÚ
+
+Po koľkých rokoch členstva vystúpilo Spojené kráľovstvo z EÚ?
++ po 47 rokoch
+- po 27 rokoch
+- po 57 rokoch
+= Spojené kráľovstvo bolo členom od roku 1973 a vystúpilo 31. januára 2020, po 47 rokoch členstva.
+> eu-history-2020-today | Spojené kráľovstvo vystupuje z EÚ po 47 rokoch členstva
+
+Do ktorého roku si nová Komisia v decembri 2019 stanovila cieľ urobiť z Európy klimaticky neutrálny kontinent?
++ 2050
+- 2030
+- 2100
+= Komisia si stanovila cieľ dosiahnuť klimatickú neutralitu Európy do roku 2050 pomocou Európskej zelenej dohody.
+> eu-history-2010-19 | urobiť z Európy do roku 2050 klimaticky neutrálny kontinent, a to pomocou novej stratégie rastu, Európskej zelenej dohody
+
+Ako sa volá stratégia rastu, ktorou chce EÚ dosiahnuť klimatickú neutralitu do roku 2050?
++ Európska zelená dohoda
+- Lisabonská stratégia
+- Agenda 2000
+= Novú stratégiu rastu ohlásila Komisia v decembri 2019 pod názvom Európska zelená dohoda.
+> eu-history-2010-19 | pomocou novej stratégie rastu, Európskej zelenej dohody
+
+V ktorom roku EÚ otvorila Konferenciu o budúcnosti Európy?
++ 2021
+- 2019
+- 2024
+= Konferencia o budúcnosti Európy sa otvorila v apríli 2021 ako podujatie participatívnej demokracie.
+> eu-history-2020-today | Apríl 2021 – Otvorenie Konferencie o budúcnosti Európy
+
+@his 1
+Kedy Rusko napadlo Ukrajinu v rozsiahlej útočnej vojne?
++ vo februári 2022
+- v marci 2014
+- v decembri 2019
+= Vo februári 2022 Rusko napadlo Ukrajinu; EÚ prijala tvrdé sankcie a poskytuje Ukrajine pomoc.
+> eu-history-2020-today | Február 2022 – Rusko napadlo Ukrajinu
+
+Na čo sa zameral najväčší balík stimulov z rozpočtu EÚ dohodnutý počas pandémie COVID-19?
++ na zelenú a digitálnu obnovu
+- na výstavbu nových nemocníc mimo EÚ
+- na podporu ťažby uhlia
+= Lídri EÚ sa dohodli na najväčšom balíku stimulov financovanom z rozpočtu EÚ so zameraním na zelenú a digitálnu obnovu.
+> eu-history-2020-today | Lídri EÚ sa dohodli na najväčšom balíčku stimulov, aký bol kedy financovaný z rozpočtu EÚ, so zameraním na zelenú a digitálnu obnovu

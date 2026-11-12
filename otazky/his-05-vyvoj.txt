@@ -1,0 +1,262 @@
+#kat his
+#n 3
+
+Kedy zlyhal projekt Európskeho obranného spoločenstva?
++ v auguste 1954
+- v máji 1950
+- v marci 1957
+= Projekt vytvorenia Európskeho obranného spoločenstva zlyhal v auguste 1954; integrácia potom pokračovala konferenciou v Messine (1955).
+> ep-fs-2 | projekt vytvorenia Európskeho obranného spoločenstva v auguste 1954 zlyhal
+
+V ktorom roku sa začali rokovania o Európskom obrannom spoločenstve?
++ v roku 1952
+- v roku 1945
+- v roku 1992
+= V roku 1952 sa začali rokovania o Európskom obrannom spoločenstve, ktoré malo byť sprevádzané politickým spoločenstvom.
+> ep-fs-1 | To viedlo v roku 1952 k rokovaniam o Európskom obrannom spoločenstve
+
+Kedy sa skončilo prechodné obdobie na postupné odstránenie vnútorných ciel v EHS?
++ 1. júla 1968
+- 1. januára 1958
+- 1. januára 1993
+= Prechodné obdobie na zvýšenie kvót a postupné odstránenie vnútorných ciel sa skončilo už 1. júla 1968.
+> ep-fs-2 | Prechodné obdobie na zvýšenie kvót a postupné odstránenie vnútorných ciel sa skončilo už 1. júla 1968.
+
+Ktorý francúzsky veľvyslanec viedol výbor, ktorý mal od roku 1961 navrhnúť politickú úniu šiestich štátov?
++ Christian Fouchet
+- Robert Schuman
+- Jean Monnet
+= Na samite v Bonne v roku 1961 požiadali hlavy štátov medzivládny výbor, ktorému predsedal francúzsky veľvyslanec Christian Fouchet, o návrhy politického štatútu.
+> ep-fs-2 | ktorému predsedal francúzsky veľvyslanec Christian Fouchet
+
+Na ktorom samite v roku 1961 požiadali hlavy šiestich štátov o návrhy politickej únie (Fouchetov plán)?
++ na samite v Bonne
+- na samite v Haagu
+- na samite v Messine
+= Na samite v Bonne v roku 1961 hlavy štátov a predsedovia vlád šiestich zakladajúcich štátov požiadali výbor Christiana Foucheta o návrhy politického štatútu.
+> ep-fs-2 | Na samite v Bonne v roku 1961 hlavy štátov a predsedovia vlád šiestich zakladajúcich členských štátov
+
+Ktoré dohody z roku 1984 vyriešili spor o príspevky členských štátov (najmä Spojeného kráľovstva) do rozpočtu?
++ dohody z Fontainebleau
+- dohody z Locarna
+- dohody z Helsínk
+= Dohody z Fontainebleau z roku 1984 dosiahli riešenie, že je možné robiť úpravy pre štáty s nadmernou finančnou záťažou.
+> ep-fs-2 | Dohody z Fontainebleau z roku 1984 dosiahli udržateľné riešenie
+
+Kedy bol revidovaný Akt o voľbách do EP z roku 1976, aby zaviedol všeobecnú zásadu pomerného zastúpenia?
++ v roku 2002
+- v roku 1979
+- v roku 2024
+= Akt z roku 1976 bol revidovaný v roku 2002 s cieľom zaviesť všeobecnú zásadu pomerného zastúpenia.
+> ep-fs-2 | Akt z roku 1976 bol revidovaný v roku 2002 s cieľom zaviesť všeobecnú zásadu pomerného zastúpenia
+
+Kedy podpísali šiesti členovia Zmluvu o zlúčení výkonných orgánov (spoločná Rada a Komisia)?
++ 8. apríla 1965
+- 25. marca 1957
+- 18. apríla 1951
+= Proces inštitucionálneho zjednotenia zavŕšila Zmluva o vytvorení spoločnej Rady a spoločnej Komisie z 8. apríla 1965, známa ako Zmluva o zlúčení.
+> ep-fs-1 | Zmluva o vytvorení spoločnej Rady a spoločnej Komisie Európskych spoločenstiev z 8. apríla 1965, známa ako Zmluva o zlúčení
+
+Ktorý parížsky samit (december 1974) rozhodol, že sa majú konať priame voľby do Európskeho parlamentu?
++ samit 9. a 10. decembra 1974 v Paríži
+- samit v Haagu v roku 1969
+- samit v Maastrichte v roku 1991
+= Samit 9. a 10. decembra 1974 v Paríži rozhodol, že v roku 1978 alebo po ňom by sa mali konať priame voľby.
+> ep-fs-11 | Konferencia k samitu, ktorý sa uskutočnil 9. a 10. decembra 1974 v Paríži, rozhodla, že v roku 1978 alebo po ňom by sa mali konať priame voľby
+
+Kedy nadobudol účinnosť akt o priamych voľbách do Európskeho parlamentu?
++ v júli 1978
+- v júni 1979
+- v marci 1958
+= Po ratifikácii všetkými členskými štátmi akt nadobudol účinnosť v júli 1978; prvé voľby sa konali v júni 1979.
+> ep-fs-11 | Po ratifikácii všetkými členskými štátmi tento akt nadobudol účinnosť v júli 1978.
+
+Na koľko sa zvýšil počet poslancov EP po štvrtom rozšírení (1995)?
++ na 626
+- na 434
+- na 785
+= Po štvrtom rozšírení EÚ sa počet poslancov EP zvýšil na 626.
+> ep-fs-11 | Po štvrtom rozšírení EÚ sa počet poslancov EP zvýšil na 626
+
+Na koľko sa dočasne zvýšil počet kresiel v EP po vstupe Bulharska a Rumunska v roku 2007?
++ na 785
+- na 626
+- na 720
+= Po pristúpení Bulharska a Rumunska 1. januára 2007 sa počet kresiel dočasne zvýšil na 785.
+> ep-fs-11 | sa počet kresiel v Parlamente dočasne zvýšil na 785
+
+Na koľko sa znížil počet kresiel v EP po voľbách v júni 2009?
++ na 736
+- na 785
+- na 410
+= Po voľbách 4. až 7. júna 2009 sa počet kresiel znížil na 736.
+> ep-fs-11 | Po voľbách 4. až 7. júna 2009 sa počet kresiel znížil na 736.
+
+O koľko kresiel prišlo 15 „starých“ členských štátov pri novom rozdelení kresiel pred voľbami 2004?
++ o 91 (zo 626 na 535)
+- o 10 (zo 626 na 616)
+- o 300 (zo 626 na 326)
+= Počet kresiel 15 starých členských štátov sa znížil o 91 – zo 626 na 535.
+> ep-fs-11 | Existujúci počet kresiel pridelených 15 starým členským štátom sa znížil o 91 (zo 626 na 535).
+
+Kedy Európsky parlament veľkou väčšinou schválil Spinelliho návrh Zmluvy o založení Európskej únie?
++ 14. februára 1984
+- 7. februára 1992
+- 9. mája 1950
+= 14. februára 1984 prijal Európsky parlament Spinelliho návrh Zmluvy o založení Európskej únie.
+> eu-pioneer-altiero-spinelli | Dňa 14. februára 1984 prijal Európsky parlament jeho návrh veľkou väčšinou hlasov
+
+V ktorých rokoch bol Altiero Spinelli členom Európskej komisie?
++ 1970 – 1976
+- 1958 – 1967
+- 1985 – 1995
+= Od roku 1970 do roku 1976 bol Spinelli členom Európskej komisie a v roku 1979 bol zvolený za poslanca EP.
+> eu-pioneer-altiero-spinelli | Od roku 1970 do roku 1976 bol členom Európskej komisie
+
+Ktorá krajina bola vlasťou švédskej ministerky zahraničných vecí a priekopníčky EÚ Anny Lindhovej?
++ Švédsko
+- Fínsko
+- Dánsko
+= Anna Lindhová vyštudovala právo v Uppsale a v roku 1998 sa stala ministerkou zahraničných vecí vo vláde Gorana Perssona.
+> eu-pioneer-anna-lindh | vyštudovala právo na univerzite v Uppsale
+
+V ktorom roku sa Anna Lindhová stala ministerkou zahraničných vecí?
++ v roku 1998
+- v roku 1982
+- v roku 2003
+= V roku 1998 bola Lindhová vymenovaná za ministerku zahraničných vecí vo vláde Gorana Perssona.
+> eu-pioneer-anna-lindh | V roku 1998 bola Lindhová vymenovaná za ministerku zahraničných vecí
+
+Proti ktorej vojne v roku 2003 sa postavila Anna Lindhová?
++ proti vojne v Iraku
+- proti vojne v Kosove
+- proti vojne vo Vietname
+= Anna Lindhová bola proti vojne s Irakom v roku 2003.
+> eu-pioneer-anna-lindh | Bola proti vojne s Irakom v roku 2003.
+
+V ktorom roku bola Louise Weissová zvolená do Európskeho parlamentu?
++ v roku 1979
+- v roku 1958
+- v roku 1999
+= Vďaka svojmu záujmu o Európu bola Louise Weissová v roku 1979 zvolená do Európskeho parlamentu.
+> eu-pioneer-louise-weiss | bola Louise Weissová v roku 1979 zvolená do Európskeho parlamentu
+
+Na rokovaniach o ktorom dokumente OSN sa zúčastňovala holandská poslankyňa Marga Klompéová?
++ o Všeobecnej deklarácii ľudských práv
+- o Charte OSN
+- o Parížskej klimatickej dohode
+= V roku 1948 sa Klompéová stala poslankyňou a zúčastňovala sa na rokovaniach o Všeobecnej deklarácii ľudských práv OSN.
+> eu-pioneer-marga-klompe | zúčastňovala sa na rokovaniach o Všeobecnej deklarácii ľudských práv Organizácie Spojených národov
+
+Ktorá grécka ministerka kultúry stála pri zrode Európskeho hlavného mesta kultúry?
++ Melina Mercouriová
+- Simone Veilová
+- Nilde Iottiová
+= Melina Mercouriová zorganizovala v roku 1983 stretnutie ministrov kultúry; prvým Európskym hlavným mestom kultúry boli v roku 1985 Atény.
+> eu-pioneer-melina-mercouri | Ako grécka ministerka kultúry zorganizovala v roku 1983 zasadnutie s ministrami kultúry ďalších deviatich členských štátov EÚ
+
+Proti akému režimu viedla Melina Mercouriová po roku 1967 celosvetovú kampaň?
++ proti plukovníckej junte v Grécku
+- proti komunistickému režimu v Poľsku
+- proti Francovej diktatúre v Španielsku
+= Do politiky vstúpila v čase štátneho prevratu v Grécku v roku 1967 a viedla kampaň za odstránenie plukovníckej junty.
+> eu-pioneer-melina-mercouri | nasledujúce roky viedla celosvetovú kampaň za odstránenie plukovníckej junty
+
+V ktorom roku sa Nilde Iottiová stala poslankyňou Európskeho parlamentu?
++ v roku 1969
+- v roku 1946
+- v roku 1997
+= V roku 1969 sa Nilde Iottiová stala poslankyňou Európskeho parlamentu.
+> eu-pioneer-nilde-iotti | V roku 1969 sa Nilde Iottiová stala poslankyňou Európskeho parlamentu.
+
+Do ktorého orgánu bola Nilde Iottiová zvolená v roku 1946?
++ do Ústavodarného zhromaždenia Talianska
+- do Európskej komisie
+- do Rady Európy
+= V roku 1946 bola zvolená do Ústavodarného zhromaždenia, kde pripravovala kapitoly ústavy o rodinnej politike.
+> eu-pioneer-nilde-iotti | V roku 1946 tak bola zvolená do Ústavodarného zhromaždenia
+
+Ktoré hnutie spoluzaložila Ursula Hirschmannová v roku 1943 v Miláne?
++ Európske federalistické hnutie (Movimento Federalista Europeo)
+- Červený kríž
+- Paneurópsku úniu
+= V roku 1943 sa Hirschmannová podieľala na založení Movimento Federalista Europeo (Európske federalistické hnutie).
+> eu-pioneer-ursula-hirschmann | v roku 1943 sa podieľala na založení Movimento Federalista Europeo
+
+Čo vypracoval Sicco Mansholt v roku 1950?
++ plán spoločného trhu s poľnohospodárskymi produktmi
+- návrh eurových bankoviek
+- plán Schengenskej dohody
+= V roku 1950 Mansholt vypracoval plán spoločného trhu s poľnohospodárskymi produktmi riadeného nadnárodným orgánom.
+> eu-pioneer-sicco-mansholt | V roku 1950 vypracoval plán spoločného trhu s poľnohospodárskymi produktmi v Európe
+
+K vytvoreniu ktorej colnej únie prispel Joseph Bech už v roku 1944?
++ colnej únie Beneluxu
+- colnej únie EHS
+- Európskeho združenia voľného obchodu
+= Už v roku 1944 Bech prispel k vytvoreniu colnej únie Beneluxu medzi exilovými vládami Belgicka, Holandska a Luxemburska.
+> eu-pioneer-joseph-bech | Už v roku 1944 prispel k vytvoreniu colnej únie Beneluxu
+
+V ktorej funkcii pôsobila Nicole Fontaineová v Európskom parlamente v rokoch 1989 – 1999 (pred zvolením za predsedníčku)?
++ podpredsedníčka Európskeho parlamentu
+- generálna tajomníčka OSN
+- predsedníčka Európskej komisie
+= Dvakrát pôsobila vo funkcii podpredsedníčky Európskeho parlamentu, v rokoch 1989 – 1994 a 1994 – 1999.
+> eu-pioneer-nicole-fontaine | Dvakrát pôsobila vo funkcii podpredsedníčky Európskeho parlamentu
+
+#n 2
+@ins 2
+Koľko dní máš v EÚ na vrátenie tovaru kúpeného online?
++ 14 dní
+- 3 dni
+- 60 dní
+= Právne predpisy na ochranu spotrebiteľa zabezpečujú v celej EÚ 14-dňovú lehotu na vrátenie tovaru pri online nákupoch.
+> eu-achievements | vrátane 14-dňovej lehoty na vrátenie tovaru pri online nákupoch
+
+@ins 2
+Koľko hodín najviac možno v EÚ odpracovať počas sedemdňového obdobia?
++ 48 hodín
+- 60 hodín
+- 72 hodín
+= Čas, ktorý možno v EÚ odpracovať počas sedemdňového obdobia, nesmie prekročiť 48 hodín.
+> eu-achievements | Čas, ktorý možno v EÚ odpracovať počas sedemdňového obdobia, nesmie prekročiť 48 hodín.
+
+@ins 2
+Od ktorého roku si vďaka európskemu programu Galileo vyhľadávame polohu v smartfónoch?
++ od roku 2016
+- od roku 1995
+- od roku 2025
+= Vďaka programu Galileo si už od roku 2016 dokážeme v smartfónoch vyhľadať svoju geografickú polohu.
+> eu-achievements | Vďaka programu Galileo si už od roku 2016 dokážeme v smartfónoch vyhľadať svoju geografickú polohu.
+
+@ins 2
+Koľko ľudí používa euro?
++ viac ako 350 miliónov
+- približne 35 miliónov
+- viac ako 3 miliardy
+= Euro je oficiálnou menou 21 krajín EÚ a používa ho viac ako 350 miliónov ľudí.
+> eu-achievements | používa ho viac ako 350 miliónov ľudí
+
+@ins 3
+Aký podiel svetového obchodu s tovarom predstavuje EÚ?
++ približne 14 %
+- približne 1,4 %
+- približne 60 %
+= EÚ je jedným z najväčších aktérov v medzinárodnom obchode – predstavuje približne 14 % svetového obchodu s tovarom.
+> eu-achievements | predstavuje približne 14 % svetového obchodu s tovarom
+
+@ins 3
+Pre koľko krajín sveta je EÚ najväčším dovozným trhom?
++ pre viac ako 100 krajín
+- pre 5 krajín
+- pre všetky krajiny sveta
+= EÚ je najväčším dovozným trhom pre viac ako 100 krajín.
+> eu-achievements | Zároveň je najväčším dovozným trhom pre viac ako 100 krajín.
+
+@ins 3
+Koľko výskumníkov financovaných z výskumného programu EÚ Horizont Európa získalo Nobelovu cenu?
++ viac ako 30
+- 2
+- viac ako 3000
+= Viac ako 30 výskumných pracovníkov EÚ financovaných z tohto programu získalo Nobelovu cenu.
+> eu-achievements | Viac ako 30 výskumných pracovníkov EÚ, ktorí boli financovaní z tohto programu, získalo Nobelovu cenu.

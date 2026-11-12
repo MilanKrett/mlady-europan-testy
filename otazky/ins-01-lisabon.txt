@@ -1,0 +1,394 @@
+#kat ins
+#n 2
+
+Ktoré dve základné zmluvy vznikli úpravou existujúcich zmlúv Lisabonskou zmluvou?
++ Zmluva o Európskej únii a Zmluva o fungovaní Európskej únie
+- Rímska zmluva a Parížska zmluva
+- Ústavná zmluva a Charta OSN
+= Lisabonská zmluva upravila zmluvy tak, že vznikli dve základné zmluvy: ZEÚ a ZFEÚ.
+> ep-fs-5 | Zmluva o Európskej únii (ZEÚ), v ktorej sa stanovujú ciele, zásady, inštitúcie ... Zmluva o fungovaní Európskej únie (ZFEÚ), ktorá nahrádza Zmluvu o založení Európskeho spoločenstva
+
+@ins 3
+Ktorú zmluvu nahradila Zmluva o fungovaní Európskej únie (ZFEÚ)?
++ Zmluvu o založení Európskeho spoločenstva
+- Zmluvu o Európskej únii
+- Zmluvu o Euratome
+= ZFEÚ nahrádza Zmluvu o založení Európskeho spoločenstva (Zmluva o ES) a podrobne opisuje politiky EÚ.
+> ep-fs-5 | Zmluva o fungovaní Európskej únie (ZFEÚ), ktorá nahrádza Zmluvu o založení Európskeho spoločenstva (Zmluva o ES) a podrobne opisuje politiky EÚ
+
+@ins 3
+Na akom zasadnutí bola Lisabonská zmluva prijatá 13. decembra 2007?
++ na zasadnutí Európskej rady v Lisabone
+- na plenárnom zasadnutí EP v Štrasburgu
+- na konferencii OSN v New Yorku
+= Zmluvu prijala Európska rada 13. decembra 2007 na zasadnutí v Lisabone.
+> ep-fs-5 | Zmluvu prijala Európska rada 13. decembra 2007 na zasadnutí v Lisabone
+
+@ins 3
+V ktorej krajine bola Lisabonská zmluva najprv zamietnutá v referende a schválená až v druhom referende?
++ v Írsku
+- vo Francúzsku
+- v Dánsku
+= V Írsku bola zmluva najskôr zamietnutá a ratifikovaná až v druhom referende po zárukách EÚ (neutralita, dane, etické otázky).
+> ep-fs-5 | V Írsku bola zmluva najskôr zamietnutá v referende, následne bola ratifikovaná v druhom referende
+
+@ins 3
+Kde sa podľa Lisabonskej zmluvy ocitli symboly EÚ (vlajka, hymna, motto, Deň Európy)?
++ v osobitných vyhláseniach pripojených k zmluvám
+- v článku 1 Zmluvy o EÚ
+- v Charte základných práv
+= Symboly EÚ a nadradenosť práva EÚ sa z Ústavnej zmluvy presunuli do osobitných vyhlásení pripojených k zmluvám.
+> ep-fs-5 | symboly EÚ (motto, hymna, euro, vlajka, Deň Európy) a nadradenosť práva EÚ sa presunuli do osobitných vyhlásení pripojených k zmluvám
+
+V ktorej oblasti má EÚ výlučnú právomoc?
++ colná únia
+- vzdelávanie
+- verejné zdravie
+= Výlučná právomoc EÚ sa týka colnej únie, pravidiel hospodárskej súťaže, menovej politiky eurozóny, ochrany morských biologických zdrojov a spoločnej obchodnej politiky.
+> ep-fs-5 | Týka sa to colnej únie, pravidiel hospodárskej súťaže, menovej politiky členských štátov, ktorých menou je euro
+
+V ktorej oblasti má EÚ výlučnú právomoc?
++ spoločná obchodná politika
+- kultúra
+- energetika
+= Spoločná obchodná politika vrátane obchodných dohôd patrí medzi výlučné právomoci EÚ (článok 3 ZFEÚ).
+> ep-fs-5 | ochrany morských biologických zdrojov a spoločnej obchodnej politiky vrátane obchodných dohôd
+
+@ins 3
+Ktorá z týchto oblastí patrí medzi spoločné (zdieľané) právomoci EÚ a členských štátov?
++ životné prostredie
+- menová politika eurozóny
+- cestovný ruch
+= Spoločná právomoc (článok 4 ZFEÚ) sa týka napr. jednotného trhu, poľnohospodárstva, životného prostredia, dopravy, energetiky a verejného zdravia.
+> ep-fs-5 | Týka sa to jednotného trhu, poľnohospodárstva a rybného hospodárstva, životného prostredia, dopravy, energetiky, verejného zdravia
+
+@ins 3
+V ktorej oblasti môže EÚ len podporovať, koordinovať alebo dopĺňať opatrenia členských štátov?
++ vzdelávanie
+- colná únia
+- pravidlá hospodárskej súťaže
+= Podporná právomoc (článok 6 ZFEÚ) sa týka vzdelávania, kultúry, cestovného ruchu, priemyslu a civilnej ochrany.
+> ep-fs-5 | a vzdelávania, kultúry, cestovného ruchu, priemyslu a civilnej ochrany (článok 6)
+
+Ako sa po Lisabonskej zmluve nazýva bývalý postup „spolurozhodovania“?
++ riadny legislatívny postup
+- mimoriadny legislatívny postup
+- postup spolupráce
+= Lisabonská zmluva rozšírila „riadny legislatívny postup“ (predtým spolurozhodovanie) na 85 oblastí politiky.
+> ep-fs-5 | rozšíril „riadny legislatívny postup“ (predtým známy ako „spolurozhodovanie“) na 85 oblastí politiky
+
+@ins 3
+Na koľko oblastí politiky rozšírila Lisabonská zmluva riadny legislatívny postup?
++ na 85
+- na 40
+- na 27
+= Riadny legislatívny postup sa rozšíril na 85 oblastí politiky (pôvodne ich bolo 40).
+> ep-fs-5 | na 85 oblastí politiky (pôvodne ich bolo 40)
+
+@ins 1
+Ktorá inštitúcia EÚ má výlučnú právomoc legislatívnej iniciatívy (navrhuje právne predpisy)?
++ Európska komisia
+- Európsky parlament
+- Európska rada
+= Európska komisia vykonáva výlučnú právomoc legislatívnej iniciatívy navrhovaním právnych predpisov; Parlament toto právo nemá.
+> ep-fs-5 | Európska komisia vykonáva svoju výlučnú právomoc legislatívnej iniciatívy navrhovaním právnych predpisov
+
+Ktoré dve inštitúcie rozhodujú ako spoluzákonodarcovia v riadnom legislatívnom postupe?
++ Európsky parlament a Rada EÚ
+- Európska komisia a Európska rada
+- Súdny dvor a Dvor audítorov
+= Rada EÚ a Európsky parlament majú rovnakú právomoc a obe musia text schváliť.
+> ep-fs-5 | Rada EÚ a Európsky parlament uplatňujú spolurozhodovanie. Majú rovnakú právomoc a obe inštitúcie musia text schváliť.
+
+V ktorej oblasti si rozhodovanie v Rade EÚ stále vyžaduje jednomyseľnosť?
++ spoločná zahraničná a bezpečnostná politika
+- jednotný trh
+- poľnohospodárstvo
+= Rozhodovanie o SZBP, daniach, obrane, sociálnom zabezpečení či sankciách voči členskému štátu zostáva prevažne medzivládne a vyžaduje jednomyseľnosť.
+> ep-fs-5 | Výnimkou je rozhodovanie o spoločnej zahraničnej a bezpečnostnej politike, daniach, obrane, sociálnom zabezpečení alebo sankciách voči členskému štátu
+
+@ins 1
+Ktorý právny akt EÚ je priamo uplatniteľný vo všetkých členských štátoch bez transpozície?
++ nariadenie
+- smernica
+- odporúčanie
+= Nariadenie je priamo uplatniteľné vo všetkých štátoch a netransponuje sa do vnútroštátneho práva.
+> ep-fs-5 | nariadenie je priamo uplatniteľné vo všetkých členských štátoch a netransponuje sa do vnútroštátneho práva
+
+@ins 1
+Ktorý právny akt EÚ je záväzný z hľadiska výsledku, ale formu a spôsob ponecháva na členských štátoch?
++ smernica
+- nariadenie
+- rozhodnutie
+= Smernica je záväzná, pokiaľ ide o výsledok, ale členské štáty si volia formu a spôsob vykonávania.
+> ep-fs-5 | smernica je záväzná, pokiaľ ide o výsledok, ktorý sa má dosiahnuť, ale ponecháva členským štátom voľnosť pri výbere formy a spôsobov vykonávania
+
+Pre koho je záväzné rozhodnutie EÚ?
++ v celom rozsahu pre tých, ktorým je určené
+- len pre inštitúcie EÚ
+- pre nikoho, je len odporúčaním
+= Rozhodnutie je záväzné v celom rozsahu pre jednotlivcov alebo spoločnosti, ktorým je určené.
+> ep-fs-5 | rozhodnutie je záväzné v celom rozsahu pre jednotlivcov alebo obchodné spoločnosti, ktorým je určené
+
+@ins 1
+Ktorý článok Zmluvy o EÚ upravuje vystúpenie členského štátu z EÚ?
++ článok 50
+- článok 7
+- článok 2
+= Postup vystúpenia upravuje článok 50 ZEÚ – stanovuje dvojročné obdobie rokovaní s možnosťou predĺženia.
+> ep-fs-5 | postup vystúpenia (článok 50 ZEÚ)
+
+@ins 3
+Aké obdobie na rokovania o vystúpení stanovuje článok 50 ZEÚ?
++ dva roky s možnosťou predĺženia
+- šesť mesiacov bez možnosti predĺženia
+- päť rokov
+= Článok 50 ZEÚ stanovuje pre vystupujúcu krajinu dvojročné obdobie rokovaní s možnosťou predĺženia.
+> ep-fs-5 | stanovené dvojročné obdobie rokovaní (s možnosťou predĺženia)
+
+@ins 3
+Kde je zakotvená prednosť práva EÚ pred vnútroštátnym právom?
++ vo vyhlásení č. 17 odkazujúcom na judikatúru Súdneho dvora EÚ
+- v článku 1 Zmluvy o EÚ
+- v ústavách všetkých členských štátov
+= Prednosť práva EÚ nie je v samotnej zmluve, ale vo vyhlásení č. 17 odkazujúcom na dlhodobú judikatúru SDEÚ.
+> ep-fs-5 | prednosť práva EÚ pred vnútroštátnym právom, ktorá nie je stanovená v samotnej zmluve, ale vo vyhlásení odkazujúcom na dlhodobú judikatúru Súdneho dvora Európskej únie
+
+@sym 2
+Koľko občanov z koľkých krajín musí podporiť európsku iniciatívu občanov?
++ aspoň milión občanov z najmenej siedmich členských štátov
+- aspoň 100 000 občanov z troch štátov
+- aspoň 10 miliónov občanov zo všetkých štátov
+= Iniciatívou občanov môže aspoň milión občanov z najmenej siedmich štátov vyzvať Komisiu, aby navrhla nový predpis.
+> ep-fs-5 | môžu občania, ak ich je aspoň milión z najmenej siedmich členských štátov, vyzvať Komisiu, aby navrhla nové právne predpisy
+
+@sym 2
+Ktorou zmluvou sa Charta základných práv EÚ prvýkrát stala právne záväznou?
++ Lisabonskou zmluvou
+- Zmluvou z Nice
+- Maastrichtskou zmluvou
+= Lisabonskou zmluvou (článok 6 ods. 1 ZEÚ) sa Charta základných práv EÚ prvýkrát stala právne záväznou.
+> ep-fs-5 | Lisabonskou zmluvou sa prostredníctvom článku 6 ods. 1 ZEÚ Charta základných práv Európskej únie prvýkrát stala právne záväznou.
+
+@ins 3
+Ku ktorej organizácii patrí Európsky súd pre ľudské práva v Štrasburgu?
++ k Rade Európy
+- k Európskej únii
+- k OSN
+= Európsky súd pre ľudské práva sídli v Štrasburgu a patrí k Rade Európy (46 krajín), ktorá nie je spojená s EÚ.
+> ep-fs-5 | Európsky súd pre ľudské práva (sídli v Štrasburgu a patrí k Rade Európy, ktorá pozostáva zo 46 krajín a nie je spojená s EÚ)
+
+@ins 3
+Koľko krajín tvorí Radu Európy?
++ 46
+- 27
+- 57
+= Rada Európy pozostáva zo 46 krajín a nie je spojená s EÚ.
+> ep-fs-5 | patrí k Rade Európy, ktorá pozostáva zo 46 krajín a nie je spojená s EÚ
+
+@ins 3
+Aký maximálny počet poslancov môže mať Európsky parlament podľa Lisabonskej zmluvy?
++ 750 poslancov a predseda
+- 700 poslancov
+- 732 poslancov
+= Podľa Lisabonskej zmluvy môže mať EP maximálne 750 poslancov a jedného predsedu.
+> ep-fs-5 | podľa Lisabonskej zmluvy môže mať Parlament maximálne 750 poslancov a jedného predsedu
+
+Aký je maximálny počet kresiel jedného členského štátu v Európskom parlamente?
++ 96
+- 100
+- 72
+= Lisabonská zmluva znížila maximálny počet kresiel na 96 a minimálny zvýšila na šesť.
+> ep-fs-5 | Lisabonskou zmluvou sa maximálny počet kresiel na členský štát znížil na 96 a minimálny sa zvýšil na šesť.
+
+Aký je minimálny počet kresiel jedného členského štátu v Európskom parlamente?
++ 6
+- 1
+- 15
+= Minimálny počet kresiel na členský štát je šesť (maximálny 96).
+> ep-fs-5 | minimálny sa zvýšil na šesť
+
+@ins 1
+Koľko poslancov má Európsky parlament vo volebnom období 2024 – 2029?
++ 720
+- 705
+- 751
+= V súčasnosti (2024 – 2029) má Parlament 720 poslancov.
+> ep-fs-5 | V súčasnosti (2024 – 2029) má Parlament 720 poslancov
+
+Ako sa podľa Lisabonskej zmluvy označujú poslanci Európskeho parlamentu?
++ zástupcovia občanov Únie
+- zástupcovia vlád členských štátov
+- zástupcovia ľudu štátov
+= Kedysi „zástupcovia ľudu štátov“, dnes sa označujú ako „zástupcovia občanov Únie“ (článok 10 ods. 2 ZEÚ).
+> ep-fs-5 | Dnes sa označujú ako „zástupcovia občanov Únie“
+
+@ins 3
+Ktorý dlhodobý plán výdavkov EÚ musí schváliť Európsky parlament?
++ viacročný finančný rámec
+- Pakt stability a rastu
+- národné plány obnovy
+= Parlament musí schváliť aj dlhodobý plán výdavkov EÚ – viacročný finančný rámec.
+> ep-fs-5 | Parlament musí schváliť aj dlhodobý plán výdavkov EÚ, viacročný finančný rámec.
+
+Ako môže Európsky parlament kolektívne odvolať Komisiu?
++ prijatím návrhu na vyslovenie nedôvery
+- nemôže, Komisiu odvoláva len Európska rada
+- referendom vo všetkých štátoch
+= EP môže Komisiu kolektívne odvolať prijatím návrhu na vyslovenie nedôvery – to sa však doteraz nikdy nestalo.
+> ep-fs-5 | Parlament môže Komisiu kolektívne odvolať prijatím návrhu na vyslovenie nedôvery, k čomu však doteraz nikdy nedošlo.
+
+@ins 3
+Koľko inštitúcií má Európska únia po Lisabonskej zmluve?
++ sedem
+- päť
+- desať
+= Lisabonskou zmluvou sa Európska rada formálne stala jednou zo siedmich inštitúcií EÚ.
+> ep-fs-5 | Európska rada ... formálne stala jednou zo siedmich inštitúcií EÚ
+
+Akú úlohu má Európska rada?
++ dáva EÚ podnety na rozvoj a stanovuje všeobecné politické smerovanie a priority
+- prijíma zákony spolu s Parlamentom
+- riadi menovú politiku eurozóny
+= Európska rada dáva EÚ potrebné podnety na rozvoj a stanovuje politické smerovanie; nemá legislatívne funkcie.
+> ep-fs-5 | ktorej úlohou je dávať EÚ „potrebné podnety na jej rozvoj“ a stanovovať jej „všeobecné politické smerovanie a priority“
+
+@ins 1
+Na aké funkčné obdobie sa volí predseda Európskej rady?
++ 30 mesiacov s možnosťou jedného obnovenia
+- 6 mesiacov bez možnosti obnovenia
+- 5 rokov
+= Európska rada volí svojho predsedu na 30 mesiacov (dva a pol roka) s možnosťou raz obnoviť.
+> ep-fs-5 | V súčasnosti volí svojho predsedu na funkčné obdobie 30 mesiacov, ktoré možno raz obnoviť.
+
+@ins 3
+V koľkých rôznych zloženiach zasadá Rada EÚ?
++ v 10
+- v 27
+- v 3
+= Rada zasadá v 10 rôznych zloženiach ministrov podľa témy (poľnohospodárstvo, financie, zahraničné veci, energetika atď.).
+> ep-fs-5 | Rady, ktorá zasadá v 10 rôznych zloženiach ministrov členských štátov
+
+@ins 3
+Kedy je v Rade EÚ dosiahnutá kvalifikovaná väčšina („dvojitá väčšina“)?
++ keď ju podporí 55 % štátov (15 z 27) predstavujúcich aspoň 65 % obyvateľstva EÚ
+- keď ju podporí 50 % štátov bez ohľadu na obyvateľstvo
+- keď ju podporia všetky štáty
+= Kvalifikovaná väčšina = 55 % členských štátov (15 z 27), ktoré predstavujú aspoň 65 % obyvateľstva EÚ.
+> ep-fs-5 | Kvalifikovaná väčšina je dosiahnutá, keď členovia Rady zastupujúci 55 % členských štátov (t. j. 15 z 27) podporia návrh a keď tieto členské štáty predstavujú aspoň 65 % celkového obyvateľstva EÚ
+
+@ins 3
+Koľko členských štátov musí najmenej tvoriť blokujúcu menšinu v Rade EÚ?
++ štyri
+- dva
+- desať
+= Blokujúcu menšinu musia tvoriť aspoň štyri štáty predstavujúce aspoň 35 % obyvateľstva EÚ.
+> ep-fs-5 | Blokujúcu menšinu, ktorá hlasuje proti návrhu, musia tvoriť aspoň štyri členské štáty, ktoré predstavujú aspoň 35 % obyvateľstva EÚ.
+
+@ins 3
+Koľko štátov (z 27) je potrebných pre tzv. posilnenú kvalifikovanú väčšinu v Rade?
++ 20
+- 15
+- 24
+= Ak návrh nepochádza od Komisie alebo vysokého predstaviteľa, potrebná väčšina štátov sa zvyšuje na 72 %, t. j. 20 z 27.
+> ep-fs-5 | sa zvýši na 72 % (t. j. 20 z 27). Ide o tzv. posilnenú kvalifikovanú väčšinu
+
+@ins 3
+Ktorý výbor pripravuje body programu zasadnutí Rady EÚ?
++ Výbor stálych predstaviteľov (Coreper)
+- Výbor regiónov
+- Hospodársky a sociálny výbor
+= Program Rady má body „A“ (bez diskusie) a „B“ (s diskusiou), ktoré vopred pripravil Výbor stálych predstaviteľov.
+> ep-fs-5 | ktoré vopred pripravil Výbor stálych predstaviteľov
+
+Komu predsedá vysoký predstaviteľ Únie pre zahraničné veci a bezpečnostnú politiku?
++ Rade pre zahraničné veci
+- Európskej rade
+- Európskemu parlamentu
+= Vysoký predstaviteľ predsedá Rade pre zahraničné veci (27 ministrov zahraničných vecí) a vedie Európsku službu pre vonkajšiu činnosť.
+> ep-fs-5 | predsedá Rade pre zahraničné veci (27 ministrov zahraničných vecí členských štátov)
+
+Na čele ktorej služby stojí vysoký predstaviteľ Únie pre zahraničné veci a bezpečnostnú politiku?
++ Európskej služby pre vonkajšiu činnosť
+- Európskeho úradu pre boj proti podvodom
+- Európskej obrannej agentúry ako jej jediný zamestnanec
+= Vysoký predstaviteľ je na čele Európskej služby pre vonkajšiu činnosť (zamestnanci Rady, Komisie a národných diplomatických služieb).
+> ep-fs-5 | je na čele Európskej služby pre vonkajšiu činnosť
+
+Ako sa volí predseda Európskej komisie?
++ Európska rada navrhne kandidáta kvalifikovanou väčšinou a zvolí ho absolútna väčšina poslancov EP
+- volia ho priamo občania EÚ
+- menuje ho predseda Európskeho parlamentu
+= Európska rada vyberá kandidáta s prihliadnutím na výsledky volieb do EP; kandidáta musí zvoliť absolútna väčšina poslancov EP.
+> ep-fs-5 | Kandidát musí byť potom zvolený absolútnou väčšinou poslancov Európskeho parlamentu
+
+@ins 3
+Z ktorých dvoch súdov sa skladá Súdny dvor Európskej únie?
++ Súdny dvor a Všeobecný súd
+- Najvyšší súd a Ústavný súd
+- Súdny dvor a Európsky súd pre ľudské práva
+= Súdny dvor Európskej únie tvoria Súdny dvor a Všeobecný súd.
+> ep-fs-5 | Súdny dvor Európskej únie tvoria Súdny dvor a Všeobecný súd.
+
+@ins 3
+Koľko členských štátov sa musí najmenej zapojiť do „posilnenej spolupráce“?
++ deväť
+- tri
+- pätnásť
+= Posilnená spolupráca je možná, ak sa zapojí aspoň deväť členských štátov.
+> ep-fs-5 | pokiaľ sa zapojí aspoň deväť členských štátov
+
+@ins 3
+Ktorá inštitúcia vznikla vďaka posilnenej spolupráci časti členských štátov?
++ Európska prokuratúra
+- Európska centrálna banka
+- Európsky dvor audítorov
+= Posilnená spolupráca sa využíva napr. pri rozvodovom práve, jednotnom patente a Európskej prokuratúre.
+> ep-fs-5 | Posilnená spolupráca sa využíva napríklad v oblastiach, ako je rozvodové právo, jednotný patent, Európska prokuratúra
+
+Čo znamená zásada subsidiarity?
++ rozhodnutia sa majú prijímať čo najbližšie k občanom, na úrovni EÚ len ak je to účinnejšie
+- právo EÚ má vždy prednosť pred národným
+- všetky štáty platia do rozpočtu rovnako
+= Subsidiarita zabezpečuje, aby sa rozhodnutia prijímali čo najbližšie k občanom; na úrovni EÚ len ak je to účinnejšie.
+> ep-fs-5 | Koncept subsidiarity má v podstate zabezpečiť, aby sa opatrenia a rozhodnutia prijímali čo najbližšie k občanom.
+
+@ins 3
+Ako sa nazývajú postupy, ktorými národné parlamenty môžu namietať porušenie subsidiarity?
++ postupy „žltej karty“ a „oranžovej karty“
+- postupy „červenej linky“ a „zelenej linky“
+- postupy „prázdnej stoličky“
+= Ak dostatok národných parlamentov namieta porušenie subsidiarity, inštitúcia musí návrh preskúmať (žltá a oranžová karta).
+> ep-fs-5 | (postupy „žltej karty“ a „oranžovej karty“, Protokol č. 2)
+
+@ins 3
+Ktorý článok ZEÚ obsahuje doložku o vzájomnej obrane?
++ článok 42 ods. 7
+- článok 50
+- článok 222
+= Doložka o vzájomnej obrane (článok 42 ods. 7 ZEÚ) zaväzuje vlády EÚ pomôcť napadnutému členskému štátu.
+> ep-fs-5 | (článok 42 ods. 7 ZEÚ)
+
+@ins 3
+Ktorý členský štát ako jediný nespolupracuje v rámci stálej štruktúrovanej spolupráce (PESCO)?
++ Malta
+- Írsko
+- Rakúsko
+= V rámci stálej štruktúrovanej spolupráce spolupracujú všetky členské štáty okrem Malty.
+> ep-fs-5 | Týmto spôsobom teraz spolupracujú všetky členské štáty okrem Malty.
+
+@ins 3
+Čo upravuje doložka o solidarite (článok 222 ZFEÚ)?
++ pomoc štátu, ktorý postihne katastrofa alebo teroristický útok
+- rovnaké platy v celej EÚ
+- spoločné dlhopisy eurozóny
+= Doložka o solidarite zaväzuje EÚ a štáty pomôcť štátu postihnutému katastrofou alebo teroristickým útokom.
+> ep-fs-5 | Doložka o solidarite zaväzuje EÚ a vlády členských štátov, aby všetkými možnými prostriedkami pomohli inému členskému štátu
+
+@his 3
+Koľko návrhov predložila Konferencia o budúcnosti Európy pri ukončení svojej práce 9. mája 2022?
++ 49
+- 12
+- 100
+= Konferencia ukončila prácu 9. mája 2022 predložením 49 návrhov.
+> ep-fs-5 | Konferencia ukončila svoju prácu 9. mája 2022, a to predložením 49 návrhov

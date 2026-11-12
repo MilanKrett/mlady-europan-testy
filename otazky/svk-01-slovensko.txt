@@ -1,0 +1,417 @@
+#kat svk
+#n 2
+
+@svk 1
+Odkedy je Slovensko členským štátom Európskej únie?
++ od 1. mája 2004
+- od 1. januára 2004
+- od 1. januára 2009
+= Slovensko je členom EÚ od 1. mája 2004.
+> eu-country-slovakia | Členský štát EÚ: od 1. mája 2004
+
+@svk 1
+Odkedy je Slovensko členom eurozóny?
++ od 1. januára 2009
+- od 1. mája 2004
+- od 21. decembra 2007
+= Slovensko zaviedlo euro 1. januára 2009.
+> eu-country-slovakia | Eurozóna: člen od 1. januára 2009
+
+@svk 1
+Odkedy je Slovensko súčasťou schengenského priestoru?
++ od 21. decembra 2007
+- od 1. mája 2004
+- od 1. januára 2009
+= Slovensko je členom schengenského priestoru od 21. decembra 2007.
+> eu-country-slovakia | Schengenský priestor: člen od 21. decembra 2007
+
+Koľko poslancov má Slovensko v Európskom parlamente?
++ 15
+- 13
+- 21
+= Slovensko má v Európskom parlamente 15 poslancov.
+> eu-country-slovakia | Slovensko má v Európskom parlamente 15 zástupcov.
+
+@svk 1
+Kto je slovenským komisárom v Európskej komisii (2024 – 2029)?
++ Maroš Šefčovič
+- Ján Figeľ
+- Vladimír Špidla
+= Slovenským komisárom je Maroš Šefčovič.
+> eu-country-slovakia | Slovenským komisárom v Európskej komisii je Maroš Šefčovič
+
+Za ktoré oblasti zodpovedá slovenský komisár Maroš Šefčovič?
++ obchod, hospodársku bezpečnosť, medziinštitucionálne vzťahy a transparentnosť
+- poľnohospodárstvo a výživu
+- vzdelávanie, mládež a šport
+= Maroš Šefčovič je zodpovedný za obchod, hospodársku bezpečnosť, medziinštitucionálne vzťahy a transparentnosť.
+> eu-country-slovakia | ktorý je zodpovedný za obchod, hospodársku bezpečnosť, medziinštitucionálne vzťahy a transparentnosť
+
+@svk 1
+Kedy prvýkrát predsedalo Slovensko Rade EÚ?
++ v druhom polroku 2016 (júl – december)
+- v prvom polroku 2004
+- v prvom polroku 2009
+= Slovensko predsedalo Rade EÚ od júla do decembra 2016; ďalšie predsedníctvo bude január – jún 2030.
+> eu-country-slovakia | Dátumy predsedníctiev Slovenska: júl až december 2016 | január až jún 2030
+
+Kedy bude Slovensko druhýkrát predsedať Rade EÚ?
++ január – jún 2030
+- júl – december 2027
+- január – jún 2026
+= Druhé slovenské predsedníctvo pripadá na január až jún 2030.
+> eu-country-slovakia | január až jún 2030
+
+@svk 3
+S ktorými krajinami bude Slovensko tvoriť trojicu predsedníctiev v rokoch 2029 – 2030?
++ s Holandskom a Maltou
+- s Českom a Poľskom
+- s Írskom a Litvou
+= Trojicu tvoria Holandsko (júl – december 2029), Slovensko (január – jún 2030) a Malta (júl – december 2030).
+> cons-presidency | Slovensko: január – jún 2030 (v trojici s Holandskom a Maltou)
+
+@svk 3
+Koľko zástupcov má Slovensko v Európskom hospodárskom a sociálnom výbore?
++ deväť
+- pätnásť
+- dvadsaťjeden
+= Slovensko má v EHSV deväť zástupcov.
+> eu-country-slovakia | Slovensko má v Európskom hospodárskom a sociálnom výboredeväť zástupcov.
+
+@svk 3
+Koľko zástupcov má Slovensko v Európskom výbore regiónov?
++ deväť
+- pätnásť
+- osem
+= Slovensko má v Európskom výbore regiónov deväť zástupcov.
+> eu-country-slovakia | Slovensko má v Európskom výbore regiónovdeväť zástupcov.
+
+Ako sa nazýva „veľvyslanectvo“ Slovenska pri EÚ v Bruseli?
++ Stále zastúpenie SR pri EÚ
+- Zastúpenie Európskej komisie na Slovensku
+- Kancelária Európskeho parlamentu
+= Slovensko komunikuje s inštitúciami EÚ prostredníctvom stáleho zastúpenia v Bruseli – „veľvyslanectva Slovenska pri EÚ“.
+> eu-country-slovakia | Slovensko komunikuje s inštitúciami EÚ aj prostredníctvom svojho stáleho zastúpenia v Bruseli. Jeho hlavnou úlohou ako „veľvyslanectva Slovenska pri EÚ“
+
+Ako sa nazýva kancelária Európskej komisie na Slovensku?
++ Zastúpenie Európskej komisie na Slovensku
+- Stále zastúpenie SR pri EÚ
+- Veľvyslanectvo EÚ v Bratislave
+= Komisia je v každej krajine zastúpená miestnou kanceláriou nazývanou „zastúpenie“.
+> eu-country-slovakia | Komisia je v každej krajine EÚ zastúpená prostredníctvom miestnej kancelárie, nazývanej „zastúpenie“.
+
+Na koľko krajov sa delí Slovensko?
++ osem
+- desať
+- šesť
+= Slovensko sa delí na osem krajov, každý pomenovaný podľa svojho sídla; od roku 2002 majú určitú autonómiu.
+> eu-country-slovakia | Krajina sa delí na osem krajov, pričom každý je pomenovaný podľa svojho sídla.
+
+@svk 3
+Od ktorého roku majú slovenské kraje určitý stupeň autonómie?
++ od roku 2002
+- od roku 1993
+- od roku 2004
+= Slovenské kraje majú určitý stupeň autonómie od roku 2002.
+> eu-country-slovakia | Od roku 2002 majú kraje určitý stupeň autonómie.
+
+Aký politický systém má Slovensko podľa portálu EÚ?
++ parlamentná demokratická republika
+- prezidentská republika
+- konštitučná monarchia
+= Slovensko je parlamentnou demokratickou republikou; prezident má veľmi obmedzené právomoci.
+> eu-country-slovakia | Slovensko je parlamentnou demokratickou republikou.
+
+@svk 3
+Aké bolo HDP Slovenska na obyvateľa v roku 2025 podľa Eurostatu?
++ 31 100 eur, pod priemerom EÚ (41 600 eur)
+- 45 000 eur, nad priemerom EÚ
+- 15 000 eur, polovica priemeru EÚ
+= HDP na obyvateľa Slovenska bolo 31 100 eur, pod priemerom EÚ (41 600 eur).
+> eu-country-slovakia | Slovensko má HDP na obyvateľa vo výške 31 100 eur, čo je pod priemerom EÚ (41 600 eur).
+
+@svk 3
+Aký podiel na celkovom HDP EÚ má Slovensko?
++ 0,7 %
+- 7 %
+- 2,5 %
+= HDP Slovenska predstavuje 0,7 % celkového HDP EÚ (Eurostat, 2025).
+> eu-country-slovakia | HDP Slovenska predstavuje 0,7 % celkového HDP EÚ.
+
+@svk 3
+Koľko obyvateľov má Slovensko podľa údajov Eurostatu za rok 2026?
++ 5 409 407
+- 4 174 097
+- 6 012 000
+= Podľa Eurostatu má Slovensko 5 409 407 obyvateľov (2026).
+> eu-country-slovakia | Počet obyvateľov: 5 409 407
+
+@svk 3
+Akú rozlohu má Slovensko?
++ 49 035 km²
+- 78 871 km²
+- 93 025 km²
+= Zemepisná rozloha Slovenska je 49 035 km².
+> eu-country-slovakia | Zemepisná rozloha: 49 035 km2
+
+Ako znela otázka v referende o vstupe Slovenska do EÚ v roku 2003?
++ Súhlasíte s tým, aby sa Slovenská republika stala členským štátom Európskej únie?
+- Súhlasíte so zavedením eura na Slovensku?
+- Súhlasíte so vstupom Slovenska do NATO a EÚ?
+= Otázka referenda znela, či občania súhlasia s návrhom, aby sa Slovenská republika stala členským štátom EÚ.
+> ref-2003-a | Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?
+
+@svk 3
+Aká bola účasť v referende o vstupe Slovenska do EÚ v roku 2003?
++ 52,15 %
+- 92,46 %
+- 35,0 %
+= Zúčastnilo sa 52,15 % oprávnených voličov, takže referendum bolo platné.
+> ref-2003-tab3 | Slovak Republic | 4 174 097 | 2 176 990 | 52,15
+
+@svk 2
+Koľko percent hlasujúcich odpovedalo v referende o vstupe do EÚ v roku 2003 „áno“?
++ 92,46 %
+- 52,15 %
+- 67,3 %
+= Za vstup do EÚ hlasovalo 92,46 % zúčastnených voličov, proti 6,20 %.
+> ref-2003-tab3 | 2 012 870 | 135 031 | 92,46 | 6,20
+
+@svk 1
+Koľko slovenských korún sa menilo za 1 euro pri zavedení eura na Slovensku?
++ 30,1260 Sk
+- 31,1260 Sk
+- 33,3000 Sk
+= Neodvolateľný konverzný kurz bol 1 euro = 30,1260 SKK.
+> ecb-euro-map | 30,1260 SKK (slovenskej koruny)
+
+@fin 2
+Koľko eur zodpovedá 3 012,60 slovenskej koruny podľa konverzného kurzu?
++ 100 eur
+- 1 000 eur
+- 30 eur
+= 3 012,60 : 30,1260 = 100 eur.
+> ecb-euro-map | 30,1260 SKK (slovenskej koruny)
+
+@fin 3
+Koľko slovenských korún zodpovedalo 50 eurám podľa konverzného kurzu?
++ 1 506,30 Sk
+- 1 500 Sk
+- 150,63 Sk
+= 50 × 30,1260 = 1 506,30 Sk.
+> ecb-euro-map | 30,1260 SKK (slovenskej koruny)
+
+@svk 1
+Aký motív je na slovenských minciach 1 € a 2 €?
++ dvojkríž na trojvrší
+- Bratislavský hrad
+- vrch Kriváň
+= Na minciach 1 € a 2 € je dvojkríž na trojvrší zo štátneho znaku SR.
+> ecb-coins-sk | Na minciach hodnoty 1 € a 2 € je zobrazený dvojkríž na trojvrší, ktorý je v štátnom znaku Slovenskej republiky.
+
+@svk 1
+Ktorá stavba je na slovenských minciach 10, 20 a 50 centov?
++ Bratislavský hrad
+- Spišský hrad
+- Dóm sv. Martina
+= Mince 10, 20 a 50 centov zobrazujú Bratislavský hrad a štátny znak SR.
+> ecb-coins-sk | Mince v hodnote 10, 20 a 50 centov zobrazujú Bratislavský hrad a štátny znak Slovenskej republiky.
+
+@svk 1
+Ktorý vrch je na slovenských minciach 1, 2 a 5 centov?
++ Kriváň
+- Gerlachovský štít
+- Rysy
+= Na minciach 1, 2 a 5 centov je tatranský štít Kriváň, symbol zvrchovanosti slovenského národa.
+> ecb-coins-sk | Na minciach hodnoty 1 cent, 2 centy a 5 centov je tatranský štít Kriváň, symbol zvrchovanosti slovenského národa
+
+@svk 3
+Kto je autorom výtvarného návrhu slovenských mincí 1 € a 2 € s dvojkrížom?
++ Ivan Řehák
+- Drahomír Zobek
+- Ján Černaj
+= Návrh s dvojkrížom na trojvrší vytvoril akademický sochár Ivan Řehák.
+> nbs-sutaz-minci | bol schválený výtvarný návrh akademického sochára Ivana Řeháka s motívom dvojkríža na trojvrší
+
+@svk 3
+Kto je autorom návrhu slovenských mincí 1, 2 a 5 centov s Kriváňom?
++ Drahomír Zobek
+- Ivan Řehák
+- Pavol Károly
+= Na mince 1, 2 a 5 centov bol použitý návrh Drahomíra Zobeka s vrchom Kriváň.
+> nbs-sutaz-minci | bol použitý výtvarný návrh autora Drahomíra Zobeka so zobrazením tatranského vrchu Kriváň
+
+@svk 3
+Ktorí autori vytvorili návrh slovenských mincí 10, 20 a 50 centov s Bratislavským hradom?
++ Ján Černaj a Pavol Károly
+- Ivan Řehák a Drahomír Zobek
+- Mária Poldaufová a Peter Valach
+= Návrh s motívom Bratislavského hradu vytvorili v spoluautorstve Ján Černaj a Pavol Károly.
+> nbs-sutaz-minci | ktorý v spoluautorstve vytvorili dvaja výtvarníci – Ján Černaj a Pavol Károly
+
+@svk 3
+Ktorý motív zvíťazil vo verejnej ankete o podobe slovenských euromincí?
++ dvojkríž na trojvrší
+- Bratislavský hrad
+- Kriváň
+= V ankete zvíťazil dvojkríž na trojvrší, druhý bol Kriváň a tretí Bratislavský hrad.
+> nbs-sutaz-minci | sa na prvom mieste umiestnil výtvarný návrh zobrazujúci dvojkríž na trojvrší, na druhom mieste návrh s motívom vrchu Kriváň a na treťom mieste návrh so zobrazením Bratislavského hradu
+
+@svk 3
+Koľko hlasov prišlo do verejnej ankety o podobe slovenských euromincí?
++ 140 653
+- 14 065
+- 1 406 530
+= Do ankety bolo zaslaných 140 653 hlasov.
+> nbs-sutaz-minci | V ankete, do ktorej bolo zaslaných 140 653 hlasov
+
+@svk 3
+Ktorý rok je vyrazený na všetkých slovenských obehových euromincích?
++ 2009
+- 2004
+- 2006
+= Na upravených návrhoch bol uvedený rovnaký rok – 2009, rok zavedenia eura na Slovensku.
+> nbs-sutaz-minci | Na upravených výtvarných návrhoch tiež bol uvedený rovnaký rok – 2009, rok zavedenia eura v Slovenskej republike.
+
+@svk 3
+Ktorá inštitúcia vyhlásila súťaž na slovenské strany euromincí?
++ Národná banka Slovenska
+- Ministerstvo financií SR
+- Európska centrálna banka
+= Banková rada NBS rozhodla vyhlásiť verejnú anonymnú súťaž na výtvarné návrhy euromincí.
+> nbs-sutaz-minci | Banková rada rozhodla vyhlásiť na výtvarné návrhy euromincí verejnú anonymnú súťaž
+
+Čo symbolizuje vrch Kriváň na slovenských eurominciach podľa NBS?
++ ochranu svojbytnosti slovenského národa a prírodné bohatstvo Slovenska
+- najvyšší vrch Európy
+- hranicu s Poľskom
+= Kriváň je považovaný za symbol ochrany svojbytnosti slovenského národa a reprezentuje aj prírodné bohatstvo Slovenska.
+> nbs-sutaz-minci | Vrch Kriváň je považovaný za symbol ochrany svojbytnosti slovenského národa a jeho historického územia a zároveň reprezentuje aj prírodné bohatstvo Slovenska.
+
+@fin 2
+V akej nominálnej hodnote môžu krajiny eurozóny vydávať pamätné euromince platné v celej eurozóne?
++ 2 eurá
+- 1 euro
+- 50 centov
+= Pamätné euromince sa vydávajú v hodnote 2 eurá a sú zákonným platidlom vo všetkých krajinách eurozóny.
+> nbs-pamatne | Každá členská krajina eurozóny môže vydávať pamätné euromince v nominálnej hodnote 2 eurá, ktoré sú zákonným platidlom vo všetkých krajinách eurozóny
+
+@fin 3
+Kde sú zákonným platidlom zberateľské euromince?
++ len v štáte eurozóny, ktorý ich vydal
+- v celej eurozóne
+- v celej EÚ vrátane krajín mimo eurozóny
+= Zberateľské euromince sú zákonným platidlom len na území štátu, ktorý ich vydal.
+> nbs-pamatne | zberateľské euromince, ktoré sú zákonným platidlom len na území členského štátu eurozóny, ktorý ich vydal
+
+@akt 2
+Akej udalosti roka 2026 venovalo Slovensko pamätnú 2-eurovú mincu vydanú 13. 1. 2026?
++ Európske hlavné mesto kultúry Trenčín 2026
+- 20. výročie vstupu do schengenského priestoru
+- predsedníctvo v Rade EÚ
+= NBS vydala 13. 1. 2026 pamätnú dvojeurovú mincu Európske hlavné mesto kultúry Trenčín 2026.
+> nbs-pamatne | Európske hlavné mesto kultúry Trenčín 2026 ... Emisia: 13. 1. 2026
+
+@svk 3
+Ktorej udalosti bola venovaná slovenská pamätná 2-eurová minca vydaná 7. 3. 2016?
++ prvému predsedníctvu SR v Rade EÚ
+- 10. výročiu vstupu do EÚ
+- 25. výročiu vzniku SR
+= Minca s emisiou 7. 3. 2016 pripomína prvé predsedníctvo Slovenskej republiky v Rade EÚ.
+> nbs-pamatne | Prvé predsedníctvo Slovenskej republiky v Rade Európskej únie ... Emisia: 7. 3. 2016
+
+@svk 3
+Ktoré výročie pripomína slovenská pamätná 2-eurová minca vydaná 1. 4. 2014?
++ 10. výročie vstupu SR do Európskej únie
+- 10. výročie zavedenia eura
+- 20. výročie vzniku SR
+= Minca z 1. 4. 2014 pripomína 10. výročie vstupu Slovenskej republiky do EÚ.
+> nbs-pamatne | 10. výročie vstupu Slovenskej republiky do Európskej únie ... Emisia: 1. 4. 2014
+
+@svk 3
+Ktorému slovenskému laureátovi Sacharovovej ceny venovala NBS v roku 2021 pamätnú mincu k 100. výročiu narodenia?
++ Alexandrovi Dubčekovi
+- Milanovi Rastislavovi Štefánikovi
+- Ľudovítovi Štúrovi
+= V roku 2021 vyšla pamätná minca k 100. výročiu narodenia Alexandra Dubčeka (laureát Sacharovovej ceny 1989).
+> nbs-pamatne | 100. výročie narodenia Alexandra Dubčeka
+> sak-1988-2000 | Alexander Dubček – 1989, Slovensko
+
+@svk 3
+Ktorému programu EÚ venovalo Slovensko v roku 2022 pamätnú mincu k 35. výročiu?
++ Erasmus
+- Kreatívna Európa
+- Horizont Európa
+= V roku 2022 vyšla pamätná minca k 35. výročiu programu Erasmus.
+> nbs-pamatne | 35. výročie programu Erasmus
+
+@svk 3
+Ktorému zoskupeniu stredoeurópskych krajín venovalo Slovensko v roku 2011 pamätnú mincu k 20. výročiu vzniku?
++ Vyšehradskej skupine
+- Beneluxu
+- Severskej rade
+= Minca z 10. 1. 2011 pripomína 20. výročie vytvorenia Vyšehradskej skupiny.
+> nbs-pamatne | 20. výročie vytvorenia Vyšehradskej skupiny
+
+@svk 3
+Koľké v poradí boli voľby do Európskeho parlamentu na Slovensku v roku 2024?
++ piate
+- tretie
+- trináste
+= Voľby v roku 2024 boli trinástymi v EÚ a piatymi na Slovensku.
+> ep-office-sk | Zatiaľ posledné, v poradí trináste voľby do EP, zároveň piate na Slovensku
+
+@svk 2
+Kedy sa na Slovensku konali posledné voľby do Európskeho parlamentu?
++ 8. júna 2024
+- 25. mája 2019
+- 6. júna 2025
+= Voľby do EP sa na Slovensku konali 8. júna 2024.
+> ep-office-sk | Termín konania volieb do EP na Slovensku bol 8. júna 2024.
+
+Akým systémom sa volia poslanci Európskeho parlamentu?
++ systémom pomerného zastúpenia
+- väčšinovým systémom v jednomandátových obvodoch
+- nepriamo národnými parlamentmi
+= Poslanci EP sa volia v priamych voľbách každých päť rokov systémom pomerného zastúpenia.
+> ep-office-sk | vždy po piatich rokoch systémom pomerného zastúpenia
+
+@svk 3
+Ako sa volá súťaž Európskeho parlamentu, vďaka ktorej sa ročne viac ako 350 slovenských stredoškolákov dostane do Štrasburgu?
++ Euroscola
+- Mladý Európan
+- DiscoverEU
+= Vďaka súťaži Euroscola sa do Štrasburgu ročne dostane viac než 350 najúspešnejších stredoškolákov.
+> ep-office-sk | každoročnou súťažou Euroscola, vďaka ktorej sa do Štrasburgu v sprievode svojich pedagógov dostane ročne viac než 350 najúspešnejších stredoškolákov
+
+@svk 3
+Ako sa volá vzdelávací program Európskeho parlamentu pre školy na Slovensku?
++ Ambasádorské školy Európskeho parlamentu
+- Školy Erasmus+
+- Európske školy
+= Kancelária EP organizuje program Ambasádorské školy Európskeho parlamentu.
+> ep-office-sk | Organizujeme vzdelávací program Ambasádorské školy Európskeho parlamentu
+
+@svk 1
+Ktorá agentúra EÚ sídli v Bratislave?
++ Európsky orgán práce (ELA)
+- Európska agentúra pre lieky (EMA)
+- Frontex
+= V Bratislave sídli Európsky orgán práce (ELA), založený v roku 2019.
+> eu-inst-european-labour-authority-ela | 811 09 Bratislava
+
+Spolu s ktorými krajinami vstúpilo Slovensko do EÚ 1. mája 2004?
++ s Českom, Estónskom, Litvou, Lotyšskom, Maďarskom, Poľskom, Slovinskom, Cyprom a Maltou
+- s Bulharskom a Rumunskom
+- s Rakúskom, Fínskom a Švédskom
+= V roku 2004 vstúpilo do EÚ desať krajín vrátane Slovenska.
+> eu-history-2000-09 | Česká republika, Estónsko, Litva, Lotyšsko, Maďarsko, Poľsko, Slovensko a Slovinsko – vstupuje spolu s Cyprusom a Maltou do EÚ
+
+@svk 2
+Koľkou krajinou eurozóny sa stalo Slovensko v roku 2009?
++ 16.
+- 12.
+- 20.
+= Pri zavedení eura na Slovensku v roku 2009 mala eurozóna 16 členov – v roku 2010 podporilo plán pomoci „16 krajín EÚ, ktoré sú členmi eurozóny“.
+> eu-history-2010-19 | 16 krajín EÚ, ktoré sú členmi eurozóny
+> eu-country-slovakia | Eurozóna: člen od 1. januára 2009

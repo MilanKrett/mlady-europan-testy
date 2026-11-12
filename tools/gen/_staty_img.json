@@ -1,0 +1,137 @@
+{
+ "eu-country-austria": {
+  "img": "img/staty/austria.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Austria.png?itok=Yw1GF7B8",
+  "alt": "Map of Europe showing location of Austria and country flag"
+ },
+ "eu-country-belgium": {
+  "img": "img/staty/belgium.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Belgium.png?itok=_IUoZVX8",
+  "alt": "Map of Europe showing location of Belgium and country flag"
+ },
+ "eu-country-bulgaria": {
+  "img": "img/staty/bulgaria.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Bulgaria.png?itok=eCSbHcLw",
+  "alt": "Map of Europe showing location of Bulgaria and country flag"
+ },
+ "eu-country-croatia": {
+  "img": "img/staty/croatia.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Croatia.png?itok=kpKpMluM",
+  "alt": "Map of Europe showing location of Croatia and country flag"
+ },
+ "eu-country-cyprus": {
+  "img": "img/staty/cyprus.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Cyprus.png?itok=7Y-bh4_l",
+  "alt": "Map of Europe showing location of Cyprus and country flag"
+ },
+ "eu-country-czechia": {
+  "img": "img/staty/czechia.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Czechia.png?itok=5dlvxcIa",
+  "alt": "Map of Europe showing location of Czechia and country flag"
+ },
+ "eu-country-denmark": {
+  "img": "img/staty/denmark.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Denmark.png?itok=nY4ZYvC2",
+  "alt": "Map of Europe showing location of Denmark and country flag"
+ },
+ "eu-country-estonia": {
+  "img": "img/staty/estonia.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Estonia.png?itok=NaEeTGyT",
+  "alt": "Map of Europe showing location of Estonia and country flag"
+ },
+ "eu-country-finland": {
+  "img": "img/staty/finland.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Finland.png?itok=nqx4YLI7",
+  "alt": "Map of Europe showing location of Finland and country flag"
+ },
+ "eu-country-france": {
+  "img": "img/staty/france.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/France.png?itok=Uv3PRgua",
+  "alt": "Map of Europe showing location of France and country flag"
+ },
+ "eu-country-germany": {
+  "img": "img/staty/germany.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Germany.png?itok=ptRSOaQZ",
+  "alt": "Map of Europe showing location of Germany and country flag"
+ },
+ "eu-country-greece": {
+  "img": "img/staty/greece.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Greece.png?itok=2aZpbZTQ",
+  "alt": "Map of Europe showing location of Greece and country flag"
+ },
+ "eu-country-hungary": {
+  "img": "img/staty/hungary.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Hungary.png?itok=FPFnDwjs",
+  "alt": "Map of Europe showing location of Hungary and country flag"
+ },
+ "eu-country-ireland": {
+  "img": "img/staty/ireland.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Ireland.png?itok=7YqJSWdv",
+  "alt": "Map of Europe showing location of Ireland and country flag"
+ },
+ "eu-country-italy": {
+  "img": "img/staty/italy.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Italy.png?itok=ws5okv7z",
+  "alt": "Map of Europe showing location of Italy and country flag"
+ },
+ "eu-country-latvia": {
+  "img": "img/staty/latvia.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Latvia.png?itok=OYo2ME73",
+  "alt": "Map of Europe showing location of Latvia and country flag"
+ },
+ "eu-country-lithuania": {
+  "img": "img/staty/lithuania.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Lithuania.png?itok=CLjOFZIz",
+  "alt": "Map of Europe showing location of Lithuania and country flag"
+ },
+ "eu-country-luxembourg": {
+  "img": "img/staty/luxembourg.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Luxembourg.png?itok=GswsVFAH",
+  "alt": "Map of Europe showing location of Luxembourg and country flag"
+ },
+ "eu-country-malta": {
+  "img": "img/staty/malta.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Malta.png?itok=_pU6KG_i",
+  "alt": "Map of Europe showing location of Malta and country flag"
+ },
+ "eu-country-netherlands": {
+  "img": "img/staty/netherlands.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Netherlands.png?itok=Af4nxsE0",
+  "alt": "Map of Europe showing location of Netherlands and country flag"
+ },
+ "eu-country-poland": {
+  "img": "img/staty/poland.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Poland.png?itok=dGLvdwWJ",
+  "alt": "Map of Europe showing location of Poland and country flag"
+ },
+ "eu-country-portugal": {
+  "img": "img/staty/portugal.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Portugal.png?itok=2Uv5NvOv",
+  "alt": "Map of Europe showing location of Portugal and country flag"
+ },
+ "eu-country-romania": {
+  "img": "img/staty/romania.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Romania.png?itok=-SI95AlD",
+  "alt": "Map of Europe showing location of Romania and country flag"
+ },
+ "eu-country-slovakia": {
+  "img": "img/staty/slovakia.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Slovakia.png?itok=2d4pDZzS",
+  "alt": "Map of Europe showing location of Slovakia and country flag"
+ },
+ "eu-country-slovenia": {
+  "img": "img/staty/slovenia.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Slovenia.png?itok=TnTu6sbw",
+  "alt": "Map of Europe showing location of Slovenia and country flag"
+ },
+ "eu-country-spain": {
+  "img": "img/staty/spain.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Spain.png?itok=DvG2oEmS",
+  "alt": "Map of Europe showing location of Spain and country flag"
+ },
+ "eu-country-sweden": {
+  "img": "img/staty/sweden.jpg",
+  "url": "https://european-union.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2025-12/Sweden.png?itok=NieB6Zm3",
+  "alt": "Map of Europe showing location of Sweden and country flag"
+ }
+}

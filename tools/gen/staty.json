@@ -1,0 +1,5711 @@
+[
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Rakúsko?",
+"ok": "Viedeň",
+"bad": [
+"Salzburg",
+"Praha"
+],
+"v": "Hlavným mestom krajiny Rakúsko je Viedeň.",
+"src": [
+[
+"eu-country-austria",
+"Hlavné mesto: Viedeň"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Viedeň hlavným mestom?",
+"ok": "Rakúsko",
+"bad": [
+"Maďarsko",
+"Slovensko"
+],
+"v": "Viedeň je hlavné mesto krajiny Rakúsko.",
+"src": [
+[
+"eu-country-austria",
+"Hlavné mesto: Viedeň"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Belgicko?",
+"ok": "Brusel",
+"bad": [
+"Antverpy",
+"Paríž"
+],
+"v": "Hlavným mestom krajiny Belgicko je Brusel.",
+"src": [
+[
+"eu-country-belgium",
+"Hlavné mesto: Brusel"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Brusel hlavným mestom?",
+"ok": "Belgicko",
+"bad": [
+"Írsko",
+"Luxembursko"
+],
+"v": "Brusel je hlavné mesto krajiny Belgicko.",
+"src": [
+[
+"eu-country-belgium",
+"Hlavné mesto: Brusel"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Bulharsko?",
+"ok": "Sofia",
+"bad": [
+"Plovdiv",
+"Bukurešť"
+],
+"v": "Hlavným mestom krajiny Bulharsko je Sofia.",
+"src": [
+[
+"eu-country-bulgaria",
+"Hlavné mesto: Sofia"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Sofia hlavným mestom?",
+"ok": "Bulharsko",
+"bad": [
+"Rumunsko",
+"Grécko"
+],
+"v": "Sofia je hlavné mesto krajiny Bulharsko.",
+"src": [
+[
+"eu-country-bulgaria",
+"Hlavné mesto: Sofia"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Chorvátsko?",
+"ok": "Záhreb",
+"bad": [
+"Split",
+"Rím"
+],
+"v": "Hlavným mestom krajiny Chorvátsko je Záhreb.",
+"src": [
+[
+"eu-country-croatia",
+"Hlavné mesto: Záhreb"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Záhreb hlavným mestom?",
+"ok": "Chorvátsko",
+"bad": [
+"Cyprus",
+"Španielsko"
+],
+"v": "Záhreb je hlavné mesto krajiny Chorvátsko.",
+"src": [
+[
+"eu-country-croatia",
+"Hlavné mesto: Záhreb"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Cyprus?",
+"ok": "Nikózia",
+"bad": [
+"Limassol",
+"Záhreb"
+],
+"v": "Hlavným mestom krajiny Cyprus je Nikózia.",
+"src": [
+[
+"eu-country-cyprus",
+"Hlavné mesto: Nikózia"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Nikózia hlavným mestom?",
+"ok": "Cyprus",
+"bad": [
+"Malta",
+"Chorvátsko"
+],
+"v": "Nikózia je hlavné mesto krajiny Cyprus.",
+"src": [
+[
+"eu-country-cyprus",
+"Hlavné mesto: Nikózia"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Česko?",
+"ok": "Praha",
+"bad": [
+"Brno",
+"Varšava"
+],
+"v": "Hlavným mestom krajiny Česko je Praha.",
+"src": [
+[
+"eu-country-czechia",
+"Hlavné mesto: Praha"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Praha hlavným mestom?",
+"ok": "Česko",
+"bad": [
+"Rakúsko",
+"Poľsko"
+],
+"v": "Praha je hlavné mesto krajiny Česko.",
+"src": [
+[
+"eu-country-czechia",
+"Hlavné mesto: Praha"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Dánsko?",
+"ok": "Kodaň",
+"bad": [
+"Aarhus",
+"Riga"
+],
+"v": "Hlavným mestom krajiny Dánsko je Kodaň.",
+"src": [
+[
+"eu-country-denmark",
+"Hlavné mesto: Kodaň"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Kodaň hlavným mestom?",
+"ok": "Dánsko",
+"bad": [
+"Fínsko",
+"Litva"
+],
+"v": "Kodaň je hlavné mesto krajiny Dánsko.",
+"src": [
+[
+"eu-country-denmark",
+"Hlavné mesto: Kodaň"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Estónsko?",
+"ok": "Tallinn",
+"bad": [
+"Tartu",
+"Riga"
+],
+"v": "Hlavným mestom krajiny Estónsko je Tallinn.",
+"src": [
+[
+"eu-country-estonia",
+"Hlavné mesto: Tallinn"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Tallinn hlavným mestom?",
+"ok": "Estónsko",
+"bad": [
+"Lotyšsko",
+"Švédsko"
+],
+"v": "Tallinn je hlavné mesto krajiny Estónsko.",
+"src": [
+[
+"eu-country-estonia",
+"Hlavné mesto: Tallinn"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Fínsko?",
+"ok": "Helsinki",
+"bad": [
+"Turku",
+"Vilnius"
+],
+"v": "Hlavným mestom krajiny Fínsko je Helsinki.",
+"src": [
+[
+"eu-country-finland",
+"Hlavné mesto: Helsinki"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Helsinki hlavným mestom?",
+"ok": "Fínsko",
+"bad": [
+"Švédsko",
+"Dánsko"
+],
+"v": "Helsinki je hlavné mesto krajiny Fínsko.",
+"src": [
+[
+"eu-country-finland",
+"Hlavné mesto: Helsinki"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Francúzsko?",
+"ok": "Paríž",
+"bad": [
+"Lyon",
+"Luxemburg"
+],
+"v": "Hlavným mestom krajiny Francúzsko je Paríž.",
+"src": [
+[
+"eu-country-france",
+"Hlavné mesto: Paríž"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Paríž hlavným mestom?",
+"ok": "Francúzsko",
+"bad": [
+"Belgicko",
+"Luxembursko"
+],
+"v": "Paríž je hlavné mesto krajiny Francúzsko.",
+"src": [
+[
+"eu-country-france",
+"Hlavné mesto: Paríž"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Nemecko?",
+"ok": "Berlín",
+"bad": [
+"Bonn",
+"Bratislava"
+],
+"v": "Hlavným mestom krajiny Nemecko je Berlín.",
+"src": [
+[
+"eu-country-germany",
+"Hlavné mesto: Berlín"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Berlín hlavným mestom?",
+"ok": "Nemecko",
+"bad": [
+"Maďarsko",
+"Slovinsko"
+],
+"v": "Berlín je hlavné mesto krajiny Nemecko.",
+"src": [
+[
+"eu-country-germany",
+"Hlavné mesto: Berlín"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Grécko?",
+"ok": "Atény",
+"bad": [
+"Solún",
+"Bukurešť"
+],
+"v": "Hlavným mestom krajiny Grécko je Atény.",
+"src": [
+[
+"eu-country-greece",
+"Hlavné mesto: Atény"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Atény hlavným mestom?",
+"ok": "Grécko",
+"bad": [
+"Bulharsko",
+"Rumunsko"
+],
+"v": "Atény je hlavné mesto krajiny Grécko.",
+"src": [
+[
+"eu-country-greece",
+"Hlavné mesto: Atény"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Maďarsko?",
+"ok": "Budapešť",
+"bad": [
+"Debrecín",
+"Viedeň"
+],
+"v": "Hlavným mestom krajiny Maďarsko je Budapešť.",
+"src": [
+[
+"eu-country-hungary",
+"Hlavné mesto: Budapešť"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Budapešť hlavným mestom?",
+"ok": "Maďarsko",
+"bad": [
+"Slovinsko",
+"Nemecko"
+],
+"v": "Budapešť je hlavné mesto krajiny Maďarsko.",
+"src": [
+[
+"eu-country-hungary",
+"Hlavné mesto: Budapešť"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Írsko?",
+"ok": "Dublin",
+"bad": [
+"Cork",
+"Luxemburg"
+],
+"v": "Hlavným mestom krajiny Írsko je Dublin.",
+"src": [
+[
+"eu-country-ireland",
+"Hlavné mesto: Dublin"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Dublin hlavným mestom?",
+"ok": "Írsko",
+"bad": [
+"Holandsko",
+"Francúzsko"
+],
+"v": "Dublin je hlavné mesto krajiny Írsko.",
+"src": [
+[
+"eu-country-ireland",
+"Hlavné mesto: Dublin"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Taliansko?",
+"ok": "Rím",
+"bad": [
+"Miláno",
+"Záhreb"
+],
+"v": "Hlavným mestom krajiny Taliansko je Rím.",
+"src": [
+[
+"eu-country-italy",
+"Hlavné mesto: Rím"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Rím hlavným mestom?",
+"ok": "Taliansko",
+"bad": [
+"Portugalsko",
+"Španielsko"
+],
+"v": "Rím je hlavné mesto krajiny Taliansko.",
+"src": [
+[
+"eu-country-italy",
+"Hlavné mesto: Rím"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Lotyšsko?",
+"ok": "Riga",
+"bad": [
+"Daugavpils",
+"Kodaň"
+],
+"v": "Hlavným mestom krajiny Lotyšsko je Riga.",
+"src": [
+[
+"eu-country-latvia",
+"Hlavné mesto: Riga"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Riga hlavným mestom?",
+"ok": "Lotyšsko",
+"bad": [
+"Litva",
+"Švédsko"
+],
+"v": "Riga je hlavné mesto krajiny Lotyšsko.",
+"src": [
+[
+"eu-country-latvia",
+"Hlavné mesto: Riga"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Litva?",
+"ok": "Vilnius",
+"bad": [
+"Kaunas",
+"Riga"
+],
+"v": "Hlavným mestom krajiny Litva je Vilnius.",
+"src": [
+[
+"eu-country-lithuania",
+"Hlavné mesto: Vilnius"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Vilnius hlavným mestom?",
+"ok": "Litva",
+"bad": [
+"Švédsko",
+"Fínsko"
+],
+"v": "Vilnius je hlavné mesto krajiny Litva.",
+"src": [
+[
+"eu-country-lithuania",
+"Hlavné mesto: Vilnius"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Luxembursko?",
+"ok": "Luxemburg",
+"bad": [
+"Esch-sur-Alzette",
+"Amsterdam"
+],
+"v": "Hlavným mestom krajiny Luxembursko je Luxemburg. Hlavné mesto má rovnaké meno ako krajina.",
+"src": [
+[
+"eu-country-luxembourg",
+"Hlavné mesto: Luxembursko"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Luxemburg hlavným mestom?",
+"ok": "Luxembursko",
+"bad": [
+"Holandsko",
+"Írsko"
+],
+"v": "Luxemburg je hlavné mesto krajiny Luxembursko. Hlavné mesto má rovnaké meno ako krajina.",
+"src": [
+[
+"eu-country-luxembourg",
+"Hlavné mesto: Luxembursko"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Malta?",
+"ok": "Valletta",
+"bad": [
+"Mdina",
+"Madrid"
+],
+"v": "Hlavným mestom krajiny Malta je Valletta.",
+"src": [
+[
+"eu-country-malta",
+"Hlavné mesto: Valletta"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Valletta hlavným mestom?",
+"ok": "Malta",
+"bad": [
+"Chorvátsko",
+"Cyprus"
+],
+"v": "Valletta je hlavné mesto krajiny Malta.",
+"src": [
+[
+"eu-country-malta",
+"Hlavné mesto: Valletta"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Holandsko?",
+"ok": "Amsterdam",
+"bad": [
+"Haag",
+"Paríž"
+],
+"v": "Hlavným mestom krajiny Holandsko je Amsterdam. Parlament a vláda však sídlia v Haagu.",
+"src": [
+[
+"eu-country-netherlands",
+"Hlavné mesto: Amsterdam; parlament a vláda sídlia v Haagu."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Amsterdam hlavným mestom?",
+"ok": "Holandsko",
+"bad": [
+"Belgicko",
+"Írsko"
+],
+"v": "Amsterdam je hlavné mesto krajiny Holandsko. Parlament a vláda však sídlia v Haagu.",
+"src": [
+[
+"eu-country-netherlands",
+"Hlavné mesto: Amsterdam; parlament a vláda sídlia v Haagu."
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Poľsko?",
+"ok": "Varšava",
+"bad": [
+"Krakov",
+"Bratislava"
+],
+"v": "Hlavným mestom krajiny Poľsko je Varšava.",
+"src": [
+[
+"eu-country-poland",
+"Hlavné mesto: Varšava"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Varšava hlavným mestom?",
+"ok": "Poľsko",
+"bad": [
+"Slovinsko",
+"Rakúsko"
+],
+"v": "Varšava je hlavné mesto krajiny Poľsko.",
+"src": [
+[
+"eu-country-poland",
+"Hlavné mesto: Varšava"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Portugalsko?",
+"ok": "Lisabon",
+"bad": [
+"Porto",
+"Madrid"
+],
+"v": "Hlavným mestom krajiny Portugalsko je Lisabon.",
+"src": [
+[
+"eu-country-portugal",
+"Hlavné mesto: Lisabon"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Lisabon hlavným mestom?",
+"ok": "Portugalsko",
+"bad": [
+"Malta",
+"Španielsko"
+],
+"v": "Lisabon je hlavné mesto krajiny Portugalsko.",
+"src": [
+[
+"eu-country-portugal",
+"Hlavné mesto: Lisabon"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Rumunsko?",
+"ok": "Bukurešť",
+"bad": [
+"Kluž-Napoka",
+"Sofia"
+],
+"v": "Hlavným mestom krajiny Rumunsko je Bukurešť.",
+"src": [
+[
+"eu-country-romania",
+"Hlavné mesto: Bukurešť"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Bukurešť hlavným mestom?",
+"ok": "Rumunsko",
+"bad": [
+"Grécko",
+"Bulharsko"
+],
+"v": "Bukurešť je hlavné mesto krajiny Rumunsko.",
+"src": [
+[
+"eu-country-romania",
+"Hlavné mesto: Bukurešť"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Slovensko?",
+"ok": "Bratislava",
+"bad": [
+"Košice",
+"Viedeň"
+],
+"v": "Hlavným mestom krajiny Slovensko je Bratislava.",
+"src": [
+[
+"eu-country-slovakia",
+"Hlavné mesto: Bratislava"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Bratislava hlavným mestom?",
+"ok": "Slovensko",
+"bad": [
+"Slovinsko",
+"Maďarsko"
+],
+"v": "Bratislava je hlavné mesto krajiny Slovensko.",
+"src": [
+[
+"eu-country-slovakia",
+"Hlavné mesto: Bratislava"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktoré mesto je hlavným mestom krajiny Slovinsko?",
+"ok": "Ľubľana",
+"bad": [
+"Maribor",
+"Bratislava"
+],
+"v": "Hlavným mestom krajiny Slovinsko je Ľubľana.",
+"src": [
+[
+"eu-country-slovenia",
+"Hlavné mesto: Ľubľana"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny je Ľubľana hlavným mestom?",
+"ok": "Slovinsko",
+"bad": [
+"Maďarsko",
+"Poľsko"
+],
+"v": "Ľubľana je hlavné mesto krajiny Slovinsko.",
+"src": [
+[
+"eu-country-slovenia",
+"Hlavné mesto: Ľubľana"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Španielsko?",
+"ok": "Madrid",
+"bad": [
+"Barcelona",
+"Rím"
+],
+"v": "Hlavným mestom krajiny Španielsko je Madrid.",
+"src": [
+[
+"eu-country-spain",
+"Hlavné mesto: Madrid"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Madrid hlavným mestom?",
+"ok": "Španielsko",
+"bad": [
+"Portugalsko",
+"Malta"
+],
+"v": "Madrid je hlavné mesto krajiny Španielsko.",
+"src": [
+[
+"eu-country-spain",
+"Hlavné mesto: Madrid"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktoré mesto je hlavným mestom krajiny Švédsko?",
+"ok": "Štokholm",
+"bad": [
+"Göteborg",
+"Helsinki"
+],
+"v": "Hlavným mestom krajiny Švédsko je Štokholm.",
+"src": [
+[
+"eu-country-sweden",
+"Hlavné mesto: Štokholm"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorej krajiny je Štokholm hlavným mestom?",
+"ok": "Švédsko",
+"bad": [
+"Litva",
+"Lotyšsko"
+],
+"v": "Štokholm je hlavné mesto krajiny Švédsko.",
+"src": [
+[
+"eu-country-sweden",
+"Hlavné mesto: Štokholm"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Rakúsko?",
+"ok": "nemčina",
+"bad": [
+"slovenčina",
+"slovinčina"
+],
+"v": "Úradným jazykom EÚ v Rakúsku je nemčina.",
+"src": [
+[
+"eu-country-austria",
+"Úradné jazyky EÚ: nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorý z týchto jazykov je jedným z úradných jazykov EÚ v krajine Belgicko?",
+"ok": "francúzština",
+"bad": [
+"írčina",
+"angličtina"
+],
+"v": "Úradné jazyky EÚ v Belgicku: holandčina, francúzština, nemčina.",
+"src": [
+[
+"eu-country-belgium",
+"Úradné jazyky EÚ: holandčina, francúzština, nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Bulharsko?",
+"ok": "bulharčina",
+"bad": [
+"gréčtina",
+"rumunčina"
+],
+"v": "Úradným jazykom EÚ v Bulharsku je bulharčina.",
+"src": [
+[
+"eu-country-bulgaria",
+"Úradné jazyky EÚ: bulharčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Chorvátsko?",
+"ok": "chorvátčina",
+"bad": [
+"taliančina",
+"portugalčina"
+],
+"v": "Úradným jazykom EÚ v Chorvátsku je chorvátčina.",
+"src": [
+[
+"eu-country-croatia",
+"Úradný jazyk resp. jazyky EÚ: chorvátčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Cyprus?",
+"ok": "gréčtina",
+"bad": [
+"angličtina",
+"portugalčina"
+],
+"v": "Úradným jazykom EÚ na Cypre je gréčtina.",
+"src": [
+[
+"eu-country-cyprus",
+"Úradný jazyk resp. jazyky EÚ: gréčtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Česko?",
+"ok": "čeština",
+"bad": [
+"slovenčina",
+"poľština"
+],
+"v": "Úradným jazykom EÚ v Česku je čeština.",
+"src": [
+[
+"eu-country-czechia",
+"Úradné jazyky EÚ: čeština"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Dánsko?",
+"ok": "dánčina",
+"bad": [
+"fínčina",
+"švédčina"
+],
+"v": "Úradným jazykom EÚ v Dánsku je dánčina.",
+"src": [
+[
+"eu-country-denmark",
+"Úradný jazyk resp. jazyky EÚ: dánčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Estónsko?",
+"ok": "estónčina",
+"bad": [
+"lotyština",
+"litovčina"
+],
+"v": "Úradným jazykom EÚ v Estónsku je estónčina.",
+"src": [
+[
+"eu-country-estonia",
+"Úradný jazyk resp. jazyky EÚ: estónčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorý z týchto jazykov je jedným z úradných jazykov EÚ v krajine Fínsko?",
+"ok": "fínčina",
+"bad": [
+"litovčina",
+"estónčina"
+],
+"v": "Úradné jazyky EÚ vo Fínsku: fínčina, švédčina.",
+"src": [
+[
+"eu-country-finland",
+"Úradný jazyk resp. jazyky EÚ: fínčina, švédčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Francúzsko?",
+"ok": "francúzština",
+"bad": [
+"írčina",
+"nemčina"
+],
+"v": "Úradným jazykom EÚ vo Francúzsku je francúzština.",
+"src": [
+[
+"eu-country-france",
+"Úradný jazyk resp. jazyky EÚ: francúzština"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Nemecko?",
+"ok": "nemčina",
+"bad": [
+"slovenčina",
+"čeština"
+],
+"v": "Úradným jazykom EÚ v Nemecku je nemčina.",
+"src": [
+[
+"eu-country-germany",
+"Úradný jazyk resp. jazyky EÚ: nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Grécko?",
+"ok": "gréčtina",
+"bad": [
+"rumunčina",
+"bulharčina"
+],
+"v": "Úradným jazykom EÚ v Grécku je gréčtina.",
+"src": [
+[
+"eu-country-greece",
+"Úradný jazyk, resp jazyky EÚ: gréčtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Maďarsko?",
+"ok": "maďarčina",
+"bad": [
+"slovenčina",
+"čeština"
+],
+"v": "Úradným jazykom EÚ v Maďarsku je maďarčina.",
+"src": [
+[
+"eu-country-hungary",
+"Úradný jazyk, resp. jazyky EÚ: maďarčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorý z týchto jazykov je jedným z úradných jazykov EÚ v krajine Írsko?",
+"ok": "írčina",
+"bad": [
+"francúzština",
+"nemčina"
+],
+"v": "Úradné jazyky EÚ v Írsku: írčina, angličtina.",
+"src": [
+[
+"eu-country-ireland",
+"Úradný jazyk resp. jazyky EÚ: írčina, angličtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Taliansko?",
+"ok": "taliančina",
+"bad": [
+"španielčina",
+"maltčina"
+],
+"v": "Úradným jazykom EÚ v Taliansku je taliančina.",
+"src": [
+[
+"eu-country-italy",
+"Úradný jazyk, resp. jazyky EÚ: taliančina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Lotyšsko?",
+"ok": "lotyština",
+"bad": [
+"švédčina",
+"fínčina"
+],
+"v": "Úradným jazykom EÚ v Lotyšsku je lotyština.",
+"src": [
+[
+"eu-country-latvia",
+"Úradný jazyk resp. jazyky EÚ: lotyština"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Litva?",
+"ok": "litovčina",
+"bad": [
+"dánčina",
+"estónčina"
+],
+"v": "Úradným jazykom EÚ v Litve je litovčina.",
+"src": [
+[
+"eu-country-lithuania",
+"Úradný jazyk, resp. jazyky EÚ: litovčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorý z týchto jazykov je jedným z úradných jazykov EÚ v krajine Luxembursko?",
+"ok": "francúzština",
+"bad": [
+"angličtina",
+"írčina"
+],
+"v": "Úradné jazyky EÚ v Luxembursku: francúzština, nemčina.",
+"src": [
+[
+"eu-country-luxembourg",
+"Úradný jazyk, resp. jazyky EÚ: francúzština, nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorý z týchto jazykov je jedným z úradných jazykov EÚ v krajine Malta?",
+"ok": "maltčina",
+"bad": [
+"portugalčina",
+"chorvátčina"
+],
+"v": "Úradné jazyky EÚ na Malte: maltčina, angličtina.",
+"src": [
+[
+"eu-country-malta",
+"Úradný jazyk, resp. jazyky EÚ: maltčina, angličtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Holandsko?",
+"ok": "holandčina",
+"bad": [
+"francúzština",
+"nemčina"
+],
+"v": "Úradným jazykom EÚ v Holandsku je holandčina.",
+"src": [
+[
+"eu-country-netherlands",
+"Úradný jazyk, resp. jazyky EÚ: holandčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Poľsko?",
+"ok": "poľština",
+"bad": [
+"slovinčina",
+"nemčina"
+],
+"v": "Úradným jazykom EÚ v Poľsku je poľština.",
+"src": [
+[
+"eu-country-poland",
+"Úradný jazyk, resp. jazyky EÚ: poľština"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Portugalsko?",
+"ok": "portugalčina",
+"bad": [
+"angličtina",
+"gréčtina"
+],
+"v": "Úradným jazykom EÚ v Portugalsku je portugalčina.",
+"src": [
+[
+"eu-country-portugal",
+"Úradný jazyk, resp. jazyky EÚ: portugalčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Rumunsko?",
+"ok": "rumunčina",
+"bad": [
+"bulharčina",
+"gréčtina"
+],
+"v": "Úradným jazykom EÚ v Rumunsku je rumunčina.",
+"src": [
+[
+"eu-country-romania",
+"Úradný jazyk resp. jazyky EÚ: rumunčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Slovensko?",
+"ok": "slovenčina",
+"bad": [
+"slovinčina",
+"nemčina"
+],
+"v": "Úradným jazykom EÚ na Slovensku je slovenčina.",
+"src": [
+[
+"eu-country-slovakia",
+"Úradný jazyk resp. jazyky EÚ: slovenčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Slovinsko?",
+"ok": "slovinčina",
+"bad": [
+"slovenčina",
+"maďarčina"
+],
+"v": "Úradným jazykom EÚ v Slovinsku je slovinčina.",
+"src": [
+[
+"eu-country-slovenia",
+"Úradný jazyk, resp. jazyky EÚ: slovinčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Španielsko?",
+"ok": "španielčina",
+"bad": [
+"portugalčina",
+"taliančina"
+],
+"v": "Úradným jazykom EÚ v Španielsku je španielčina.",
+"src": [
+[
+"eu-country-spain",
+"Úradný jazyk, resp. jazyky EÚ: španielčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Ktorý jazyk je úradným jazykom EÚ v krajine Švédsko?",
+"ok": "švédčina",
+"bad": [
+"estónčina",
+"dánčina"
+],
+"v": "Úradným jazykom EÚ vo Švédsku je švédčina.",
+"src": [
+[
+"eu-country-sweden",
+"Úradný jazyk, resp. jazyky EÚ: švédčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z týchto krajín je angličtina jedným z úradných jazykov EÚ?",
+"ok": "Írsko",
+"bad": [
+"Luxembursko",
+"Holandsko"
+],
+"v": "Angličtina je úradným jazykom EÚ v týchto krajinách: Írsko, Malta.",
+"src": [
+[
+"eu-country-ireland",
+"Úradný jazyk resp. jazyky EÚ: írčina, angličtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je angličtina jedným z úradných jazykov EÚ?",
+"ok": "Malta",
+"bad": [
+"Španielsko",
+"Portugalsko"
+],
+"v": "Angličtina je úradným jazykom EÚ v týchto krajinách: Írsko, Malta.",
+"src": [
+[
+"eu-country-malta",
+"Úradný jazyk, resp. jazyky EÚ: maltčina, angličtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je bulharčina úradným jazykom EÚ?",
+"ok": "Bulharsko",
+"bad": [
+"Grécko",
+"Rumunsko"
+],
+"v": "Bulharčina je úradným jazykom EÚ v týchto krajinách: Bulharsko.",
+"src": [
+[
+"eu-country-bulgaria",
+"Úradné jazyky EÚ: bulharčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je chorvátčina úradným jazykom EÚ?",
+"ok": "Chorvátsko",
+"bad": [
+"Portugalsko",
+"Taliansko"
+],
+"v": "Chorvátčina je úradným jazykom EÚ v týchto krajinách: Chorvátsko.",
+"src": [
+[
+"eu-country-croatia",
+"Úradný jazyk resp. jazyky EÚ: chorvátčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je dánčina úradným jazykom EÚ?",
+"ok": "Dánsko",
+"bad": [
+"Švédsko",
+"Lotyšsko"
+],
+"v": "Dánčina je úradným jazykom EÚ v týchto krajinách: Dánsko.",
+"src": [
+[
+"eu-country-denmark",
+"Úradný jazyk resp. jazyky EÚ: dánčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je estónčina úradným jazykom EÚ?",
+"ok": "Estónsko",
+"bad": [
+"Dánsko",
+"Litva"
+],
+"v": "Estónčina je úradným jazykom EÚ v týchto krajinách: Estónsko.",
+"src": [
+[
+"eu-country-estonia",
+"Úradný jazyk resp. jazyky EÚ: estónčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z týchto krajín je francúzština jedným z úradných jazykov EÚ?",
+"ok": "Belgicko",
+"bad": [
+"Írsko",
+"Holandsko"
+],
+"v": "Francúzština je úradným jazykom EÚ v týchto krajinách: Belgicko, Francúzsko, Luxembursko.",
+"src": [
+[
+"eu-country-belgium",
+"Úradné jazyky EÚ: holandčina, francúzština, nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je francúzština jedným z úradných jazykov EÚ?",
+"ok": "Francúzsko",
+"bad": [
+"Holandsko",
+"Írsko"
+],
+"v": "Francúzština je úradným jazykom EÚ v týchto krajinách: Belgicko, Francúzsko, Luxembursko.",
+"src": [
+[
+"eu-country-france",
+"Úradný jazyk resp. jazyky EÚ: francúzština"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je francúzština jedným z úradných jazykov Európskej únie?",
+"ok": "Luxembursko",
+"bad": [
+"Holandsko",
+"Írsko"
+],
+"v": "Francúzština je úradným jazykom EÚ v týchto krajinách: Belgicko, Francúzsko, Luxembursko.",
+"src": [
+[
+"eu-country-luxembourg",
+"Úradný jazyk, resp. jazyky EÚ: francúzština, nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je fínčina úradným jazykom EÚ?",
+"ok": "Fínsko",
+"bad": [
+"Švédsko",
+"Estónsko"
+],
+"v": "Fínčina je úradným jazykom EÚ v týchto krajinách: Fínsko.",
+"src": [
+[
+"eu-country-finland",
+"Úradný jazyk resp. jazyky EÚ: fínčina, švédčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z týchto krajín je gréčtina jedným z úradných jazykov EÚ?",
+"ok": "Cyprus",
+"bad": [
+"Portugalsko",
+"Chorvátsko"
+],
+"v": "Gréčtina je úradným jazykom EÚ v týchto krajinách: Cyprus, Grécko.",
+"src": [
+[
+"eu-country-cyprus",
+"Úradný jazyk resp. jazyky EÚ: gréčtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je gréčtina jedným z úradných jazykov EÚ?",
+"ok": "Grécko",
+"bad": [
+"Bulharsko",
+"Rumunsko"
+],
+"v": "Gréčtina je úradným jazykom EÚ v týchto krajinách: Cyprus, Grécko.",
+"src": [
+[
+"eu-country-greece",
+"Úradný jazyk, resp jazyky EÚ: gréčtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z týchto krajín je holandčina jedným z úradných jazykov EÚ?",
+"ok": "Belgicko",
+"bad": [
+"Francúzsko",
+"Luxembursko"
+],
+"v": "Holandčina je úradným jazykom EÚ v týchto krajinách: Belgicko, Holandsko.",
+"src": [
+[
+"eu-country-belgium",
+"Úradné jazyky EÚ: holandčina, francúzština, nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je holandčina jedným z úradných jazykov EÚ?",
+"ok": "Holandsko",
+"bad": [
+"Írsko",
+"Luxembursko"
+],
+"v": "Holandčina je úradným jazykom EÚ v týchto krajinách: Belgicko, Holandsko.",
+"src": [
+[
+"eu-country-netherlands",
+"Úradný jazyk, resp. jazyky EÚ: holandčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je litovčina úradným jazykom EÚ?",
+"ok": "Litva",
+"bad": [
+"Dánsko",
+"Švédsko"
+],
+"v": "Litovčina je úradným jazykom EÚ v týchto krajinách: Litva.",
+"src": [
+[
+"eu-country-lithuania",
+"Úradný jazyk, resp. jazyky EÚ: litovčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je lotyština úradným jazykom EÚ?",
+"ok": "Lotyšsko",
+"bad": [
+"Švédsko",
+"Litva"
+],
+"v": "Lotyština je úradným jazykom EÚ v týchto krajinách: Lotyšsko.",
+"src": [
+[
+"eu-country-latvia",
+"Úradný jazyk resp. jazyky EÚ: lotyština"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je maltčina úradným jazykom EÚ?",
+"ok": "Malta",
+"bad": [
+"Taliansko",
+"Španielsko"
+],
+"v": "Maltčina je úradným jazykom EÚ v týchto krajinách: Malta.",
+"src": [
+[
+"eu-country-malta",
+"Úradný jazyk, resp. jazyky EÚ: maltčina, angličtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je maďarčina úradným jazykom EÚ?",
+"ok": "Maďarsko",
+"bad": [
+"Poľsko",
+"Nemecko"
+],
+"v": "Maďarčina je úradným jazykom EÚ v týchto krajinách: Maďarsko.",
+"src": [
+[
+"eu-country-hungary",
+"Úradný jazyk, resp. jazyky EÚ: maďarčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z týchto krajín je nemčina jedným z úradných jazykov EÚ?",
+"ok": "Rakúsko",
+"bad": [
+"Česko",
+"Slovensko"
+],
+"v": "Nemčina je úradným jazykom EÚ v týchto krajinách: Rakúsko, Belgicko, Nemecko, Luxembursko.",
+"src": [
+[
+"eu-country-austria",
+"Úradné jazyky EÚ: nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je nemčina jedným z úradných jazykov EÚ?",
+"ok": "Belgicko",
+"bad": [
+"Írsko",
+"Francúzsko"
+],
+"v": "Nemčina je úradným jazykom EÚ v týchto krajinách: Rakúsko, Belgicko, Nemecko, Luxembursko.",
+"src": [
+[
+"eu-country-belgium",
+"Úradné jazyky EÚ: holandčina, francúzština, nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je nemčina jedným z úradných jazykov Európskej únie?",
+"ok": "Nemecko",
+"bad": [
+"Maďarsko",
+"Slovinsko"
+],
+"v": "Nemčina je úradným jazykom EÚ v týchto krajinách: Rakúsko, Belgicko, Nemecko, Luxembursko.",
+"src": [
+[
+"eu-country-germany",
+"Úradný jazyk resp. jazyky EÚ: nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je nemčina jedným z úradných jazykov Európskej únie?",
+"ok": "Luxembursko",
+"bad": [
+"Írsko",
+"Holandsko"
+],
+"v": "Nemčina je úradným jazykom EÚ v týchto krajinách: Rakúsko, Belgicko, Nemecko, Luxembursko.",
+"src": [
+[
+"eu-country-luxembourg",
+"Úradný jazyk, resp. jazyky EÚ: francúzština, nemčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je portugalčina úradným jazykom EÚ?",
+"ok": "Portugalsko",
+"bad": [
+"Malta",
+"Cyprus"
+],
+"v": "Portugalčina je úradným jazykom EÚ v týchto krajinách: Portugalsko.",
+"src": [
+[
+"eu-country-portugal",
+"Úradný jazyk, resp. jazyky EÚ: portugalčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je poľština úradným jazykom EÚ?",
+"ok": "Poľsko",
+"bad": [
+"Slovinsko",
+"Rakúsko"
+],
+"v": "Poľština je úradným jazykom EÚ v týchto krajinách: Poľsko.",
+"src": [
+[
+"eu-country-poland",
+"Úradný jazyk, resp. jazyky EÚ: poľština"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je rumunčina úradným jazykom EÚ?",
+"ok": "Rumunsko",
+"bad": [
+"Grécko",
+"Bulharsko"
+],
+"v": "Rumunčina je úradným jazykom EÚ v týchto krajinách: Rumunsko.",
+"src": [
+[
+"eu-country-romania",
+"Úradný jazyk resp. jazyky EÚ: rumunčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je slovenčina úradným jazykom EÚ?",
+"ok": "Slovensko",
+"bad": [
+"Česko",
+"Slovinsko"
+],
+"v": "Slovenčina je úradným jazykom EÚ v týchto krajinách: Slovensko.",
+"src": [
+[
+"eu-country-slovakia",
+"Úradný jazyk resp. jazyky EÚ: slovenčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je slovinčina úradným jazykom EÚ?",
+"ok": "Slovinsko",
+"bad": [
+"Rakúsko",
+"Poľsko"
+],
+"v": "Slovinčina je úradným jazykom EÚ v týchto krajinách: Slovinsko.",
+"src": [
+[
+"eu-country-slovenia",
+"Úradný jazyk, resp. jazyky EÚ: slovinčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je taliančina úradným jazykom EÚ?",
+"ok": "Taliansko",
+"bad": [
+"Chorvátsko",
+"Portugalsko"
+],
+"v": "Taliančina je úradným jazykom EÚ v týchto krajinách: Taliansko.",
+"src": [
+[
+"eu-country-italy",
+"Úradný jazyk, resp. jazyky EÚ: taliančina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je írčina úradným jazykom EÚ?",
+"ok": "Írsko",
+"bad": [
+"Francúzsko",
+"Holandsko"
+],
+"v": "Írčina je úradným jazykom EÚ v týchto krajinách: Írsko.",
+"src": [
+[
+"eu-country-ireland",
+"Úradný jazyk resp. jazyky EÚ: írčina, angličtina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je čeština úradným jazykom EÚ?",
+"ok": "Česko",
+"bad": [
+"Slovinsko",
+"Rakúsko"
+],
+"v": "Čeština je úradným jazykom EÚ v týchto krajinách: Česko.",
+"src": [
+[
+"eu-country-czechia",
+"Úradné jazyky EÚ: čeština"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "V ktorej z týchto krajín je španielčina úradným jazykom EÚ?",
+"ok": "Španielsko",
+"bad": [
+"Cyprus",
+"Portugalsko"
+],
+"v": "Španielčina je úradným jazykom EÚ v týchto krajinách: Španielsko.",
+"src": [
+[
+"eu-country-spain",
+"Úradný jazyk, resp. jazyky EÚ: španielčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z týchto krajín je švédčina jedným z úradných jazykov EÚ?",
+"ok": "Fínsko",
+"bad": [
+"Estónsko",
+"Dánsko"
+],
+"v": "Švédčina je úradným jazykom EÚ v týchto krajinách: Fínsko, Švédsko.",
+"src": [
+[
+"eu-country-finland",
+"Úradný jazyk resp. jazyky EÚ: fínčina, švédčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorej z uvedených krajín je švédčina jedným z úradných jazykov EÚ?",
+"ok": "Švédsko",
+"bad": [
+"Estónsko",
+"Litva"
+],
+"v": "Švédčina je úradným jazykom EÚ v týchto krajinách: Fínsko, Švédsko.",
+"src": [
+[
+"eu-country-sweden",
+"Úradný jazyk, resp. jazyky EÚ: švédčina"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Rakúsko euro?",
+"ok": "1999",
+"bad": [
+"2008",
+"2009"
+],
+"v": "Rakúsko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Rakúsko Členský štát EÚ používajúci euro Členom EÚ od roku 1995 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Belgicko euro?",
+"ok": "1999",
+"bad": [
+"2011",
+"2009"
+],
+"v": "Belgicko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Belgicko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Bulharsko euro?",
+"ok": "2026",
+"bad": [
+"2014",
+"2015"
+],
+"v": "Bulharsko používa euro od roku 2026.",
+"src": [
+[
+"ecb-euro-map",
+"Bulharsko Členský štát EÚ používajúci euro Členom EÚ od roku 2007 Euro od roku 2026"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Chorvátsko euro?",
+"ok": "2023",
+"bad": [
+"2015",
+"2014"
+],
+"v": "Chorvátsko používa euro od roku 2023.",
+"src": [
+[
+"ecb-euro-map",
+"Chorvátsko Členský štát EÚ používajúci euro Členom EÚ od roku 2013 Euro od roku 2023"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od ktorého roku používa Cyprus euro?",
+"ok": "2008",
+"bad": [
+"2014",
+"2007"
+],
+"v": "Cyprus používa euro od roku 2008.",
+"src": [
+[
+"ecb-euro-map",
+"Cyprus Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2008"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od ktorého roku používa Estónsko euro?",
+"ok": "2011",
+"bad": [
+"2009",
+"2023"
+],
+"v": "Estónsko používa euro od roku 2011.",
+"src": [
+[
+"ecb-euro-map",
+"Estónsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2011"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Fínsko euro?",
+"ok": "1999",
+"bad": [
+"2009",
+"2010"
+],
+"v": "Fínsko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Fínsko Členský štát EÚ používajúci euro Členom EÚ od roku 1995 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Francúzsko euro?",
+"ok": "1999",
+"bad": [
+"2008",
+"2009"
+],
+"v": "Francúzsko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Francúzsko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Nemecko euro?",
+"ok": "1999",
+"bad": [
+"2007",
+"2008"
+],
+"v": "Nemecko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Nemecko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od ktorého roku používa Grécko euro?",
+"ok": "2001",
+"bad": [
+"2011",
+"2009"
+],
+"v": "Grécko používa euro od roku 2001 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Grécko Členský štát EÚ používajúci euro Členom EÚ od roku 1981 Euro od roku 2001"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Írsko euro?",
+"ok": "1999",
+"bad": [
+"2009",
+"2001"
+],
+"v": "Írsko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Írsko Členský štát EÚ používajúci euro Členom EÚ od roku 1973 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Taliansko euro?",
+"ok": "1999",
+"bad": [
+"2011",
+"2010"
+],
+"v": "Taliansko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Taliansko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od ktorého roku používa Lotyšsko euro?",
+"ok": "2014",
+"bad": [
+"2015",
+"2008"
+],
+"v": "Lotyšsko používa euro od roku 2014.",
+"src": [
+[
+"ecb-euro-map",
+"Lotyšsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2014"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od ktorého roku používa Litva euro?",
+"ok": "2015",
+"bad": [
+"2011",
+"2020"
+],
+"v": "Litva používa euro od roku 2015.",
+"src": [
+[
+"ecb-euro-map",
+"Litva Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2015"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Luxembursko euro?",
+"ok": "1999",
+"bad": [
+"2001",
+"2010"
+],
+"v": "Luxembursko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Luxembursko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od ktorého roku používa Malta euro?",
+"ok": "2008",
+"bad": [
+"2004",
+"2014"
+],
+"v": "Malta používa euro od roku 2008.",
+"src": [
+[
+"ecb-euro-map",
+"Malta Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2008"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Holandsko euro?",
+"ok": "1999",
+"bad": [
+"2009",
+"2011"
+],
+"v": "Holandsko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Holandsko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Portugalsko euro?",
+"ok": "1999",
+"bad": [
+"2010",
+"2004"
+],
+"v": "Portugalsko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Portugalsko Členský štát EÚ používajúci euro Členom EÚ od roku 1986 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Slovensko euro?",
+"ok": "2009",
+"bad": [
+"2007",
+"1999"
+],
+"v": "Slovensko používa euro od roku 2009.",
+"src": [
+[
+"ecb-euro-map",
+"Slovensko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2009"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Od ktorého roku používa Slovinsko euro?",
+"ok": "2007",
+"bad": [
+"2014",
+"2008"
+],
+"v": "Slovinsko používa euro od roku 2007.",
+"src": [
+[
+"ecb-euro-map",
+"Slovinsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Od ktorého roku používa Španielsko euro?",
+"ok": "1999",
+"bad": [
+"2008",
+"2011"
+],
+"v": "Španielsko používa euro od roku 1999 (v hotovosti od roku 2002).",
+"src": [
+[
+"ecb-euro-map",
+"Španielsko Členský štát EÚ používajúci euro Členom EÚ od roku 1986 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Akou menou sa platí v krajine Česko?",
+"ok": "česká koruna",
+"bad": [
+"švédska koruna",
+"maďarský forint"
+],
+"v": "Česko zatiaľ nepoužíva euro, platí sa tam menou česká koruna.",
+"src": [
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny EÚ je menou česká koruna?",
+"ok": "Česko",
+"bad": [
+"Dánsko",
+"Poľsko"
+],
+"v": "Česká koruna je menou krajiny Česko.",
+"src": [
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Akou menou sa platí v krajine Dánsko?",
+"ok": "dánska koruna",
+"bad": [
+"švédska koruna",
+"maďarský forint"
+],
+"v": "Dánsko zatiaľ nepoužíva euro, platí sa tam menou dánska koruna.",
+"src": [
+[
+"eu-country-denmark",
+"Mena: dánska koruna (DKK). Dánsko sa dohodlo na výnimke z povinnosti zaviesť euro."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny EÚ je menou dánska koruna?",
+"ok": "Dánsko",
+"bad": [
+"Švédsko",
+"Poľsko"
+],
+"v": "Dánska koruna je menou krajiny Dánsko.",
+"src": [
+[
+"eu-country-denmark",
+"Mena: dánska koruna (DKK). Dánsko sa dohodlo na výnimke z povinnosti zaviesť euro."
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Akou menou sa platí v krajine Maďarsko?",
+"ok": "maďarský forint",
+"bad": [
+"švédska koruna",
+"poľský zlotý"
+],
+"v": "Maďarsko zatiaľ nepoužíva euro, platí sa tam menou maďarský forint.",
+"src": [
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny EÚ je menou maďarský forint?",
+"ok": "Maďarsko",
+"bad": [
+"Švédsko",
+"Dánsko"
+],
+"v": "Maďarský forint je menou krajiny Maďarsko.",
+"src": [
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Akou menou sa platí v krajine Poľsko?",
+"ok": "poľský zlotý",
+"bad": [
+"česká koruna",
+"maďarský forint"
+],
+"v": "Poľsko zatiaľ nepoužíva euro, platí sa tam menou poľský zlotý.",
+"src": [
+[
+"eu-country-poland",
+"Mena: poľský zlotý (PLN) Poľsko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny EÚ je menou poľský zlotý?",
+"ok": "Poľsko",
+"bad": [
+"Česko",
+"Rumunsko"
+],
+"v": "Poľský zlotý je menou krajiny Poľsko.",
+"src": [
+[
+"eu-country-poland",
+"Mena: poľský zlotý (PLN) Poľsko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Akou menou sa platí v krajine Rumunsko?",
+"ok": "rumunský lei",
+"bad": [
+"dánska koruna",
+"česká koruna"
+],
+"v": "Rumunsko zatiaľ nepoužíva euro, platí sa tam menou rumunský lei.",
+"src": [
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny EÚ je menou rumunský lei?",
+"ok": "Rumunsko",
+"bad": [
+"Česko",
+"Maďarsko"
+],
+"v": "Rumunský lei je menou krajiny Rumunsko.",
+"src": [
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Akou menou sa platí v krajine Švédsko?",
+"ok": "švédska koruna",
+"bad": [
+"dánska koruna",
+"česká koruna"
+],
+"v": "Švédsko zatiaľ nepoužíva euro, platí sa tam menou švédska koruna.",
+"src": [
+[
+"eu-country-sweden",
+"Mena: švédska koruna (SEK). Švédsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorej krajiny EÚ je menou švédska koruna?",
+"ok": "Švédsko",
+"bad": [
+"Rumunsko",
+"Maďarsko"
+],
+"v": "Švédska koruna je menou krajiny Švédsko.",
+"src": [
+[
+"eu-country-sweden",
+"Mena: švédska koruna (SEK). Švédsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ nepoužíva euro?",
+"ok": "Česko",
+"bad": [
+"Nemecko",
+"Slovensko"
+],
+"v": "Česko nepoužíva euro. Nemecko a Slovensko sú v eurozóne.",
+"src": [
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Nemecko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Slovensko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2009"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ nepoužíva euro?",
+"ok": "Dánsko",
+"bad": [
+"Bulharsko",
+"Grécko"
+],
+"v": "Dánsko nepoužíva euro. Bulharsko a Grécko sú v eurozóne.",
+"src": [
+[
+"eu-country-denmark",
+"Mena: dánska koruna (DKK). Dánsko sa dohodlo na výnimke z povinnosti zaviesť euro."
+],
+[
+"ecb-euro-map",
+"Bulharsko Členský štát EÚ používajúci euro Členom EÚ od roku 2007 Euro od roku 2026"
+],
+[
+"ecb-euro-map",
+"Grécko Členský štát EÚ používajúci euro Členom EÚ od roku 1981 Euro od roku 2001"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ nepoužíva euro?",
+"ok": "Maďarsko",
+"bad": [
+"Írsko",
+"Estónsko"
+],
+"v": "Maďarsko nepoužíva euro. Írsko a Estónsko sú v eurozóne.",
+"src": [
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Írsko Členský štát EÚ používajúci euro Členom EÚ od roku 1973 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Estónsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2011"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ nepoužíva euro?",
+"ok": "Poľsko",
+"bad": [
+"Nemecko",
+"Španielsko"
+],
+"v": "Poľsko nepoužíva euro. Nemecko a Španielsko sú v eurozóne.",
+"src": [
+[
+"eu-country-poland",
+"Mena: poľský zlotý (PLN) Poľsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Nemecko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Španielsko Členský štát EÚ používajúci euro Členom EÚ od roku 1986 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ nepoužíva euro?",
+"ok": "Rumunsko",
+"bad": [
+"Bulharsko",
+"Rakúsko"
+],
+"v": "Rumunsko nepoužíva euro. Bulharsko a Rakúsko sú v eurozóne.",
+"src": [
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"ecb-euro-map",
+"Bulharsko Členský štát EÚ používajúci euro Členom EÚ od roku 2007 Euro od roku 2026"
+],
+[
+"ecb-euro-map",
+"Rakúsko Členský štát EÚ používajúci euro Členom EÚ od roku 1995 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ nepoužíva euro?",
+"ok": "Švédsko",
+"bad": [
+"Litva",
+"Nemecko"
+],
+"v": "Švédsko nepoužíva euro. Litva a Nemecko sú v eurozóne.",
+"src": [
+[
+"eu-country-sweden",
+"Mena: švédska koruna (SEK). Švédsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"ecb-euro-map",
+"Litva Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2015"
+],
+[
+"ecb-euro-map",
+"Nemecko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín nie je členom eurozóny?",
+"ok": "Česko",
+"bad": [
+"Litva",
+"Rakúsko"
+],
+"v": "Česko nepoužíva euro. Litva a Rakúsko sú v eurozóne.",
+"src": [
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Litva Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2015"
+],
+[
+"ecb-euro-map",
+"Rakúsko Členský štát EÚ používajúci euro Členom EÚ od roku 1995 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín nie je členom eurozóny?",
+"ok": "Dánsko",
+"bad": [
+"Belgicko",
+"Chorvátsko"
+],
+"v": "Dánsko nepoužíva euro. Belgicko a Chorvátsko sú v eurozóne.",
+"src": [
+[
+"eu-country-denmark",
+"Mena: dánska koruna (DKK). Dánsko sa dohodlo na výnimke z povinnosti zaviesť euro."
+],
+[
+"ecb-euro-map",
+"Belgicko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Chorvátsko Členský štát EÚ používajúci euro Členom EÚ od roku 2013 Euro od roku 2023"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín nie je členom eurozóny?",
+"ok": "Maďarsko",
+"bad": [
+"Francúzsko",
+"Rakúsko"
+],
+"v": "Maďarsko nepoužíva euro. Francúzsko a Rakúsko sú v eurozóne.",
+"src": [
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Francúzsko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Rakúsko Členský štát EÚ používajúci euro Členom EÚ od roku 1995 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín nie je členom eurozóny?",
+"ok": "Poľsko",
+"bad": [
+"Grécko",
+"Chorvátsko"
+],
+"v": "Poľsko nepoužíva euro. Grécko a Chorvátsko sú v eurozóne.",
+"src": [
+[
+"eu-country-poland",
+"Mena: poľský zlotý (PLN) Poľsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Grécko Členský štát EÚ používajúci euro Členom EÚ od roku 1981 Euro od roku 2001"
+],
+[
+"ecb-euro-map",
+"Chorvátsko Členský štát EÚ používajúci euro Členom EÚ od roku 2013 Euro od roku 2023"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín nie je členom eurozóny?",
+"ok": "Rumunsko",
+"bad": [
+"Chorvátsko",
+"Portugalsko"
+],
+"v": "Rumunsko nepoužíva euro. Chorvátsko a Portugalsko sú v eurozóne.",
+"src": [
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"ecb-euro-map",
+"Chorvátsko Členský štát EÚ používajúci euro Členom EÚ od roku 2013 Euro od roku 2023"
+],
+[
+"ecb-euro-map",
+"Portugalsko Členský štát EÚ používajúci euro Členom EÚ od roku 1986 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín nie je členom eurozóny?",
+"ok": "Švédsko",
+"bad": [
+"Slovensko",
+"Taliansko"
+],
+"v": "Švédsko nepoužíva euro. Slovensko a Taliansko sú v eurozóne.",
+"src": [
+[
+"eu-country-sweden",
+"Mena: švédska koruna (SEK). Švédsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"ecb-euro-map",
+"Slovensko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2009"
+],
+[
+"ecb-euro-map",
+"Taliansko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín ešte neprijala euro?",
+"ok": "Česko",
+"bad": [
+"Írsko",
+"Luxembursko"
+],
+"v": "Česko nepoužíva euro. Írsko a Luxembursko sú v eurozóne.",
+"src": [
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Írsko Členský štát EÚ používajúci euro Členom EÚ od roku 1973 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Luxembursko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín ešte neprijala euro?",
+"ok": "Dánsko",
+"bad": [
+"Slovinsko",
+"Španielsko"
+],
+"v": "Dánsko nepoužíva euro. Slovinsko a Španielsko sú v eurozóne.",
+"src": [
+[
+"eu-country-denmark",
+"Mena: dánska koruna (DKK). Dánsko sa dohodlo na výnimke z povinnosti zaviesť euro."
+],
+[
+"ecb-euro-map",
+"Slovinsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2007"
+],
+[
+"ecb-euro-map",
+"Španielsko Členský štát EÚ používajúci euro Členom EÚ od roku 1986 Euro od roku 1999"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín ešte neprijala euro?",
+"ok": "Maďarsko",
+"bad": [
+"Belgicko",
+"Lotyšsko"
+],
+"v": "Maďarsko nepoužíva euro. Belgicko a Lotyšsko sú v eurozóne.",
+"src": [
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Belgicko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Lotyšsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2014"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín ešte neprijala euro?",
+"ok": "Poľsko",
+"bad": [
+"Írsko",
+"Slovinsko"
+],
+"v": "Poľsko nepoužíva euro. Írsko a Slovinsko sú v eurozóne.",
+"src": [
+[
+"eu-country-poland",
+"Mena: poľský zlotý (PLN) Poľsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"ecb-euro-map",
+"Írsko Členský štát EÚ používajúci euro Členom EÚ od roku 1973 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Slovinsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín ešte neprijala euro?",
+"ok": "Rumunsko",
+"bad": [
+"Fínsko",
+"Slovinsko"
+],
+"v": "Rumunsko nepoužíva euro. Fínsko a Slovinsko sú v eurozóne.",
+"src": [
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"ecb-euro-map",
+"Fínsko Členský štát EÚ používajúci euro Členom EÚ od roku 1995 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Slovinsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín ešte neprijala euro?",
+"ok": "Švédsko",
+"bad": [
+"Luxembursko",
+"Litva"
+],
+"v": "Švédsko nepoužíva euro. Luxembursko a Litva sú v eurozóne.",
+"src": [
+[
+"eu-country-sweden",
+"Mena: švédska koruna (SEK). Švédsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"ecb-euro-map",
+"Luxembursko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"ecb-euro-map",
+"Litva Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2015"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín platí eurom?",
+"ok": "Chorvátsko",
+"bad": [
+"Maďarsko",
+"Švédsko"
+],
+"v": "Chorvátsko je v eurozóne, Maďarsko a Švédsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Chorvátsko Členský štát EÚ používajúci euro Členom EÚ od roku 2013 Euro od roku 2023"
+],
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"eu-country-sweden",
+"Mena: švédska koruna (SEK). Švédsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín je členom eurozóny?",
+"ok": "Taliansko",
+"bad": [
+"Maďarsko",
+"Česko"
+],
+"v": "Taliansko je v eurozóne, Maďarsko a Česko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Taliansko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín platí eurom?",
+"ok": "Holandsko",
+"bad": [
+"Maďarsko",
+"Poľsko"
+],
+"v": "Holandsko je v eurozóne, Maďarsko a Poľsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Holandsko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"eu-country-poland",
+"Mena: poľský zlotý (PLN) Poľsko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín je členom eurozóny?",
+"ok": "Nemecko",
+"bad": [
+"Maďarsko",
+"Rumunsko"
+],
+"v": "Nemecko je v eurozóne, Maďarsko a Rumunsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Nemecko Členský štát EÚ používajúci euro Zakladajúci člen EÚ v roku 1957 Euro od roku 1999"
+],
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín platí eurom?",
+"ok": "Lotyšsko",
+"bad": [
+"Česko",
+"Rumunsko"
+],
+"v": "Lotyšsko je v eurozóne, Česko a Rumunsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Lotyšsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2014"
+],
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín je členom eurozóny?",
+"ok": "Grécko",
+"bad": [
+"Maďarsko",
+"Dánsko"
+],
+"v": "Grécko je v eurozóne, Maďarsko a Dánsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Grécko Členský štát EÚ používajúci euro Členom EÚ od roku 1981 Euro od roku 2001"
+],
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"eu-country-denmark",
+"Mena: dánska koruna (DKK). Dánsko sa dohodlo na výnimke z povinnosti zaviesť euro."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín platí eurom? ",
+"ok": "Litva",
+"bad": [
+"Rumunsko",
+"Česko"
+],
+"v": "Litva je v eurozóne, Rumunsko a Česko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Litva Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2015"
+],
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín je členom eurozóny? ",
+"ok": "Estónsko",
+"bad": [
+"Švédsko",
+"Česko"
+],
+"v": "Estónsko je v eurozóne, Švédsko a Česko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Estónsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2011"
+],
+[
+"eu-country-sweden",
+"Mena: švédska koruna (SEK). Švédsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín platí eurom? ",
+"ok": "Rakúsko",
+"bad": [
+"Dánsko",
+"Rumunsko"
+],
+"v": "Rakúsko je v eurozóne, Dánsko a Rumunsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Rakúsko Členský štát EÚ používajúci euro Členom EÚ od roku 1995 Euro od roku 1999"
+],
+[
+"eu-country-denmark",
+"Mena: dánska koruna (DKK). Dánsko sa dohodlo na výnimke z povinnosti zaviesť euro."
+],
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín je členom eurozóny? ",
+"ok": "Slovinsko",
+"bad": [
+"Česko",
+"Švédsko"
+],
+"v": "Slovinsko je v eurozóne, Česko a Švédsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Slovinsko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2007"
+],
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"eu-country-sweden",
+"Mena: švédska koruna (SEK). Švédsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín platí eurom? ",
+"ok": "Fínsko",
+"bad": [
+"Česko",
+"Dánsko"
+],
+"v": "Fínsko je v eurozóne, Česko a Dánsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Fínsko Členský štát EÚ používajúci euro Členom EÚ od roku 1995 Euro od roku 1999"
+],
+[
+"eu-country-czechia",
+"Mena: česká koruna (CZK). Česko sa v súčasnosti pripravuje na prijatie eura."
+],
+[
+"eu-country-denmark",
+"Mena: dánska koruna (DKK). Dánsko sa dohodlo na výnimke z povinnosti zaviesť euro."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín je členom eurozóny? ",
+"ok": "Slovensko",
+"bad": [
+"Rumunsko",
+"Maďarsko"
+],
+"v": "Slovensko je v eurozóne, Rumunsko a Maďarsko nie.",
+"src": [
+[
+"ecb-euro-map",
+"Slovensko Členský štát EÚ používajúci euro Členom EÚ od roku 2004 Euro od roku 2009"
+],
+[
+"eu-country-romania",
+"Mena: rumunský lei (RON). Rumunsko sa zaviazalo prijať euro, keď splní potrebné podmienky."
+],
+[
+"eu-country-hungary",
+"Mena: maďarský forint (HUF). Maďarsko sa v súčasnosti pripravuje na prijatie eura."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Rakúsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1997",
+"bad": [
+"2023",
+"2001"
+],
+"v": "Rakúsko je členom schengenského priestoru od 1. decembra 1997.",
+"src": [
+[
+"eu-country-austria",
+"Schengenský priestor: člen od 1. decembra 1997"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Belgicko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1995",
+"bad": [
+"1997",
+"2007"
+],
+"v": "Belgicko je členom schengenského priestoru od 26. marca 1995.",
+"src": [
+[
+"eu-country-belgium",
+"Schengenský priestor: člen od 26. marca 1995"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorom roku sa Bulharsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2024",
+"bad": [
+"2007",
+"1997"
+],
+"v": "Bulharsko je členom schengenského priestoru od 31. marca 2024.",
+"src": [
+[
+"eu-country-bulgaria",
+"Schengenský priestor: člen od 31. marca 2024"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorom roku sa Chorvátsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2023",
+"bad": [
+"2000",
+"2001"
+],
+"v": "Chorvátsko je členom schengenského priestoru od 1. januára 2023.",
+"src": [
+[
+"eu-country-croatia",
+"Schengenský priestor: člen od 1. januára 2023"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Česko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"2001",
+"2024"
+],
+"v": "Česko je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-czechia",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Dánsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2001",
+"bad": [
+"1997",
+"2007"
+],
+"v": "Dánsko je členom schengenského priestoru od 25. marca 2001.",
+"src": [
+[
+"eu-country-denmark",
+"Schengenský priestor: člen od 25. marca 2001"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Estónsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"2024",
+"1997"
+],
+"v": "Estónsko je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-estonia",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Fínsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2001",
+"bad": [
+"1997",
+"2024"
+],
+"v": "Fínsko je členom schengenského priestoru od 25. marca 2001.",
+"src": [
+[
+"eu-country-finland",
+"Schengenský priestor: člen od 25. marca 2001"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Francúzsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1995",
+"bad": [
+"2023",
+"1997"
+],
+"v": "Francúzsko je členom schengenského priestoru od 26. marca 1995.",
+"src": [
+[
+"eu-country-france",
+"Schengenský priestor: člen od 26. marca 1995"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Nemecko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1995",
+"bad": [
+"2024",
+"2023"
+],
+"v": "Nemecko je členom schengenského priestoru od 26. marca 1995.",
+"src": [
+[
+"eu-country-germany",
+"Schengenský priestor: člen od 26. marca 1995"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Grécko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2000",
+"bad": [
+"2024",
+"2023"
+],
+"v": "Grécko je členom schengenského priestoru od 1. januára 2000.",
+"src": [
+[
+"eu-country-greece",
+"Schengenský priestor: člen od 1. januára 2000"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Maďarsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"2001",
+"2000"
+],
+"v": "Maďarsko je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-hungary",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Taliansko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1997",
+"bad": [
+"2000",
+"2024"
+],
+"v": "Taliansko je členom schengenského priestoru od 26. októbra 1997.",
+"src": [
+[
+"eu-country-italy",
+"Schengenský priestor: člen od 26. októbra 1997"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Lotyšsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"1995",
+"2024"
+],
+"v": "Lotyšsko je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-latvia",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Litva stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"2000",
+"2023"
+],
+"v": "Litva je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-lithuania",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Luxembursko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1995",
+"bad": [
+"2007",
+"2024"
+],
+"v": "Luxembursko je členom schengenského priestoru od 26. marca 1995.",
+"src": [
+[
+"eu-country-luxembourg",
+"Schengenský priestor: člen od 26. marca 1995"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Malta stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"2000",
+"2024"
+],
+"v": "Malta je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-malta",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Holandsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1995",
+"bad": [
+"2000",
+"2023"
+],
+"v": "Holandsko je členom schengenského priestoru od 26. marca 1995.",
+"src": [
+[
+"eu-country-netherlands",
+"Schengenský priestor: člen od 26. marca 1995"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Poľsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"1995",
+"1997"
+],
+"v": "Poľsko je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-poland",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Portugalsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1995",
+"bad": [
+"2023",
+"1997"
+],
+"v": "Portugalsko je členom schengenského priestoru od 26. marca 1995.",
+"src": [
+[
+"eu-country-portugal",
+"Schengenský priestor: člen od 26. marca 1995"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorom roku sa Rumunsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2024",
+"bad": [
+"2023",
+"2007"
+],
+"v": "Rumunsko je členom schengenského priestoru od 31. marca 2024.",
+"src": [
+[
+"eu-country-romania",
+"Schengenský priestor: člen od 31. marca 2024"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "V ktorom roku sa Slovensko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"2000",
+"2024"
+],
+"v": "Slovensko je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-slovakia",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Slovinsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2007",
+"bad": [
+"2024",
+"2023"
+],
+"v": "Slovinsko je členom schengenského priestoru od 21. decembra 2007.",
+"src": [
+[
+"eu-country-slovenia",
+"Schengenský priestor: člen od 21. decembra 2007"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Španielsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "1995",
+"bad": [
+"2024",
+"2001"
+],
+"v": "Španielsko je členom schengenského priestoru od 26. marca 1995.",
+"src": [
+[
+"eu-country-spain",
+"Schengenský priestor: člen od 26. marca 1995"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "V ktorom roku sa Švédsko stalo plnohodnotným členom schengenského priestoru?",
+"ok": "2001",
+"bad": [
+"1995",
+"2024"
+],
+"v": "Švédsko je členom schengenského priestoru od 25. marca 2001.",
+"src": [
+[
+"eu-country-sweden",
+"Schengenský priestor: člen od 25. marca 2001"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ nie je súčasťou schengenského priestoru?",
+"ok": "Írsko",
+"bad": [
+"Rumunsko",
+"Fínsko"
+],
+"v": "Z krajín EÚ nie sú v schengenskom priestore iba Írsko a Cyprus.",
+"src": [
+[
+"eu-country-ireland",
+"Schengenský priestor: Írsko si vyjednalo možnosť nepristúpiť do schengenského priestoru."
+],
+[
+"eu-facts",
+"Členmi schengenského priestoru sú všetky členské štáty EÚ okrem Cypru a Írska."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ nie je súčasťou schengenského priestoru?",
+"ok": "Cyprus",
+"bad": [
+"Luxembursko",
+"Belgicko"
+],
+"v": "Z krajín EÚ nie sú v schengenskom priestore iba Írsko a Cyprus.",
+"src": [
+[
+"eu-country-cyprus",
+"Schengenský priestor: Cyprus sa v súčasnosti pripravuje na vstup do schengenského priestoru."
+],
+[
+"eu-facts",
+"Členmi schengenského priestoru sú všetky členské štáty EÚ okrem Cypru a Írska."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín EÚ zatiaľ nepatrí do schengenského priestoru?",
+"ok": "Írsko",
+"bad": [
+"Fínsko",
+"Slovensko"
+],
+"v": "Z krajín EÚ nie sú v schengenskom priestore iba Írsko a Cyprus.",
+"src": [
+[
+"eu-country-ireland",
+"Schengenský priestor: Írsko si vyjednalo možnosť nepristúpiť do schengenského priestoru."
+],
+[
+"eu-facts",
+"Členmi schengenského priestoru sú všetky členské štáty EÚ okrem Cypru a Írska."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z uvedených krajín EÚ zatiaľ nepatrí do schengenského priestoru?",
+"ok": "Cyprus",
+"bad": [
+"Malta",
+"Česko"
+],
+"v": "Z krajín EÚ nie sú v schengenskom priestore iba Írsko a Cyprus.",
+"src": [
+[
+"eu-country-cyprus",
+"Schengenský priestor: Cyprus sa v súčasnosti pripravuje na vstup do schengenského priestoru."
+],
+[
+"eu-facts",
+"Členmi schengenského priestoru sú všetky členské štáty EÚ okrem Cypru a Írska."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá krajina EÚ z ponuky nie je v schengenskom priestore?",
+"ok": "Írsko",
+"bad": [
+"Španielsko",
+"Taliansko"
+],
+"v": "Z krajín EÚ nie sú v schengenskom priestore iba Írsko a Cyprus.",
+"src": [
+[
+"eu-country-ireland",
+"Schengenský priestor: Írsko si vyjednalo možnosť nepristúpiť do schengenského priestoru."
+],
+[
+"eu-facts",
+"Členmi schengenského priestoru sú všetky členské štáty EÚ okrem Cypru a Írska."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá krajina EÚ z ponuky nie je v schengenskom priestore?",
+"ok": "Cyprus",
+"bad": [
+"Slovinsko",
+"Maďarsko"
+],
+"v": "Z krajín EÚ nie sú v schengenskom priestore iba Írsko a Cyprus.",
+"src": [
+[
+"eu-country-cyprus",
+"Schengenský priestor: Cyprus sa v súčasnosti pripravuje na vstup do schengenského priestoru."
+],
+[
+"eu-facts",
+"Členmi schengenského priestoru sú všetky členské štáty EÚ okrem Cypru a Írska."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto členských krajín EÚ stojí mimo schengenského priestoru?",
+"ok": "Írsko",
+"bad": [
+"Fínsko",
+"Holandsko"
+],
+"v": "Z krajín EÚ nie sú v schengenskom priestore iba Írsko a Cyprus.",
+"src": [
+[
+"eu-country-ireland",
+"Schengenský priestor: Írsko si vyjednalo možnosť nepristúpiť do schengenského priestoru."
+],
+[
+"eu-facts",
+"Členmi schengenského priestoru sú všetky členské štáty EÚ okrem Cypru a Írska."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto členských krajín EÚ stojí mimo schengenského priestoru?",
+"ok": "Cyprus",
+"bad": [
+"Francúzsko",
+"Grécko"
+],
+"v": "Z krajín EÚ nie sú v schengenskom priestore iba Írsko a Cyprus.",
+"src": [
+[
+"eu-country-cyprus",
+"Schengenský priestor: Cyprus sa v súčasnosti pripravuje na vstup do schengenského priestoru."
+],
+[
+"eu-facts",
+"Členmi schengenského priestoru sú všetky členské štáty EÚ okrem Cypru a Írska."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Rakúsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "20",
+"bad": [
+"22",
+"15"
+],
+"v": "Rakúsko má v Európskom parlamente 20 poslancov.",
+"src": [
+[
+"eu-country-austria",
+"má v Európskom parlamente 20 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Belgicko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "22",
+"bad": [
+"17",
+"20"
+],
+"v": "Belgicko má v Európskom parlamente 22 poslancov.",
+"src": [
+[
+"eu-country-belgium",
+"má v Európskom parlamente 22 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Bulharsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "17",
+"bad": [
+"21",
+"20"
+],
+"v": "Bulharsko má v Európskom parlamente 17 poslancov.",
+"src": [
+[
+"eu-country-bulgaria",
+"má v Európskom parlamente 17 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Chorvátsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "12",
+"bad": [
+"15",
+"9"
+],
+"v": "Chorvátsko má v Európskom parlamente 12 poslancov.",
+"src": [
+[
+"eu-country-croatia",
+"má v Európskom parlamente 12 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Koľko poslancov volí Cyprus do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "6",
+"bad": [
+"11",
+"7"
+],
+"v": "Cyprus má v Európskom parlamente 6 poslancov.",
+"src": [
+[
+"eu-country-cyprus",
+"má v Európskom parlamente šesť zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Česko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "21",
+"bad": [
+"22",
+"17"
+],
+"v": "Česko má v Európskom parlamente 21 poslancov.",
+"src": [
+[
+"eu-country-czechia",
+"má v Európskom parlamente 21 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Dánsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "15",
+"bad": [
+"11",
+"14"
+],
+"v": "Dánsko má v Európskom parlamente 15 poslancov.",
+"src": [
+[
+"eu-country-denmark",
+"má v Európskom parlamente 15 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Estónsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "7",
+"bad": [
+"12",
+"6"
+],
+"v": "Estónsko má v Európskom parlamente 7 poslancov.",
+"src": [
+[
+"eu-country-estonia",
+"má v Európskom parlamente sedem zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Fínsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "15",
+"bad": [
+"12",
+"11"
+],
+"v": "Fínsko má v Európskom parlamente 15 poslancov.",
+"src": [
+[
+"eu-country-finland",
+"má v Európskom parlamente 15 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Francúzsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "81",
+"bad": [
+"53",
+"76"
+],
+"v": "Francúzsko má v Európskom parlamente 81 poslancov.",
+"src": [
+[
+"eu-country-france",
+"má v Európskom parlamente 81 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Koľko poslancov volí Nemecko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "96",
+"bad": [
+"76",
+"81"
+],
+"v": "Nemecko má v Európskom parlamente 96 poslancov.",
+"src": [
+[
+"eu-country-germany",
+"má v Európskom parlamente 96 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Grécko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "21",
+"bad": [
+"17",
+"22"
+],
+"v": "Grécko má v Európskom parlamente 21 poslancov.",
+"src": [
+[
+"eu-country-greece",
+"má v Európskom parlamente 21 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Maďarsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "21",
+"bad": [
+"17",
+"20"
+],
+"v": "Maďarsko má v Európskom parlamente 21 poslancov.",
+"src": [
+[
+"eu-country-hungary",
+"má v Európskom parlamente 21 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Írsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "14",
+"bad": [
+"15",
+"17"
+],
+"v": "Írsko má v Európskom parlamente 14 poslancov.",
+"src": [
+[
+"eu-country-ireland",
+"má v Európskom parlamente 14 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Taliansko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "76",
+"bad": [
+"61",
+"96"
+],
+"v": "Taliansko má v Európskom parlamente 76 poslancov.",
+"src": [
+[
+"eu-country-italy",
+"má v Európskom parlamente 76 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Lotyšsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "9",
+"bad": [
+"6",
+"12"
+],
+"v": "Lotyšsko má v Európskom parlamente 9 poslancov.",
+"src": [
+[
+"eu-country-latvia",
+"má v Európskom parlamente deväť zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Litva do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "11",
+"bad": [
+"12",
+"9"
+],
+"v": "Litva má v Európskom parlamente 11 poslancov.",
+"src": [
+[
+"eu-country-lithuania",
+"má v Európskom parlamente 11 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Koľko poslancov volí Luxembursko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "6",
+"bad": [
+"12",
+"11"
+],
+"v": "Luxembursko má v Európskom parlamente 6 poslancov.",
+"src": [
+[
+"eu-country-luxembourg",
+"má v Európskom parlamente šesť zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Koľko poslancov volí Malta do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "6",
+"bad": [
+"9",
+"11"
+],
+"v": "Malta má v Európskom parlamente 6 poslancov.",
+"src": [
+[
+"eu-country-malta",
+"má v Európskom parlamente šesť zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Holandsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "31",
+"bad": [
+"33",
+"20"
+],
+"v": "Holandsko má v Európskom parlamente 31 poslancov.",
+"src": [
+[
+"eu-country-netherlands",
+"má v Európskom parlamente 31 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Poľsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "53",
+"bad": [
+"33",
+"31"
+],
+"v": "Poľsko má v Európskom parlamente 53 poslancov.",
+"src": [
+[
+"eu-country-poland",
+"má v Európskom parlamente 53 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Portugalsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "21",
+"bad": [
+"15",
+"22"
+],
+"v": "Portugalsko má v Európskom parlamente 21 poslancov.",
+"src": [
+[
+"eu-country-portugal",
+"má v Európskom parlamente 21 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Rumunsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "33",
+"bad": [
+"21",
+"22"
+],
+"v": "Rumunsko má v Európskom parlamente 33 poslancov.",
+"src": [
+[
+"eu-country-romania",
+"má v Európskom parlamente 33 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 1,
+"text": "Koľko poslancov volí Slovensko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "15",
+"bad": [
+"14",
+"12"
+],
+"v": "Slovensko má v Európskom parlamente 15 poslancov.",
+"src": [
+[
+"eu-country-slovakia",
+"má v Európskom parlamente 15 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Slovinsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "9",
+"bad": [
+"11",
+"7"
+],
+"v": "Slovinsko má v Európskom parlamente 9 poslancov.",
+"src": [
+[
+"eu-country-slovenia",
+"má v Európskom parlamente deväť zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Španielsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "61",
+"bad": [
+"81",
+"76"
+],
+"v": "Španielsko má v Európskom parlamente 61 poslancov.",
+"src": [
+[
+"eu-country-spain",
+"má v Európskom parlamente 61 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Koľko poslancov volí Švédsko do Európskeho parlamentu vo volebnom období 2024 – 2029?",
+"ok": "21",
+"bad": [
+"17",
+"22"
+],
+"v": "Švédsko má v Európskom parlamente 21 poslancov.",
+"src": [
+[
+"eu-country-sweden",
+"má v Európskom parlamente 21 zástupcov"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ je monarchiou?",
+"ok": "Belgicko",
+"bad": [
+"Česko",
+"Taliansko"
+],
+"v": "Belgicko je federálna konštitučná monarchia založená na systéme viacerých politických strán, ktorej hlavou štátu je kráľ a na čele vlády je premiér. Česko a Taliansko sú republiky.",
+"src": [
+[
+"eu-country-belgium",
+"Belgicko je federálna konštitučná monarchia založená na systéme viacerých politických strán, ktorej hlavou štátu je kráľ a na čele vlády je premiér."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ je monarchiou?",
+"ok": "Dánsko",
+"bad": [
+"Fínsko",
+"Rakúsko"
+],
+"v": "Dánsko je konštitučná monarchia. Fínsko a Rakúsko sú republiky.",
+"src": [
+[
+"eu-country-denmark",
+"Dánsko je konštitučná monarchia."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ je monarchiou?",
+"ok": "Luxembursko",
+"bad": [
+"Slovensko",
+"Malta"
+],
+"v": "Luxemburské veľkovojvodstvo je parlamentná konštitučná monarchia (veľkovojvodstvo). Slovensko a Malta sú republiky.",
+"src": [
+[
+"eu-country-luxembourg",
+"Luxemburské veľkovojvodstvo je parlamentná konštitučná monarchia (veľkovojvodstvo)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ je monarchiou?",
+"ok": "Holandsko",
+"bad": [
+"Lotyšsko",
+"Írsko"
+],
+"v": "Holandsko je parlamentná konštitučná monarchia. Lotyšsko a Írsko sú republiky.",
+"src": [
+[
+"eu-country-netherlands",
+"Holandsko je parlamentná konštitučná monarchia."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ je monarchiou?",
+"ok": "Španielsko",
+"bad": [
+"Portugalsko",
+"Estónsko"
+],
+"v": "Španielsko je parlamentná monarchia. Portugalsko a Estónsko sú republiky.",
+"src": [
+[
+"eu-country-spain",
+"Španielsko je parlamentná monarchia."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín EÚ je monarchiou?",
+"ok": "Švédsko",
+"bad": [
+"Poľsko",
+"Rakúsko"
+],
+"v": "Švédsko je konštitučná monarchia a parlamentná demokracia. Poľsko a Rakúsko sú republiky.",
+"src": [
+[
+"eu-country-sweden",
+"Švédsko je konštitučná monarchia a parlamentná demokracia."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Na čele ktorej z týchto krajín stojí panovník (kráľ, kráľovná alebo veľkovojvoda)?",
+"ok": "Belgicko",
+"bad": [
+"Estónsko",
+"Maďarsko"
+],
+"v": "Belgicko je federálna konštitučná monarchia založená na systéme viacerých politických strán, ktorej hlavou štátu je kráľ a na čele vlády je premiér. Estónsko a Maďarsko sú republiky.",
+"src": [
+[
+"eu-country-belgium",
+"Belgicko je federálna konštitučná monarchia založená na systéme viacerých politických strán, ktorej hlavou štátu je kráľ a na čele vlády je premiér."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Na čele ktorej z týchto krajín stojí panovník (kráľ, kráľovná alebo veľkovojvoda)?",
+"ok": "Dánsko",
+"bad": [
+"Portugalsko",
+"Česko"
+],
+"v": "Dánsko je konštitučná monarchia. Portugalsko a Česko sú republiky.",
+"src": [
+[
+"eu-country-denmark",
+"Dánsko je konštitučná monarchia."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Na čele ktorej z týchto krajín stojí panovník (kráľ, kráľovná alebo veľkovojvoda)?",
+"ok": "Luxembursko",
+"bad": [
+"Estónsko",
+"Rakúsko"
+],
+"v": "Luxemburské veľkovojvodstvo je parlamentná konštitučná monarchia (veľkovojvodstvo). Estónsko a Rakúsko sú republiky.",
+"src": [
+[
+"eu-country-luxembourg",
+"Luxemburské veľkovojvodstvo je parlamentná konštitučná monarchia (veľkovojvodstvo)."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Na čele ktorej z týchto krajín stojí panovník (kráľ, kráľovná alebo veľkovojvoda)?",
+"ok": "Holandsko",
+"bad": [
+"Cyprus",
+"Poľsko"
+],
+"v": "Holandsko je parlamentná konštitučná monarchia. Cyprus a Poľsko sú republiky.",
+"src": [
+[
+"eu-country-netherlands",
+"Holandsko je parlamentná konštitučná monarchia."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Na čele ktorej z týchto krajín stojí panovník (kráľ, kráľovná alebo veľkovojvoda)?",
+"ok": "Španielsko",
+"bad": [
+"Slovinsko",
+"Rakúsko"
+],
+"v": "Španielsko je parlamentná monarchia. Slovinsko a Rakúsko sú republiky.",
+"src": [
+[
+"eu-country-spain",
+"Španielsko je parlamentná monarchia."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Na čele ktorej z týchto krajín stojí panovník (kráľ, kráľovná alebo veľkovojvoda)?",
+"ok": "Švédsko",
+"bad": [
+"Írsko",
+"Chorvátsko"
+],
+"v": "Švédsko je konštitučná monarchia a parlamentná demokracia. Írsko a Chorvátsko sú republiky.",
+"src": [
+[
+"eu-country-sweden",
+"Švédsko je konštitučná monarchia a parlamentná demokracia."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín je republikou?",
+"ok": "Írsko",
+"bad": [
+"Luxembursko",
+"Holandsko"
+],
+"v": "Írsko je parlamentná republika, ktorá pozostáva z 26 grófstiev. Luxembursko a Holandsko sú monarchie.",
+"src": [
+[
+"eu-country-ireland",
+"Írsko je parlamentná republika, ktorá pozostáva z 26 grófstiev."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín nemá na čele panovníka?",
+"ok": "Grécko",
+"bad": [
+"Belgicko",
+"Švédsko"
+],
+"v": "Grécko je parlamentná republika. Belgicko a Švédsko sú monarchie.",
+"src": [
+[
+"eu-country-greece",
+"Grécko je parlamentná republika."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín je republikou?",
+"ok": "Fínsko",
+"bad": [
+"Holandsko",
+"Luxembursko"
+],
+"v": "Fínsko je parlamentná republika – hlavou štátu je prezident a na čele vlády stojí premiér. Holandsko a Luxembursko sú monarchie.",
+"src": [
+[
+"eu-country-finland",
+"Fínsko je parlamentná republika – hlavou štátu je prezident a na čele vlády stojí premiér."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín nemá na čele panovníka?",
+"ok": "Portugalsko",
+"bad": [
+"Španielsko",
+"Luxembursko"
+],
+"v": "Portugalsko je poloprezidentská republika. Španielsko a Luxembursko sú monarchie.",
+"src": [
+[
+"eu-country-portugal",
+"Portugalsko je poloprezidentská republika."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín je republikou?",
+"ok": "Česko",
+"bad": [
+"Švédsko",
+"Belgicko"
+],
+"v": "Česko je parlamentná republika – na čele vlády stojí premiér a hlavou štátu je prezident. Švédsko a Belgicko sú monarchie.",
+"src": [
+[
+"eu-country-czechia",
+"Česko je parlamentná republika – na čele vlády stojí premiér a hlavou štátu je prezident."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín nemá na čele panovníka?",
+"ok": "Francúzsko",
+"bad": [
+"Luxembursko",
+"Holandsko"
+],
+"v": "Francúzsko je poloprezidentská republika. Luxembursko a Holandsko sú monarchie.",
+"src": [
+[
+"eu-country-france",
+"Francúzsko je poloprezidentská republika."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín je republikou?",
+"ok": "Chorvátsko",
+"bad": [
+"Holandsko",
+"Belgicko"
+],
+"v": "Chorvátsko je parlamentná republika, v ktorej na čele vlády stojí premiér a hlavou štátu je prezident. Holandsko a Belgicko sú monarchie.",
+"src": [
+[
+"eu-country-croatia",
+"Chorvátsko je parlamentná republika, v ktorej na čele vlády stojí premiér a hlavou štátu je prezident."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín nemá na čele panovníka?",
+"ok": "Bulharsko",
+"bad": [
+"Španielsko",
+"Švédsko"
+],
+"v": "Bulharsko je parlamentná republika s jednokomorovým zákonodárnym zborom založeným na pomernom zastúpení. Španielsko a Švédsko sú monarchie.",
+"src": [
+[
+"eu-country-bulgaria",
+"Bulharsko je parlamentná republika s jednokomorovým zákonodárnym zborom založeným na pomernom zastúpení."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aké štátne zriadenie má Francúzsko podľa profilu krajiny na portáli EÚ?",
+"ok": "poloprezidentská republika",
+"bad": [
+"parlamentná republika",
+"konštitučná monarchia"
+],
+"v": "Francúzsko je poloprezidentská republika.",
+"src": [
+[
+"eu-country-france",
+"Francúzsko je poloprezidentská republika."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aké štátne zriadenie má Portugalsko podľa profilu krajiny na portáli EÚ?",
+"ok": "poloprezidentská republika",
+"bad": [
+"parlamentná republika",
+"konštitučná monarchia"
+],
+"v": "Portugalsko je poloprezidentská republika.",
+"src": [
+[
+"eu-country-portugal",
+"Portugalsko je poloprezidentská republika."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aké štátne zriadenie má Rumunsko podľa profilu krajiny na portáli EÚ?",
+"ok": "poloprezidentská republika",
+"bad": [
+"parlamentná republika",
+"konštitučná monarchia"
+],
+"v": "Rumunsko je poloprezidentská republika, v ktorej je hlavou štátu prezident a na čele vlády stojí premiér.",
+"src": [
+[
+"eu-country-romania",
+"Rumunsko je poloprezidentská republika, v ktorej je hlavou štátu prezident a na čele vlády stojí premiér."
+]
+]
+},
+{
+"kat": "sta",
+"n": 3,
+"text": "Aké štátne zriadenie má Cyprus podľa profilu krajiny na portáli EÚ?",
+"ok": "prezidentská republika",
+"bad": [
+"parlamentná republika",
+"konštitučná monarchia"
+],
+"v": "Cyprus je prezidentská republika.",
+"src": [
+[
+"eu-country-cyprus",
+"Cyprus je prezidentská republika."
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Nemecko",
+"bad": [
+"Slovensko",
+"Slovinsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Nemecko 83 467 117 obyvateľov; Slovensko 5 409 407 obyvateľov; Slovinsko 2 135 107 obyvateľov.",
+"src": [
+[
+"eu-country-germany",
+"Počet obyvateľov: 83 467 117"
+],
+[
+"eu-country-slovakia",
+"Počet obyvateľov: 5 409 407"
+],
+[
+"eu-country-slovenia",
+"Počet obyvateľov: 2 135 107"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Nemecko",
+"bad": [
+"Rakúsko",
+"Poľsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Rakúsko 83 882 km²; Nemecko 357 569 km²; Poľsko 311 928 km².",
+"src": [
+[
+"eu-country-austria",
+"Zemepisná rozloha: 83 882 km2"
+],
+[
+"eu-country-germany",
+"Zemepisná rozloha: 357 569 km2"
+],
+[
+"eu-country-poland",
+"Zemepisná rozloha: 311 928 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Poľsko",
+"bad": [
+"Česko",
+"Slovinsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Česko 10 915 839 obyvateľov; Poľsko 36 332 765 obyvateľov; Slovinsko 2 135 107 obyvateľov.",
+"src": [
+[
+"eu-country-czechia",
+"Počet obyvateľov: 10 915 839"
+],
+[
+"eu-country-poland",
+"Počet obyvateľov: 36 332 765"
+],
+[
+"eu-country-slovenia",
+"Počet obyvateľov: 2 135 107"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Česko",
+"bad": [
+"Maďarsko",
+"Poľsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Česko 78 871 km²; Maďarsko 93 012 km²; Poľsko 311 928 km².",
+"src": [
+[
+"eu-country-czechia",
+"Zemepisná rozloha: 78 871 km2"
+],
+[
+"eu-country-hungary",
+"Zemepisná rozloha: 93 012 km2"
+],
+[
+"eu-country-poland",
+"Zemepisná rozloha: 311 928 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Nemecko",
+"bad": [
+"Rakúsko",
+"Maďarsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Rakúsko 9 215 956 obyvateľov; Nemecko 83 467 117 obyvateľov; Maďarsko 9 488 428 obyvateľov.",
+"src": [
+[
+"eu-country-austria",
+"Počet obyvateľov: 9 215 956"
+],
+[
+"eu-country-germany",
+"Počet obyvateľov: 83 467 117"
+],
+[
+"eu-country-hungary",
+"Počet obyvateľov: 9 488 428"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Poľsko",
+"bad": [
+"Rakúsko",
+"Česko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Rakúsko 83 882 km²; Česko 78 871 km²; Poľsko 311 928 km².",
+"src": [
+[
+"eu-country-austria",
+"Zemepisná rozloha: 83 882 km2"
+],
+[
+"eu-country-czechia",
+"Zemepisná rozloha: 78 871 km2"
+],
+[
+"eu-country-poland",
+"Zemepisná rozloha: 311 928 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Švédsko",
+"bad": [
+"Estónsko",
+"Fínsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Estónsko 1 360 745 obyvateľov; Fínsko 5 652 881 obyvateľov; Švédsko 10 605 529 obyvateľov.",
+"src": [
+[
+"eu-country-estonia",
+"Počet obyvateľov: 1 360 745"
+],
+[
+"eu-country-finland",
+"Počet obyvateľov: 5 652 881"
+],
+[
+"eu-country-sweden",
+"Počet obyvateľov: 10 605 529"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Luxembursko",
+"bad": [
+"Francúzsko",
+"Holandsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Francúzsko 638 475 km²; Luxembursko 2 595 km²; Holandsko 37 391 km².",
+"src": [
+[
+"eu-country-france",
+"Zemepisná rozloha: 638 475 km2"
+],
+[
+"eu-country-luxembourg",
+"Zemepisná rozloha: 2 595 km2"
+],
+[
+"eu-country-netherlands",
+"Zemepisná rozloha: 37 391 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Dánsko",
+"bad": [
+"Estónsko",
+"Lotyšsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Dánsko 6 025 603 obyvateľov; Estónsko 1 360 745 obyvateľov; Lotyšsko 1 845 096 obyvateľov.",
+"src": [
+[
+"eu-country-denmark",
+"Počet obyvateľov: 6 025 603"
+],
+[
+"eu-country-estonia",
+"Počet obyvateľov: 1 360 745"
+],
+[
+"eu-country-latvia",
+"Počet obyvateľov: 1 845 096"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Portugalsko",
+"bad": [
+"Chorvátsko",
+"Malta"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Chorvátsko 56 594 km²; Malta 316 km²; Portugalsko 92 226 km².",
+"src": [
+[
+"eu-country-croatia",
+"Zemepisná rozloha: 56 594 km2"
+],
+[
+"eu-country-malta",
+"Zemepisná rozloha: 316 km2"
+],
+[
+"eu-country-portugal",
+"Zemepisná rozloha: 92 226 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Taliansko",
+"bad": [
+"Chorvátsko",
+"Cyprus"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Chorvátsko 3 876 002 obyvateľov; Cyprus 996 571 obyvateľov; Taliansko 58 942 828 obyvateľov.",
+"src": [
+[
+"eu-country-croatia",
+"Počet obyvateľov: 3 876 002"
+],
+[
+"eu-country-cyprus",
+"Počet obyvateľov: 996 571"
+],
+[
+"eu-country-italy",
+"Počet obyvateľov: 58 942 828"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Malta",
+"bad": [
+"Portugalsko",
+"Španielsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Malta 316 km²; Portugalsko 92 226 km²; Španielsko 505 983 km².",
+"src": [
+[
+"eu-country-malta",
+"Zemepisná rozloha: 316 km2"
+],
+[
+"eu-country-portugal",
+"Zemepisná rozloha: 92 226 km2"
+],
+[
+"eu-country-spain",
+"Zemepisná rozloha: 505 983 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Španielsko",
+"bad": [
+"Chorvátsko",
+"Malta"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Chorvátsko 3 876 002 obyvateľov; Malta 588 254 obyvateľov; Španielsko 49 590 099 obyvateľov.",
+"src": [
+[
+"eu-country-croatia",
+"Počet obyvateľov: 3 876 002"
+],
+[
+"eu-country-malta",
+"Počet obyvateľov: 588 254"
+],
+[
+"eu-country-spain",
+"Počet obyvateľov: 49 590 099"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Nemecko",
+"bad": [
+"Česko",
+"Maďarsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Česko 78 871 km²; Nemecko 357 569 km²; Maďarsko 93 012 km².",
+"src": [
+[
+"eu-country-czechia",
+"Zemepisná rozloha: 78 871 km2"
+],
+[
+"eu-country-germany",
+"Zemepisná rozloha: 357 569 km2"
+],
+[
+"eu-country-hungary",
+"Zemepisná rozloha: 93 012 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Česko",
+"bad": [
+"Rakúsko",
+"Maďarsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Rakúsko 9 215 956 obyvateľov; Česko 10 915 839 obyvateľov; Maďarsko 9 488 428 obyvateľov.",
+"src": [
+[
+"eu-country-austria",
+"Počet obyvateľov: 9 215 956"
+],
+[
+"eu-country-czechia",
+"Počet obyvateľov: 10 915 839"
+],
+[
+"eu-country-hungary",
+"Počet obyvateľov: 9 488 428"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Chorvátsko",
+"bad": [
+"Taliansko",
+"Španielsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Chorvátsko 56 594 km²; Taliansko 302 073 km²; Španielsko 505 983 km².",
+"src": [
+[
+"eu-country-croatia",
+"Zemepisná rozloha: 56 594 km2"
+],
+[
+"eu-country-italy",
+"Zemepisná rozloha: 302 073 km2"
+],
+[
+"eu-country-spain",
+"Zemepisná rozloha: 505 983 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Španielsko",
+"bad": [
+"Chorvátsko",
+"Cyprus"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Chorvátsko 3 876 002 obyvateľov; Cyprus 996 571 obyvateľov; Španielsko 49 590 099 obyvateľov.",
+"src": [
+[
+"eu-country-croatia",
+"Počet obyvateľov: 3 876 002"
+],
+[
+"eu-country-cyprus",
+"Počet obyvateľov: 996 571"
+],
+[
+"eu-country-spain",
+"Počet obyvateľov: 49 590 099"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Švédsko",
+"bad": [
+"Estónsko",
+"Lotyšsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Estónsko 45 336 km²; Lotyšsko 64 594 km²; Švédsko 447 424 km².",
+"src": [
+[
+"eu-country-estonia",
+"Zemepisná rozloha: 45 336 km2"
+],
+[
+"eu-country-latvia",
+"Zemepisná rozloha: 64 594 km2"
+],
+[
+"eu-country-sweden",
+"Zemepisná rozloha: 447 424 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Česko",
+"bad": [
+"Rakúsko",
+"Nemecko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Rakúsko 83 882 km²; Česko 78 871 km²; Nemecko 357 569 km².",
+"src": [
+[
+"eu-country-austria",
+"Zemepisná rozloha: 83 882 km2"
+],
+[
+"eu-country-czechia",
+"Zemepisná rozloha: 78 871 km2"
+],
+[
+"eu-country-germany",
+"Zemepisná rozloha: 357 569 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Švédsko",
+"bad": [
+"Lotyšsko",
+"Litva"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Lotyšsko 1 845 096 obyvateľov; Litva 2 887 592 obyvateľov; Švédsko 10 605 529 obyvateľov.",
+"src": [
+[
+"eu-country-latvia",
+"Počet obyvateľov: 1 845 096"
+],
+[
+"eu-country-lithuania",
+"Počet obyvateľov: 2 887 592"
+],
+[
+"eu-country-sweden",
+"Počet obyvateľov: 10 605 529"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Poľsko",
+"bad": [
+"Rakúsko",
+"Slovensko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Rakúsko 83 882 km²; Poľsko 311 928 km²; Slovensko 49 035 km².",
+"src": [
+[
+"eu-country-austria",
+"Zemepisná rozloha: 83 882 km2"
+],
+[
+"eu-country-poland",
+"Zemepisná rozloha: 311 928 km2"
+],
+[
+"eu-country-slovakia",
+"Zemepisná rozloha: 49 035 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Fínsko",
+"bad": [
+"Estónsko",
+"Lotyšsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Estónsko 1 360 745 obyvateľov; Fínsko 5 652 881 obyvateľov; Lotyšsko 1 845 096 obyvateľov.",
+"src": [
+[
+"eu-country-estonia",
+"Počet obyvateľov: 1 360 745"
+],
+[
+"eu-country-finland",
+"Počet obyvateľov: 5 652 881"
+],
+[
+"eu-country-latvia",
+"Počet obyvateľov: 1 845 096"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Slovinsko",
+"bad": [
+"Maďarsko",
+"Poľsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Maďarsko 93 012 km²; Poľsko 311 928 km²; Slovinsko 20 273 km².",
+"src": [
+[
+"eu-country-hungary",
+"Zemepisná rozloha: 93 012 km2"
+],
+[
+"eu-country-poland",
+"Zemepisná rozloha: 311 928 km2"
+],
+[
+"eu-country-slovenia",
+"Zemepisná rozloha: 20 273 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Francúzsko",
+"bad": [
+"Belgicko",
+"Írsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Belgicko 30 667 km²; Francúzsko 638 475 km²; Írsko 69 947 km².",
+"src": [
+[
+"eu-country-belgium",
+"Zemepisná rozloha: 30 667 km2"
+],
+[
+"eu-country-france",
+"Zemepisná rozloha: 638 475 km2"
+],
+[
+"eu-country-ireland",
+"Zemepisná rozloha: 69 947 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Slovensko",
+"bad": [
+"Rakúsko",
+"Česko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Rakúsko 83 882 km²; Česko 78 871 km²; Slovensko 49 035 km².",
+"src": [
+[
+"eu-country-austria",
+"Zemepisná rozloha: 83 882 km2"
+],
+[
+"eu-country-czechia",
+"Zemepisná rozloha: 78 871 km2"
+],
+[
+"eu-country-slovakia",
+"Zemepisná rozloha: 49 035 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Portugalsko",
+"bad": [
+"Cyprus",
+"Malta"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Cyprus 996 571 obyvateľov; Malta 588 254 obyvateľov; Portugalsko 11 424 031 obyvateľov.",
+"src": [
+[
+"eu-country-cyprus",
+"Počet obyvateľov: 996 571"
+],
+[
+"eu-country-malta",
+"Počet obyvateľov: 588 254"
+],
+[
+"eu-country-portugal",
+"Počet obyvateľov: 11 424 031"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Švédsko",
+"bad": [
+"Dánsko",
+"Litva"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Dánsko 42 925 km²; Litva 65 284 km²; Švédsko 447 424 km².",
+"src": [
+[
+"eu-country-denmark",
+"Zemepisná rozloha: 42 925 km2"
+],
+[
+"eu-country-lithuania",
+"Zemepisná rozloha: 65 284 km2"
+],
+[
+"eu-country-sweden",
+"Zemepisná rozloha: 447 424 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Česko",
+"bad": [
+"Rakúsko",
+"Slovinsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Rakúsko 9 215 956 obyvateľov; Česko 10 915 839 obyvateľov; Slovinsko 2 135 107 obyvateľov.",
+"src": [
+[
+"eu-country-austria",
+"Počet obyvateľov: 9 215 956"
+],
+[
+"eu-country-czechia",
+"Počet obyvateľov: 10 915 839"
+],
+[
+"eu-country-slovenia",
+"Počet obyvateľov: 2 135 107"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Dánsko",
+"bad": [
+"Estónsko",
+"Litva"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Dánsko 42 925 km²; Estónsko 45 336 km²; Litva 65 284 km².",
+"src": [
+[
+"eu-country-denmark",
+"Zemepisná rozloha: 42 925 km2"
+],
+[
+"eu-country-estonia",
+"Zemepisná rozloha: 45 336 km2"
+],
+[
+"eu-country-lithuania",
+"Zemepisná rozloha: 65 284 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Írsko",
+"bad": [
+"Belgicko",
+"Luxembursko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Belgicko 30 667 km²; Írsko 69 947 km²; Luxembursko 2 595 km².",
+"src": [
+[
+"eu-country-belgium",
+"Zemepisná rozloha: 30 667 km2"
+],
+[
+"eu-country-ireland",
+"Zemepisná rozloha: 69 947 km2"
+],
+[
+"eu-country-luxembourg",
+"Zemepisná rozloha: 2 595 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Poľsko",
+"bad": [
+"Slovensko",
+"Slovinsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Poľsko 36 332 765 obyvateľov; Slovensko 5 409 407 obyvateľov; Slovinsko 2 135 107 obyvateľov.",
+"src": [
+[
+"eu-country-poland",
+"Počet obyvateľov: 36 332 765"
+],
+[
+"eu-country-slovakia",
+"Počet obyvateľov: 5 409 407"
+],
+[
+"eu-country-slovenia",
+"Počet obyvateľov: 2 135 107"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Malta",
+"bad": [
+"Cyprus",
+"Taliansko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Cyprus 9 253 km²; Taliansko 302 073 km²; Malta 316 km².",
+"src": [
+[
+"eu-country-cyprus",
+"Zemepisná rozloha: 9 253 km2"
+],
+[
+"eu-country-italy",
+"Zemepisná rozloha: 302 073 km2"
+],
+[
+"eu-country-malta",
+"Zemepisná rozloha: 316 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Chorvátsko",
+"bad": [
+"Cyprus",
+"Malta"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Chorvátsko 56 594 km²; Cyprus 9 253 km²; Malta 316 km².",
+"src": [
+[
+"eu-country-croatia",
+"Zemepisná rozloha: 56 594 km2"
+],
+[
+"eu-country-cyprus",
+"Zemepisná rozloha: 9 253 km2"
+],
+[
+"eu-country-malta",
+"Zemepisná rozloha: 316 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Slovensko",
+"bad": [
+"Česko",
+"Maďarsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Česko 78 871 km²; Maďarsko 93 012 km²; Slovensko 49 035 km².",
+"src": [
+[
+"eu-country-czechia",
+"Zemepisná rozloha: 78 871 km2"
+],
+[
+"eu-country-hungary",
+"Zemepisná rozloha: 93 012 km2"
+],
+[
+"eu-country-slovakia",
+"Zemepisná rozloha: 49 035 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najväčšiu rozlohu?",
+"ok": "Litva",
+"bad": [
+"Dánsko",
+"Lotyšsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Dánsko 42 925 km²; Lotyšsko 64 594 km²; Litva 65 284 km².",
+"src": [
+[
+"eu-country-denmark",
+"Zemepisná rozloha: 42 925 km2"
+],
+[
+"eu-country-latvia",
+"Zemepisná rozloha: 64 594 km2"
+],
+[
+"eu-country-lithuania",
+"Zemepisná rozloha: 65 284 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Slovinsko",
+"bad": [
+"Nemecko",
+"Maďarsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Nemecko 357 569 km²; Maďarsko 93 012 km²; Slovinsko 20 273 km².",
+"src": [
+[
+"eu-country-germany",
+"Zemepisná rozloha: 357 569 km2"
+],
+[
+"eu-country-hungary",
+"Zemepisná rozloha: 93 012 km2"
+],
+[
+"eu-country-slovenia",
+"Zemepisná rozloha: 20 273 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Litva",
+"bad": [
+"Estónsko",
+"Lotyšsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Estónsko 1 360 745 obyvateľov; Lotyšsko 1 845 096 obyvateľov; Litva 2 887 592 obyvateľov.",
+"src": [
+[
+"eu-country-estonia",
+"Počet obyvateľov: 1 360 745"
+],
+[
+"eu-country-latvia",
+"Počet obyvateľov: 1 845 096"
+],
+[
+"eu-country-lithuania",
+"Počet obyvateľov: 2 887 592"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najviac obyvateľov?",
+"ok": "Francúzsko",
+"bad": [
+"Belgicko",
+"Luxembursko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Belgicko 11 955 308 obyvateľov; Francúzsko 69 112 309 obyvateľov; Luxembursko 690 959 obyvateľov.",
+"src": [
+[
+"eu-country-belgium",
+"Počet obyvateľov: 11 955 308"
+],
+[
+"eu-country-france",
+"Počet obyvateľov: 69 112 309"
+],
+[
+"eu-country-luxembourg",
+"Počet obyvateľov: 690 959"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Lotyšsko",
+"bad": [
+"Fínsko",
+"Litva"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Fínsko 338 363 km²; Lotyšsko 64 594 km²; Litva 65 284 km².",
+"src": [
+[
+"eu-country-finland",
+"Zemepisná rozloha: 338 363 km2"
+],
+[
+"eu-country-latvia",
+"Zemepisná rozloha: 64 594 km2"
+],
+[
+"eu-country-lithuania",
+"Zemepisná rozloha: 65 284 km2"
+]
+]
+},
+{
+"kat": "sta",
+"n": 2,
+"text": "Ktorá z týchto krajín má najmenšiu rozlohu?",
+"ok": "Belgicko",
+"bad": [
+"Francúzsko",
+"Holandsko"
+],
+"v": "Podľa údajov Eurostatu za rok 2026: Belgicko 30 667 km²; Francúzsko 638 475 km²; Holandsko 37 391 km².",
+"src": [
+[
+"eu-country-belgium",
+"Zemepisná rozloha: 30 667 km2"
+],
+[
+"eu-country-france",
+"Zemepisná rozloha: 638 475 km2"
+],
+[
+"eu-country-netherlands",
+"Zemepisná rozloha: 37 391 km2"
+]
+]
+}
+]

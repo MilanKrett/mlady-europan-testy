@@ -1,0 +1,1073 @@
+[
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 2 017 BEF (belgických frankov) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "50 €",
+"bad": [
+"500 €",
+"5 €"
+],
+"v": "Konverzný kurz bol 1 € = 40,3399 BEF. 2 017 : 40,3399 = 50 €.",
+"src": [
+[
+"ecb-euro-map",
+"40,3399 BEF (belgického franku)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko belgických frankov by ste dostali za 100 € podľa neodvolateľného konverzného kurzu (Belgicko)?",
+"ok": "4 034 BEF",
+"bad": [
+"40 340 BEF",
+"403,40 BEF"
+],
+"v": "1 € = 40,3399 BEF, teda 100 × 40,3399 = 4 034 BEF.",
+"src": [
+[
+"ecb-euro-map",
+"40,3399 BEF (belgického franku)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 39,12 BGN (bulharských leva) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "20 €",
+"bad": [
+"200 €",
+"2 €"
+],
+"v": "Konverzný kurz bol 1 € = 1,95583 BGN. 39,12 : 1,95583 = 20 €.",
+"src": [
+[
+"ecb-euro-map",
+"1,95583 BGN (bulharského leva)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko bulharských leva by ste dostali za 40 € podľa neodvolateľného konverzného kurzu (Bulharsko)?",
+"ok": "78,23 BGN",
+"bad": [
+"782,33 BGN",
+"7,82 BGN"
+],
+"v": "1 € = 1,95583 BGN, teda 40 × 1,95583 = 78,23 BGN.",
+"src": [
+[
+"ecb-euro-map",
+"1,95583 BGN (bulharského leva)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 19,56 DEM (nemeckých mariek) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "10 €",
+"bad": [
+"100 €",
+"20 €"
+],
+"v": "Konverzný kurz bol 1 € = 1,95583 DEM. 19,56 : 1,95583 = 10 €.",
+"src": [
+[
+"ecb-euro-map",
+"1,95583 DEM (nemeckej marky)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko nemeckých mariek by ste dostali za 25 € podľa neodvolateľného konverzného kurzu (Nemecko)?",
+"ok": "48,90 DEM",
+"bad": [
+"488,96 DEM",
+"4,89 DEM"
+],
+"v": "1 € = 1,95583 DEM, teda 25 × 1,95583 = 48,90 DEM.",
+"src": [
+[
+"ecb-euro-map",
+"1,95583 DEM (nemeckej marky)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 313,13 EEK (estónskych korún) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "20 €",
+"bad": [
+"200 €",
+"2 €"
+],
+"v": "Konverzný kurz bol 1 € = 15,6566 EEK. 313,13 : 15,6566 = 20 €.",
+"src": [
+[
+"ecb-euro-map",
+"15,6566 EEK (estónskej koruny)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko estónskych korún by ste dostali za 25 € podľa neodvolateľného konverzného kurzu (Estónsko)?",
+"ok": "391,42 EEK",
+"bad": [
+"3 914 EEK",
+"39,14 EEK"
+],
+"v": "1 € = 15,6566 EEK, teda 25 × 15,6566 = 391,42 EEK.",
+"src": [
+[
+"ecb-euro-map",
+"15,6566 EEK (estónskej koruny)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 157,51 IEP (írskych libier) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "200 €",
+"bad": [
+"2000 €",
+"20 €"
+],
+"v": "Konverzný kurz bol 1 € = 0,787564 IEP. 157,51 : 0,787564 = 200 €.",
+"src": [
+[
+"ecb-euro-map",
+"0,787564 IEP (írskej libry)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko írskych libier by ste dostali za 5 € podľa neodvolateľného konverzného kurzu (Írsko)?",
+"ok": "3,94 IEP",
+"bad": [
+"39,38 IEP",
+"0,39 IEP"
+],
+"v": "1 € = 0,787564 IEP, teda 5 × 0,787564 = 3,94 IEP.",
+"src": [
+[
+"ecb-euro-map",
+"0,787564 IEP (írskej libry)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 6 815 GRD (gréckych drachiem) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "20 €",
+"bad": [
+"200 €",
+"2 €"
+],
+"v": "Konverzný kurz bol 1 € = 340,750 GRD. 6 815 : 340,750 = 20 €.",
+"src": [
+[
+"ecb-euro-map",
+"340,750 GRD (gréckej drachmy)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko gréckych drachiem by ste dostali za 10 € podľa neodvolateľného konverzného kurzu (Grécko)?",
+"ok": "3 408 GRD",
+"bad": [
+"34 075 GRD",
+"340,75 GRD"
+],
+"v": "1 € = 340,750 GRD, teda 10 × 340,750 = 3 408 GRD.",
+"src": [
+[
+"ecb-euro-map",
+"340,750 GRD (gréckej drachmy)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 3 327,72 ESP (španielskych pesiet) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "20 €",
+"bad": [
+"200 €",
+"2 €"
+],
+"v": "Konverzný kurz bol 1 € = 166,386 ESP. 3 327,72 : 166,386 = 20 €.",
+"src": [
+[
+"ecb-euro-map",
+"166,386 ESP (španielskej pesety)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko španielskych pesiet by ste dostali za 10 € podľa neodvolateľného konverzného kurzu (Španielsko)?",
+"ok": "1 664 ESP",
+"bad": [
+"16 639 ESP",
+"166,39 ESP"
+],
+"v": "1 € = 166,386 ESP, teda 10 × 166,386 = 1 664 ESP.",
+"src": [
+[
+"ecb-euro-map",
+"166,386 ESP (španielskej pesety)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 292,64 CYP (cyperských libier) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "500 €",
+"bad": [
+"5000 €",
+"50 €"
+],
+"v": "Konverzný kurz bol 1 € = 0,585274 CYP. 292,64 : 0,585274 = 500 €.",
+"src": [
+[
+"ecb-euro-map",
+"0,585274 CYP (cyperskej libry)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko cyperských libier by ste dostali za 100 € podľa neodvolateľného konverzného kurzu (Cyprus)?",
+"ok": "58,53 CYP",
+"bad": [
+"585,27 CYP",
+"5,85 CYP"
+],
+"v": "1 € = 0,585274 CYP, teda 100 × 0,585274 = 58,53 CYP.",
+"src": [
+[
+"ecb-euro-map",
+"0,585274 CYP (cyperskej libry)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 65,60 FRF (francúzskych frankov) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "10 €",
+"bad": [
+"100 €",
+"20 €"
+],
+"v": "Konverzný kurz bol 1 € = 6,55957 FRF. 65,60 : 6,55957 = 10 €.",
+"src": [
+[
+"ecb-euro-map",
+"6,55957 FRF (francúzskeho franku)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko francúzskych frankov by ste dostali za 100 € podľa neodvolateľného konverzného kurzu (Francúzsko)?",
+"ok": "655,96 FRF",
+"bad": [
+"6 560 FRF",
+"65,60 FRF"
+],
+"v": "1 € = 6,55957 FRF, teda 100 × 6,55957 = 655,96 FRF.",
+"src": [
+[
+"ecb-euro-map",
+"6,55957 FRF (francúzskeho franku)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 7 534,50 HRK (chorvátskych kún) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "1000 €",
+"bad": [
+"10000 €",
+"100 €"
+],
+"v": "Konverzný kurz bol 1 € = 7,53450 HRK. 7 534,50 : 7,53450 = 1000 €.",
+"src": [
+[
+"ecb-euro-map",
+"7,53450 HRK (chorvátskej kuny)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko chorvátskych kún by ste dostali za 5 € podľa neodvolateľného konverzného kurzu (Chorvátsko)?",
+"ok": "37,67 HRK",
+"bad": [
+"376,72 HRK",
+"3,77 HRK"
+],
+"v": "1 € = 7,53450 HRK, teda 5 × 7,53450 = 37,67 HRK.",
+"src": [
+[
+"ecb-euro-map",
+"7,53450 HRK (chorvátskej kuny)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 193 627 ITL (talianskych lír) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "100 €",
+"bad": [
+"1000 €",
+"10 €"
+],
+"v": "Konverzný kurz bol 1 € = 1936,27 ITL. 193 627 : 1936,27 = 100 €.",
+"src": [
+[
+"ecb-euro-map",
+"1936,27 ITL (talianskej líry)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko talianskych lír by ste dostali za 100 € podľa neodvolateľného konverzného kurzu (Taliansko)?",
+"ok": "193 627 ITL",
+"bad": [
+"1 936 270 ITL",
+"19 362,70 ITL"
+],
+"v": "1 € = 1936,27 ITL, teda 100 × 1936,27 = 193 627 ITL.",
+"src": [
+[
+"ecb-euro-map",
+"1936,27 ITL (talianskej líry)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 140,56 LVL (lotyšských latov) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "200 €",
+"bad": [
+"2000 €",
+"20 €"
+],
+"v": "Konverzný kurz bol 1 € = 0,702804 LVL. 140,56 : 0,702804 = 200 €.",
+"src": [
+[
+"ecb-euro-map",
+"0,702804 LVL (lotyšského latsu)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko lotyšských latov by ste dostali za 40 € podľa neodvolateľného konverzného kurzu (Lotyšsko)?",
+"ok": "28,11 LVL",
+"bad": [
+"281,12 LVL",
+"2,81 LVL"
+],
+"v": "1 € = 0,702804 LVL, teda 40 × 0,702804 = 28,11 LVL.",
+"src": [
+[
+"ecb-euro-map",
+"0,702804 LVL (lotyšského latsu)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 1 726,40 LTL (litovských litasov) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "500 €",
+"bad": [
+"5000 €",
+"50 €"
+],
+"v": "Konverzný kurz bol 1 € = 3,45280 LTL. 1 726,40 : 3,45280 = 500 €.",
+"src": [
+[
+"ecb-euro-map",
+"3,45280 LTL (litovského litasu)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko litovských litasov by ste dostali za 5 € podľa neodvolateľného konverzného kurzu (Litva)?",
+"ok": "17,26 LTL",
+"bad": [
+"172,64 LTL",
+"1,73 LTL"
+],
+"v": "1 € = 3,45280 LTL, teda 5 × 3,45280 = 17,26 LTL.",
+"src": [
+[
+"ecb-euro-map",
+"3,45280 LTL (litovského litasu)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 8 067,98 LUF (luxemburských frankov) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "200 €",
+"bad": [
+"2000 €",
+"20 €"
+],
+"v": "Konverzný kurz bol 1 € = 40,3399 LUF. 8 067,98 : 40,3399 = 200 €.",
+"src": [
+[
+"ecb-euro-map",
+"40,3399 LUF (luxemburského franku)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko luxemburských frankov by ste dostali za 100 € podľa neodvolateľného konverzného kurzu (Luxembursko)?",
+"ok": "4 034 LUF",
+"bad": [
+"40 340 LUF",
+"403,40 LUF"
+],
+"v": "1 € = 40,3399 LUF, teda 100 × 40,3399 = 4 034 LUF.",
+"src": [
+[
+"ecb-euro-map",
+"40,3399 LUF (luxemburského franku)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 8,59 MTL (maltských lír) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "20 €",
+"bad": [
+"200 €",
+"2 €"
+],
+"v": "Konverzný kurz bol 1 € = 0,429300 MTL. 8,59 : 0,429300 = 20 €.",
+"src": [
+[
+"ecb-euro-map",
+"0,429300 MTL (maltskej líry)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko maltských lír by ste dostali za 40 € podľa neodvolateľného konverzného kurzu (Malta)?",
+"ok": "17,17 MTL",
+"bad": [
+"171,72 MTL",
+"1,72 MTL"
+],
+"v": "1 € = 0,429300 MTL, teda 40 × 0,429300 = 17,17 MTL.",
+"src": [
+[
+"ecb-euro-map",
+"0,429300 MTL (maltskej líry)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 1 101,86 NLG (holandských guldenov) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "500 €",
+"bad": [
+"5000 €",
+"50 €"
+],
+"v": "Konverzný kurz bol 1 € = 2,20371 NLG. 1 101,86 : 2,20371 = 500 €.",
+"src": [
+[
+"ecb-euro-map",
+"2,20371 NLG (holandského guldenu)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko holandských guldenov by ste dostali za 5 € podľa neodvolateľného konverzného kurzu (Holandsko)?",
+"ok": "11,02 NLG",
+"bad": [
+"110,19 NLG",
+"1,10 NLG"
+],
+"v": "1 € = 2,20371 NLG, teda 5 × 2,20371 = 11,02 NLG.",
+"src": [
+[
+"ecb-euro-map",
+"2,20371 NLG (holandského guldenu)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 688,02 ATS (rakúskych šilingov) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "50 €",
+"bad": [
+"500 €",
+"5 €"
+],
+"v": "Konverzný kurz bol 1 € = 13,7603 ATS. 688,02 : 13,7603 = 50 €.",
+"src": [
+[
+"ecb-euro-map",
+"13,7603 ATS (rakúskeho šilingu)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko rakúskych šilingov by ste dostali za 10 € podľa neodvolateľného konverzného kurzu (Rakúsko)?",
+"ok": "137,60 ATS",
+"bad": [
+"1 376 ATS",
+"13,76 ATS"
+],
+"v": "1 € = 13,7603 ATS, teda 10 × 13,7603 = 137,60 ATS.",
+"src": [
+[
+"ecb-euro-map",
+"13,7603 ATS (rakúskeho šilingu)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 20 048,20 PTE (portugalských escúd) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "100 €",
+"bad": [
+"1000 €",
+"10 €"
+],
+"v": "Konverzný kurz bol 1 € = 200,482 PTE. 20 048,20 : 200,482 = 100 €.",
+"src": [
+[
+"ecb-euro-map",
+"200,482 PTE (portugalského escuda)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko portugalských escúd by ste dostali za 100 € podľa neodvolateľného konverzného kurzu (Portugalsko)?",
+"ok": "20 048 PTE",
+"bad": [
+"200 482 PTE",
+"2 004,82 PTE"
+],
+"v": "1 € = 200,482 PTE, teda 100 × 200,482 = 20 048 PTE.",
+"src": [
+[
+"ecb-euro-map",
+"200,482 PTE (portugalského escuda)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 47 928 SIT (slovinských tolarov) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "200 €",
+"bad": [
+"2000 €",
+"20 €"
+],
+"v": "Konverzný kurz bol 1 € = 239,640 SIT. 47 928 : 239,640 = 200 €.",
+"src": [
+[
+"ecb-euro-map",
+"239,640 SIT (slovinského tolara)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko slovinských tolarov by ste dostali za 10 € podľa neodvolateľného konverzného kurzu (Slovinsko)?",
+"ok": "2 396 SIT",
+"bad": [
+"23 964 SIT",
+"239,64 SIT"
+],
+"v": "1 € = 239,640 SIT, teda 10 × 239,640 = 2 396 SIT.",
+"src": [
+[
+"ecb-euro-map",
+"239,640 SIT (slovinského tolara)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Koľko eur zodpovedá sume 59,46 FIM (fínskych mariek) podľa neodvolateľného konverzného kurzu eura?",
+"ok": "10 €",
+"bad": [
+"100 €",
+"20 €"
+],
+"v": "Konverzný kurz bol 1 € = 5,94573 FIM. 59,46 : 5,94573 = 10 €.",
+"src": [
+[
+"ecb-euro-map",
+"5,94573 FIM (fínskej marky)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Koľko fínskych mariek by ste dostali za 5 € podľa neodvolateľného konverzného kurzu (Fínsko)?",
+"ok": "29,73 FIM",
+"bad": [
+"297,29 FIM",
+"2,97 FIM"
+],
+"v": "1 € = 5,94573 FIM, teda 5 × 5,94573 = 29,73 FIM.",
+"src": [
+[
+"ecb-euro-map",
+"5,94573 FIM (fínskej marky)"
+]
+]
+},
+{
+"kat": "fin",
+"n": 1,
+"text": "Košík tovarov stál pred rokom 100 €. Ročná miera inflácie bola 2 %. Koľko stojí rovnaký košík dnes?",
+"ok": "102,00 €",
+"bad": [
+"98,00 €",
+"120,00 €"
+],
+"v": "100 € × (1 + 2/100) = 102,00 €. Ročnú mieru inflácie získame porovnaním ceny košíka s cenou v rovnakom mesiaci pred rokom.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Košík tovarov stál pred rokom 50 €. Ročná miera inflácie bola 4 %. Koľko stojí rovnaký košík dnes?",
+"ok": "52,00 €",
+"bad": [
+"48,00 €",
+"90,00 €"
+],
+"v": "50 € × (1 + 4/100) = 52,00 €. Ročnú mieru inflácie získame porovnaním ceny košíka s cenou v rovnakom mesiaci pred rokom.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Košík tovarov stál pred rokom 200 €. Ročná miera inflácie bola 3 %. Koľko stojí rovnaký košík dnes?",
+"ok": "206,00 €",
+"bad": [
+"194,00 €",
+"230,00 €"
+],
+"v": "200 € × (1 + 3/100) = 206,00 €. Ročnú mieru inflácie získame porovnaním ceny košíka s cenou v rovnakom mesiaci pred rokom.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Košík tovarov stál pred rokom 80 €. Ročná miera inflácie bola 5 %. Koľko stojí rovnaký košík dnes?",
+"ok": "84,00 €",
+"bad": [
+"76,00 €",
+"130,00 €"
+],
+"v": "80 € × (1 + 5/100) = 84,00 €. Ročnú mieru inflácie získame porovnaním ceny košíka s cenou v rovnakom mesiaci pred rokom.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 1,
+"text": "Košík tovarov stál pred rokom 1000 €. Ročná miera inflácie bola 2 %. Koľko stojí rovnaký košík dnes?",
+"ok": "1 020,00 €",
+"bad": [
+"980,00 €",
+"1 200,00 €"
+],
+"v": "1000 € × (1 + 2/100) = 1 020,00 €. Ročnú mieru inflácie získame porovnaním ceny košíka s cenou v rovnakom mesiaci pred rokom.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 1,
+"text": "Košík tovarov stál pred rokom 250 €. Ročná miera inflácie bola 10 %. Koľko stojí rovnaký košík dnes?",
+"ok": "275,00 €",
+"bad": [
+"225,00 €",
+"350,00 €"
+],
+"v": "250 € × (1 + 10/100) = 275,00 €. Ročnú mieru inflácie získame porovnaním ceny košíka s cenou v rovnakom mesiaci pred rokom.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Košík tovarov stál pred rokom 40 €. Ročná miera inflácie bola 25 %. Koľko stojí rovnaký košík dnes?",
+"ok": "50,00 €",
+"bad": [
+"30,00 €",
+"290,00 €"
+],
+"v": "40 € × (1 + 25/100) = 50,00 €. Ročnú mieru inflácie získame porovnaním ceny košíka s cenou v rovnakom mesiaci pred rokom.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Košík tovarov stál pred rokom 300 €. Ročná miera inflácie bola 7 %. Koľko stojí rovnaký košík dnes?",
+"ok": "321,00 €",
+"bad": [
+"279,00 €",
+"370,00 €"
+],
+"v": "300 € × (1 + 7/100) = 321,00 €. Ročnú mieru inflácie získame porovnaním ceny košíka s cenou v rovnakom mesiaci pred rokom.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Cena košíka tovarov vzrástla za rok z 100 € na 103 €. Aká bola ročná miera inflácie?",
+"ok": "3 %",
+"bad": [
+"6 %",
+"8 %"
+],
+"v": "(103 − 100) : 100 × 100 = 3 %.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Cena košíka tovarov vzrástla za rok z 50 € na 51 €. Aká bola ročná miera inflácie?",
+"ok": "2 %",
+"bad": [
+"1 %",
+"4 %"
+],
+"v": "(51 − 50) : 50 × 100 = 2 %.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Cena košíka tovarov vzrástla za rok z 200 € na 210 €. Aká bola ročná miera inflácie?",
+"ok": "5 %",
+"bad": [
+"10 %",
+"50 %"
+],
+"v": "(210 − 200) : 200 × 100 = 5 %.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Cena košíka tovarov vzrástla za rok z 40 € na 42 €. Aká bola ročná miera inflácie?",
+"ok": "5 %",
+"bad": [
+"2 %",
+"10 %"
+],
+"v": "(42 − 40) : 40 × 100 = 5 %.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Cena košíka tovarov vzrástla za rok z 500 € na 520 €. Aká bola ročná miera inflácie?",
+"ok": "4 %",
+"bad": [
+"20 %",
+"8 %"
+],
+"v": "(520 − 500) : 500 × 100 = 4 %.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Cena košíka tovarov vzrástla za rok z 80 € na 84 €. Aká bola ročná miera inflácie?",
+"ok": "5 %",
+"bad": [
+"4 %",
+"10 %"
+],
+"v": "(84 − 80) : 80 × 100 = 5 %.",
+"src": [
+[
+"ecb-inflation",
+"Porovnaním celkovej ceny koša v určitom mesiaci s jeho cenou v rovnakom mesiaci pred rokom získame ročnú mieru inflácie."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Ktorý z týchto výrokov o inflácii je správny?",
+"ok": "pri inflácii si za jedno euro kúpite menej ako predtým",
+"bad": [
+"pri inflácii si za jedno euro kúpite viac ako predtým",
+"inflácia znamená rast ceny jedného konkrétneho výrobku"
+],
+"v": "Inflácia je všeobecný rast cien – za jedno euro sa dá kúpiť menej ako včera; inflácia znižuje hodnotu meny v čase.",
+"src": [
+[
+"ecb-inflation",
+"To znamená, že za jedno euro sa toho dá dnes kúpiť menej ako včera."
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Máte na účte 1 000 € s úrokom 1 % ročne a inflácia je 3 %. Čo sa stane s reálnou hodnotou vašich peňazí po roku?",
+"ok": "klesne – kúpite si za ne menej ako pred rokom",
+"bad": [
+"stúpne o 1 %",
+"nezmení sa"
+],
+"v": "Úrok 1 % nevyrovná infláciu 3 %: na účte bude 1 010 €, ale ceny vzrastú o 3 %, takže reálna hodnota klesne (približne o 2 %).",
+"src": [
+[
+"ecb-inflation",
+"Inými slovami, inflácia znižuje hodnotu meny v priebehu času."
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Aké odškodnenie vám podľa pravidiel EÚ patrí, ak vám bol odmietnutý nástup na let dlhý 1200 km (prišli ste včas a máte doklady)?",
+"ok": "250 €",
+"bad": [
+"400 €",
+"600 €"
+],
+"v": "Pri odmietnutí nástupu je odškodnenie podľa vzdialenosti: 250 € (do 1 500 km), 400 € (1 500 – 3 500 km), 600 € (nad 3 500 km). Let 1200 km → 250 €.",
+"src": [
+[
+"ye-air",
+"Odškodnenie – odmietnutie nástupu do lietadla | Suma v EUR | Vzdialenosť | 250 | 1 500 km alebo menej | 400 | Nad 1 500 km v rámci EÚ a všetky ostatné lety od 1 500 km do 3 500 km | 600 | Viac ako 3 500 km"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Rodina so 4 cestujúcimi nesmela nastúpiť na let dlhý 1200 km. Aké celkové odškodnenie jej podľa pravidiel EÚ patrí?",
+"ok": "1000 €",
+"bad": [
+"250 €",
+"500 €"
+],
+"v": "Každý cestujúci má nárok na 250 €, spolu 4 × 250 = 1000 €.",
+"src": [
+[
+"ye-air",
+"Odškodnenie – odmietnutie nástupu do lietadla | Suma v EUR | Vzdialenosť | 250 | 1 500 km alebo menej | 400 | Nad 1 500 km v rámci EÚ a všetky ostatné lety od 1 500 km do 3 500 km | 600 | Viac ako 3 500 km"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Aké odškodnenie vám podľa pravidiel EÚ patrí, ak vám bol odmietnutý nástup na let dlhý 2800 km (prišli ste včas a máte doklady)?",
+"ok": "400 €",
+"bad": [
+"250 €",
+"600 €"
+],
+"v": "Pri odmietnutí nástupu je odškodnenie podľa vzdialenosti: 250 € (do 1 500 km), 400 € (1 500 – 3 500 km), 600 € (nad 3 500 km). Let 2800 km → 400 €.",
+"src": [
+[
+"ye-air",
+"Odškodnenie – odmietnutie nástupu do lietadla | Suma v EUR | Vzdialenosť | 250 | 1 500 km alebo menej | 400 | Nad 1 500 km v rámci EÚ a všetky ostatné lety od 1 500 km do 3 500 km | 600 | Viac ako 3 500 km"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Rodina so 4 cestujúcimi nesmela nastúpiť na let dlhý 2800 km. Aké celkové odškodnenie jej podľa pravidiel EÚ patrí?",
+"ok": "1600 €",
+"bad": [
+"400 €",
+"800 €"
+],
+"v": "Každý cestujúci má nárok na 400 €, spolu 4 × 400 = 1600 €.",
+"src": [
+[
+"ye-air",
+"Odškodnenie – odmietnutie nástupu do lietadla | Suma v EUR | Vzdialenosť | 250 | 1 500 km alebo menej | 400 | Nad 1 500 km v rámci EÚ a všetky ostatné lety od 1 500 km do 3 500 km | 600 | Viac ako 3 500 km"
+]
+]
+},
+{
+"kat": "fin",
+"n": 2,
+"text": "Aké odškodnenie vám podľa pravidiel EÚ patrí, ak vám bol odmietnutý nástup na let dlhý 5000 km (prišli ste včas a máte doklady)?",
+"ok": "600 €",
+"bad": [
+"250 €",
+"400 €"
+],
+"v": "Pri odmietnutí nástupu je odškodnenie podľa vzdialenosti: 250 € (do 1 500 km), 400 € (1 500 – 3 500 km), 600 € (nad 3 500 km). Let 5000 km → 600 €.",
+"src": [
+[
+"ye-air",
+"Odškodnenie – odmietnutie nástupu do lietadla | Suma v EUR | Vzdialenosť | 250 | 1 500 km alebo menej | 400 | Nad 1 500 km v rámci EÚ a všetky ostatné lety od 1 500 km do 3 500 km | 600 | Viac ako 3 500 km"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "Rodina so 4 cestujúcimi nesmela nastúpiť na let dlhý 5000 km. Aké celkové odškodnenie jej podľa pravidiel EÚ patrí?",
+"ok": "2400 €",
+"bad": [
+"600 €",
+"1200 €"
+],
+"v": "Každý cestujúci má nárok na 600 €, spolu 4 × 600 = 2400 €.",
+"src": [
+[
+"ye-air",
+"Odškodnenie – odmietnutie nástupu do lietadla | Suma v EUR | Vzdialenosť | 250 | 1 500 km alebo menej | 400 | Nad 1 500 km v rámci EÚ a všetky ostatné lety od 1 500 km do 3 500 km | 600 | Viac ako 3 500 km"
+]
+]
+},
+{
+"kat": "fin",
+"n": 3,
+"text": "O koľko percent môže letecká spoločnosť znížiť odškodnenie, ak vám ponúkne presmerovanie a priletíte len s malým meškaním?",
+"ok": "o 50 %",
+"bad": [
+"o 10 %",
+"o 100 %"
+],
+"v": "Ak priletíte s meškaním po presmerovaní v stanovených limitoch, odškodnenie možno znížiť o 50 % (napr. 125 € namiesto 250 €).",
+"src": [
+[
+"ye-air",
+"možno vaše odškodnenie znížiť o 50 %"
+]
+]
+}
+]

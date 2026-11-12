@@ -1,0 +1,234 @@
+#kat med
+#n 2
+
+Čo umožňuje mediálna gramotnosť podľa Európskej komisie?
++ orientovať sa v spravodajskom prostredí a prijímať informované rozhodnutia
+- obchádzať autorské práva na internete
+- šíriť obsah rýchlejšie bez overovania
+= Mediálna gramotnosť umožňuje občanom všetkých vekových kategórií orientovať sa v spravodajskom prostredí a prijímať informované rozhodnutia v digitálnej ére.
+> medlit | Mediálna gramotnosť umožňuje občanom všetkých vekových kategórií orientovať sa v spravodajskom prostredí a prijímať informované rozhodnutia v digitálnej ére.
+
+@med 3
+Ktorý európsky predpis vymedzuje mediálnu gramotnosť ako „zručnosti, vedomosti a porozumenie“ na účinné a bezpečné využívanie médií?
++ Európsky akt o slobode médií (EMFA)
+- všeobecné nariadenie o ochrane údajov (GDPR)
+- akt o umelej inteligencii
+= V Európskom akte o slobode médií (EMFA) sa mediálna gramotnosť vymedzuje ako zručnosti, vedomosti a porozumenie, ktoré občanom umožňujú účinne a bezpečne využívať médiá.
+> medlit | V Európskom akte o slobode médií (EMFA) sa vymedzuje ako: „zručnosti, vedomosti a porozumenie, ktoré občanom umožňujú účinne a bezpečne využívať médiá
+
+@med 3
+Kedy prijala Komisia oznámenie o európskom štíte na podporu demokracie, ktoré zdôrazňuje mediálnu gramotnosť?
++ 12. novembra 2025
+- 9. mája 2019
+- 1. januára 2024
+= V oznámení o európskom štíte na podporu demokracie z 12. novembra 2025 sa zdôrazňuje význam mediálnej gramotnosti pre odolnosť voči dezinformáciám.
+> medlit | V oznámení o európskom štíte na podporu demokracie, ktoré Európska komisia prijala 12. novembra 2025
+
+@med 3
+Ako často musia členské štáty podľa smernice o audiovizuálnych mediálnych službách podávať správy o podpore mediálnej gramotnosti?
++ každé tri roky
+- každý mesiac
+- len raz za 20 rokov
+= Smernica o AVMS vyžaduje, aby štáty podporovali mediálnu gramotnosť a každé tri roky podávali správy o svojom úsilí.
+> medlit | aby každé tri roky podávali správy o svojom úsilí
+
+Čo musia podľa revidovanej smernice o audiovizuálnych mediálnych službách poskytovať platformy na zdieľanie videí?
++ účinné opatrenia a nástroje mediálnej gramotnosti
+- bezplatné filmy pre všetkých
+- len reklamy z EÚ
+= Revidovaná smernica o AVMS vyžaduje, aby platformy na zdieľanie videí poskytovali účinné opatrenia a nástroje mediálnej gramotnosti.
+> medlit | aby platformy na zdieľanie videí poskytovali účinné opatrenia a nástroje mediálnej gramotnosti
+
+@med 3
+Ako sa skratkou nazýva expertná skupina, v ktorej Komisia združuje zástupcov členských štátov pre mediálnu gramotnosť?
++ MLEG
+- EDMO
+- EPPO
+= Komisia združuje zástupcov členských štátov do expertnej skupiny pre mediálnu gramotnosť (MLEG).
+> medlit | expertnej skupiny pre mediálnu gramotnosť (MLEG)
+
+@med 3
+Ako sa volala online kampaň EDMO vo všetkých jazykoch EÚ o rizikách dezinformácií počas volieb do EP?
++ Be Election Smart
+- Stop Fake News
+- Vote Safe EU
+= EDMO uskutočnilo online kampaň Be Election Smart vo všetkých jazykoch EÚ.
+> medlit | EDMO napríklad uskutočnilo online kampaň Be Election Smart vo všetkých jazykoch EÚ
+
+@med 3
+Z ktorého programu EÚ sa každoročne vypisuje výzva na cezhraničné projekty mediálnej gramotnosti?
++ Kreatívna Európa
+- Horizont Európa
+- Erasmus+ Šport
+= V rámci programu Kreatívna Európa sa každoročne uverejňuje osobitná výzva na podporu cezhraničných projektov v oblasti mediálnej gramotnosti.
+> medlit | Najmä v rámci programu Kreatívna Európa sa každoročne uverejňuje osobitná výzva na predkladanie návrhov na podporu cezhraničných projektov v oblasti mediálnej gramotnosti
+
+Čo upravuje smernica EÚ o audiovizuálnych mediálnych službách (AVMS)?
++ tradičné televízne vysielanie aj služby na požiadanie
+- len tlačené noviny
+- len poštové služby
+= Smernica o AVMS koordinuje vnútroštátne predpisy týkajúce sa všetkých audiovizuálnych médií – televízneho vysielania a služieb na požiadanie.
+> avms | týkajúcich sa všetkých audiovizuálnych médií – tradičného televízneho vysielania a služieb na požiadanie
+
+@med 3
+Kedy sa uskutočnilo prvé preskúmanie smernice o audiovizuálnych mediálnych službách?
++ v roku 2018
+- v roku 1957
+- v roku 2025
+= Prvé preskúmanie smernice o AVMS sa uskutočnilo v roku 2018; ďalšie je plánované na rok 2026.
+> avms | Prvé preskúmanie smernice o AVMS sa uskutočnilo v roku 2018.
+
+@akt 3
+Ako sa volá európska iniciatíva občanov, na ktorú Komisia reagovala spoluprácou s vydavateľmi videohier?
++ „Stop ničeniu videohier“
+- „Hry pre všetkých“
+- „Zakážte videohry“
+= Komisia bude do konca roka 2026 spolupracovať so spotrebiteľmi a vydavateľmi v reakcii na iniciatívu občanov „Stop ničeniu videohier“.
+> avms | v reakcii na európsku iniciatívu občanov „Stop ničeniu videohier“
+
+Na ktoré štyri oblasti sa zameriavajú ciele digitálneho desaťročia do roku 2030?
++ pripojiteľnosť, digitálne zručnosti, digitálne podnikanie a digitálne verejné služby
+- armáda, polícia, hranice a clá
+- poľnohospodárstvo, rybárstvo, lesy a vodné toky
+= Ciele digitálneho desaťročia sú merateľné ciele pre štyri oblasti: pripojiteľnosť, digitálne zručnosti, digitálne podnikanie a digitálne verejné služby.
+> decade | Ciele digitálneho desaťročia sú merateľnými cieľmi pre každú zo štyroch oblastí: pripojiteľnosť, digitálne zručnosti, digitálne podnikanie a digitálne verejné služby.
+
+@med 3
+Ktorý dokument EÚ obsahuje hodnoty, ktoré sa musia rešpektovať v digitálnom svete?
++ Európske vyhlásenie o digitálnych právach a zásadách
+- Schumanova deklarácia
+- Laekenská deklarácia
+= Práva a zásady digitálneho desaťročia sú uvedené vo vyhlásení o digitálnych právach a zásadách.
+> decade | ako sa uvádza vo vyhlásení o digitálnych právach a zásadách
+
+Ako sa nazýva stratégia EÚ na ochranu a posilnenie postavenia detí na internete?
++ Lepší internet pre deti (BIK+)
+- Digitálne desaťročie
+- DiscoverEU
+= Stratégia vytvárania lepšieho internetu pre deti (BIK+) zabezpečí ochranu, rešpektovanie a posilnenie postavenia detí na internete.
+> bik | Stratégia vytvárania lepšieho internetu pre deti (BIK+) zabezpečí ochranu, rešpektovanie a posilnenie postavenia detí na internete.
+
+@med 3
+Kedy bola prijatá európska stratégia Lepší internet pre deti (BIK+)?
++ 11. mája 2022
+- 9. mája 2012
+- 1. januára 2026
+= Európska stratégia BIK+ bola prijatá 11. mája 2022.
+> bik | Európska stratégia vytvárania lepšieho internetu pre deti (BIK+) prijatá 11. mája 2022
+
+Ktoré tri piliere má stratégia Lepší internet pre deti (BIK+)?
++ bezpečné digitálne zážitky, posilnenie postavenia v digitálnej oblasti a aktívna účasť
+- zákaz mobilov, zákaz hier a zákaz sociálnych sietí
+- reklama, predaj a zisk
+= BIK+ navrhuje opatrenia v troch pilieroch: bezpečné digitálne zážitky, posilnenie postavenia v digitálnej oblasti a aktívna účasť.
+> bik | Bezpečné digitálne zážitky - ochrana detí pred škodlivým a nezákonným online obsahom ... posilnenie postavenia v digitálnej oblasti ... aktívna účasť
+
+V približne koľkých krajinách sa každoročne oslavuje Deň bezpečnejšieho internetu?
++ v približne 170 krajinách
+- len na Slovensku
+- v 27 krajinách EÚ
+= Deň bezpečnejšieho internetu sa každý rok oslavuje v približne 170 krajinách.
+> bik | Každý rok sa Deň bezpečnejšieho internetu oslavuje v približne 170 krajinách
+
+@akt 3
+Proti čomu prijala Komisia vo februári 2026 akčný plán?
++ proti kybernetickému šikanovaniu
+- proti videohrám
+- proti online nakupovaniu
+= Komisia vo februári 2026 prijala akčný plán proti kybernetickému šikanovaniu.
+> bik | Komisia vo februári 2026 prijala akčný plán proti kybernetickému šikanovaniu
+
+@akt 3
+Ako sa nazýva návrh Komisie zo septembra 2026 o zodpovednosti a dôveryhodnosti digitálnych priestorov pre deti?
++ EU KIDS ACT
+- EU CHILD SHIELD
+- KIDS ONLINE 2030
+= V septembri 2026 Komisia prijala návrh EU KIDS ACT.
+> bik | V septembri 2026 Komisia prijala návrh EU KIDS ACT
+
+@med 3
+Čo vydala Komisia v júli 2025 v súvislosti s ochranou detí online?
++ plán overovania veku
+- zákaz smartfónov v školách
+- nový vek volebného práva
+= Komisia v júli 2025 vydala plán overovania veku a pilotne ho testuje s členskými štátmi a platformami.
+> bik | Komisia takisto v júli 2025 vydala plán overovania veku
+
+Ktorá sieť koordinuje centrá bezpečnejšieho internetu v členských štátoch?
++ Insafe
+- Europol
+- Eurostat
+= Komisia spolufinancuje centrá bezpečnejšieho internetu v členských štátoch, koordinované agentúrou Insafe.
+> bik | centrá bezpečnejšieho internetu v členských štátoch (koordinované agentúrou Insafe)
+
+Akú možnosť dáva akt o digitálnych službách používateľom veľkých platforiem pri informačných kanáloch?
++ zvoliť si nepersonalizovaný kanál (bez odporúčaní algoritmu)
+- vypnúť všetky reklamy navždy
+- čítať súkromné správy iných
+= Na veľkých platformách s viac ako 45 miliónmi používateľov v EÚ môžete používať nepersonalizované informačné kanály.
+> dsa-rights | na veľkých platformách s viac ako 45 miliónmi používateľov v EÚ môžete teraz používať nepersonalizované informačné kanály
+
+Čo musia podľa aktu o digitálnych službách zverejniť online trhoviská?
++ kontaktné údaje predajcov
+- heslá zákazníkov
+- platy svojich zamestnancov
+= Trhoviská musia overiť a zobraziť kontaktné údaje predajcov, aby ste vedeli, od koho kupujete.
+> dsa-rights | Overení predajcovia – trhoviská musia overiť a zobraziť kontaktné údaje predajcov
+
+Čo musia obsahovať reklamy na platformách podľa aktu o digitálnych službách?
++ jasné označenie a informáciu, kto reklamu umiestňuje a prečo ju vidíš
+- vždy zľavový kupón
+- podpis Európskej komisie
+= Reklamy musia byť jasne označené a musia obsahovať informácie o tom, kto ich umiestňuje a prečo ich vidíte.
+> dsa-rights | reklamy musia byť jasne označené a musia obsahovať informácie o tom, kto ich umiestňuje a prečo ich vidíte
+
+Je dezinformácia podľa EUvsDisinfo spravidla šírená zámerne?
++ áno – šíri ju niekto, kto vie, že klame publikum
+- nie – vždy ide o nevinný omyl
+- nie – dezinformácie šíria len stroje
+= Dezinformácia je spravidla zámerná: zámerne ju šíri niekto, kto vie, že klame publikum.
+> euvsd-learn | As a rule, disinformation is intentional – it is deliberately spread by someone who knows that he or she is deceiving the audience.
+
+@med 3
+Ako sa skratkou označuje zahraničná manipulácia s informáciami a zasahovanie vrátane dezinformácií?
++ FIMI
+- GDPR
+- SEPA
+= Zahraničná manipulácia s informáciami a zasahovanie vrátane dezinformácií sa označuje skratkou FIMI.
+> euvsd-learn | foreign information manipulation and interference, including disinformation (FIMI)
+
+Čo je podľa EUvsDisinfo jedným z najlepších spôsobov, ako udržať spoločnosť odolnú voči dezinformáciám?
++ silné, dôveryhodné a nezávislé médiá dodržiavajúce novinárske štandardy
+- zákaz internetu
+- zrušenie verejnoprávnych médií
+= Jedným z najlepších spôsobov je mať silné, dôveryhodné a nezávislé médiá vrátane verejnoprávnych, ktoré dodržiavajú novinárske štandardy.
+> euvsd-learn | One of the best ways of keeping a society resilient to disinformation is to have strong and trusted, independent outlets – including public service media – upholding fundamental journalistic standards.
+
+Akou technikou sa podľa EUvsDisinfo bránia štátom kontrolované médiá kritike tak, že poukazujú na údajné chyby iných („a čo vy?“)?
++ whataboutism
+- fact-checking
+- crowdfunding
+= Pri kritike sa štátom kontrolované médiá uchyľujú k tzv. whataboutism – odvracaniu pozornosti poukazovaním na iných.
+> euvsd-learn | Chinese state-controlled outlets have turned to “whataboutism”
+
+Na akej predstave je založená konšpiračná teória o tajnej vláde sveta?
++ že malá skupina ľudí sa skrýva a ovláda svet
+- že všetky vlády sú volené
+- že médiá vždy hovoria pravdu
+= Konšpiračná teória je založená na presvedčení, že existuje malá skupina ľudí, ktorá sa pred nami skrýva a ovláda svet.
+> euvsd-learn | It is based on the belief that there is a small group of people, hiding from us, controlling the world.
+
+@med 3
+Koľko politických diskusií na Twitteri v Rusku podľa EUvsDisinfo vedú boty?
++ takmer polovicu
+- menej ako 1 %
+- všetky
+= V Rusku takmer polovicu všetkých politických konverzácií na Twitteri vedú boty.
+> euvsd-learn | in Russia, almost half of all political conversation on Twitter is conducted by bots
+
+Čo je to „továreň na trolov“?
++ organizácia, ktorá platí ľudí za šírenie propagandy a manipulačných komentárov online
+- továreň na výrobu hračiek
+- sieť nezávislých overovateľov faktov
+= EUvsDisinfo uvádza petrohradskú „továreň na trolov“ ako príklad zasahovania do volieb; ide o organizované zapájanie sa do online diskusií s cieľom manipulácie.
+> euvsd-learn | Petersburg "troll factory" is among the features in our 2019 campaign to raise awareness of election interference. ... Another type of interference used by pro-Kremlin actors is engaging in discussions, both on internet fora and in the comments sections of different websites.

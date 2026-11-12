@@ -1,0 +1,134 @@
+#kat ins
+#n 2
+
+Ako sa skratkou označuje transeurópska dopravná sieť EÚ?
++ TEN-T
+- SES
+- EHP
+= Spoločná dopravná politika zahŕňa budovanie transeurópskej dopravnej siete (TEN-T).
+> ep-fs-123 | budovaní transeurópskej dopravnej siete (TEN-T)
+
+@ins 3
+Do kedy sa má dokončiť základná sieť hlavných trás TEN-T?
++ do roku 2030
+- do roku 2004
+- do roku 2100
+= Sieť TEN-T má dve vrstvy: základnú sieť hlavných trás (do roku 2030) a súhrnnú sieť (do roku 2050).
+> ep-fs-135 | základná sieť hlavných trás (má sa dokončiť do roku 2030)
+
+@ins 3
+Kedy prešla transeurópska dopravná sieť TEN-T rozsiahlou revíziou?
++ v roku 2024
+- v roku 1957
+- v roku 1999
+= TEN-T prešla zásadnou reformou v roku 2013 a rozsiahlou revíziou v roku 2024.
+> ep-fs-135 | prešla zásadnou reformou v roku 2013 a rozsiahlou revíziou v roku 2024
+
+@ins 3
+Aký podiel rozpočtu Nástroja na prepájanie Európy (NPE) prispieva na ciele v oblasti klímy?
++ 60 %
+- 6 %
+- 100 %
+= Z rozpočtu NPE sa prispieva 60 % na ciele v oblasti klímy.
+> ep-fs-136 | sa z rozpočtu NPE prispieva 60 % na ciele v oblasti klímy
+
+Ktoré tri odvetvia prepája Nástroj na prepájanie Európy (NPE)?
++ dopravu, energetiku a digitálne technológie
+- poľnohospodárstvo, rybárstvo a lesníctvo
+- školstvo, kultúru a šport
+= NPE buduje a modernizuje transeurópske siete v odvetviach dopravy, energetiky a digitálnych technológií.
+> ep-fs-136 | transeurópskych sietí v odvetviach dopravy, energetiky a digitálnych technológií
+
+@ins 3
+Koľko ľudí zamestnáva hlavné odvetvie cestovného ruchu v EÚ?
++ približne 12,3 milióna
+- približne 123 000
+- približne 123 miliónov
+= Hlavné odvetvie cestovného ruchu tvorí 2,3 milióna podnikov, ktoré zamestnávajú približne 12,3 milióna ľudí.
+> ep-fs-126 | ktoré zamestnávajú približne 12,3 milióna ľudí
+
+Aký podiel na HDP EÚ má cestovný ruch?
++ 10 %
+- 1 %
+- 50 %
+= Cestovný ruch má 10 % podiel na HDP EÚ.
+> ep-fs-126 | Cestovný ruch, ktorý má 10 % podiel na HDP EÚ
+
+@ins 3
+Akú dĺžku má Európsky zelený pás, ktorý siaha od Barentsovho mora po Čierne more?
++ 6 800 km
+- 680 km
+- 68 000 km
+= Európsky zelený pás je sieť dlhá 6 800 km od Barentsovho mora po Čierne more.
+> ep-fs-126 | Európsky zelený pás je sieť dlhá 6 800 km, ktorá siaha od Barentsovho mora až po Čierne more.
+
+@ins 3
+Ako sa nazýva iniciatíva EÚ z roku 2007 na podporu menej známych udržateľných turistických destinácií?
++ EDEN – európske destinácie excelentnosti
+- DiscoverEU
+- Európske hlavné mesto kultúry
+= V roku 2007 sa začala iniciatíva EDEN, ktorá podporuje európske destinácie excelentnosti.
+> ep-fs-126 | V roku 2007 sa začala iniciatíva EDEN, ktorá podporuje európske destinácie excelentnosti
+
+@ins 3
+Kedy bol prijatý štvrtý železničný balík zameraný na dokončenie jednotného európskeho železničného priestoru?
++ v roku 2016
+- v roku 2001
+- v roku 2024
+= Štvrtý balík zameraný na dokončenie jednotného európskeho železničného priestoru bol prijatý v roku 2016.
+> ep-fs-130 | Štvrtý balík zameraný na dokončenie jednotného európskeho železničného priestoru bol prijatý v roku 2016.
+
+@ins 3
+Aký cieľ pre vysokorýchlostné železnice stanovila Komisia do roku 2030?
++ strojnásobiť dĺžku existujúcej vysokorýchlostnej siete
+- zrušiť vysokorýchlostné trate
+- znížiť dĺžku siete na polovicu
+= Do roku 2030 by sa mala strojnásobiť dĺžka existujúcej vysokorýchlostnej siete.
+> ep-fs-130 | by sa mala strojnásobiť dĺžka existujúcej vysokorýchlostnej siete
+
+Akým dopravným prostriedkom by sa podľa bielej knihy z roku 2011 mala do roku 2050 uskutočňovať väčšina osobnej dopravy na stredné vzdialenosti?
++ vlakom
+- autom
+- lietadlom
+= Komisia stanovila cieľ, aby sa do roku 2050 väčšina osobnej dopravy na stredné vzdialenosti uskutočňovala vlakom.
+> ep-fs-130 | aby sa do roku 2050 väčšina osobnej dopravy na stredné vzdialenosti uskutočňovala vlakom
+
+@ins 3
+Ako sa nazýva iniciatíva EÚ na zníženie fragmentácie európskeho vzdušného priestoru?
++ jednotné európske nebo (SES)
+- otvorené nebo NATO
+- modrý koridor
+= Iniciatíva jednotné európske nebo (SES) sa začala s cieľom znížiť fragmentáciu európskeho vzdušného priestoru.
+> ep-fs-133 | Iniciatíva jednotné európske nebo (SES) sa začala v roku 1999 s cieľom znížiť fragmentáciu európskeho vzdušného priestoru
+
+@ins 3
+Kedy bol prijatý prvý súbor požiadaviek, ktorým bolo ustanovené jednotné európske nebo (SES I)?
++ v roku 2004
+- v roku 1987
+- v roku 2020
+= Prvý súbor spoločných požiadaviek, ktorým bolo SES ustanovené, bol prijatý v roku 2004 (SES I).
+> ep-fs-133 | Prvý súbor spoločných požiadaviek, ktorým bolo SES ustanovené, bol prijatý v roku 2004 (SES I).
+
+@ins 3
+O koľko sa mala podľa pôvodných cieľov jednotného európskeho neba zvýšiť bezpečnosť letovej prevádzky?
++ desaťnásobne
+- o 10 %
+- dvojnásobne
+= Kapacita vzdušného priestoru sa mohla zvýšiť trojnásobne, náklady znížiť na polovicu a bezpečnosť zvýšiť desaťnásobne.
+> ep-fs-133 | bezpečnosť zvýšiť desaťnásobne
+
+@ins 3
+Ktoré krajiny mimo EÚ sa pripojili k jednotnému trhu leteckej dopravy EÚ?
++ Nórsko, Island a Švajčiarsko
+- Turecko, Srbsko a Albánsko
+- USA a Kanada
+= Jednotný trh leteckej dopravy bol následne rozšírený o Nórsko, Island a Švajčiarsko.
+> ep-fs-131 | Následne bol rozšírený o Nórsko, Island a Švajčiarsko
+
+@ins 3
+Kedy prijala EÚ prvý balík pravidiel, ktorý začal uvoľňovať pravidlá pre ceny leteniek?
++ v roku 1987
+- v roku 1957
+- v roku 2004
+= Prvý (1987) a druhý (1990) balík začali uvoľňovať pravidlá upravujúce ceny leteniek a kapacity.
+> ep-fs-131 | Prvý (1987) a druhý (1990) balík Jednotného európskeho aktu začali uvoľňovať pravidlá upravujúce ceny leteniek a kapacity.

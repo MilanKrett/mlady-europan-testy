@@ -1,0 +1,101 @@
+#kat ins
+#n 2
+
+V ktorom roku prijali Parlament, Rada a Komisia vyhlásenie o Európskom pilieri sociálnych práv?
++ v roku 2017
+- v roku 1957
+- v roku 2024
+= Významný míľnik sa dosiahol v roku 2017, keď Parlament, Rada a Komisia prijali vyhlásenie o Európskom pilieri sociálnych práv.
+> ep-fs-52 | Významný míľnik sa dosiahol v roku 2017, keď Parlament, Rada a Komisia prijali vyhlásenie o Európskom pilieri sociálnych práv
+
+@akt 3
+Kedy sa má aktualizovať akčný plán na realizáciu Európskeho piliera sociálnych práv z roku 2021?
++ v roku 2026
+- v roku 2030
+- v roku 2024
+= Akčný plán na realizáciu Európskeho piliera sociálnych práv z roku 2021 sa má aktualizovať v roku 2026.
+> ep-fs-52 | V Akčnom pláne na realizáciu Európskeho piliera sociálnych práv z roku 2021, ktorý sa má aktualizovať v roku 2026
+
+Na čo sa podľa článku 3 ZEÚ musí Únia zamerať v sociálnej oblasti?
++ na dosiahnutie plnej zamestnanosti a sociálneho pokroku
+- na zrušenie minimálnej mzdy
+- na jednotný dôchodkový vek
+= V článku 3 ZEÚ sa stanovuje, že Únia sa musí zamerať na dosiahnutie plnej zamestnanosti a sociálneho pokroku.
+> ep-fs-52 | Únia sa musí zamerať na dosiahnutie plnej zamestnanosti a sociálneho pokroku
+
+V ktorom roku bol vytvorený Európsky sociálny fond?
++ v roku 1957
+- v roku 1993
+- v roku 2021
+= Hlavným nástrojom na boj proti nezamestnanosti bol Európsky sociálny fond, vytvorený v roku 1957.
+> ep-fs-54 | Hlavným nástrojom na boj proti nezamestnanosti bol Európsky sociálny fond, vytvorený v roku 1957
+
+@ins 3
+Na čo sa zameral Európsky sociálny fond po reforme v roku 1983?
++ na nezamestnanosť mladých ľudí a pomoc najviac postihnutým regiónom
+- na financovanie armád
+- na stavbu diaľnic
+= V roku 1983 nová reforma zmenila zameranie fondu na nezamestnanosť mladých ľudí a pomoc regiónom, ktoré ju najviac potrebovali.
+> ep-fs-53 | v roku 1983 nová reforma zmenila zameranie fondu na nezamestnanosť mladých ľudí a pomoc regiónom, ktoré ju najviac potrebovali
+
+@ins 3
+Ako sa zmenilo financovanie hospodárskej a sociálnej súdržnosti v období 1994 – 1999?
++ zdvojnásobilo sa
+- kleslo na polovicu
+- zrušilo sa
+= V období od roku 1994 do roku 1999 sa financovanie hospodárskej a sociálnej súdržnosti zdvojnásobilo.
+> ep-fs-53 | V období od roku 1994 do roku 1999 sa financovanie hospodárskej a sociálnej súdržnosti zdvojnásobilo.
+
+@ins 3
+V ktorom roku vznikla európska stratégia zamestnanosti?
++ v roku 1997
+- v roku 1957
+- v roku 2010
+= Informačný list opisuje európsku stratégiu zamestnanosti z roku 1997.
+> ep-fs-54 | Opisuje európsku stratégiu zamestnanosti z roku 1997
+
+@ins 3
+Ktorá smernica z roku 2006 je ústredným pilierom právnych predpisov EÚ v oblasti rodovej rovnosti?
++ smernica o rovnosti príležitostí
+- smernica o službách
+- smernica o pracovnom čase
+= Smernica o rovnosti príležitostí z roku 2006 slúži ako ústredný pilier právnych predpisov EÚ v oblasti rodovej rovnosti.
+> ep-fs-59 | Smernica o rovnosti príležitostí z roku 2006 slúži ako ústredný pilier právnych predpisov EÚ v oblasti rodovej rovnosti.
+
+Kedy prijala EÚ svoju prvú smernicu o boji proti násiliu na ženách a domácemu násiliu?
++ v roku 2024
+- v roku 1957
+- v roku 2000
+= EÚ prijala svoju prvú smernicu o boji proti násiliu na ženách a domácemu násiliu v roku 2024.
+> ep-fs-59 | EÚ prijala svoju prvú smernicu o boji proti násiliu na ženách a domácemu násiliu v roku 2024.
+
+@ins 3
+Ktorý článok Charty základných práv EÚ zaručuje rovnosť žien a mužov „vo všetkých oblastiach vrátane zamestnania, práce a odmeňovania“?
++ článok 23
+- článok 2
+- článok 50
+= V Charte sú zásady rovnosti (článok 21) vrátane rovnosti medzi ženami a mužmi vo všetkých oblastiach (článok 23).
+> ep-fs-59 | „vo všetkých oblastiach vrátane zamestnania, práce a odmeňovania“ (článok 23)
+
+@ins 3
+Ktorou zmluvou bolo odstránenie sociálneho vylúčenia zakotvené ako cieľ sociálnej politiky EÚ?
++ Amsterdamskou zmluvou (1999)
+- Rímskou zmluvou (1957)
+- Jednotným európskym aktom (1987)
+= Situácia sa zmenila nadobudnutím platnosti Amsterdamskej zmluvy v roku 1999, v ktorej je odstránenie sociálneho vylúčenia zakotvené ako cieľ.
+> ep-fs-60 | Situácia sa zmenila nadobudnutím platnosti Amsterdamskej zmluvy v roku 1999, v ktorej je odstránenie sociálneho vylúčenia zakotvené ako cieľ sociálnej politiky EÚ.
+
+@ins 3
+V ktorom roku bol zriadený Výbor pre sociálnu ochranu?
++ v roku 2000
+- v roku 1975
+- v roku 2017
+= V roku 2000 bol zriadený Výbor pre sociálnu ochranu na podporu spolupráce v oblasti politík sociálnej ochrany.
+> ep-fs-60 | V roku 2000 bol zriadený Výbor pre sociálnu ochranu
+
+Ktorá zmluva zriadila koordináciu systémov sociálneho zabezpečenia, aby pracovníci mohli využívať voľný pohyb?
++ Rímska zmluva z roku 1957
+- Lisabonská zmluva z roku 2007
+- Zmluva z Nice z roku 2001
+= Rímskou zmluvou z roku 1957 bola zriadená koordinácia systémov sociálneho zabezpečenia členských štátov.
+> ep-fs-52 | Rímskou zmluvou z roku 1957 bola zriadená koordinácia systémov sociálneho zabezpečenia členských štátov.

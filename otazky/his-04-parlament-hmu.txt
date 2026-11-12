@@ -1,0 +1,149 @@
+#kat his
+#n 2
+
+@his 3
+Koľko poslancov malo Európske parlamentné zhromaždenie pri prvom zasadnutí v roku 1958?
++ 142
+- 410
+- 720
+= Nové zhromaždenie so 142 poslancami sa po prvý raz stretlo 19. marca 1958 v Štrasburgu.
+> ep-fs-11 | Nové zhromaždenie so 142 poslancami sa po prvý raz stretlo 19. marca 1958 v Štrasburgu
+
+@his 3
+Koľko poslancov bolo zvolených v prvých priamych voľbách do Európskeho parlamentu v roku 1979?
++ 410
+- 142
+- 751
+= V prvých priamych voľbách 7. – 10. júna 1979 bolo zvolených 410 poslancov.
+> ep-fs-11 | Vo všeobecnom hlasovaní bolo zvolených 410 poslancov.
+
+Kedy sa konali prvé priame voľby do Európskeho parlamentu?
++ 7. – 10. júna 1979
+- 25. marca 1957
+- 9. mája 1950
+= Prvé priame voľby do Európskeho parlamentu sa konali v dňoch 7. až 10. júna 1979.
+> ep-fs-11 | sa v dňoch 7. až 10. júna 1979 konali prvé priame voľby do Európskeho parlamentu
+
+@his 3
+Ako sa zmenil počet poslancov EP po prvom rozšírení v roku 1973?
++ zo 142 na 198
+- zo 410 na 434
+- zo 518 na 567
+= Po pristúpení Dánska, Írska a Spojeného kráľovstva 1. januára 1973 sa počet poslancov zvýšil zo 142 na 198.
+> ep-fs-11 | sa počet poslancov EP zvýšil zo 142 na 198
+
+@his 3
+Koľkých poslancov EP vymenoval grécky parlament po vstupe Grécka v roku 1981?
++ 24
+- 60
+- 12
+= Pri druhom rozšírení 1. januára 1981 vymenoval grécky parlament 24 gréckych poslancov EP.
+> ep-fs-11 | vymenoval grécky parlament 24 gréckych poslancov EP
+
+@his 3
+Kedy sa konali druhé priame voľby do Európskeho parlamentu?
++ 14. a 17. júna 1984
+- 7. až 10. júna 1979
+- v júni 1994
+= Druhé priame voľby sa konali 14. a 17. júna 1984.
+> ep-fs-11 | Druhé priame voľby sa konali 14. a 17. júna 1984.
+
+@his 3
+Koľko španielskych poslancov pribudlo do Európskeho parlamentu pri rozšírení v roku 1986?
++ 60
+- 24
+- 15
+= Pri treťom rozšírení 1. januára 1986 pribudlo 60 španielskych a 24 portugalských poslancov EP.
+> ep-fs-11 | keď pribudlo 60 španielskych a 24 portugalských poslancov EP
+
+@his 3
+Na koľko sa zvýšil počet poslancov EP od volieb v júni 1994?
++ z 518 na 567
+- zo 142 na 198
+- zo 705 na 720
+= Počet poslancov EP sa zvýšil z 518 na 567 od volieb v júni 1994.
+> ep-fs-11 | sa počet poslancov EP zvýšil z 518 na 567 od volieb v júni 1994
+
+Koľko členských štátov EÚ v súčasnosti tvorí eurozónu?
++ 21
+- 19
+- 27
+= Eurozónu v súčasnosti tvorí 21 členských štátov EÚ (Bulharsko sa pripojilo 1. januára 2026).
+> ep-fs-79 | V eurozóne, ktorú v súčasnosti tvorí 21 členských štátov EÚ
+
+Na ktorom samite si v roku 1969 hlavy štátov a vlád stanovili cieľ hospodárskej a menovej únie (HMÚ)?
++ na samite v Haagu
+- na samite v Paríži
+- na samite v Madride
+= Na samite v Haagu v roku 1969 hlavy štátov a predsedovia vlád vymedzili nový cieľ: hospodársku a menovú úniu.
+> ep-fs-79 | Na samite v Haagu v roku 1969 hlavy štátov a predsedovia vlád vymedzili nový cieľ európskej integrácie: hospodársku a menovú úniu (HMÚ).
+
+@his 3
+Ktorý luxemburský premiér predsedal skupine, ktorá vypracovala prvý plán hospodárskej a menovej únie?
++ Pierre Werner
+- Jean-Claude Juncker
+- Joseph Bech
+= Skupina, ktorej predsedal luxemburský premiér Pierre Werner, vypracovala správu o budovaní úplnej HMÚ.
+> ep-fs-79 | Skupina, ktorej predsedal vtedajší luxemburský premiér Pierre Werner
+
+@his 3
+Ako sa nazýval mechanizmus obmedzenej fluktuácie mien vytvorený v roku 1972?
++ menový had („had v tuneli“)
+- menový most
+- zlatý štandard
+= V roku 1972 vznikol tzv. menový had („had v tuneli“) – kontrolovaný mechanizmus fluktuácie národných mien.
+> ep-fs-79 | vytvorením tzv. menového hada (v doslovnom preklade „had v tuneli“)
+
+V ktorom roku bol zavedený Európsky menový systém (EMS)?
++ v roku 1978 (samit v Bruseli)
+- v roku 1957
+- v roku 1999
+= Snahy o menovú stabilitu boli obnovené v roku 1978 na samite v Bruseli zavedením Európskeho menového systému (EMS).
+> ep-fs-79 | Snahy vytvoriť priestor menovej stability boli obnovené v roku 1978 na samite v Bruseli zavedením Európskeho menového systému (EMS)
+
+Kto viedol výbor, ktorý v roku 1989 navrhol zavedenie hospodárskej a menovej únie v troch etapách?
++ Jacques Delors
+- Robert Schuman
+- Helmut Kohl
+= Výbor pre výskum HMÚ viedol Jacques Delors, vtedajší predseda Európskej komisie; Delorsova správa navrhla HMÚ v troch etapách.
+> ep-fs-79 | Výbor pre výskum HMÚ, ktorý viedol Jacques Delors, vtedajší predseda Európskej komisie
+
+@his 3
+Do kedy mala byť podľa rozhodnutia Európskej rady v Madride (1989) dosiahnutá úplná liberalizácia pohybu kapitálu – prvá etapa HMÚ?
++ do 1. júla 1990
+- do 1. januára 1999
+- do 1. mája 2004
+= Európska rada v Madride v roku 1989 rozhodla o prvej etape HMÚ – úplnej liberalizácii pohybov kapitálu do 1. júla 1990.
+> ep-fs-79 | úplnej liberalizácie pohybov kapitálu do 1. júla 1990
+
+@his 3
+Ktoré krajiny zostali v menovom hadovi ako tzv. územie nemeckej marky?
++ Nemecko, krajiny Beneluxu a Dánsko
+- Francúzsko, Taliansko a Španielsko
+- Spojené kráľovstvo a Írsko
+= Z mechanizmu hada napokon ostalo len územie nemeckej marky – Nemecko, krajiny Beneluxu a Dánsko.
+> ep-fs-79 | územie nemeckej marky, ktoré tvorilo Nemecko, krajiny Beneluxu a Dánsko
+
+@his 3
+V ktorom roku boli prijaté prvé nariadenia o spoločnej poľnohospodárskej politike?
++ v roku 1962
+- v roku 1957
+- v roku 1992
+= V roku 1962 boli prijaté prvé nariadenia o SPP a vznikol Európsky poľnohospodársky usmerňovací a záručný fond.
+> ep-fs-2 | V roku 1962 boli prijaté prvé nariadenia o spoločnej poľnohospodárskej politike (SPP)
+
+@his 3
+Ktorá zmluva z 22. apríla 1970 udelila Európskemu parlamentu prvé rozpočtové právomoci?
++ Luxemburská zmluva
+- Zmluva o zlúčení
+- Jednotný európsky akt
+= Luxemburská zmluva z 22. apríla 1970 udelila Parlamentu určité rozpočtové právomoci.
+> ep-fs-2 | Luxemburská zmluva z 22. apríla 1970 udelila Parlamentu určité rozpočtové právomoci
+
+@his 3
+Kedy nadobudla platnosť Zmluva o zlúčení výkonných orgánov troch Spoločenstiev?
++ v roku 1967
+- v roku 1965
+- v roku 1958
+= Zmluva o zlúčení z 8. apríla 1965 nadobudla platnosť v roku 1967 a založila jednotnú Radu a Komisiu Európskych spoločenstiev.
+> ep-fs-2 | Nadobudla platnosť v roku 1967, založila jednotnú Radu a Komisiu Európskych spoločenstiev

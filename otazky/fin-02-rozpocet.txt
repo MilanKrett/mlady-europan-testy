@@ -1,0 +1,196 @@
+#kat fin
+#n 2
+
+@fin 3
+Na koľko percent hrubého národného dôchodku (HND) EÚ sú v súčasnosti obmedzené vlastné zdroje, ktoré možno ročne využiť?
++ na 1,4 %
+- na 14 %
+- na 0,1 %
+= Podľa rozhodnutia zo 14. decembra 2020 je výška vlastných zdrojov obmedzená na maximálne 1,4 % HND EÚ.
+> ep-fs-27 | je výška vlastných zdrojov, ktoré možno ročne využiť, v súčasnosti obmedzená na maximálne 1,4 % hrubého národného dôchodku (HND) EÚ
+
+Čo tvoria najmä „tradičné“ vlastné zdroje rozpočtu EÚ?
++ dovozné clá
+- dane z príjmu občanov
+- poplatky za víza
+= „Tradičné“ vlastné zdroje tvoria najmä dovozné clá a vyberajú sa od roku 1970.
+> ep-fs-27 | Vlastné zdroje „Tradičné“ vlastné zdroje tvoria najmä dovozné clá a vyberajú sa od roku 1970.
+
+@fin 3
+Aký podiel z vybraných ciel si môžu členské štáty ponechať na pokrytie nákladov na ich výber?
++ 25 %
+- 2 %
+- 50 %
+= Percentuálny podiel, ktorý si členské štáty môžu ponechať na pokrytie nákladov na výber, je 25 %.
+> ep-fs-27 | Percentuálny podiel, ktorý si členské štáty môžu ponechať na pokrytie nákladov na ich výber, je 25 %.
+
+@fin 3
+Štát vybral na dovozných clách 100 miliónov eur. Koľko z toho odvedie do rozpočtu EÚ, ak si môže ponechať 25 % na náklady výberu?
++ 75 miliónov eur
+- 25 miliónov eur
+- 100 miliónov eur
+= Štát si ponechá 25 % (25 mil. €), do rozpočtu EÚ odvedie 75 mil. €.
+> ep-fs-27 | Percentuálny podiel, ktorý si členské štáty môžu ponechať na pokrytie nákladov na ich výber, je 25 %.
+
+@ins 3
+Kedy bolo prijaté rozhodnutie, ktoré zabezpečilo Európskemu hospodárskemu spoločenstvu vlastné zdroje?
++ 21. apríla 1970
+- 25. marca 1957
+- 1. januára 1999
+= Rozhodnutím o vlastných zdrojoch z 21. apríla 1970 sa EHS zabezpečili vlastné zdroje.
+> ep-fs-27 | Rozhodnutím o vlastných zdrojoch z 21. apríla 1970 sa Európskemu hospodárskemu spoločenstvu (EHS) zabezpečili vlastné zdroje.
+
+@fin 3
+Akou sadzbou platia štáty do rozpočtu EÚ za nerecyklovaný odpad z plastových obalov?
++ 0,80 EUR za kilogram
+- 8 EUR za kilogram
+- 0,08 EUR za tonu
+= Od 1. januára 2021 platia štáty príspevok podľa množstva nerecyklovaného odpadu z plastových obalov pri sadzbe 0,80 EUR/kg.
+> ep-fs-27 | na základe množstva nerecyklovaného odpadu z plastových obalov pri sadzbe 0,80 EUR na kilogram
+
+@fin 3
+Štát vyprodukoval 1 000 ton nerecyklovaného odpadu z plastových obalov. Koľko zaplatí do rozpočtu EÚ pri sadzbe 0,80 EUR/kg?
++ 800 000 EUR
+- 80 000 EUR
+- 8 000 EUR
+= 1 000 ton = 1 000 000 kg × 0,80 € = 800 000 €.
+> ep-fs-27 | pri sadzbe 0,80 EUR na kilogram
+
+@fin 3
+Odkedy existuje vlastný zdroj rozpočtu EÚ založený na odpade z plastových obalov?
++ od 1. januára 2021
+- od 1. januára 2004
+- od 1. mája 1999
+= Vlastný zdroj založený na odpade z plastových obalov bol zavedený od 1. januára 2021.
+> ep-fs-27 | Vlastný zdroj založený na odpade z plastových obalov bol zavedený od 1. januára 2021
+
+@fin 3
+Približne aký podiel príjmov z vlastných zdrojov predstavuje zdroj založený na DPH?
++ približne 10 %
+- približne 50 %
+- približne 90 %
+= Zdroj založený na DPH v súčasnosti predstavuje približne 10 % príjmov z vlastných zdrojov.
+> ep-fs-27 | Zdroj založený na DPH v súčasnosti predstavuje približne 10 % príjmov z vlastných zdrojov.
+
+Môžu celkové výdavky rozpočtu EÚ presiahnuť jeho celkové príjmy?
++ nie, rozpočet musí byť vyrovnaný
+- áno, bez obmedzenia
+- áno, o 1,4 % ročne
+= Rozpočet EÚ podlieha zásade prísnej vyrovnanosti (článok 310 ZFEÚ) – celkové výdavky nemôžu presiahnuť celkové príjmy.
+> ep-fs-28 | Rozpočet EÚ podlieha zásade prísnej vyrovnanosti zakotvenej v článku 310 ZFEÚ
+
+@fin 3
+Koľkými všeobecnými zásadami sa riadi rozpočet EÚ (napr. jednotnosť, ročná platnosť, vyrovnanosť)?
++ deviatimi
+- tromi
+- dvanástimi
+= Rozpočet EÚ sa riadi deviatimi všeobecnými zásadami – jednotnosti, presnosti, ročnej platnosti, vyrovnanosti, zúčtovacej jednotky, všeobecnosti, špecifikácie, správneho finančného riadenia a transparentnosti.
+> ep-fs-28 | Rozpočet EÚ sa riadi deviatimi všeobecnými zásadami
+
+V akej mene sa zostavuje rozpočet EÚ (zásada zúčtovacej jednotky)?
++ v eurách
+- v amerických dolároch
+- v mene predsedajúceho štátu
+= Jednou z deviatich zásad rozpočtu je zásada zúčtovacej jednotky (euro).
+> ep-fs-28 | zúčtovacej jednotky (euro)
+
+@fin 3
+Od ktorého roka sa výdavky EÚ stanovujú vo viacročnom rámci?
++ od roku 1988
+- od roku 1958
+- od roku 2004
+= Od roku 1988 sa výdavky EÚ stanovujú vo viacročnom rámci rozdelenom do okruhov so stropmi výdavkov.
+> ep-fs-28 | Od roku 1988 sa výdavky EÚ stanovujú vo viacročnom rámci
+
+@ins 3
+Koľko viacročných finančných rámcov bolo doteraz prijatých (vrátane VFR 2021 – 2027)?
++ šesť
+- tri
+- desať
+= Doteraz bolo prijatých šesť VFR vrátane VFR na roky 2021 – 2027.
+> ep-fs-29 | Doteraz bolo prijatých šesť VFR vrátane VFR na roky 2021 – 2027.
+
+Ako sa nazýva plán obnovy EÚ po pandémii COVID-19, ktorý dočasne dopĺňa VFR 2021 – 2027?
++ NextGenerationEU
+- Horizont Európa
+- Marshallov plán
+= Komisia 27. mája 2020 predložila plán obnovy NextGenerationEU s nástrojom obnovy v hodnote 750 miliárd EUR.
+> ep-fs-29 | Komisia predložila 27. mája 2020 plán obnovy (NextGenerationEU)
+
+@fin 3
+Akú hodnotu mal nástroj obnovy NextGenerationEU (v cenách z roku 2018)?
++ 750 miliárd EUR
+- 75 miliárd EUR
+- 7,5 bilióna EUR
+= Nástroj obnovy mal hodnotu 750 miliárd EUR (v cenách z roku 2018).
+> ep-fs-29 | vytvorenie nástroja obnovy v hodnote 750 miliárd EUR (v cenách z roku 2018)
+
+@ins 3
+Ako sa označuje prvý finančný výhľad na roky 1988 – 1992, ktorý mal zabezpečiť zdroje na Jednotný európsky akt?
++ balík Delors I
+- Marshallov plán
+- Agenda 2000
+= Prvá medziinštitucionálna dohoda (1988) obsahovala finančný výhľad na roky 1988 – 1992 – balík Delors I.
+> ep-fs-29 | Obsahovala finančný výhľad na roky 1988 – 1992, ktorý sa tiež označuje ako balík opatrení Delors I
+
+@fin 3
+Približne aká časť rozpočtu EÚ sa plní zdieľaným riadením (prostriedky rozdeľujú členské štáty)?
++ približne 70 %
+- približne 20 %
+- približne 10 %
+= Približne 70 % rozpočtu sa plní zdieľaným riadením, asi 20 % priamym riadením Komisie a 10 % nepriamym riadením.
+> ep-fs-30 | V praxi sa približne 70 % rozpočtu plní zdieľaným riadením
+
+Ako sa nazýva spôsob plnenia rozpočtu EÚ, pri ktorom prostriedky rozdeľujú a spravujú členské štáty?
++ zdieľané riadenie
+- priame riadenie
+- centrálne plánovanie
+= Pri zdieľanom riadení členské štáty rozdeľujú finančné prostriedky a hospodária s výdavkami.
+> ep-fs-30 | delegovaním na členské štáty („zdieľané riadenie“)
+
+@ins 3
+Ktoré dve inštitúcie spolu tvoria rozpočtový orgán EÚ?
++ Európsky parlament a Rada EÚ
+- Komisia a ECB
+- Európska rada a Dvor audítorov
+= Európsky parlament a Rada EÚ spolu tvoria rozpočtový orgán EÚ.
+> ep-fs-31 | Európskemu parlamentu a Rade EÚ (ktoré spolu tvoria rozpočtový orgán EÚ)
+
+@ins 3
+Plnenie rozpočtu za ktorý rok skúma Výbor EP pre kontrolu rozpočtu?
++ za predminulý rok (rok n-2)
+- za aktuálny rok
+- za nasledujúci rok
+= Výbor Európskeho parlamentu pre kontrolu rozpočtu skúma plnenie rozpočtu za predminulý rok (rok n-2).
+> ep-fs-31 | Výbor Európskeho parlamentu pre kontrolu rozpočtu skúma plnenie rozpočtu za predminulý rok (rok n-2).
+
+V ktorom roku bol zriadený Európsky úrad pre boj proti podvodom (OLAF)?
++ v roku 1999
+- v roku 1958
+- v roku 2017
+= Úrad OLAF bol zriadený v roku 1999.
+> ep-fs-32 | Úrad OLAF bol zriadený v roku 1999.
+
+@fin 3
+Ako sa volali programy EÚ na ochranu finančných záujmov EÚ (2004 – 2020), ktoré spravoval OLAF?
++ Hercule
+- Erasmus
+- Galileo
+= V roku 2004 bol zavedený prvý program Hercule, po ňom Hercule II (2007 – 2013) a Hercule III (2014 – 2020).
+> ep-fs-32 | V roku 2004 bol zavedený prvý program Hercule
+
+@fin 3
+Aký rozpočet má program EÚ pre boj proti podvodom v období 2021 – 2027, ktorý riadi OLAF?
++ približne 181 miliónov EUR
+- približne 18 miliárd EUR
+- približne 1,8 milióna EUR
+= Nový program EÚ pre boj proti podvodom riadi OLAF a jeho rozpočet je približne 181 miliónov EUR.
+> ep-fs-32 | Riadi ho úrad OLAF a jeho rozpočet je približne 181 miliónov EUR.
+
+@fin 3
+Odkedy je v prevádzke centrálny elektronický systém informácií o platbách (CESOP) proti daňovým podvodom?
++ od 1. januára 2024
+- od 1. januára 2002
+- od 1. mája 2004
+= Centrálny elektronický systém informácií (CESOP) o platbách je v prevádzke od 1. januára 2024.
+> ep-fs-32 | Centrálny elektronický systém informácií (CESOP) o platbách je v prevádzke od 1. januára 2024.

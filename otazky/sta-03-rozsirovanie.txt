@@ -1,0 +1,214 @@
+#kat sta
+#n 2
+
+Kedy začalo Severné Macedónsko prístupové rokovania s EÚ?
++ v roku 2022
+- v roku 2004
+- v roku 2013
+= Severné Macedónsko začalo prístupové rokovania v roku 2022 a Bosna a Hercegovina v roku 2024.
+> ep-fs-167 | Severné Macedónsko začalo prístupové rokovania v roku 2022
+
+@sta 3
+Kedy začala Bosna a Hercegovina prístupové rokovania s EÚ?
++ v roku 2024
+- v roku 2009
+- v roku 2016
+= Bosna a Hercegovina začala prístupové rokovania v roku 2024.
+> ep-fs-167 | Bosna a Hercegovina v roku 2024
+
+V ktorom roku podalo Kosovo žiadosť o členstvo v EÚ?
++ v roku 2022
+- v roku 2008
+- v roku 2015
+= Kosovo podalo žiadosť o členstvo v EÚ v roku 2022.
+> ep-fs-167 | Kosovo podalo žiadosť o členstvo v EÚ v roku 2022.
+
+S ktorými dvoma krajinami EÚ v roku 2023 rozhodla začať prístupové rokovania?
++ s Moldavskom a Ukrajinou
+- s Tureckom a Gruzínskom
+- so Srbskom a Albánskom
+= V roku 2023 EÚ rozhodla o začatí prístupových rokovaní s Moldavskom a Ukrajinou a udelila Gruzínsku štatút kandidátskej krajiny.
+> ep-fs-167 | V roku 2023 EÚ rozhodla o začatí prístupových rokovaní s Moldavskom a Ukrajinou
+
+Ktorá krajina získala v roku 2023 štatút kandidátskej krajiny EÚ?
++ Gruzínsko
+- Nórsko
+- Švajčiarsko
+= V roku 2023 EÚ udelila Gruzínsku štatút kandidátskej krajiny.
+> ep-fs-167 | udelení Gruzínsku štatút kandidátskej krajiny
+
+Ako sa nazývajú kritériá na vstup do EÚ stanovené Európskou radou v roku 1993?
++ kodanské kritériá
+- maastrichtské kritériá
+- schengenské kritériá
+= Kodanské kritériá, stanovené Európskou radou v roku 1993 v Kodani, majú zásadný význam pri integrácii kandidátskych krajín.
+> ep-fs-167 | Kodanské kritériá, stanovené Európskou radou v roku 1993 v Kodani
+
+@sta 3
+Do koľkých politických kapitol je rozdelený súbor právnych predpisov EÚ (acquis) pri prístupových rokovaniach?
++ do viac ako 30
+- do 5
+- do 100
+= Súbor právnych predpisov EÚ (acquis communautaire) je rozdelený do viac ako 30 politických kapitol.
+> ep-fs-167 | Súbor právnych predpisov EÚ (acquis communautaire) je rozdelený do viac ako 30 politických kapitol.
+
+@sta 3
+Ako rozhoduje Európska rada o udelení štatútu kandidátskej krajiny?
++ jednomyseľne
+- jednoduchou väčšinou
+- o tom rozhoduje sama Komisia
+= Hlavy štátov alebo predsedovia vlád môžu hlasovaním v Európskej rade jednomyseľne rozhodnúť o udelení štatútu kandidátskej krajiny.
+> ep-fs-167 | môžu hlavy štátov alebo predsedovia vlád EÚ hlasovaním v Európskej rade jednomyseľne rozhodnúť, že krajine udelia štatút kandidátskej krajiny
+
+Ktoré územie pristúpilo v roku 1973 ako súčasť Dánska, ale v roku 1985 z Európskych spoločenstiev vystúpilo?
++ Grónsko
+- Island
+- Faerské ostrovy
+= Grónsko ako súčasť Dánska pristúpilo v roku 1973, ale neskôr v roku 1985 vystúpilo.
+> ep-fs-167 | Grónsko ako súčasť Dánska pristúpilo v roku 1973, ale neskôr v roku 1985 vystúpilo.
+
+@sta 3
+Koľko percent Nórov hlasovalo v referende v roku 1994 proti členstvu v EÚ?
++ 52 %
+- 92 %
+- 25 %
+= Nórsko odmietlo pristúpenie po referende, v ktorom 52 % hlasovalo proti členstvu v EÚ.
+> ep-fs-167 | v ktorom 52 % hlasovalo proti členstvu v EÚ
+
+Ktoré krajiny vstúpili do EÚ v roku 1986?
++ Portugalsko a Španielsko
+- Rakúsko a Fínsko
+- Bulharsko a Rumunsko
+= Rozšírenie v roku 1986 upevnilo demokraciu v Portugalsku a Španielsku.
+> ep-fs-167 | Portugalsko Španielsko | 1986
+
+V ktorom roku vstúpilo do Európskych spoločenstiev Grécko?
++ v roku 1981
+- v roku 1973
+- v roku 1995
+= Grécko vstúpilo v roku 1981; pristúpenie upevnilo demokraciu v krajine.
+> ep-fs-167 | Grécko | 1981 | Pristúpenie Grécka upevnilo demokraciu v krajine.
+
+@sta 3
+Ako sa nazýva mechanizmus, ktorým EÚ po vstupe monitorovala reformy súdnictva a boj proti korupcii v Bulharsku a Rumunsku?
++ mechanizmus spolupráce a overovania
+- Pakt stability
+- mechanizmus solidarity
+= V Bulharsku a Rumunsku bol zavedený „mechanizmus spolupráce a overovania“ na monitorovanie pokroku po pristúpení.
+> ep-fs-167 | bol zavedený „mechanizmus spolupráce a overovania“
+
+@sta 3
+Ktoré rokovacie kapitoly sa podľa nového prístupu otvárajú pri prístupových rokovaniach ako prvé a uzatvárajú ako posledné?
++ kapitoly 23 a 24 (súdnictvo, základné práva, spravodlivosť a bezpečnosť)
+- kapitoly o poľnohospodárstve a rybárstve
+- kapitoly o kultúre a športe
+= Kapitoly 23 (reforma súdnictva a základné práva) a 24 (spravodlivosť, sloboda a bezpečnosť) sa otvárajú v počiatočnej fáze a uzatvárajú ako posledné.
+> ep-fs-167 | rokovacie kapitoly týkajúce sa reformy súdnictva a základných práv (kapitola 23) a spravodlivosti, slobody a bezpečnosti (kapitola 24) sa otvoria už v počiatočnej fáze
+
+Ktorá krajina západného Balkánu vstúpila do EÚ ako prvá (1. júla 2013)?
++ Chorvátsko
+- Slovinsko
+- Srbsko
+= Chorvátsko sa 1. júla 2013 stalo prvou zo siedmich krajín západného Balkánu, ktorá pristúpila k EÚ.
+> ep-fs-168 | Chorvátsko sa 1. júla 2013 stalo prvou zo siedmich krajín, ktorá pristúpila k EÚ.
+
+@sta 3
+V ktorom roku začala EÚ proces stabilizácie a pridruženia so západným Balkánom?
++ v roku 1999
+- v roku 2013
+- v roku 1989
+= EÚ začala v roku 1999 proces stabilizácie a pridruženia (PSP) s krajinami západného Balkánu.
+> ep-fs-168 | EÚ začala v roku 1999 proces stabilizácie a pridruženia (PSP)
+
+@sta 3
+Kde Európska rada v roku 2003 potvrdila, že krajiny západného Balkánu sú potenciálnymi kandidátmi na členstvo?
++ v Solúne
+- v Kodani
+- v Lisabone
+= Európska rada v roku 2003 v Solúne potvrdila, že všetky krajiny zapojené do PSP sú potenciálnymi kandidátmi.
+> ep-fs-168 | Európska rada v roku 2003 v Solúne opätovne potvrdila
+
+@sta 3
+Aký vysoký je Nový plán rastu pre západný Balkán na roky 2024 – 2027?
++ 6 miliárd EUR
+- 600 miliónov EUR
+- 60 miliárd EUR
+= Komisia prijala v novembri 2023 Nový plán rastu pre západný Balkán vo výške 6 miliárd EUR.
+> ep-fs-168 | Komisia prijala v novembri 2023 Nový plán rastu pre západný Balkán vo výške 6 miliárd EUR
+
+@sta 3
+Kde sídli Rada pre regionálnu spoluprácu, ktorá v roku 2008 nahradila Pakt stability?
++ v Sarajeve
+- v Belehrade
+- v Bruseli
+= Rada pre regionálnu spoluprácu (RRS) so sídlom v Sarajeve nahradila v roku 2008 Pakt stability.
+> ep-fs-168 | Rada pre regionálnu spoluprácu (RRS) so sídlom v Sarajeve
+
+@sta 3
+Ako sa nazýva zlúčený nástroj, cez ktorý EÚ od roku 2007 poskytuje predvstupovú pomoc?
++ nástroj predvstupovej pomoci (IPA)
+- Kohézny fond
+- Erasmus+
+= Predvstupová pomoc EÚ sa od roku 2007 poskytuje cez nástroj predvstupovej pomoci (IPA).
+> ep-fs-168 | Predvstupová pomoc EÚ sa od roku 2007 poskytuje cez jeden zlúčený nástroj: nástroj predvstupovej pomoci (IPA).
+
+V ktorom roku bol vytvorený Európsky hospodársky priestor (EHP)?
++ v roku 1994
+- v roku 1957
+- v roku 2004
+= EHP bol vytvorený v roku 1994 s cieľom rozšíriť vnútorný trh EÚ na krajiny EZVO.
+> ep-fs-169 | Európsky hospodársky priestor (EHP) bol vytvorený v roku 1994
+
+Ktoré štyri krajiny sú členmi Európskeho združenia voľného obchodu (EZVO)?
++ Nórsko, Island, Lichtenštajnsko a Švajčiarsko
+- Nórsko, Švédsko, Fínsko a Dánsko
+- Švajčiarsko, Rakúsko, Monako a Andorra
+= EZVO tvoria Nórsko, Island, Lichtenštajnsko a Švajčiarsko.
+> ep-fs-169 | Európskeho združenia voľného obchodu (EZVO) – Nórsko, Island, Lichtenštajnsko a Švajčiarsko
+
+Ktorá krajina EZVO nie je členom Európskeho hospodárskeho priestoru?
++ Švajčiarsko
+- Nórsko
+- Island
+= EHP zahŕňa EÚ a troch zo štyroch členov EZVO (Island, Lichtenštajnsko, Nórsko); Švajčiarsko má s EÚ bilaterálne dohody.
+> ep-fs-169 | troch zo štyroch členov EZVO
+> ep-fs-169 | Pre Švajčiarsko: poistná zmluva z roku 1989, bilaterálne dohody I z roku 1999, bilaterálne dohody II z roku 2004.
+
+@sta 3
+Kedy nadobudla platnosť Dohoda o Európskom hospodárskom priestore?
++ 1. januára 1994
+- 1. mája 2004
+- 9. mája 1950
+= Dohoda o EHP bola podpísaná 2. mája 1992 a nadobudla platnosť 1. januára 1994.
+> ep-fs-169 | Dohoda o EHP bola podpísaná 2. mája 1992 a nadobudla platnosť 1. januára 1994.
+
+Koľko percent voličov hlasovalo v referende v Spojenom kráľovstve v roku 2016 za odchod z EÚ?
++ 51,9 %
+- 75 %
+- 48,1 %
+= Tesná väčšina voličov (51,9 %) hlasovala za odchod z Únie.
+> ep-fs-216 | Tesná väčšina voličov (51,9 %) hlasovala za odchod z Únie.
+
+@sta 3
+Ako sa nazýva dohoda z februára 2023, ktorá vyriešila uplatňovanie protokolu o Írsku/Severnom Írsku?
++ Windsorský rámec
+- Veľkopiatková dohoda
+- Dohoda z Chequers
+= Vo Windsorskom rámci (rozhodnutie Spoločného výboru 1/2023) sa stanovujú záväzné opatrenia na vykonávanie protokolu o Írsku/Severnom Írsku.
+> ep-fs-216 | Vo Windsorskom rámci, ktorý bol prijatý rozhodnutím Spoločného výboru 1/2023
+
+@akt 2
+Kedy a kde sa konal prvý samit EÚ – Spojené kráľovstvo, na ktorom vzniklo nové strategické partnerstvo?
++ 19. mája 2025 v Londýne
+- 31. januára 2020 v Bruseli
+- 9. mája 2026 v Štrasburgu
+= Prvý samit EÚ – Spojené kráľovstvo sa uskutočnil 19. mája 2025 v Londýne.
+> ep-fs-216 | k prvému samitu EÚ – Spojené kráľovstvo, ktorý sa uskutočnil 19. mája 2025 v Londýne
+
+@sta 3
+Odkedy upravuje vzťahy EÚ a Spojeného kráľovstva Dohoda o obchode a spolupráci?
++ od 1. januára 2021
+- od 31. januára 2020
+- od 1. januára 1973
+= Dohoda o obchode a spolupráci upravuje vzťah EÚ a Spojeného kráľovstva po brexite od 1. januára 2021.
+> ep-fs-216 | Dohoda o obchode a spolupráci, ktorá bola uzavretá oddelene od dohody o vystúpení, upravuje širší vzťah medzi EÚ a Spojeným kráľovstvom po brexite od 1. januára 2021.

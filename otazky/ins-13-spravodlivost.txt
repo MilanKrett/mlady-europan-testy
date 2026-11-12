@@ -1,0 +1,251 @@
+#kat ins
+#n 3
+
+Ktoré články ZFEÚ sa venujú priestoru slobody, bezpečnosti a spravodlivosti?
++ články 67 – 89
+- články 1 – 6
+- články 174 – 178
+= V ZFEÚ sa priestoru slobody, bezpečnosti a spravodlivosti venujú články 67 – 89 hlavy V tretej časti.
+> ep-fs-150 | sa priestoru slobody, bezpečnosti a spravodlivosti venujú články 67 – 89 hlavy V tretej časti
+
+Ktorá krajina EÚ sa nezúčastňuje na prijímaní opatrení v priestore slobody, bezpečnosti a spravodlivosti (hlava V ZFEÚ), ale schengenské acquis vykonáva medzivládne?
++ Dánsko
+- Slovensko
+- Rakúsko
+= Dánsko sa nezúčastňuje na prijímaní opatrení podľa hlavy V (protokol č. 22), no od roku 2001 vykonáva schengenské acquis na medzivládnom základe.
+> ep-fs-150 | Dánsko sa nezúčastňuje na prijímaní opatrení Radou podľa hlavy V tretej časti ZFEÚ
+
+S ktorým medzinárodným dohovorom musí byť v súlade azylová politika EÚ?
++ so Ženevským dohovorom o právnom postavení utečencov (1951)
+- s Viedenským dohovorom o diplomatických stykoch
+- s Kjótskym protokolom
+= Azylová politika musí byť v súlade so Ženevským dohovorom o právnom postavení utečencov z 28. júla 1951 a jeho protokolom z roku 1967.
+> ep-fs-151 | Táto politika musí byť v súlade so Ženevským dohovorom o právnom postavení utečencov z 28. júla 1951
+
+Ako sa skratkou označuje spoločný európsky azylový systém?
++ CEAS
+- SEPA
+- CFSP
+= Európska rada rozhodla v Tampere (1999), že vykonávanie spoločného európskeho azylového systému (CEAS) sa uskutoční v dvoch etapách.
+> ep-fs-151 | spoločného európskeho azylového systému (CEAS)
+
+Kedy prvýkrát v histórii uplatnila Rada smernicu o dočasnej ochrane z roku 2001?
++ po ruskej invázii na Ukrajinu vo februári 2022
+- počas migračnej krízy v roku 2015
+- po rozpade Juhoslávie v 90. rokoch
+= Rada prvýkrát uplatnila smernicu o dočasnej ochrane v reakcii na ruskú inváziu na Ukrajinu 24. februára 2022.
+> ep-fs-151 | Rada ju prvýkrát uplatnila v reakcii na bezprecedentnú ruskú inváziu na Ukrajinu 24. februára 2022
+
+@akt 3
+Do kedy sa v súčasnosti uplatňuje dočasná ochrana pre ľudí utekajúcich z Ukrajiny?
++ do marca 2027
+- do decembra 2024
+- natrvalo, bez lehoty
+= Dočasná ochrana pre ľudí utekajúcich z Ukrajiny sa v súčasnosti uplatňuje do marca 2027.
+> ep-fs-151 | Dočasná ochrana pre ľudí utekajúcich z Ukrajiny sa v súčasnosti uplatňuje do marca 2027.
+
+Kedy predložila Komisia nový Pakt o migrácii a azyle?
++ 23. septembra 2020
+- 14. júna 1985
+- 1. mája 2004
+= Komisia predložila 23. septembra 2020 nový Pakt o migrácii a azyle.
+> ep-fs-151 | Komisia v snahe opäť spustiť pozastavenú reformu CEAS predložila 23. septembra 2020 nový Pakt o migrácii a azyle.
+
+Kedy bolo prijatých 10 právnych nástrojov Paktu o migrácii a azyle?
++ 14. mája 2024
+- 23. septembra 2020
+- 1. januára 2026
+= Po niekoľkých rokoch rokovaní bolo 14. mája 2024 prijatých 10 právnych nástrojov Paktu o migrácii a azyle.
+> ep-fs-151 | bolo 14. mája 2024 prijatých týchto 10 právnych nástrojov Paktu o migrácii a azyle
+
+@akt 3
+Kedy sa začnú uplatňovať nové pravidlá Paktu o migrácii a azyle?
++ v polovici roka 2026
+- v roku 2030
+- uplatňujú sa od roku 2020
+= Nové pravidlá paktu sa začnú uplatňovať v polovici roka 2026 (okrem nariadenia o presídľovaní, ktoré sa už uplatňuje).
+> ep-fs-152 | Nové pravidlá paktu sa začnú uplatňovať v polovici roka 2026
+
+Ktorá agentúra nahradila v roku 2022 Európsky podporný úrad pre azyl (EASO)?
++ Agentúra EÚ pre azyl (EUAA)
+- Frontex
+- Europol
+= Prvý návrh v rámci reformy, ktorý sa týkal zriadenia agentúry EUAA, bol schválený v roku 2022, čím sa nahradil úrad EASO.
+> ep-fs-151 | zriadenia agentúry EUAA, bol schválený v roku 2022, čím sa nahradil úrad EASO
+
+@akt 3
+Čo prijala Komisia v januári 2026 vôbec prvýkrát v oblasti víz?
++ vízovú stratégiu EÚ
+- spoločné víza pre celý svet
+- zrušenie všetkých víz
+= V januári 2026 Komisia prijala vôbec prvú vízovú stratégiu EÚ.
+> ep-fs-152 | V januári 2026 Komisia prijala vôbec prvú vízovú stratégiu EÚ
+
+Akou zásadou sa podľa článku 80 ZFEÚ spravujú prisťahovalecké politiky?
++ zásadou solidarity a spravodlivého rozdelenia zodpovednosti
+- zásadou jednomyseľnosti
+- zásadou voľného obchodu
+= Prisťahovalecké politiky sa spravujú zásadou solidarity a spravodlivého rozdelenia zodpovednosti medzi členskými štátmi.
+> ep-fs-152 | prisťahovalecké politiky sa spravujú zásadou solidarity a spravodlivého rozdelenia zodpovednosti medzi členskými štátmi
+
+Čo je modrá karta EÚ?
++ zrýchlené povolenie na pobyt a prácu pre vysokokvalifikovaných pracovníkov z tretích krajín
+- preukaz zdravotného poistenia
+- vodičský preukaz EÚ
+= Smernicou z roku 2009 sa zaviedla tzv. modrá karta EÚ – zrýchlený postup vydávania povolení pre vysokokvalifikované zamestnanie.
+> ep-fs-152 | zaviedla tzv. modrá karta EÚ
+
+Kedy bola naposledy zrevidovaná smernica o modrej karte EÚ?
++ v roku 2021
+- v roku 1999
+- v roku 2025
+= Pravidlá modrej karty boli po roku 2009 dvakrát zrevidované, naposledy v roku 2021.
+> ep-fs-152 | Tieto pravidlá boli po roku 2009 dvakrát zrevidované, naposledy v roku 2021.
+
+Koľko európskych krajín v súčasnosti tvorí schengenský priestor?
++ 29
+- 27
+- 7
+= Schengenský priestor, zóna bez hraníc vytvorená schengenským acquis, v súčasnosti pozostáva z 29 európskych krajín.
+> ep-fs-153 | v súčasnosti pozostáva z 29 európskych krajín
+
+Koľko z desiatich členských štátov EHS podpísalo 14. júna 1985 Schengenskú dohodu?
++ päť
+- desať
+- dva
+= Päť z desiatich členských štátov vtedajšieho EHS podpísalo neďaleko luxemburského mesta Schengen medzinárodnú zmluvu.
+> ep-fs-153 | keď päť z desiatich členských štátov vtedajšieho Európskeho hospodárskeho spoločenstva podpísalo
+
+Čo je Schengenský informačný systém (SIS)?
++ databáza na výmenu záznamov o hľadaných alebo nezvestných osobách a predmetoch
+- systém na platby kartou
+- satelitná navigácia EÚ
+= SIS je systém na výmenu informácií a databáza, ktorú orgány využívajú na záznamy o hľadaných alebo nezvestných osobách a predmetoch.
+> ep-fs-153 | Orgány v celej EÚ využívajú systém SIS na vkladanie alebo overovanie záznamov o hľadaných alebo nezvestných osobách a predmetoch.
+
+Koľko zápisov obsahuje Schengenský informačný systém (SIS)?
++ viac ako 93 miliónov
+- približne 93 tisíc
+- viac ako 9 miliárd
+= SIS obsahuje viac ako 93 miliónov zápisov a v roku 2024 v ňom orgány vyhľadávali viac ako 15 miliárd ráz.
+> ep-fs-153 | Obsahuje viac ako 93 miliónov zápisov
+
+Čo nahrádza systém vstup/výstup (EES) na vonkajších hraniciach schengenu?
++ manuálne pečiatkovanie pasov
+- občianske preukazy
+- colné kontroly tovaru
+= Systém EES nahrádza manuálne pečiatkovanie pasov na hraniciach elektronickým záznamom v databáze.
+> ep-fs-153 | Systém EES nahrádza manuálne pečiatkovanie pasov na hraniciach elektronickým záznamom v databáze.
+
+@akt 3
+Kedy sa dokončí postupné zavádzanie systému vstup/výstup (EES) v celom schengenskom priestore?
++ 10. apríla 2026
+- 1. januára 2024
+- 31. decembra 2030
+= 10. apríla 2026 sa dokončí postupné zavádzanie systému EES v celom schengenskom priestore.
+> ep-fs-153 | 10. apríla 2026 sa dokončí postupné zavádzanie systému EES v celom schengenskom priestore.
+
+Ktorá agentúra EÚ je zodpovedná za vývoj a riadenie systému vstup/výstup (EES)?
++ eu-LISA
+- Frontex
+- Eurojust
+= Za vývoj a riadenie systému EES je zodpovedná agentúra EÚ eu-LISA.
+> ep-fs-153 | Za vývoj a riadenie systému je zodpovedná agentúra EÚ eu-LISA.
+
+Ktoré údaje zaznamenáva systém EES pri prekračovaní vonkajších hraníc schengenu?
++ meno, odtlačky prstov, vizuálny obraz, dátum a miesto vstupu a výstupu
+- len farbu očí
+- výšku príjmu cestujúceho
+= EES zaznamenáva meno, typ cestovného dokladu, odtlačky prstov, vizuálny obraz, dátum a miesto vstupu a výstupu.
+> ep-fs-153 | (meno, typ cestovného dokladu, odtlačky prstov, vizuálny obraz, dátum a miesto vstupu a výstupu)
+
+Kedy nadobudla účinnosť najnovšia reforma Kódexu schengenských hraníc?
++ 10. júla 2024
+- 14. júna 1985
+- 26. marca 1995
+= Najnovšia reforma Kódexu schengenských hraníc, nariadenie (EÚ) 2024/1717, nadobudla účinnosť 10. júla 2024.
+> ep-fs-153 | nadobudla účinnosť 10. júla 2024
+
+Na akej zásade je založená justičná spolupráca v trestných veciach v EÚ?
++ na zásade vzájomného uznávania rozsudkov a súdnych rozhodnutí
+- na zásade jednotného trestného zákonníka EÚ
+- na zásade, že súdi vždy Súdny dvor EÚ
+= Justičná spolupráca v trestných veciach je založená na zásade vzájomného uznávania rozsudkov a súdnych rozhodnutí.
+> ep-fs-155 | je justičná spolupráca v trestných veciach založená na zásade vzájomného uznávania rozsudkov a súdnych rozhodnutí
+
+Koľko členských štátov najmenej potrebuje posilnená spolupráca v trestných veciach, ak sa v Rade nedosiahne jednomyseľnosť?
++ aspoň deväť
+- aspoň dva
+- všetkých 27
+= Ak sa v Rade nedosiahne jednomyseľnosť, je stále možná posilnená spolupráca medzi aspoň deviatimi členskými štátmi.
+> ep-fs-155 | ešte stále je možná posilnená spolupráca medzi aspoň deviatimi členskými štátmi
+
+Od kedy pôsobí na Ukrajine spoločný vyšetrovací tím EÚ podporovaný Eurojustom?
++ od marca 2022
+- od roku 2014
+- od januára 2025
+= V súvislosti s agresiou Ruska pôsobí na Ukrajine od marca 2022 spoločný vyšetrovací tím EÚ podporovaný Eurojustom.
+> ep-fs-155 | pôsobí na Ukrajine od marca 2022 spoločný vyšetrovací tím (SVT) EÚ podporovaný Eurojustom
+
+Ako sa skratkou nazýva Medzinárodné centrum pre stíhanie zločinu agresie voči Ukrajine začlenené do Eurojustu?
++ ICPA
+- ICC
+- OLAF
+= Medzinárodné centrum pre stíhanie zločinu agresie voči Ukrajine (ICPA) je justičné centrum začlenené do Eurojustu.
+> ep-fs-155 | Medzinárodné centrum pre stíhanie zločinu agresie voči Ukrajine (ICPA), čo je justičné centrum začlenené do Eurojustu
+
+Čo umožňuje revidovaný mandát Eurojustu z roku 2022?
++ uchovávať a analyzovať dôkazy o vojnových zločinoch a genocíde
+- súdiť obžalovaných namiesto národných súdov
+- zatýkať podozrivých v členských štátoch
+= Revidovaný mandát umožňuje Eurojustu uchovať, analyzovať, ukladať a vymieňať si dôkazy o vojnových zločinoch, genocíde a zločinoch proti ľudskosti.
+> ep-fs-155 | umožňuje uchovať, analyzovať, ukladať a vymieňať si dôkazy o vojnových zločinoch, genocíde a zločinoch proti ľudskosti
+
+Ako sa volala medzivládna sieť z roku 1976, ktorou sa začala policajná spolupráca medzi štátmi Spoločenstva?
++ skupina Trevi
+- skupina Visegrad
+- Weimarský trojuholník
+= Policajná spolupráca sa začala v roku 1976 vytvorením medzivládnej siete tzv. skupiny Trevi.
+> ep-fs-156 | Policajná spolupráca medzi členskými štátmi sa začala v roku 1976 vytvorením medzivládnej siete zástupcov ministerstiev spravodlivosti a vnútorných vecí, tzv. skupiny Trevi.
+
+Kedy začal Europol oficiálne svoju činnosť?
++ 1. júla 1999
+- 26. júla 1995
+- 1. januára 1958
+= Dohovor o Europole bol podpísaný 26. júla 1995, ale úrad svoju činnosť oficiálne začal až 1. júla 1999.
+> ep-fs-156 | úrad svoju činnosť oficiálne začal až 1. júla 1999
+
+Kedy bol podpísaný Dohovor o Europole?
++ 26. júla 1995
+- 1. júla 1999
+- 9. mája 1950
+= Dohovor o Europole bol podpísaný 26. júla 1995.
+> ep-fs-156 | Dohovor o Europole bol podpísaný 26. júla 1995
+
+Ktorej medzinárodnej organizácie pre súkromné právo je EÚ od 3. apríla 2007 členom?
++ Haagskej konferencie medzinárodného práva súkromného
+- Svetovej obchodnej organizácie
+- Interpolu
+= EÚ je od 3. apríla 2007 členom Haagskej konferencie medzinárodného práva súkromného, ktorá má 91 členov.
+> ep-fs-154 | EÚ je od 3. apríla 2007 členom Haagskej konferencie medzinárodného práva súkromného
+
+Ako musí Rada prijať opatrenia v rodinnom práve s cezhraničnými dôsledkami?
++ jednomyseľne
+- jednoduchou väčšinou
+- bez hlasovania
+= Opatrenia týkajúce sa rodinného práva s cezhraničnými dôsledkami musí jednomyseľne prijať Rada (článok 81 ods. 3 ZFEÚ).
+> ep-fs-154 | Opatrenia týkajúce sa rodinného práva s cezhraničnými dôsledkami musí jednomyseľne prijať Rada
+
+Akú výšku prostriedkov má Nástroj na riadenie hraníc a víza (BMVI) na roky 2021 – 2027?
++ 7,92 miliardy EUR
+- 792 miliónov EUR
+- 79,2 miliardy EUR
+= Nástroj na riadenie hraníc a víza (BMVI) má na obdobie 2021 – 2027 celkové prostriedky 7,92 miliardy EUR.
+> ep-fs-153 | má na obdobie 2021 – 2027 celkové prostriedky vo výške 7,92 miliardy EUR
+
+Ktorá zmluva dala v roku 1993 spolupráci v oblasti azylu inštitucionálny rámec EÚ?
++ Maastrichtská zmluva
+- Rímska zmluva
+- Parížska zmluva
+= V Maastrichtskej zmluve z roku 1993 dostáva medzivládna spolupráca v oblasti azylu inštitucionálny rámec EÚ.
+> ep-fs-151 | V Maastrichtskej zmluve z roku 1993 dostáva predošlá medzivládna spolupráca v oblasti azylu inštitucionálny rámec EÚ.

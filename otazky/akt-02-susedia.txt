@@ -1,0 +1,143 @@
+#kat akt
+#n 2
+
+Kedy začala Ukrajina oficiálne prístupové rokovania s EÚ?
++ v júni 2024
+- v máji 2004
+- v januári 2020
+= Ukrajina získala štatút kandidátskej krajiny v júni 2022 a prístupové rokovania sa oficiálne začali v júni 2024.
+> ep-fs-171 | Ukrajina získala štatút kandidátskej krajiny EÚ v júni 2022 a prístupové rokovania sa oficiálne začali v júni 2024.
+
+Kedy získali Ukrajina a Moldavsko štatút kandidátskej krajiny EÚ?
++ v roku 2022
+- v roku 2014
+- v roku 2025
+= Moldavsku a Ukrajine bol v roku 2022 udelený štatút kandidátskej krajiny na členstvo v EÚ.
+> ep-fs-171 | Moldavsku a Ukrajine bol v roku 2022 udelený štatút kandidátskej krajiny na členstvo v EÚ
+
+@his 2
+Ako sa nazývajú proeurópske protesty na Ukrajine na prelome rokov 2013 a 2014?
++ Euromajdan („revolúcia dôstojnosti“)
+- Nežná revolúcia
+- Oranžová jar
+= Rozhodnutie prezidenta Janukovyča pozastaviť podpis dohody o pridružení podnietilo euromajdanské protesty, známe aj ako „revolúcia dôstojnosti“.
+> ep-fs-171 | Jeho rozhodnutie podnietilo euromajdanské protesty, známe aj ako „revolúcia dôstojnosti“
+
+@his 3
+Ktorý ukrajinský prezident koncom roka 2013 pozastavil podpísanie dohody o pridružení k EÚ?
++ Viktor Janukovyč
+- Volodymyr Zelenskyj
+- Petro Porošenko
+= Koncom roka 2013 vtedajší ukrajinský prezident Viktor Janukovyč pozastavil podpísanie dohody o pridružení k EÚ.
+> ep-fs-171 | keď vtedajší ukrajinský prezident Viktor Janukovyč pozastavil podpísanie dohody o pridružení k EÚ
+
+@sta 2
+Odkedy môžu ukrajinskí občania s biometrickým pasom cestovať do EÚ krátkodobo bez víz?
++ od júna 2017
+- od mája 2004
+- od februára 2022
+= Od júna 2017 ukrajinskí občania s biometrickými pasmi využívajú bezvízové krátkodobé cestovanie do EÚ.
+> ep-fs-171 | Od júna 2017 ukrajinskí občania, ktorí sú držiteľmi biometrických pasov, využívajú aj bezvízové krátkodobé cestovanie do EÚ.
+
+@his 2
+Kedy Rusko nezákonne anektovalo Krym?
++ v marci 2014
+- vo februári 2022
+- v auguste 2008
+= Nezákonná ruská anexia Krymu a invázia na východnú Ukrajinu v marci 2014 predstavovali začiatok ozbrojenej agresie Ruska voči Ukrajine.
+> ep-fs-171 | Nezákonná ruská anexia Krymu a invázia na východnú Ukrajinu v marci 2014
+
+@sta 3
+Kedy nadobudla plnú platnosť dohoda o pridružení medzi EÚ a Ukrajinou?
++ v septembri 2017
+- v marci 2014
+- v júni 2024
+= Dohoda o pridružení nadobudla plnú platnosť v septembri 2017 po predbežnom vykonávaní od roku 2014.
+> ep-fs-171 | Dohoda o pridružení medzi EÚ a Ukrajinou nadobudla plnú platnosť v septembri 2017
+
+@sta 2
+V ktorom roku vzniklo Východné partnerstvo EÚ so šiestimi krajinami bývalého Sovietskeho zväzu?
++ v roku 2009
+- v roku 1991
+- v roku 2022
+= Východné partnerstvo vzniklo v roku 2009 a spája EÚ so šiestimi krajinami bývalého Sovietskeho zväzu.
+> ep-fs-171 | Východného partnerstva EÚ, ktoré vzniklo v roku 2009 a spája EÚ so šiestimi krajinami bývalého Sovietskeho zväzu
+
+Ako označila Komisia v správe o rozšírení z novembra 2025 Gruzínsko?
++ ako kandidátsku krajinu už „len na papieri“
+- ako najpokročilejšieho kandidáta
+- ako budúceho člena v roku 2026
+= Komisia v správe o rozšírení z novembra 2025 dospela k záveru, že Gruzínsko je kandidátskou krajinou už „len na papieri“.
+> ep-fs-172 | Gruzínsko je kandidátskou krajinou na vstup do EÚ už „len na papieri“
+
+@akt 3
+Do ktorého roka sa vládnuca strana Gruzínsky sen v novembri 2024 rozhodla pozastaviť proces pristúpenia k EÚ?
++ do roku 2028
+- do roku 2030
+- natrvalo
+= V novembri 2024 sa strana Gruzínsky sen rozhodla pozastaviť proces pristúpenia k EÚ až do roku 2028, čo viedlo k protestom.
+> ep-fs-172 | V novembri 2024 sa vládnuca strana Gruzínsky sen rozhodla pozastaviť proces pristúpenia krajiny k EÚ až do roku 2028
+
+@akt 3
+Čo pozastavila Komisia v marci 2026 v reakcii na vývoj v Gruzínsku?
++ bezvízový styk pre gruzínskych diplomatov a úradníkov
+- všetky lety do Gruzínska
+- členstvo Gruzínska v OSN
+= Komisia v marci 2026 pozastavila bezvízový styk pre gruzínskych diplomatov a úradníkov.
+> ep-fs-172 | Komisia v marci 2026 pozastavila bezvízový styk pre gruzínskych diplomatov a úradníkov.
+
+@akt 3
+Ktorý gruzínsky zákon z mája 2024 prispel k de facto zastaveniu prístupového procesu Gruzínska?
++ zákon o transparentnosti zahraničného vplyvu
+- zákon o eure
+- zákon o vstupe do NATO
+= Situácia sa zhoršila najmä prijatím zákona o transparentnosti zahraničného vplyvu v máji 2024.
+> ep-fs-172 | v dôsledku prijatia zákona o transparentnosti zahraničného vplyvu v máji 2024
+
+@sta 3
+Koľko konkrétnych krokov mala Gruzínsko splniť pri udelení štatútu kandidátskej krajiny v decembri 2023?
++ deväť
+- tri
+- dvadsaťsedem
+= V decembri 2023 Európska rada udelila Gruzínsku štatút kandidátskej krajiny s požiadavkou prijať deväť konkrétnych krokov.
+> ep-fs-172 | s požiadavkou, aby prijalo deväť konkrétnych krokov, ktoré určila Komisia
+
+@sta 3
+Aký je celkový rozpočet nástroja NDICI – Globálna Európa na roky 2021 – 2027?
++ 79,5 miliardy EUR
+- 7,95 miliardy EUR
+- 795 miliárd EUR
+= Z celkových prostriedkov nástroja NDICI – Globálna Európa vo výške 79,5 miliardy EUR sa financuje spolupráca s tretími krajinami.
+> ep-fs-170 | Z celkových prostriedkov tohto nástroja vo výške 79,5 miliardy EUR
+
+@sta 3
+Ako sa volá oznámenie EÚ z roku 2021 o vzťahoch s južným susedstvom?
++ Obnovené partnerstvo s južným susedstvom – Nový program pre Stredozemie
+- Barcelonský proces 2.0
+- Únia pre Afriku
+= V roku 2021 bolo prijaté oznámenie Obnovené partnerstvo s južným susedstvom – Nový program pre Stredozemie.
+> ep-fs-170 | Obnovené partnerstvo s južným susedstvom – Nový program pre Stredozemie
+
+@akt 2
+Kedy sa Donald Trump ujal úradu ako 47. prezident Spojených štátov?
++ 20. januára 2025
+- 20. januára 2017
+- 4. novembra 2024
+= Donald Trump sa ujal úradu ako 47. prezident USA 20. januára 2025.
+> ep-fs-174 | Trumpa ako 47. prezidenta Spojených štátov 20. januára 2025
+
+@akt 3
+Kedy bolo uverejnené spoločné vyhlásenie EÚ a USA o rámcovej dohode o vzájomnom, spravodlivom a vyváženom obchode?
++ 21. augusta 2025
+- 9. mája 2025
+- 1. januára 2026
+= Spoločné vyhlásenie o rámcovej obchodnej dohode EÚ a USA bolo uverejnené 21. augusta 2025.
+> ep-fs-174 | ktoré bolo uverejnené 21. augusta 2025
+
+@sta 2
+Do ktorého neformálneho fóra hlavných vyspelých ekonomík patria spolu s EÚ aj USA a Kanada?
++ G7
+- OPEC
+- BRICS
+= EÚ, USA a Kanada patria medzi členov skupiny G7, neformálneho fóra hlavných vyspelých ekonomík.
+> ep-fs-174 | Uvedená trojica patrí medzi členov skupiny G7

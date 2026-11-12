@@ -1,0 +1,282 @@
+#kat med
+#n 2
+
+@med 1
+Čo sú podľa Európskej komisie dezinformácie?
++ nepravdivý alebo zavádzajúci obsah šírený s úmyslom oklamať alebo získať zisk
+- akákoľvek kritika vlády
+- každá neoverená fotografia
+= Dezinformácie sú nepravdivý alebo zavádzajúci obsah, ktorý sa šíri s úmyslom oklamať alebo zabezpečiť hospodársky či politický zisk a môže spôsobiť ujmu verejnosti.
+> disinfo-ds | Dezinformácie sú nepravdivý alebo zavádzajúci obsah, ktorý sa šíri s úmyslom oklamať alebo zabezpečiť hospodársky alebo politický zisk a ktorý môže spôsobiť ujmu verejnosti.
+
+Ktorý z týchto dôsledkov môže mať podľa Komisie šírenie dezinformácií?
++ ohrozenie demokracie a polarizácia diskusií
+- zlepšenie dôvery v médiá
+- zníženie cien elektriny
+= Šírenie dezinformácií môže ohroziť demokracie, polarizovať diskusie a ohroziť zdravie, bezpečnosť a životné prostredie.
+> disinfo-ds | Šírenie dezinformácií a dezinformácií môže mať celý rad škodlivých dôsledkov, ako je ohrozenie našich demokracií, polarizácia diskusií
+
+@med 3
+Kedy bol podpísaný posilnený Kódex postupov proti šíreniu dezinformácií?
++ 16. júna 2022
+- 9. mája 2018
+- 1. januára 2025
+= Posilnený Kódex postupov proti šíreniu dezinformácií bol podpísaný 16. júna 2022.
+> disinfo-ds | posilnený Kódex postupov proti šíreniu dezinformácií podpísaný 16. júna 2022
+
+Čím bol výnimočný Kódex postupov proti šíreniu dezinformácií z roku 2018?
++ bol prvý na svete, keď odvetvie dobrovoľne prijalo samoregulačné normy proti dezinformáciám
+- bol to prvý trestný zákon EÚ
+- zakázal všetky sociálne siete
+= Kódex z roku 2018 bol prvýkrát na svete, keď odvetvie dobrovoľne súhlasilo so samoregulačnými normami na boj proti dezinformáciám.
+> disinfo-ds | Kódex postupov proti šíreniu dezinformácií z roku 2018 bol prvýkrát na svete, keď odvetvie dobrovoľne súhlasilo so samoregulačnými normami na boj proti dezinformáciám.
+
+Čo je EDMO?
++ Európske stredisko pre monitorovanie digitálnych médií – spája overovateľov faktov a výskumníkov
+- európska televízna stanica
+- agentúra pre kybernetické útoky
+= EDMO je nezávislé monitorovacie stredisko, ktoré združuje overovateľov faktov, akademických výskumníkov, novinárov a odborníkov na mediálnu gramotnosť.
+> disinfo-ds | EDMO je nezávislé monitorovacie stredisko, ktoré združuje overovateľov faktov a akademických výskumníkov
+
+@med 3
+Koľko národných alebo nadnárodných centier (hubov) má sieť EDMO?
++ 15
+- 3
+- 100
+= EDMO má sieť 15 národných alebo nadnárodných centier.
+> edmo | EDMO can count on a network of 15 national or multinational Hubs
+
+@med 3
+Koľko eur vyčlenila Komisia na podporu žurnalistiky, plurality médií a mediálnej gramotnosti v rámci programu Kreatívna Európa?
++ 20,5 milióna EUR
+- 2 050 EUR
+- 20,5 miliardy EUR
+= Komisia vyčlenila 20,5 milióna EUR na podporu žurnalistiky, plurality médií a gramotnosti v celej Európe.
+> disinfo-ds | Komisia vyčlenila 20,5 milióna EUR na podporu žurnalistiky, plurality médií a gramotnosti v celej Európe
+
+Ako sa nazýva tím odborníkov Európskej služby pre vonkajšiu činnosť, ktorý prevádzkuje projekt EUvsDisinfo?
++ East StratCom Task Force
+- Europol Cyber Unit
+- Frontex Media Team
+= EUvsDisinfo je vlajkový projekt pracovnej skupiny East StratCom Task Force Európskej služby pre vonkajšiu činnosť.
+> euvsdisinfo | EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force.
+
+V ktorom roku vznikol projekt EUvsDisinfo?
++ v roku 2015
+- v roku 2004
+- v roku 2022
+= EUvsDisinfo vznikol v roku 2015 na odhaľovanie dezinformačných kampaní Ruskej federácie.
+> euvsdisinfo | It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns
+
+Na dezinformácie z akého zdroja sa zameriava projekt EUvsDisinfo?
++ na prokremeľské dezinformácie
+- na reklamné podvody e-shopov
+- na falošné recenzie reštaurácií
+= Cieľom EUvsDisinfo je zvyšovať povedomie o dezinformačných operáciách Kremľa.
+> euvsdisinfo | EUvsDisinfo’s core objective is to increase public awareness and understanding of the Kremlin’s disinformation operations
+
+@med 3
+Koľko prípadov prokremeľských dezinformácií obsahuje databáza EUvsDisinfo?
++ viac ako 18 000
+- približne 180
+- viac ako 18 miliónov
+= Databáza EUvsDisinfo obsahuje viac ako 18 000 vzoriek prokremeľských dezinformácií.
+> euvsdisinfo | which currently comprises over 18,000 samples of pro-Kremlin disinformation
+
+@med 3
+V koľkých jazykoch monitoruje médiá projekt EUvsDisinfo?
++ v 15
+- v 2
+- v 50
+= EUvsDisinfo využíva analýzu dát a monitorovanie médií v 15 jazykoch.
+> euvsdisinfo | Using data analysis and media monitoring services in 15 languages
+
+Na aké online služby sa vzťahuje akt o digitálnych službách (DSA)?
++ napr. trhoviská, sociálne siete, obchody s aplikáciami a platformy na cestovanie a ubytovanie
+- len na banky
+- len na televízne stanice
+= DSA zavádza pravidlá pre online služby ako trhoviská, siete sociálnych médií, obchody s aplikáciami a online platformy na cestovanie a ubytovanie.
+> dsa | Tieto služby zahŕňajú trhoviská, siete sociálnych médií, obchody s aplikáciami a online platformy zamerané na cestovanie a ubytovanie.
+
+Čo musí urobiť platforma podľa aktu o digitálnych službách, ak vám odstráni príspevok?
++ vysvetliť, prečo sa tak stalo
+- zaplatiť vám pokutu
+- nič, nemusí nič vysvetľovať
+= Ak je váš obsah odstránený alebo pozastavený, platformy musia vysvetliť, prečo sa tak stalo.
+> dsa | ak je váš obsah odstránený alebo pozastavený, platformy musia vysvetliť, prečo sa tak stalo
+
+Čo zakazuje akt o digitálnych službách vo vzťahu k deťom?
++ zobrazovanie cielenej reklamy deťom
+- používanie internetu deťmi
+- hranie hier na mobile
+= Aktom o digitálnych službách sa zavádza úplný zákaz zobrazovania cielenej reklamy deťom.
+> dsa | Aktom o digitálnych službách sa zavádza aj úplný zákaz zobrazovania cielenej reklamy deťom.
+
+@med 3
+Od koľkých používateľov v EÚ mesačne sa platforma považuje za veľmi veľkú online platformu podľa DSA?
++ viac ako 45 miliónov
+- viac ako 4 500
+- viac ako 450 miliónov
+= Najväčšie online platformy majú v EÚ viac ako 45 miliónov používateľov mesačne a musia dodržiavať osobitné pravidlá.
+> dsa | tie, ktoré majú v EÚ viac ako 45 miliónov používateľov mesačne
+
+Čo sú „temné vzorce“, ktoré zakazuje akt o digitálnych službách?
++ klamlivé dizajnové taktiky, napr. mätúce tlačidlá na udelenie súhlasu
+- tmavý režim obrazovky
+- šifrované správy
+= Zakázané sú klamlivé dizajnové taktiky, ako agresívne automaticky otvárané okná alebo mätúce a zavádzajúce tlačidlá na udelenie súhlasu.
+> dsa | Zákaz temných vzorcov – sú zakázané klamlivé dizajnové taktiky
+
+Na základe akých údajov vám platformy podľa DSA už nesmú zobrazovať reklamy?
++ na základe citlivých údajov ako náboženstvo, rasa či sexuálna orientácia
+- na základe jazyka stránky
+- na základe počasia
+= Platformy nemôžu zobrazovať reklamy na základe citlivých údajov, ako je sexuálna orientácia, náboženstvo alebo rasa.
+> dsa | Platformy vám už nemôžu zobrazovať reklamy na základe vašich citlivých údajov, ako je sexuálna orientácia, náboženstvo alebo rasa.
+
+Na koho sa môžete obrátiť so sťažnosťou na porušenie aktu o digitálnych službách?
++ na koordinátora digitálnych služieb vo svojom štáte
+- na Európsku centrálnu banku
+- na Európsky dvor audítorov
+= Sťažnosť týkajúcu sa porušenia DSA môžete podať koordinátorovi digitálnych služieb vo svojom členskom štáte.
+> dsa | môžete sa obrátiť na koordinátora digitálnych služieb vo svojom členskom štáte
+
+@med 3
+Koľko rôznych národných predpisov nahrádza akt o digitálnych službách jedným rámcom?
++ 27
+- 2
+- 100
+= Akt o digitálnych službách nahrádza 27 rôznych predpisov jedným jednotným rámcom.
+> dsa | Akt o digitálnych službách nahrádza 27 rôznych predpisov jedným jednotným rámcom
+
+Ktorý akt dopĺňa akt o digitálnych službách pravidlami pre platformy – „strážcov prístupu“?
++ akt o digitálnych trhoch
+- akt o umelej inteligencii
+- všeobecné nariadenie o ochrane údajov
+= Akt o digitálnych službách dopĺňa akt o digitálnych trhoch, ktorý obsahuje pravidlá pre platformy považované za strážcov prístupu.
+> dsa | Akt o digitálnych službách dopĺňa akt o digitálnych trhoch, ktorý obsahuje pravidlá pre online platformy považované za strážcov prístupu.
+
+@akt 3
+Pri ktorej funkcii aplikácie TikTok Komisia predbežne zistila porušenie DSA pre efekt „králičej diery“?
++ pri informačnom kanáli „For You“
+- pri živom vysielaní
+- pri súkromných správach
+= Komisia predbežne konštatovala, že informačný kanál TikTok „For You“ je v rozpore s DSA pre efekt „králičích dier“ odporúčacieho systému.
+> dsa | Komisia predbežne konštatuje, že informačný kanál TikTok „For You“ je v rozpore s aktom o digitálnych službách
+
+Čo je akt o umelej inteligencii (nariadenie 2024/1689)?
++ vôbec prvý komplexný právny rámec pre umelú inteligenciu na svete
+- program na financovanie robotov
+- medzinárodná dohoda s USA
+= Akt o umelej inteligencii je vôbec prvým komplexným právnym rámcom pre AI na celom svete.
+> ai-act | je vôbec prvým komplexným právnym rámcom pre umelú inteligenciu na celom svete
+
+Koľko úrovní rizika pre systémy umelej inteligencie vymedzuje akt o AI?
++ štyri
+- dve
+- desať
+= Akt o AI vymedzuje štyri úrovne rizika: neprijateľné, vysoké, obmedzené a minimálne alebo žiadne riziko.
+> ai-act | V akte o umelej inteligencii sa vymedzujú štyri úrovne rizika pre systémy umelej inteligencie
+
+Čo sa podľa aktu o AI stane so systémami, ktoré sú jasnou hrozbou pre bezpečnosť a práva ľudí (neprijateľné riziko)?
++ sú zakázané
+- musia mať len nálepku
+- sú povolené bez obmedzení
+= Všetky systémy AI, ktoré sa považujú za jasnú hrozbu pre bezpečnosť, živobytie a práva ľudí, sú zakázané.
+> ai-act | Všetky systémy umelej inteligencie, ktoré sa považujú za jasnú hrozbu pre bezpečnosť, živobytie a práva ľudí, sú zakázané.
+
+@med 3
+Koľko praktík umelej inteligencie zakazuje akt o AI?
++ deväť
+- tri
+- dvadsať
+= V akte o umelej inteligencii sa zakazuje deväť praktík.
+> ai-act | V akte o umelej inteligencii sa zakazuje deväť praktík
+
+@med 3
+Kedy nadobudli účinnosť zákazy 1 – 8 podľa aktu o umelej inteligencii?
++ vo februári 2025
+- v januári 2020
+- v decembri 2027
+= Zákazy 1 – 8 nadobudli účinnosť vo februári 2025, zákaz 9 nadobudne účinnosť v decembri 2026.
+> ai-act | Zákazy 1 – 8 nadobudli účinnosť vo februári 2025.
+
+Ktorý z týchto spôsobov použitia AI patrí podľa aktu o AI medzi vysokorizikové?
++ bodovanie skúšok vo vzdelávacích inštitúciách
+- filter nevyžiadanej pošty
+- AI v počítačových hrách
+= Vysokorizikové sú napr. riešenia AI vo vzdelávacích inštitúciách, ktoré môžu určovať prístup k vzdelávaniu (napr. bodovanie skúšok).
+> ai-act | Riešenia umelej inteligencie používané vo vzdelávacích inštitúciách, ktoré môžu určovať prístup k vzdelávaniu a priebeh profesionálneho života osoby (napr. bodovanie skúšok)
+
+@med 3
+Od kedy budú vysokorizikové systémy AI podliehať prísnym povinnostiam pred uvedením na trh?
++ od 2. decembra 2027
+- od 1. mája 2004
+- od 1. januára 2025
+= Od 2. decembra 2027 budú vysokorizikové systémy AI podliehať prísnym povinnostiam pred uvedením na trh.
+> ai-act | Od 2. decembra 2027 budú vysokorizikové systémy umelej inteligencie podliehať prísnym povinnostiam pred ich uvedením na trh
+
+Ktorá z týchto praktík je podľa aktu o AI zakázaná?
++ necielené zbieranie fotografií z internetu na vytvorenie databáz rozpoznávania tváre
+- prekladanie textov pomocou AI
+- odporúčanie filmov
+= Zakázané je necielené škrabanie internetového materiálu alebo záznamov CCTV na vytváranie databáz rozpoznávania tváre.
+> ai-act | necielené škrabanie internetového materiálu alebo materiálu CCTV na vytvorenie alebo rozšírenie databáz rozpoznávania tváre
+
+Ako sa nazýva dobrovoľná iniciatíva Komisie, ktorá vyzýva poskytovateľov AI dodržiavať povinnosti aktu o AI v predstihu?
++ pakt o umelej inteligencii
+- dohovor o robotoch
+- AI Charta OSN
+= Komisia spustila pakt o umelej inteligencii, dobrovoľnú iniciatívu na podporu budúceho vykonávania.
+> ai-act | Komisia spustila pakt o umelej inteligencii, dobrovoľnú iniciatívu
+
+Čo je GDPR?
++ všeobecné nariadenie o ochrane údajov
+- európsky program pre rozvoj regiónov
+- daň z digitálnych služieb
+= Právne predpisy EÚ o ochrane údajov tvorí všeobecné nariadenie o ochrane údajov (GDPR), smernica pre presadzovanie práva a nariadenie pre inštitúcie EÚ.
+> com-gdpr | General Data Protection Regulation (GDPR)
+
+Akým právom je ochrana osobných údajov podľa práva EÚ?
++ základným právom
+- iba odporúčaním
+- právom platným len pre firmy
+= Ochrana údajov je podľa práva EÚ základným právom.
+> com-gdpr | Data protection is a fundamental right under EU law.
+
+@med 3
+Z ktorého roku pochádzali pravidlá EÚ o ochrane údajov, ktoré nahradilo GDPR?
++ z roku 1995
+- z roku 1957
+- z roku 2016
+= Komisia navrhla komplexnú reformu pravidiel EÚ o ochrane údajov z roku 1995.
+> com-gdpr | proposes a comprehensive reform of the EU's 1995 data protection rules
+
+Ktorý z týchto nástrojov podľa EÚ ohrozuje demokratické procesy tým, že ľuďom bráni informovane sa rozhodnúť?
++ zahraničná manipulácia s informáciami a zahraničné zasahovanie
+- overovanie faktov
+- pluralita médií
+= Zahraničná manipulácia s informáciami a zahraničné zasahovanie dokážu oslabiť demokratické inštitúcie a procesy.
+> disinfo-com | Zahraničná manipulácia s informáciami a zahraničné zasahovanie sú však pre tieto demokratické možnosti vážnou hrozbou.
+
+@med 3
+Akú sumu získal každý zo štyroch projektov mediálnej gramotnosti vo vidieckych komunitách (výzva z decembra 2025)?
++ 50 000 eur na osem mesiacov
+- 5 000 eur na rok
+- 5 miliónov eur na päť rokov
+= Každý z vybraných projektov získal financovanie vo výške 50 000 eur na obdobie ôsmich mesiacov.
+> disinfo-com | Každý z vybraných projektov získal financovanie vo výške 50 000 eur na obdobie ôsmich mesiacov.
+
+Ktorý z týchto spôsobov pomáha podľa EÚ posilniť odolnosť spoločnosti voči manipulácii s informáciami?
++ digitálna a mediálna gramotnosť
+- obmedzenie prístupu k správam
+- zákaz zahraničných jazykov
+= Komisia posilňuje spoločenskú odolnosť a občiansku angažovanosť prostredníctvom digitálnej a mediálnej gramotnosti.
+> disinfo-com | posilnenie spoločenskej odolnosti a občianskej angažovanosti prostredníctvom digitálnej a mediálnej gramotnosti
+
+Prečo EÚ podporuje slobodu a pluralitu médií v boji proti dezinformáciám?
++ aby občania mali prístup ku kvalitným a dôveryhodným správam
+- aby médiá šírili len názory vlády
+- aby sa znížil počet novín
+= Dôležité je zaručiť slobodu a pluralitu médií a zabezpečiť, aby občania mali prístup ku kvalitným správam a informáciám, ktorým môžu dôverovať.
+> disinfo-com | zabezpečiť, aby občania mali prístup ku kvalitným správam a informáciám, ktorým môžu dôverovať

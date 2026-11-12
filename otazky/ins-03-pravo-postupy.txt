@@ -1,0 +1,301 @@
+#kat ins
+#n 2
+
+Odkedy má Charta základných práv Európskej únie rovnakú právnu silu ako zmluvy?
++ od nadobudnutia platnosti Lisabonskej zmluvy 1. decembra 2009
+- od podpisu Maastrichtskej zmluvy v roku 1992
+- od vyhlásenia Charty v Nice v roku 2000 bez ďalších podmienok
+= Po nadobudnutí platnosti Lisabonskej zmluvy 1. decembra 2009 bola Charte priznaná rovnaká dôležitosť ako zmluvám.
+> ep-fs-6 | Po nadobudnutí platnosti Lisabonskej zmluvy 1. decembra 2009 bola rovnaká dôležitosť priznaná aj Charte základných práv Európskej únie.
+
+Čo tvorí primárne právo Európskej únie?
++ najmä zmluvy, Charta a všeobecné zásady práva Únie
+- nariadenia a smernice
+- rozsudky národných súdov
+= Primárne právo tvoria najmä zmluvy, charta a všeobecné zásady práva Únie; nariadenia a smernice patria k sekundárnemu právu.
+> ep-fs-6 | Primárne právo tvoria najmä zmluvy, charta a všeobecné zásady práva Únie
+
+@ins 3
+V ktorom článku Zmluvy o fungovaní EÚ sú vymenované právne akty Únie (nariadenia, smernice, rozhodnutia…)?
++ v článku 288
+- v článku 50
+- v článku 7
+= Právne akty Únie sú uvedené v článku 288 ZFEÚ.
+> ep-fs-6 | Právne akty Únie sú uvedené v článku 288 ZFEÚ.
+
+Ktorá zásada vymedzuje hranice právomocí Únie (EÚ môže konať len v rozsahu právomocí, ktoré jej zverili štáty)?
++ zásada prenesenia právomocí
+- zásada jednomyseľnosti
+- zásada rotácie
+= Hranice právomocí Únie vymedzuje zásada prenesenia právomocí zakotvená v článku 5 ods. 1 ZEÚ.
+> ep-fs-6 | Hranice právomocí Únie vymedzuje zásada prenesenia právomocí, ktorá je zakotvená v článku 5 ods. 1 ZEÚ.
+
+Do koľkých kategórií sa delia právomoci Únie podľa ZFEÚ?
++ do troch – výlučné, spoločné a podporné
+- do dvoch – výlučné a národné
+- do piatich podľa počtu inštitúcií
+= Právomoci Únie sa delia do troch kategórií: výlučné (čl. 3), spoločné (čl. 4) a podporné (čl. 6).
+> ep-fs-6 | výlučné právomoci (článok 3), spoločné právomoci (článok 4) a podporné právomoci (článok 6)
+
+Ktorá oblasť politiky EÚ naďalej podlieha medzivládnym postupom?
++ spoločná zahraničná, bezpečnostná a obranná politika
+- vnútorný trh
+- poľnohospodárska politika
+= Jedinou výnimkou je spoločná zahraničná, bezpečnostná a obranná politika, ktorá i naďalej podlieha medzivládnym postupom.
+> ep-fs-6 | Jedinou výnimkou je spoločná zahraničná, bezpečnostná a obranná politika, ktorá i naďalej podlieha medzivládnym postupom
+
+@ins 3
+Ktorý článok ZFEÚ umožňuje prijať „vhodné ustanovenia“, ak inštitúcie nemajú výslovnú právomoc na dosiahnutie cieľa zmlúv?
++ článok 352
+- článok 49
+- článok 2
+= Ak inštitúcie nemajú potrebné právomoci, môžu uplatniť článok 352 ZFEÚ (tzv. doložka flexibility).
+> ep-fs-6 | môžu uplatniť ustanovenia článku 352 ZFEÚ na účely prijatia „vhodných ustanovení“
+
+Kedy môže Únia konať podľa zásady subsidiarity?
++ ak ciele nemožno uspokojivo dosiahnuť na úrovni štátov a lepšie sa dosiahnu na úrovni Únie
+- vždy, keď o to požiada Európsky parlament
+- len v oblasti výlučných právomocí
+= Podľa čl. 5 ods. 3 ZEÚ môže Únia konať, ak členské štáty nemôžu ciele uspokojivo dosiahnuť a z dôvodu rozsahu alebo účinkov by sa dali lepšie dosiahnuť na úrovni Únie.
+> ep-fs-7 | Podľa článku 5 ods. 3 ZEÚ môže Únia konať, ak môže preukázať, že členské štáty nemôžu sledované ciele uspokojivo dosiahnuť
+
+@ins 3
+V ktorej zmluve bola zásada subsidiarity formálne zakotvená?
++ v Zmluve o EÚ podpísanej v roku 1992 (Maastricht)
+- v Rímskej zmluve z roku 1957
+- v Parížskej zmluve z roku 1951
+= Zásada subsidiarity bola formálne zakotvená v Zmluve o EÚ, podpísanej v roku 1992.
+> ep-fs-7 | Zásada subsidiarity bola formálne zakotvená v Zmluve o EÚ, podpísanej v roku 1992
+
+@ins 3
+V ktorej oblasti politiky sa kritérium subsidiarity objavilo už v Jednotnom európskom akte z roku 1986?
++ v environmentálnej politike
+- v obrannej politike
+- v menovej politike
+= Kritérium subsidiarity bolo zahrnuté do environmentálnej politiky Jednotným európskym aktom podpísaným v roku 1986.
+> ep-fs-7 | Kritérium subsidiarity bolo už zahrnuté do environmentálnej politiky Jednotným európskym aktom podpísaným v roku 1986
+
+@ins 3
+Ktorá zmluva pripojila k zmluvám Protokol o uplatňovaní zásad subsidiarity a proporcionality (protokol z roku 1997)?
++ Amsterdamská zmluva
+- Zmluva z Nice
+- Jednotný európsky akt
+= Amsterdamskou zmluvou, podpísanou v roku 1997, bol pripojený Protokol o uplatňovaní zásad subsidiarity a proporcionality.
+> ep-fs-7 | bol Amsterdamskou zmluvou, podpísanou v roku 1997, k Zmluve o založení Európskeho spoločenstva pripojený Protokol o uplatňovaní zásad subsidiarity a proporcionality
+
+Kto dostal podľa Lisabonskej zmluvy novú úlohu pri zabezpečovaní dodržiavania zásady subsidiarity?
++ národné parlamenty
+- Európska centrálna banka
+- Dvor audítorov
+= Hlavným rozdielom, ktorý priniesol protokol č. 2 Lisabonskej zmluvy, je nová úloha národných parlamentov pri zabezpečovaní dodržiavania subsidiarity.
+> ep-fs-7 | Hlavným rozdielom je nová úloha národných parlamentov pri zabezpečovaní dodržiavania zásady subsidiarity
+
+Ktorá inštitúcia získala Rímskou zmluvou v roku 1958 právomoc navrhovať právne predpisy?
++ Komisia
+- Parlament
+- Súdny dvor
+= V roku 1958 Rímska zmluva udelila Komisii právomoc navrhovať a rokovať.
+> ep-fs-8 | V roku 1958 Rímska zmluva (pozri 1.1.1) udelila Komisii právomoc navrhovať a rokovať
+
+Aké právomoci mal Európsky parlament pôvodne podľa Rímskych zmlúv?
++ konzultačné
+- výlučné zákonodarné
+- súdne
+= Parlament získal konzultačné právomoci, ale jeho úloha sa postupne rozrástla.
+> ep-fs-8 | Parlament získal konzultačné právomoci, ale jeho úloha sa postupne rozrástla
+
+Ktorá zmluva zaviedla postup spolurozhodovania Parlamentu s Radou?
++ Maastrichtská zmluva
+- Jednotný európsky akt
+- Zmluva o zlúčení
+= Maastrichtská zmluva (1993) zaviedla spolurozhodovanie s Radou.
+> ep-fs-8 | Maastrichtskej zmluvy (1993), ktorou sa zaviedlo spolurozhodovanie s Radou
+
+Ako sa predtým nazýval riadny legislatívny postup?
++ spolurozhodovací postup
+- konzultačný postup
+- zmierovací postup
+= Riadny legislatívny postup sa predtým nazýval spolurozhodovací postup.
+> ep-fs-8 | Riadny legislatívny postup, predtým nazývaný spolurozhodovací postup
+
+@ins 3
+Koľko ďalších právnych ustanovení pridala do riadneho legislatívneho postupu Lisabonská zmluva?
++ 40
+- 12
+- 85
+= Lisabonská zmluva pridala ďalších 40 právnych ustanovení, najmä v oblasti slobody, bezpečnosti a spravodlivosti a poľnohospodárstva.
+> ep-fs-8 | Lisabonská zmluva[1] pridala ďalších 40 právnych ustanovení
+
+@ins 3
+Ktorá oblasť si aj po Lisabonskej zmluve vyžaduje jednomyseľné rozhodnutie Rady?
++ priame zdaňovanie
+- poľnohospodárstvo
+- ochrana spotrebiteľa
+= Riadny legislatívny postup sa neuplatňuje napr. na fiškálnu politiku týkajúcu sa priameho zdaňovania, ktorá si vyžaduje jednomyseľnosť.
+> ep-fs-8 | fiškálnu politiku týkajúcu sa priameho zdaňovania alebo nadnárodné aspekty rodinného práva, ktoré si vyžadujú jednomyseľné rozhodnutie Rady
+
+Kto môže predložiť návrh na zmenu zmlúv EÚ (článok 48 ZEÚ)?
++ Parlament, Komisia alebo ktorýkoľvek členský štát
+- len Európska rada
+- len Súdny dvor
+= Návrh na zmenu zmlúv môže Rade predložiť Parlament, Komisia alebo ktorýkoľvek členský štát.
+> ep-fs-9 | Návrh môže Rade predložiť Parlament, Komisia alebo ktorýkoľvek členský štát.
+
+Kto môže podať žiadosť o pristúpenie k EÚ (článok 49 ZEÚ)?
++ každý európsky štát, ktorý dodržiava hodnoty EÚ
+- ktorýkoľvek štát sveta
+- len štáty NATO
+= Žiadosť o pristúpenie môže podať každý európsky štát, ktorý dodržiava zásady EÚ (článok 2 ZEÚ).
+> ep-fs-9 | Žiadosť o pristúpenie môže podať každý európsky štát, ktorý dodržiava zásady EÚ
+
+Komu oznamuje štát svoj úmysel vystúpiť z EÚ podľa článku 50 ZEÚ?
++ Európskej rade
+- Európskemu parlamentu
+- Súdnemu dvoru EÚ
+= Členský štát, ktorý sa rozhodne vystúpiť, oznámi svoj úmysel Európskej rade.
+> ep-fs-9 | oznámi svoj úmysel Európskej rade v súlade so svojimi ústavnými požiadavkami
+
+@ins 3
+Akou väčšinou uzatvára Rada dohodu o vystúpení štátu z EÚ?
++ 72 % členov Rady zastupujúcich aspoň 65 % obyvateľstva
+- jednomyseľne
+- jednoduchou väčšinou
+= Dohodu o vystúpení uzatvára Rada osobitnou kvalifikovanou väčšinou: 72 % členov Rady, ktorí predstavujú aspoň 65 % obyvateľstva (okrem dotknutého štátu).
+> ep-fs-9 | ktorá je vymedzená ako 72 % členov Rady, ktorí zastupujú zúčastnené členské štáty
+
+@ins 3
+Akou väčšinou musí Parlament schváliť postup podľa článku 7 ZEÚ (závažné porušenie hodnôt EÚ štátom)?
++ dvojtretinovou väčšinou odovzdaných hlasov, ktorá je väčšinou poslancov
+- jednoduchou väčšinou prítomných
+- jednomyseľne
+= Parlament musí udeliť súhlas dvojtretinovou väčšinou odovzdaných hlasov, ktorá predstavuje väčšinu jeho poslancov.
+> ep-fs-9 | Parlament musí udeliť súhlas dvojtretinovou väčšinou odovzdaných hlasov, ktorá predstavuje väčšinu jeho poslancov
+
+Aký následok môže mať pre členský štát postup podľa článku 7 ZEÚ?
++ pozastavenie určitých práv vrátane hlasovacích
+- automatické vylúčenie z EÚ
+- zrušenie národnej meny
+= Rada kvalifikovanou väčšinou bez účasti dotknutého štátu môže rozhodnúť o pozastavení určitých práv tohto štátu.
+> ep-fs-9 | prijme rozhodnutie o pozastavení určitých práv dotknutého členského štátu
+
+Kto má pri posilnenej spolupráci výlučné právo predložiť návrh Rade?
++ Komisia
+- Parlament
+- ktorýkoľvek občan EÚ
+= Pri posilnenej spolupráci má Komisia výlučné právo iniciatívy na predloženie návrhu Rade.
+> ep-fs-9 | Komisia má výlučné právo iniciatívy na predloženie návrhu Rade.
+
+Ako sa nazývajú dlhodobé finančné plány EÚ, v ktorých sú výdavkové limity na niekoľko rokov?
++ viacročné finančné rámce
+- päťročné plány
+- rozpočtové pakty
+= Ročné rozpočty sú súčasťou dlhodobých finančných plánov nazývaných viacročné finančné rámce.
+> ep-fs-10 | Ročné rozpočty sú súčasťou dlhodobých finančných plánov nazývaných viacročné finančné rámce
+
+Ktorý článok ZFEÚ stanovuje postup prijímania ročného rozpočtu EÚ?
++ článok 314
+- článok 50
+- článok 288
+= V článku 314 ZFEÚ sa stanovuje postup prijímania ročného rozpočtu EÚ.
+> ep-fs-10 | V článku 314 Zmluvy o fungovaní Európskej únie (ZFEÚ) sa stanovuje postup prijímania ročného rozpočtu EÚ
+
+@ins 3
+Do kedy má Komisia oficiálne predložiť návrh ročného rozpočtu EÚ?
++ do 1. septembra
+- do 1. januára
+- do 31. decembra
+= Návrh má byť oficiálne predložený do 1. septembra, v praxi býva pripravený koncom mája alebo začiatkom júna.
+> ep-fs-10 | Hoci má byť návrh oficiálne predložený do 1. septembra
+
+@ins 3
+Koľko dní má Európsky parlament na odpoveď na pozíciu Rady k návrhu rozpočtu?
++ 42 dní
+- 10 dní
+- 90 dní
+= Európsky parlament má na odpoveď 42 dní.
+> ep-fs-10 | Pričom na odpoveď má 42 dní.
+
+@ins 3
+Z koľkých zástupcov Rady a Parlamentu sa skladá Zmierovací výbor pri rozpočte EÚ?
++ z 27 zástupcov Rady a 27 zástupcov Parlamentu
+- z 5 zástupcov každej inštitúcie
+- zo 100 zástupcov
+= Zmierovací výbor sa skladá z 27 zástupcov Rady a Parlamentu.
+> ep-fs-10 | Zmierovací výbor sa skladá z 27 zástupcov Rady a Parlamentu.
+
+@ins 3
+Koľko dní má Zmierovací výbor na dosiahnutie kompromisu o rozpočte EÚ?
++ 21 dní
+- 7 dní
+- 60 dní
+= Po zvolaní má výbor 21 dní na to, aby dospel ku kompromisu.
+> ep-fs-10 | Po zvolaní má výbor 21 dní na to, aby dospel ku kompromisu.
+
+@ins 3
+Ako sa nazýva dokument, ktorým Komisia každý rok (zvyčajne začiatkom októbra) aktualizuje návrh rozpočtu?
++ opravný list
+- biela kniha
+- zelená kniha
+= Komisia to robí každý rok, zvyčajne začiatkom októbra, v tzv. opravnom liste.
+> ep-fs-10 | zvyčajne začiatkom októbra, v tzv. opravnom liste
+
+#kat fin
+#n 3
+
+Ako sa nazýva prvý pilier bankovej únie, ktorý spadá pod ECB?
++ jednotný mechanizmus dohľadu (SSM)
+- Európsky systém ochrany vkladov
+- Európsky stabilizačný mechanizmus
+= Prvým pilierom bankovej únie je jednotný mechanizmus dohľadu (SSM), ktorý sa vzťahuje na všetky banky v eurozóne.
+> ep-fs-88 | prvého piliera bankovej únie, jednotného mechanizmu dohľadu (SSM), ktorý sa vzťahuje na všetky banky v eurozóne
+
+Od kedy funguje jednotný mechanizmus dohľadu nad bankami (SSM)?
++ od novembra 2014
+- od januára 1999
+- od mája 2004
+= SSM funguje od novembra 2014 a spadá pod ECB.
+> ep-fs-88 | SSM, ktorý funguje od novembra 2014, spadá pod ECB
+
+Približne nad koľkými bankami vykonáva ECB priamy dohľad?
++ približne 110
+- približne 10
+- približne 6 000
+= V súčasnosti je pod priamym dohľadom ECB približne 110 bánk; ostatné kontrolujú vnútroštátne orgány.
+> ep-fs-88 | V súčasnosti je pod priamym dohľadom ECB približne 110 bánk.
+
+Ako sa nazýva druhý pilier bankovej únie?
++ jednotný mechanizmus riešenia krízových situácií (SRM)
+- jednotný mechanizmus dohľadu (SSM)
+- Euroskupina
+= V marci 2014 sa Parlament a Rada dohodli na vytvorení druhého piliera bankovej únie – jednotného mechanizmu riešenia krízových situácií (SRM).
+> ep-fs-88 | druhého piliera bankovej únie, jednotného mechanizmu riešenia krízových situácií (SRM)
+
+V prípade ktorej banky prijala Jednotná rada pre riešenie krízových situácií v júni 2017 svoje prvé rozhodnutie?
++ Banco Popular
+- Deutsche Bank
+- Lehman Brothers
+= V júni 2017 prijala SRB svoje prvé rozhodnutie o riešení krízovej situácie v prípade banky Banco Popular.
+> ep-fs-88 | V júni 2017 prijala SRB svoje prvé rozhodnutie o riešení krízovej situácie v prípade banky Banco Popular.
+
+@fin 2
+Čo je prvoradým cieľom Európskeho systému centrálnych bánk (ESCB)?
++ udržiavanie cenovej stability
+- čo najnižšia nezamestnanosť
+- financovanie štátnych rozpočtov
+= Podľa článku 127 ods. 1 ZFEÚ je prvoradým cieľom ESCB udržiavanie cenovej stability.
+> ep-fs-13 | Podľa článku 127 ods. 1 ZFEÚ je prvoradým cieľom ESCB a ESCB udržiavanie cenovej stability.
+
+Ktorý článok ZFEÚ zakotvuje nezávislosť ECB (nesmie žiadať ani prijímať pokyny od vlád a inštitúcií)?
++ článok 130
+- článok 50
+- článok 7
+= Nezávislosť ECB je zakotvená v článku 130 ZFEÚ.
+> ep-fs-13 | Nezávislosť ECB je zakotvená v článku 130 ZFEÚ
+
+@fin 2
+Ktorá z týchto úloh patrí medzi základné úlohy ESCB?
++ vymedzovať a vykonávať menovú politiku EÚ
+- schvaľovať národné rozpočty
+- vyberať dane
+= Základné úlohy ESCB: menová politika, devízové operácie, správa devízových rezerv a podpora plynulého fungovania platobných systémov.
+> ep-fs-13 | Základné úlohy vykonávané prostredníctvom ESCB sú: vymedzovať a vykonávať menovú politiku EÚ

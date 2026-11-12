@@ -1,0 +1,7508 @@
+[
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Emilio Colombo",
+  "bad": [
+   "lord Henry Plumb",
+   "Enrique Barón Crespo"
+  ],
+  "v": "Na fotografii je Emilio Colombo, predseda Európskeho parlamentu (1977 – 1979).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Emilio Colombo"
+   ],
+   [
+    "ep-hist-presidents",
+    "Emilio Colombo President from 1977-1979"
+   ]
+  ],
+  "img": "img/ep/colombo.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Emilio Colombo. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "1977 – 1979",
+  "bad": [
+   "1979 – 1982",
+   "1982 – 1984"
+  ],
+  "v": "Emilio Colombo bol predsedom EP v rokoch 1977 – 1979.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Emilio Colombo President from 1977-1979"
+   ]
+  ],
+  "img": "img/ep/colombo.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Simone Veilová",
+  "bad": [
+   "Roberta Metsolová",
+   "Nicole Fontaineová"
+  ],
+  "v": "Na fotografii je Simone Veilová, predsedníčka Európskeho parlamentu (1979 – 1982).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Simone Veil"
+   ],
+   [
+    "ep-hist-presidents",
+    "Simone Veil President from 1979-1982"
+   ]
+  ],
+  "img": "img/ep/veil.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Žena na fotografii je Simone Veilová. V ktorých rokoch bola predsedníčkou Európskeho parlamentu?",
+  "ok": "1979 – 1982",
+  "bad": [
+   "1977 – 1979",
+   "1982 – 1984"
+  ],
+  "v": "Simone Veilová bola predsedníčkou EP v rokoch 1979 – 1982.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Simone Veil President from 1979-1982"
+   ]
+  ],
+  "img": "img/ep/veil.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Piet Dankert",
+  "bad": [
+   "lord Henry Plumb",
+   "Enrique Barón Crespo"
+  ],
+  "v": "Na fotografii je Piet Dankert, predseda Európskeho parlamentu (1982 – 1984).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Piet Dankert"
+   ],
+   [
+    "ep-hist-presidents",
+    "Pieter Dankert President from 1982-1984"
+   ]
+  ],
+  "img": "img/ep/dankert.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Piet Dankert. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "1982 – 1984",
+  "bad": [
+   "1984 – 1987",
+   "1979 – 1982"
+  ],
+  "v": "Piet Dankert bol predsedom EP v rokoch 1982 – 1984.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pieter Dankert President from 1982-1984"
+   ]
+  ],
+  "img": "img/ep/dankert.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Pierre Pflimlin",
+  "bad": [
+   "lord Henry Plumb",
+   "Enrique Barón Crespo"
+  ],
+  "v": "Na fotografii je Pierre Pflimlin, predseda Európskeho parlamentu (1984 – 1987).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Pierre Pflimlin"
+   ],
+   [
+    "ep-hist-presidents",
+    "Pierre Pflimlin President from 1984-1987"
+   ]
+  ],
+  "img": "img/ep/pflimlin.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Pierre Pflimlin. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "1984 – 1987",
+  "bad": [
+   "1982 – 1984",
+   "1987 – 1989"
+  ],
+  "v": "Pierre Pflimlin bol predsedom EP v rokoch 1984 – 1987.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pierre Pflimlin President from 1984-1987"
+   ]
+  ],
+  "img": "img/ep/pflimlin.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "lord Henry Plumb",
+  "bad": [
+   "Enrique Barón Crespo",
+   "Piet Dankert"
+  ],
+  "v": "Na fotografii je lord Henry Plumb, predseda Európskeho parlamentu (1987 – 1989).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Lord Henry Plumb"
+   ],
+   [
+    "ep-hist-presidents",
+    "Lord Plumb President from 1987-1989"
+   ]
+  ],
+  "img": "img/ep/lord_plumb.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je lord Henry Plumb. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "1987 – 1989",
+  "bad": [
+   "1989 – 1992",
+   "1984 – 1987"
+  ],
+  "v": "lord Henry Plumb bol predsedom EP v rokoch 1987 – 1989.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Lord Plumb President from 1987-1989"
+   ]
+  ],
+  "img": "img/ep/lord_plumb.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Enrique Barón Crespo",
+  "bad": [
+   "Klaus Hänsch",
+   "lord Henry Plumb"
+  ],
+  "v": "Na fotografii je Enrique Barón Crespo, predseda Európskeho parlamentu (1989 – 1992).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Enrique Baron Crespo"
+   ],
+   [
+    "ep-hist-presidents",
+    "Enrique Barón Crespo President from 1989-1992"
+   ]
+  ],
+  "img": "img/ep/baron_crespo.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Enrique Barón Crespo. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "1989 – 1992",
+  "bad": [
+   "1987 – 1989",
+   "1992 – 1994"
+  ],
+  "v": "Enrique Barón Crespo bol predsedom EP v rokoch 1989 – 1992.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Enrique Barón Crespo President from 1989-1992"
+   ]
+  ],
+  "img": "img/ep/baron_crespo.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Egon Klepsch",
+  "bad": [
+   "José María Gil-Robles",
+   "lord Henry Plumb"
+  ],
+  "v": "Na fotografii je Egon Klepsch, predseda Európskeho parlamentu (1992 – 1994).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Egon A. Klepsch"
+   ],
+   [
+    "ep-hist-presidents",
+    "Egon A. Klepsch President from 1992-1994"
+   ]
+  ],
+  "img": "img/ep/klepsch.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Egon Klepsch. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "1992 – 1994",
+  "bad": [
+   "1994 – 1997",
+   "1989 – 1992"
+  ],
+  "v": "Egon Klepsch bol predsedom EP v rokoch 1992 – 1994.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Egon A. Klepsch President from 1992-1994"
+   ]
+  ],
+  "img": "img/ep/klepsch.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Klaus Hänsch",
+  "bad": [
+   "Egon Klepsch",
+   "lord Henry Plumb"
+  ],
+  "v": "Na fotografii je Klaus Hänsch, predseda Európskeho parlamentu (1994 – 1997).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Klaus Hänsch"
+   ],
+   [
+    "ep-hist-presidents",
+    "Klaus Hänsch President from 1994-1997"
+   ]
+  ],
+  "img": "img/ep/haensch.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Klaus Hänsch. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "1994 – 1997",
+  "bad": [
+   "1992 – 1994",
+   "1997 – 1999"
+  ],
+  "v": "Klaus Hänsch bol predsedom EP v rokoch 1994 – 1997.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Klaus Hänsch President from 1994-1997"
+   ]
+  ],
+  "img": "img/ep/haensch.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "José María Gil-Robles",
+  "bad": [
+   "Enrique Barón Crespo",
+   "Pat Cox"
+  ],
+  "v": "Na fotografii je José María Gil-Robles, predseda Európskeho parlamentu (1997 – 1999).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Jose Maria Gil-Robles"
+   ],
+   [
+    "ep-hist-presidents",
+    "José María Gil-Robles Gil-Delgado President from 1997-1999"
+   ]
+  ],
+  "img": "img/ep/gil-robles.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je José María Gil-Robles. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "1997 – 1999",
+  "bad": [
+   "1999 – 2002",
+   "1994 – 1997"
+  ],
+  "v": "José María Gil-Robles bol predsedom EP v rokoch 1997 – 1999.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "José María Gil-Robles Gil-Delgado President from 1997-1999"
+   ]
+  ],
+  "img": "img/ep/gil-robles.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Nicole Fontaineová",
+  "bad": [
+   "Roberta Metsolová",
+   "Simone Veilová"
+  ],
+  "v": "Na fotografii je Nicole Fontaineová, predsedníčka Európskeho parlamentu (1999 – 2002).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Nicole Fontaine"
+   ],
+   [
+    "ep-hist-presidents",
+    "Nicole Fontaine President from 1999-2002"
+   ]
+  ],
+  "img": "img/ep/fontaine.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Žena na fotografii je Nicole Fontaineová. V ktorých rokoch bola predsedníčkou Európskeho parlamentu?",
+  "ok": "1999 – 2002",
+  "bad": [
+   "1997 – 1999",
+   "2002 – 2004"
+  ],
+  "v": "Nicole Fontaineová bola predsedníčkou EP v rokoch 1999 – 2002.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Nicole Fontaine President from 1999-2002"
+   ]
+  ],
+  "img": "img/ep/fontaine.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Pat Cox",
+  "bad": [
+   "Hans-Gert Pöttering",
+   "José María Gil-Robles"
+  ],
+  "v": "Na fotografii je Pat Cox, predseda Európskeho parlamentu (2002 – 2004).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Pat Cox"
+   ],
+   [
+    "ep-hist-presidents",
+    "Pat Cox President from 2002-2004"
+   ]
+  ],
+  "img": "img/ep/cox.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Pat Cox. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "2002 – 2004",
+  "bad": [
+   "2004 – 2007",
+   "1999 – 2002"
+  ],
+  "v": "Pat Cox bol predsedom EP v rokoch 2002 – 2004.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Pat Cox President from 2002-2004"
+   ]
+  ],
+  "img": "img/ep/cox.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Josep Borrell",
+  "bad": [
+   "José María Gil-Robles",
+   "Jerzy Buzek"
+  ],
+  "v": "Na fotografii je Josep Borrell, predseda Európskeho parlamentu (2004 – 2007).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Josep Borrell Fontelles"
+   ],
+   [
+    "ep-hist-presidents",
+    "Josep Borrell Fontelles President from 2004-2007"
+   ]
+  ],
+  "img": "img/ep/borrell_fontelles.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Josep Borrell. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "2004 – 2007",
+  "bad": [
+   "2002 – 2004",
+   "2007 – 2009"
+  ],
+  "v": "Josep Borrell bol predsedom EP v rokoch 2004 – 2007.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Josep Borrell Fontelles President from 2004-2007"
+   ]
+  ],
+  "img": "img/ep/borrell_fontelles.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Hans-Gert Pöttering",
+  "bad": [
+   "Jerzy Buzek",
+   "Josep Borrell"
+  ],
+  "v": "Na fotografii je Hans-Gert Pöttering, predseda Európskeho parlamentu (2007 – 2009).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Hans-Gert Pöttering"
+   ],
+   [
+    "ep-hist-presidents",
+    "Hans-Gert Pöttering President from 2007-2009"
+   ]
+  ],
+  "img": "img/ep/poettering.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Hans-Gert Pöttering. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "2007 – 2009",
+  "bad": [
+   "2009 – 2012",
+   "2004 – 2007"
+  ],
+  "v": "Hans-Gert Pöttering bol predsedom EP v rokoch 2007 – 2009.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Hans-Gert Pöttering President from 2007-2009"
+   ]
+  ],
+  "img": "img/ep/poettering.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Jerzy Buzek",
+  "bad": [
+   "Martin Schulz",
+   "Josep Borrell"
+  ],
+  "v": "Na fotografii je Jerzy Buzek, predseda Európskeho parlamentu (2009 – 2012).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Jerzy Buzek"
+   ],
+   [
+    "ep-hist-presidents",
+    "Jerzy Buzek President from 2009-2012"
+   ]
+  ],
+  "img": "img/ep/buzek.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Jerzy Buzek. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "2009 – 2012",
+  "bad": [
+   "2007 – 2009",
+   "2012 – 2017"
+  ],
+  "v": "Jerzy Buzek bol predsedom EP v rokoch 2009 – 2012.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Jerzy Buzek President from 2009-2012"
+   ]
+  ],
+  "img": "img/ep/buzek.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Martin Schulz",
+  "bad": [
+   "David Sassoli",
+   "Antonio Tajani"
+  ],
+  "v": "Na fotografii je Martin Schulz, predseda Európskeho parlamentu (2012 – 2017).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Martin Schulz"
+   ],
+   [
+    "ep-hist-presidents",
+    "Martin Schulz President from 2012-2017"
+   ]
+  ],
+  "img": "img/ep/schulz.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Martin Schulz. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "2012 – 2017",
+  "bad": [
+   "2009 – 2012",
+   "2007 – 2009"
+  ],
+  "v": "Martin Schulz bol predsedom EP v rokoch 2012 – 2017.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Martin Schulz President from 2012-2017"
+   ]
+  ],
+  "img": "img/ep/schulz.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Antonio Tajani",
+  "bad": [
+   "Martin Schulz",
+   "David Sassoli"
+  ],
+  "v": "Na fotografii je Antonio Tajani, predseda Európskeho parlamentu (2017 – 2019).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Antonio Tajani"
+   ],
+   [
+    "ep-hist-presidents",
+    "Antonio Tajani President from 2017-2019"
+   ]
+  ],
+  "img": "img/ep/tajani.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je Antonio Tajani. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "2017 – 2019",
+  "bad": [
+   "2019 – 2022",
+   "2012 – 2017"
+  ],
+  "v": "Antonio Tajani bol predsedom EP v rokoch 2017 – 2019.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Antonio Tajani President from 2017-2019"
+   ]
+  ],
+  "img": "img/ep/tajani.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "David Sassoli",
+  "bad": [
+   "Jerzy Buzek",
+   "Antonio Tajani"
+  ],
+  "v": "Na fotografii je David Sassoli, predseda Európskeho parlamentu (2019 – 2022).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President David Maria Sassoli"
+   ],
+   [
+    "ep-hist-presidents",
+    "David Maria Sassoli President from 2019-2022"
+   ]
+  ],
+  "img": "img/ep/sassoli.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Muž na fotografii je David Sassoli. V ktorých rokoch bol predsedom Európskeho parlamentu?",
+  "ok": "2019 – 2022",
+  "bad": [
+   "2017 – 2019",
+   "2012 – 2017"
+  ],
+  "v": "David Sassoli bol predsedom EP v rokoch 2019 – 2022.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "David Maria Sassoli President from 2019-2022"
+   ]
+  ],
+  "img": "img/ep/sassoli.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Kto je na fotografii? (predseda alebo predsedníčka Európskeho parlamentu)",
+  "ok": "Roberta Metsolová",
+  "bad": [
+   "Nicole Fontaineová",
+   "Simone Veilová"
+  ],
+  "v": "Na fotografii je Roberta Metsolová, predsedníčka Európskeho parlamentu (od 2022).",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "European Parliament President Roberta Metsola"
+   ],
+   [
+    "ep-hist-presidents",
+    "Roberta Metsola President since 2022"
+   ]
+  ],
+  "img": "img/ep/metsola.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Žena na fotografii je Roberta Metsolová. Akú funkciu zastáva od roku 2022?",
+  "ok": "predsedníčka Európskeho parlamentu",
+  "bad": [
+   "predsedníčka Európskej komisie",
+   "vysoká predstaviteľka EÚ pre zahraničné veci"
+  ],
+  "v": "Roberta Metsolová je predsedníčkou Európskeho parlamentu od roku 2022.",
+  "src": [
+   [
+    "ep-hist-presidents",
+    "Roberta Metsola President since 2022"
+   ]
+  ],
+  "img": "img/ep/metsola.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Teresa Riberová",
+  "bad": [
+   "Dubravka Šuicová",
+   "Hadja Lahbibová"
+  ],
+  "v": "Na fotografii je Teresa Riberová (Španielsko) – v Komisii zodpovedá za oblasť: čistá, spravodlivá a konkurencieschopná transformácia.",
+  "src": [
+   [
+    "com-college",
+    "Teresa Riberová čistá, spravodlivá a konkurencieschopná transformácia"
+   ]
+  ],
+  "img": "img/kom/teresa-ribera-rodriguez.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Teresa Riberová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "čistú, spravodlivú a konkurencieschopnú transformáciu",
+  "bad": [
+   "zdravie a dobré životné podmienky zvierat",
+   "vnútorné veci a migráciu"
+  ],
+  "v": "Teresa Riberová má v Komisii Ursuly von der Leyenovej na starosti oblasť: čistá, spravodlivá a konkurencieschopná transformácia.",
+  "src": [
+   [
+    "com-college",
+    "Teresa Riberová čistá, spravodlivá a konkurencieschopná transformácia"
+   ]
+  ],
+  "img": "img/kom/teresa-ribera-rodriguez.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Henna Virkkunenová",
+  "bad": [
+   "Marta Kosová",
+   "Dubravka Šuicová"
+  ],
+  "v": "Na fotografii je Henna Virkkunenová (Fínsko) – v Komisii zodpovedá za oblasť: technologická suverenita, bezpečnosť a demokracia.",
+  "src": [
+   [
+    "com-college",
+    "Henna Virkkunenová technologická suverenita, bezpečnosť a demokracia"
+   ]
+  ],
+  "img": "img/kom/henna-virkkunen.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Henna Virkkunenová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "technologickú suverenitu, bezpečnosť a demokraciu",
+  "bad": [
+   "vnútorné veci a migráciu",
+   "prosperitu a priemyselnú stratégiu"
+  ],
+  "v": "Henna Virkkunenová má v Komisii Ursuly von der Leyenovej na starosti oblasť: technologická suverenita, bezpečnosť a demokracia.",
+  "src": [
+   [
+    "com-college",
+    "Henna Virkkunenová technologická suverenita, bezpečnosť a demokracia"
+   ]
+  ],
+  "img": "img/kom/henna-virkkunen.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Stéphane Séjourné",
+  "bad": [
+   "Valdis Dombrovskis",
+   "Andrius Kubilius"
+  ],
+  "v": "Na fotografii je Stéphane Séjourné (Francúzsko) – v Komisii zodpovedá za oblasť: prosperita a priemyselná stratégia.",
+  "src": [
+   [
+    "com-college",
+    "Stéphane Séjourné prosperita a priemyselná stratégia"
+   ]
+  ],
+  "img": "img/kom/stephane-sejourne.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Stéphane Séjourné. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "prosperitu a priemyselnú stratégiu",
+  "bad": [
+   "zahraničné veci a bezpečnostnú politiku (ako vysoká predstaviteľka Únie)",
+   "finančné služby a úniu úspor a investícií"
+  ],
+  "v": "Stéphane Séjourné má v Komisii Ursuly von der Leyenovej na starosti oblasť: prosperita a priemyselná stratégia.",
+  "src": [
+   [
+    "com-college",
+    "Stéphane Séjourné prosperita a priemyselná stratégia"
+   ]
+  ],
+  "img": "img/kom/stephane-sejourne.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Kaja Kallasová",
+  "bad": [
+   "Teresa Riberová",
+   "Jessika Roswallová"
+  ],
+  "v": "Na fotografii je Kaja Kallasová (Estónsko) – v Komisii zodpovedá za oblasť: vysoká predstaviteľka Únie pre zahraničné veci a bezpečnostnú politiku.",
+  "src": [
+   [
+    "com-college",
+    "Kaja Kallasová vysoká predstaviteľka Únie pre zahraničné veci a bezpečnostnú politiku"
+   ]
+  ],
+  "img": "img/kom/kaja-kallas.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Na fotografii je Kaja Kallasová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "zahraničné veci a bezpečnostnú politiku (ako vysoká predstaviteľka Únie)",
+  "bad": [
+   "rybárstvo a oceány",
+   "sociálne práva a zručnosti, kvalitné pracovné miesta a pripravenosť"
+  ],
+  "v": "Kaja Kallasová má v Komisii Ursuly von der Leyenovej na starosti oblasť: vysoká predstaviteľka Únie pre zahraničné veci a bezpečnostnú politiku.",
+  "src": [
+   [
+    "com-college",
+    "Kaja Kallasová vysoká predstaviteľka Únie pre zahraničné veci a bezpečnostnú politiku"
+   ]
+  ],
+  "img": "img/kom/kaja-kallas.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Roxana Mînzatuová",
+  "bad": [
+   "Henna Virkkunenová",
+   "Maria Luís Albuquerqueová"
+  ],
+  "v": "Na fotografii je Roxana Mînzatuová (Rumunsko) – v Komisii zodpovedá za oblasť: sociálne práva a zručnosti, kvalitné pracovné miesta a pripravenosť.",
+  "src": [
+   [
+    "com-college",
+    "Roxana Mînzatuová sociálne práva a zručnosti, kvalitné pracovné miesta a pripravenosť"
+   ]
+  ],
+  "img": "img/kom/roxana-minzatu.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Roxana Mînzatuová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "sociálne práva a zručnosti, kvalitné pracovné miesta a pripravenosť",
+  "bad": [
+   "rozpočet, boj proti podvodom a verejnú správu",
+   "technologickú suverenitu, bezpečnosť a demokraciu"
+  ],
+  "v": "Roxana Mînzatuová má v Komisii Ursuly von der Leyenovej na starosti oblasť: sociálne práva a zručnosti, kvalitné pracovné miesta a pripravenosť.",
+  "src": [
+   [
+    "com-college",
+    "Roxana Mînzatuová sociálne práva a zručnosti, kvalitné pracovné miesta a pripravenosť"
+   ]
+  ],
+  "img": "img/kom/roxana-minzatu.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Raffaele Fitto",
+  "bad": [
+   "Dan Jørgensen",
+   "Glenn Micallef"
+  ],
+  "v": "Na fotografii je Raffaele Fitto (Taliansko) – v Komisii zodpovedá za oblasť: súdržnosť a reformy.",
+  "src": [
+   [
+    "com-college",
+    "Raffaele Fitto súdržnosť a reformy"
+   ]
+  ],
+  "img": "img/kom/raffaele-fitto.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Raffaele Fitto. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "súdržnosť a reformy",
+  "bad": [
+   "zdravie a dobré životné podmienky zvierat",
+   "životné prostredie, odolnosť v oblasti vody a obehové hospodárstvo"
+  ],
+  "v": "Raffaele Fitto má v Komisii Ursuly von der Leyenovej na starosti oblasť: súdržnosť a reformy.",
+  "src": [
+   [
+    "com-college",
+    "Raffaele Fitto súdržnosť a reformy"
+   ]
+  ],
+  "img": "img/kom/raffaele-fitto.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Maroš Šefčovič",
+  "bad": [
+   "Wopke Hoekstra",
+   "Piotr Serafin"
+  ],
+  "v": "Na fotografii je Maroš Šefčovič (Slovensko) – v Komisii zodpovedá za oblasť: obchod a ekonomická bezpečnosť, medziinštitucionálne vzťahy a transparentnosť.",
+  "src": [
+   [
+    "com-college",
+    "Maroš Šefčovič obchod a ekonomická bezpečnosť, medziinštitucionálne vzťahy a transparentnosť"
+   ]
+  ],
+  "img": "img/kom/maros-sefcovic.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Na fotografii je Maroš Šefčovič. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "obchod a ekonomickú bezpečnosť, medziinštitucionálne vzťahy a transparentnosť",
+  "bad": [
+   "rybárstvo a oceány",
+   "klímu, nulovú bilanciu emisií a čistý rast"
+  ],
+  "v": "Maroš Šefčovič má v Komisii Ursuly von der Leyenovej na starosti oblasť: obchod a ekonomická bezpečnosť, medziinštitucionálne vzťahy a transparentnosť.",
+  "src": [
+   [
+    "com-college",
+    "Maroš Šefčovič obchod a ekonomická bezpečnosť, medziinštitucionálne vzťahy a transparentnosť"
+   ]
+  ],
+  "img": "img/kom/maros-sefcovic.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Valdis Dombrovskis",
+  "bad": [
+   "Dan Jørgensen",
+   "Olivér Várhelyi"
+  ],
+  "v": "Na fotografii je Valdis Dombrovskis (Lotyšsko) – v Komisii zodpovedá za oblasť: hospodárstvo a produktivita, vykonávanie a zjednodušenie.",
+  "src": [
+   [
+    "com-college",
+    "Valdis Dombrovskis hospodárstvo a produktivita, vykonávanie a zjednodušenie"
+   ]
+  ],
+  "img": "img/kom/valdis-dombrovskis.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Valdis Dombrovskis. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "hospodárstvo a produktivitu, vykonávanie a zjednodušenie",
+  "bad": [
+   "finančné služby a úniu úspor a investícií",
+   "čistú, spravodlivú a konkurencieschopnú transformáciu"
+  ],
+  "v": "Valdis Dombrovskis má v Komisii Ursuly von der Leyenovej na starosti oblasť: hospodárstvo a produktivita, vykonávanie a zjednodušenie.",
+  "src": [
+   [
+    "com-college",
+    "Valdis Dombrovskis hospodárstvo a produktivita, vykonávanie a zjednodušenie"
+   ]
+  ],
+  "img": "img/kom/valdis-dombrovskis.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Dubravka Šuicová",
+  "bad": [
+   "Kaja Kallasová",
+   "Henna Virkkunenová"
+  ],
+  "v": "Na fotografii je Dubravka Šuicová (Chorvátsko) – v Komisii zodpovedá za oblasť: Stredozemie.",
+  "src": [
+   [
+    "com-college",
+    "Dubravka Šuicová Stredozemie"
+   ]
+  ],
+  "img": "img/kom/dubravka-suica.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Dubravka Šuicová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "Stredozemie",
+  "bad": [
+   "energetiku a bývanie",
+   "životné prostredie, odolnosť v oblasti vody a obehové hospodárstvo"
+  ],
+  "v": "Dubravka Šuicová má v Komisii Ursuly von der Leyenovej na starosti oblasť: Stredozemie.",
+  "src": [
+   [
+    "com-college",
+    "Dubravka Šuicová Stredozemie"
+   ]
+  ],
+  "img": "img/kom/dubravka-suica.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Olivér Várhelyi",
+  "bad": [
+   "Raffaele Fitto",
+   "Wopke Hoekstra"
+  ],
+  "v": "Na fotografii je Olivér Várhelyi (Maďarsko) – v Komisii zodpovedá za oblasť: zdravie a dobré životné podmienky zvierat.",
+  "src": [
+   [
+    "com-college",
+    "Olivér Várhelyi zdravie a dobré životné podmienky zvierat"
+   ]
+  ],
+  "img": "img/kom/oliver-varhely.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Olivér Várhelyi. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "zdravie a dobré životné podmienky zvierat",
+  "bad": [
+   "rybárstvo a oceány",
+   "zahraničné veci a bezpečnostnú politiku (ako vysoká predstaviteľka Únie)"
+  ],
+  "v": "Olivér Várhelyi má v Komisii Ursuly von der Leyenovej na starosti oblasť: zdravie a dobré životné podmienky zvierat.",
+  "src": [
+   [
+    "com-college",
+    "Olivér Várhelyi zdravie a dobré životné podmienky zvierat"
+   ]
+  ],
+  "img": "img/kom/oliver-varhely.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Wopke Hoekstra",
+  "bad": [
+   "Olivér Várhelyi",
+   "Raffaele Fitto"
+  ],
+  "v": "Na fotografii je Wopke Hoekstra (Holandsko) – v Komisii zodpovedá za oblasť: klíma, nulová bilancia emisií a čistý rast.",
+  "src": [
+   [
+    "com-college",
+    "Wopke Hoekstra klíma, nulová bilancia emisií a čistý rast"
+   ]
+  ],
+  "img": "img/kom/wopke-hoekstra.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Wopke Hoekstra. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "klímu, nulovú bilanciu emisií a čistý rast",
+  "bad": [
+   "rybárstvo a oceány",
+   "sociálne práva a zručnosti, kvalitné pracovné miesta a pripravenosť"
+  ],
+  "v": "Wopke Hoekstra má v Komisii Ursuly von der Leyenovej na starosti oblasť: klíma, nulová bilancia emisií a čistý rast.",
+  "src": [
+   [
+    "com-college",
+    "Wopke Hoekstra klíma, nulová bilancia emisií a čistý rast"
+   ]
+  ],
+  "img": "img/kom/wopke-hoekstra.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Andrius Kubilius",
+  "bad": [
+   "Valdis Dombrovskis",
+   "Maroš Šefčovič"
+  ],
+  "v": "Na fotografii je Andrius Kubilius (Litva) – v Komisii zodpovedá za oblasť: obrana a vesmírna agenda.",
+  "src": [
+   [
+    "com-college",
+    "Andrius Kubilius obrana a vesmírna agenda"
+   ]
+  ],
+  "img": "img/kom/kubilius.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Andrius Kubilius. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "obranu a vesmírnu agendu",
+  "bad": [
+   "rybárstvo a oceány",
+   "medzigeneračnú spravodlivosť, mládež, kultúru a šport"
+  ],
+  "v": "Andrius Kubilius má v Komisii Ursuly von der Leyenovej na starosti oblasť: obrana a vesmírna agenda.",
+  "src": [
+   [
+    "com-college",
+    "Andrius Kubilius obrana a vesmírna agenda"
+   ]
+  ],
+  "img": "img/kom/kubilius.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Marta Kosová",
+  "bad": [
+   "Roxana Mînzatuová",
+   "Dubravka Šuicová"
+  ],
+  "v": "Na fotografii je Marta Kosová (Slovinsko) – v Komisii zodpovedá za oblasť: rozširovanie.",
+  "src": [
+   [
+    "com-college",
+    "Marta Kosová rozširovanie"
+   ]
+  ],
+  "img": "img/kom/marta-kos.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Marta Kosová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "rozširovanie",
+  "bad": [
+   "rovnosť, pripravenosť a krízové riadenie",
+   "demokraciu, spravodlivosť, právny štát a ochranu spotrebiteľa"
+  ],
+  "v": "Marta Kosová má v Komisii Ursuly von der Leyenovej na starosti oblasť: rozširovanie.",
+  "src": [
+   [
+    "com-college",
+    "Marta Kosová rozširovanie"
+   ]
+  ],
+  "img": "img/kom/marta-kos.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Jozef Síkela",
+  "bad": [
+   "Valdis Dombrovskis",
+   "Andrius Kubilius"
+  ],
+  "v": "Na fotografii je Jozef Síkela (Česko) – v Komisii zodpovedá za oblasť: medzinárodné partnerstvá.",
+  "src": [
+   [
+    "com-college",
+    "Jozef Síkela medzinárodné partnerstvá"
+   ]
+  ],
+  "img": "img/kom/jozef-sikela.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Jozef Síkela. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "medzinárodné partnerstvá",
+  "bad": [
+   "prosperitu a priemyselnú stratégiu",
+   "zahraničné veci a bezpečnostnú politiku (ako vysoká predstaviteľka Únie)"
+  ],
+  "v": "Jozef Síkela má v Komisii Ursuly von der Leyenovej na starosti oblasť: medzinárodné partnerstvá.",
+  "src": [
+   [
+    "com-college",
+    "Jozef Síkela medzinárodné partnerstvá"
+   ]
+  ],
+  "img": "img/kom/jozef-sikela.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Kostas Kadis",
+  "bad": [
+   "Raffaele Fitto",
+   "Maroš Šefčovič"
+  ],
+  "v": "Na fotografii je Kostas Kadis (Cyprus) – v Komisii zodpovedá za oblasť: rybárstvo a oceány.",
+  "src": [
+   [
+    "com-college",
+    "Kostas Kadis rybárstvo a oceány"
+   ]
+  ],
+  "img": "img/kom/costas-kadis.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Kostas Kadis. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "rybárstvo a oceány",
+  "bad": [
+   "udržateľnú dopravu a cestovný ruch",
+   "medzinárodné partnerstvá"
+  ],
+  "v": "Kostas Kadis má v Komisii Ursuly von der Leyenovej na starosti oblasť: rybárstvo a oceány.",
+  "src": [
+   [
+    "com-college",
+    "Kostas Kadis rybárstvo a oceány"
+   ]
+  ],
+  "img": "img/kom/costas-kadis.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Maria Luís Albuquerqueová",
+  "bad": [
+   "Kaja Kallasová",
+   "Hadja Lahbibová"
+  ],
+  "v": "Na fotografii je Maria Luís Albuquerqueová (Portugalsko) – v Komisii zodpovedá za oblasť: finančné služby a únia úspor a investícií.",
+  "src": [
+   [
+    "com-college",
+    "Maria Luís Albuquerqueová finančné služby a únia úspor a investícií"
+   ]
+  ],
+  "img": "img/kom/maria-luis-albuquerque.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Maria Luís Albuquerqueová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "finančné služby a úniu úspor a investícií",
+  "bad": [
+   "zahraničné veci a bezpečnostnú politiku (ako vysoká predstaviteľka Únie)",
+   "rybárstvo a oceány"
+  ],
+  "v": "Maria Luís Albuquerqueová má v Komisii Ursuly von der Leyenovej na starosti oblasť: finančné služby a únia úspor a investícií.",
+  "src": [
+   [
+    "com-college",
+    "Maria Luís Albuquerqueová finančné služby a únia úspor a investícií"
+   ]
+  ],
+  "img": "img/kom/maria-luis-albuquerque.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Hadja Lahbibová",
+  "bad": [
+   "Ekaterina Zacharievová",
+   "Henna Virkkunenová"
+  ],
+  "v": "Na fotografii je Hadja Lahbibová (Belgicko) – v Komisii zodpovedá za oblasť: rovnosť, pripravenosť a krízové riadenie.",
+  "src": [
+   [
+    "com-college",
+    "Hadja Lahbibová rovnosť, pripravenosť a krízové riadenie"
+   ]
+  ],
+  "img": "img/kom/hadja-lahbib.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Hadja Lahbibová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "rovnosť, pripravenosť a krízové riadenie",
+  "bad": [
+   "poľnohospodárstvo a potraviny",
+   "rozpočet, boj proti podvodom a verejnú správu"
+  ],
+  "v": "Hadja Lahbibová má v Komisii Ursuly von der Leyenovej na starosti oblasť: rovnosť, pripravenosť a krízové riadenie.",
+  "src": [
+   [
+    "com-college",
+    "Hadja Lahbibová rovnosť, pripravenosť a krízové riadenie"
+   ]
+  ],
+  "img": "img/kom/hadja-lahbib.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Magnus Brunner",
+  "bad": [
+   "Jozef Síkela",
+   "Dan Jørgensen"
+  ],
+  "v": "Na fotografii je Magnus Brunner (Rakúsko) – v Komisii zodpovedá za oblasť: vnútorné veci a migrácia.",
+  "src": [
+   [
+    "com-college",
+    "Magnus Brunner vnútorné veci a migrácia"
+   ]
+  ],
+  "img": "img/kom/magnus-brunner.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Magnus Brunner. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "vnútorné veci a migráciu",
+  "bad": [
+   "demokraciu, spravodlivosť, právny štát a ochranu spotrebiteľa",
+   "finančné služby a úniu úspor a investícií"
+  ],
+  "v": "Magnus Brunner má v Komisii Ursuly von der Leyenovej na starosti oblasť: vnútorné veci a migrácia.",
+  "src": [
+   [
+    "com-college",
+    "Magnus Brunner vnútorné veci a migrácia"
+   ]
+  ],
+  "img": "img/kom/magnus-brunner.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Jessika Roswallová",
+  "bad": [
+   "Hadja Lahbibová",
+   "Maria Luís Albuquerqueová"
+  ],
+  "v": "Na fotografii je Jessika Roswallová (Švédsko) – v Komisii zodpovedá za oblasť: životné prostredie, odolnosť v oblasti vody a konkurencieschopné obehové hospodárstvo.",
+  "src": [
+   [
+    "com-college",
+    "Jessika Roswallová životné prostredie, odolnosť v oblasti vody a konkurencieschopné obehové hospodárstvo"
+   ]
+  ],
+  "img": "img/kom/jessika-roswall.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Jessika Roswallová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "životné prostredie, odolnosť v oblasti vody a obehové hospodárstvo",
+  "bad": [
+   "obchod a ekonomickú bezpečnosť, medziinštitucionálne vzťahy a transparentnosť",
+   "rovnosť, pripravenosť a krízové riadenie"
+  ],
+  "v": "Jessika Roswallová má v Komisii Ursuly von der Leyenovej na starosti oblasť: životné prostredie, odolnosť v oblasti vody a konkurencieschopné obehové hospodárstvo.",
+  "src": [
+   [
+    "com-college",
+    "Jessika Roswallová životné prostredie, odolnosť v oblasti vody a konkurencieschopné obehové hospodárstvo"
+   ]
+  ],
+  "img": "img/kom/jessika-roswall.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Piotr Serafin",
+  "bad": [
+   "Dan Jørgensen",
+   "Jozef Síkela"
+  ],
+  "v": "Na fotografii je Piotr Serafin (Poľsko) – v Komisii zodpovedá za oblasť: rozpočet, boj proti podvodom a verejná správa.",
+  "src": [
+   [
+    "com-college",
+    "Piotr Serafin rozpočet, boj proti podvodom a verejná správa"
+   ]
+  ],
+  "img": "img/kom/piotr-serafin.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Piotr Serafin. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "rozpočet, boj proti podvodom a verejnú správu",
+  "bad": [
+   "medzinárodné partnerstvá",
+   "Stredozemie"
+  ],
+  "v": "Piotr Serafin má v Komisii Ursuly von der Leyenovej na starosti oblasť: rozpočet, boj proti podvodom a verejná správa.",
+  "src": [
+   [
+    "com-college",
+    "Piotr Serafin rozpočet, boj proti podvodom a verejná správa"
+   ]
+  ],
+  "img": "img/kom/piotr-serafin.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Dan Jørgensen",
+  "bad": [
+   "Wopke Hoekstra",
+   "Raffaele Fitto"
+  ],
+  "v": "Na fotografii je Dan Jørgensen (Dánsko) – v Komisii zodpovedá za oblasť: energetika a bývanie.",
+  "src": [
+   [
+    "com-college",
+    "Dan Jørgensen energetika a bývanie"
+   ]
+  ],
+  "img": "img/kom/dan-jorgensen.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Dan Jørgensen. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "energetiku a bývanie",
+  "bad": [
+   "rybárstvo a oceány",
+   "obranu a vesmírnu agendu"
+  ],
+  "v": "Dan Jørgensen má v Komisii Ursuly von der Leyenovej na starosti oblasť: energetika a bývanie.",
+  "src": [
+   [
+    "com-college",
+    "Dan Jørgensen energetika a bývanie"
+   ]
+  ],
+  "img": "img/kom/dan-jorgensen.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Ekaterina Zacharievová",
+  "bad": [
+   "Marta Kosová",
+   "Henna Virkkunenová"
+  ],
+  "v": "Na fotografii je Ekaterina Zacharievová (Bulharsko) – v Komisii zodpovedá za oblasť: startupy, výskum a inovácie.",
+  "src": [
+   [
+    "com-college",
+    "Ekaterina Zacharievová startupy, výskum a inovácie"
+   ]
+  ],
+  "img": "img/kom/ekaterina-zaharieva.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Ekaterina Zacharievová. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "startupy, výskum a inovácie",
+  "bad": [
+   "technologickú suverenitu, bezpečnosť a demokraciu",
+   "medzinárodné partnerstvá"
+  ],
+  "v": "Ekaterina Zacharievová má v Komisii Ursuly von der Leyenovej na starosti oblasť: startupy, výskum a inovácie.",
+  "src": [
+   [
+    "com-college",
+    "Ekaterina Zacharievová startupy, výskum a inovácie"
+   ]
+  ],
+  "img": "img/kom/ekaterina-zaharieva.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Michael McGrath",
+  "bad": [
+   "Christophe Hansen",
+   "Magnus Brunner"
+  ],
+  "v": "Na fotografii je Michael McGrath (Írsko) – v Komisii zodpovedá za oblasť: demokracia, spravodlivosť, právny štát a ochrana spotrebiteľa.",
+  "src": [
+   [
+    "com-college",
+    "Michael McGrath demokracia, spravodlivosť, právny štát a ochrana spotrebiteľa"
+   ]
+  ],
+  "img": "img/kom/michael-mcgrath.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Michael McGrath. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "demokraciu, spravodlivosť, právny štát a ochranu spotrebiteľa",
+  "bad": [
+   "obranu a vesmírnu agendu",
+   "rovnosť, pripravenosť a krízové riadenie"
+  ],
+  "v": "Michael McGrath má v Komisii Ursuly von der Leyenovej na starosti oblasť: demokracia, spravodlivosť, právny štát a ochrana spotrebiteľa.",
+  "src": [
+   [
+    "com-college",
+    "Michael McGrath demokracia, spravodlivosť, právny štát a ochrana spotrebiteľa"
+   ]
+  ],
+  "img": "img/kom/michael-mcgrath.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Apostolos Tzitzikostas",
+  "bad": [
+   "Stéphane Séjourné",
+   "Maroš Šefčovič"
+  ],
+  "v": "Na fotografii je Apostolos Tzitzikostas (Grécko) – v Komisii zodpovedá za oblasť: udržateľná doprava a cestovný ruch.",
+  "src": [
+   [
+    "com-college",
+    "Apostolos Tzitzikostas udržateľná doprava a cestovný ruch"
+   ]
+  ],
+  "img": "img/kom/apostolos-tzitzikostas.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Apostolos Tzitzikostas. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "udržateľnú dopravu a cestovný ruch",
+  "bad": [
+   "životné prostredie, odolnosť v oblasti vody a obehové hospodárstvo",
+   "technologickú suverenitu, bezpečnosť a demokraciu"
+  ],
+  "v": "Apostolos Tzitzikostas má v Komisii Ursuly von der Leyenovej na starosti oblasť: udržateľná doprava a cestovný ruch.",
+  "src": [
+   [
+    "com-college",
+    "Apostolos Tzitzikostas udržateľná doprava a cestovný ruch"
+   ]
+  ],
+  "img": "img/kom/apostolos-tzitzikostas.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Christophe Hansen",
+  "bad": [
+   "Dan Jørgensen",
+   "Jozef Síkela"
+  ],
+  "v": "Na fotografii je Christophe Hansen (Luxembursko) – v Komisii zodpovedá za oblasť: poľnohospodárstvo a potraviny.",
+  "src": [
+   [
+    "com-college",
+    "Christophe Hansen poľnohospodárstvo a potraviny"
+   ]
+  ],
+  "img": "img/kom/christophe-hansen.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Christophe Hansen. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "poľnohospodárstvo a potraviny",
+  "bad": [
+   "čistú, spravodlivú a konkurencieschopnú transformáciu",
+   "obchod a ekonomickú bezpečnosť, medziinštitucionálne vzťahy a transparentnosť"
+  ],
+  "v": "Christophe Hansen má v Komisii Ursuly von der Leyenovej na starosti oblasť: poľnohospodárstvo a potraviny.",
+  "src": [
+   [
+    "com-college",
+    "Christophe Hansen poľnohospodárstvo a potraviny"
+   ]
+  ],
+  "img": "img/kom/christophe-hansen.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (člen Európskej komisie 2024 – 2029)",
+  "ok": "Glenn Micallef",
+  "bad": [
+   "Olivér Várhelyi",
+   "Dan Jørgensen"
+  ],
+  "v": "Na fotografii je Glenn Micallef (Malta) – v Komisii zodpovedá za oblasť: medzigeneračná spravodlivosť, mládež, kultúra a šport.",
+  "src": [
+   [
+    "com-college",
+    "Glenn Micallef medzigeneračná spravodlivosť, mládež, kultúra a šport"
+   ]
+  ],
+  "img": "img/kom/glenn-micallef.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je Glenn Micallef. Za ktorú oblasť zodpovedá v Európskej komisii 2024 – 2029?",
+  "ok": "medzigeneračnú spravodlivosť, mládež, kultúru a šport",
+  "bad": [
+   "životné prostredie, odolnosť v oblasti vody a obehové hospodárstvo",
+   "čistú, spravodlivú a konkurencieschopnú transformáciu"
+  ],
+  "v": "Glenn Micallef má v Komisii Ursuly von der Leyenovej na starosti oblasť: medzigeneračná spravodlivosť, mládež, kultúra a šport.",
+  "src": [
+   [
+    "com-college",
+    "Glenn Micallef medzigeneračná spravodlivosť, mládež, kultúra a šport"
+   ]
+  ],
+  "img": "img/kom/glenn-micallef.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Kto je na fotografii? (predsedníčka Európskej komisie)",
+  "ok": "Ursula von der Leyenová",
+  "bad": [
+   "Roberta Metsolová",
+   "Kaja Kallasová"
+  ],
+  "v": "Na fotografii je Ursula von der Leyenová, predsedníčka Európskej komisie (od roku 2019, druhé obdobie od roku 2024).",
+  "src": [
+   [
+    "com-college",
+    "Predsedníčka Ursula von der Leyenová"
+   ]
+  ],
+  "img": "img/kom/president.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Žena na fotografii je Ursula von der Leyenová. Akú funkciu zastáva?",
+  "ok": "predsedníčka Európskej komisie",
+  "bad": [
+   "predsedníčka Európskeho parlamentu",
+   "prezidentka Európskej centrálnej banky"
+  ],
+  "v": "Ursula von der Leyenová vedie Európsku komisiu.",
+  "src": [
+   [
+    "com-college",
+    "Predsedníčka Ursula von der Leyenová"
+   ]
+  ],
+  "img": "img/kom/president.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (slovenská poslankyňa Európskeho parlamentu 2024 – 2029)",
+  "ok": "Monika Beňová",
+  "bad": [
+   "Veronika Cifrová Ostrihoňová",
+   "Katarína Roth Neveďalová"
+  ],
+  "v": "Na fotografii je Monika Beňová – poslankyňa EP za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Monika BEŇOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/23868.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Na fotografii je europoslankyňa Monika Beňová. Za ktorú stranu bola zvolená do Európskeho parlamentu?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "Progresívne Slovensko"
+  ],
+  "v": "Monika Beňová je poslankyňou EP (2024 – 2029) za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Monika BEŇOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/23868.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (slovenský poslanec Európskeho parlamentu 2024 – 2029)",
+  "ok": "Ľuboš Blaha",
+  "bad": [
+   "Martin Hojsík",
+   "Erik Kaliňák"
+  ],
+  "v": "Na fotografii je Ľuboš Blaha – poslanec EP za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľuboš BLAHA Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/257005.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Na fotografii je europoslanec Ľuboš Blaha. Za ktorú stranu bol zvolený do Európskeho parlamentu?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Ľuboš Blaha je poslancom EP (2024 – 2029) za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľuboš BLAHA Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/257005.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenská poslankyňa Európskeho parlamentu 2024 – 2029)",
+  "ok": "Veronika Cifrová Ostrihoňová",
+  "bad": [
+   "Ľubica Karvašová",
+   "Judita Laššáková"
+  ],
+  "v": "Na fotografii je Veronika Cifrová Ostrihoňová – poslankyňa EP za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Veronika CIFROVÁ OSTRIHOŇOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/257014.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslankyňa Veronika Cifrová Ostrihoňová. Za ktorú stranu bola zvolená do Európskeho parlamentu?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "SMER-Sociálna demokracia"
+  ],
+  "v": "Veronika Cifrová Ostrihoňová je poslankyňou EP (2024 – 2029) za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Veronika CIFROVÁ OSTRIHOŇOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/257014.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenský poslanec Európskeho parlamentu 2024 – 2029)",
+  "ok": "Martin Hojsík",
+  "bad": [
+   "Milan Uhrík",
+   "Ľudovít Ódor"
+  ],
+  "v": "Na fotografii je Martin Hojsík – poslanec EP za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Martin HOJSÍK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/197770.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslanec Martin Hojsík. Za ktorú stranu bol zvolený do Európskeho parlamentu?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "SMER-Sociálna demokracia",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Martin Hojsík je poslancom EP (2024 – 2029) za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Martin HOJSÍK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/197770.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (slovenský poslanec Európskeho parlamentu 2024 – 2029)",
+  "ok": "Erik Kaliňák",
+  "bad": [
+   "Ľudovít Ódor",
+   "Martin Hojsík"
+  ],
+  "v": "Na fotografii je Erik Kaliňák – poslanec EP za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Erik KALIŇÁK Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/257007.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Na fotografii je europoslanec Erik Kaliňák. Za ktorú stranu bol zvolený do Európskeho parlamentu?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Erik Kaliňák je poslancom EP (2024 – 2029) za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Erik KALIŇÁK Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/257007.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenská poslankyňa Európskeho parlamentu 2024 – 2029)",
+  "ok": "Ľubica Karvašová",
+  "bad": [
+   "Monika Beňová",
+   "Miriam Lexmann"
+  ],
+  "v": "Na fotografii je Ľubica Karvašová – poslankyňa EP za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľubica KARVAŠOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/257013.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslankyňa Ľubica Karvašová. Za ktorú stranu bola zvolená do Európskeho parlamentu?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "Hnutie Republika"
+  ],
+  "v": "Ľubica Karvašová je poslankyňou EP (2024 – 2029) za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľubica KARVAŠOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/257013.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenská poslankyňa Európskeho parlamentu 2024 – 2029)",
+  "ok": "Judita Laššáková",
+  "bad": [
+   "Lucia Yar",
+   "Veronika Cifrová Ostrihoňová"
+  ],
+  "v": "Na fotografii je Judita Laššáková – poslankyňa EP za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Judita LAŠŠÁKOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/198373.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslankyňa Judita Laššáková. Za ktorú stranu bola zvolená do Európskeho parlamentu?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Hnutie Republika",
+   "Progresívne Slovensko"
+  ],
+  "v": "Judita Laššáková je poslankyňou EP (2024 – 2029) za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Judita LAŠŠÁKOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/198373.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenská poslankyňa Európskeho parlamentu 2024 – 2029)",
+  "ok": "Miriam Lexmann",
+  "bad": [
+   "Katarína Roth Neveďalová",
+   "Judita Laššáková"
+  ],
+  "v": "Na fotografii je Miriam Lexmann – poslankyňa EP za stranu Kresťanskodemokratické hnutie.",
+  "src": [
+   [
+    "sk-meps",
+    "Miriam LEXMANN Poslanecký klub Európskej ľudovej strany (Kresťanských demokratov) Slovensko Kresťanskodemokratické hnutie"
+   ]
+  ],
+  "img": "img/mep/204336.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslankyňa Miriam Lexmann. Za ktorú stranu bola zvolená do Európskeho parlamentu?",
+  "ok": "Kresťanskodemokratické hnutie",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "Hnutie Republika"
+  ],
+  "v": "Miriam Lexmann je poslankyňou EP (2024 – 2029) za stranu Kresťanskodemokratické hnutie.",
+  "src": [
+   [
+    "sk-meps",
+    "Miriam LEXMANN Poslanecký klub Európskej ľudovej strany (Kresťanských demokratov) Slovensko Kresťanskodemokratické hnutie"
+   ]
+  ],
+  "img": "img/mep/204336.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenský poslanec Európskeho parlamentu 2024 – 2029)",
+  "ok": "Milan Mazurek",
+  "bad": [
+   "Martin Hojsík",
+   "Branislav Ondruš"
+  ],
+  "v": "Na fotografii je Milan Mazurek – poslanec EP za stranu Hnutie Republika.",
+  "src": [
+   [
+    "sk-meps",
+    "Milan MAZUREK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ],
+  "img": "img/mep/249982.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslanec Milan Mazurek. Za ktorú stranu bol zvolený do Európskeho parlamentu?",
+  "ok": "Hnutie Republika",
+  "bad": [
+   "SMER-Sociálna demokracia",
+   "Progresívne Slovensko"
+  ],
+  "v": "Milan Mazurek je poslancom EP (2024 – 2029) za stranu Hnutie Republika.",
+  "src": [
+   [
+    "sk-meps",
+    "Milan MAZUREK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ],
+  "img": "img/mep/249982.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenský poslanec Európskeho parlamentu 2024 – 2029)",
+  "ok": "Ľudovít Ódor",
+  "bad": [
+   "Michal Wiezik",
+   "Milan Uhrík"
+  ],
+  "v": "Na fotografii je Ľudovít Ódor – poslanec EP za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľudovít ÓDOR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/257010.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslanec Ľudovít Ódor. Za ktorú stranu bol zvolený do Európskeho parlamentu?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Kresťanskodemokratické hnutie",
+   "Hlas – sociálna demokracia"
+  ],
+  "v": "Ľudovít Ódor je poslancom EP (2024 – 2029) za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľudovít ÓDOR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/257010.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenský poslanec Európskeho parlamentu 2024 – 2029)",
+  "ok": "Branislav Ondruš",
+  "bad": [
+   "Milan Uhrík",
+   "Milan Mazurek"
+  ],
+  "v": "Na fotografii je Branislav Ondruš – poslanec EP za stranu Hlas – sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Branislav ONDRUŠ Nezaradení poslanci Slovensko Hlas – sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/257018.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslanec Branislav Ondruš. Za ktorú stranu bol zvolený do Európskeho parlamentu?",
+  "ok": "Hlas – sociálna demokracia",
+  "bad": [
+   "Progresívne Slovensko",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Branislav Ondruš je poslancom EP (2024 – 2029) za stranu Hlas – sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Branislav ONDRUŠ Nezaradení poslanci Slovensko Hlas – sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/257018.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenská poslankyňa Európskeho parlamentu 2024 – 2029)",
+  "ok": "Katarína Roth Neveďalová",
+  "bad": [
+   "Judita Laššáková",
+   "Lucia Yar"
+  ],
+  "v": "Na fotografii je Katarína Roth Neveďalová – poslankyňa EP za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Katarína ROTH NEVEĎALOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/96653.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslankyňa Katarína Roth Neveďalová. Za ktorú stranu bola zvolená do Európskeho parlamentu?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Progresívne Slovensko",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Katarína Roth Neveďalová je poslankyňou EP (2024 – 2029) za stranu SMER-Sociálna demokracia.",
+  "src": [
+   [
+    "sk-meps",
+    "Katarína ROTH NEVEĎALOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ],
+  "img": "img/mep/96653.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Kto je na fotografii? (slovenský poslanec Európskeho parlamentu 2024 – 2029)",
+  "ok": "Milan Uhrík",
+  "bad": [
+   "Erik Kaliňák",
+   "Milan Mazurek"
+  ],
+  "v": "Na fotografii je Milan Uhrík – poslanec EP za stranu Hnutie Republika.",
+  "src": [
+   [
+    "sk-meps",
+    "Milan UHRÍK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ],
+  "img": "img/mep/197763.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Na fotografii je europoslanec Milan Uhrík. Za ktorú stranu bol zvolený do Európskeho parlamentu?",
+  "ok": "Hnutie Republika",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Milan Uhrík je poslancom EP (2024 – 2029) za stranu Hnutie Republika.",
+  "src": [
+   [
+    "sk-meps",
+    "Milan UHRÍK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ],
+  "img": "img/mep/197763.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenský poslanec Európskeho parlamentu 2024 – 2029)",
+  "ok": "Michal Wiezik",
+  "bad": [
+   "Martin Hojsík",
+   "Milan Mazurek"
+  ],
+  "v": "Na fotografii je Michal Wiezik – poslanec EP za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Michal WIEZIK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/197769.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslanec Michal Wiezik. Za ktorú stranu bol zvolený do Európskeho parlamentu?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Hnutie Republika",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Michal Wiezik je poslancom EP (2024 – 2029) za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Michal WIEZIK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/197769.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Kto je na fotografii? (slovenská poslankyňa Európskeho parlamentu 2024 – 2029)",
+  "ok": "Lucia Yar",
+  "bad": [
+   "Ľubica Karvašová",
+   "Judita Laššáková"
+  ],
+  "v": "Na fotografii je Lucia Yar – poslankyňa EP za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Lucia YAR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/257011.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Na fotografii je europoslankyňa Lucia Yar. Za ktorú stranu bola zvolená do Európskeho parlamentu?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Kresťanskodemokratické hnutie",
+   "Hlas – sociálna demokracia"
+  ],
+  "v": "Lucia Yar je poslankyňou EP (2024 – 2029) za stranu Progresívne Slovensko.",
+  "src": [
+   [
+    "sk-meps",
+    "Lucia YAR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ],
+  "img": "img/mep/257011.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky parlament",
+  "bad": [
+   "Európsky výbor regiónov",
+   "Európsky orgán pre bankovníctvo (EBA)"
+  ],
+  "v": "Na obrázku je logo: Európsky parlament.",
+  "src": [
+   [
+    "eu-inst-european-parliament",
+    "European Parliament - logo"
+   ]
+  ],
+  "img": "img/logo/european-parliament.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky parlament. Čím sa zaoberá?",
+  "ok": "priamo volený orgán s legislatívnou, kontrolnou a rozpočtovou zodpovednosťou",
+  "bad": [
+   "zabezpečuje jednotný výklad a uplatňovanie práva EÚ",
+   "jednotný regulačný rámec a dohľad pre bankový sektor EÚ"
+  ],
+  "v": "Podľa oficiálneho profilu: priamo volený orgán EÚ s legislatívnou, kontrolnou a rozpočtovou zodpovednosťou",
+  "src": [
+   [
+    "eu-inst-european-parliament",
+    "Úloha: priamo volený orgán EÚ s legislatívnou, kontrolnou a rozpočtovou zodpovednosťou"
+   ]
+  ],
+  "img": "img/logo/european-parliament.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Rada Európskej únie",
+  "bad": [
+   "Súdny dvor Európskej únie",
+   "Európsky dvor audítorov"
+  ],
+  "v": "Na obrázku je logo: Rada Európskej únie.",
+  "src": [
+   [
+    "eu-inst-council-european-union",
+    "Council of the European Union - Logo"
+   ]
+  ],
+  "img": "img/logo/council-european-union.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Rada Európskej únie. Čím sa zaoberá?",
+  "ok": "zastupuje vlády krajín EÚ, prijíma právne predpisy a koordinuje politiky",
+  "bad": [
+   "navrhuje a presadzuje právne predpisy, vykonáva politiky a rozpočet EÚ",
+   "jednotný regulačný rámec a dohľad pre bankový sektor EÚ"
+  ],
+  "v": "Podľa oficiálneho profilu: zastupuje hlas vlády krajín EÚ, prijíma právne predpisy a koordinuje politiky Únie",
+  "src": [
+   [
+    "eu-inst-council-european-union",
+    "Úloha: zastupuje hlas vlády krajín EÚ, prijíma právne predpisy a koordinuje politiky Únie"
+   ]
+  ],
+  "img": "img/logo/council-european-union.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska komisia",
+  "bad": [
+   "Rada Európskej únie",
+   "Európska centrálna banka"
+  ],
+  "v": "Na obrázku je logo: Európska komisia.",
+  "src": [
+   [
+    "eu-inst-european-commission",
+    "European Commission logo"
+   ]
+  ],
+  "img": "img/logo/european-commission.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska komisia. Čím sa zaoberá?",
+  "ok": "navrhuje a presadzuje právne predpisy, vykonáva politiky a rozpočet EÚ",
+  "bad": [
+   "poradný orgán zástupcov regionálnych a miestnych orgánov",
+   "kontroluje, či sa finančné prostriedky EÚ správne vyberajú a používajú"
+  ],
+  "v": "Podľa oficiálneho profilu: podporuje všeobecné záujmy EÚ navrhovaním a presadzovaním právnych predpisov, ako aj vykonávaním politík a rozpočtu EÚ",
+  "src": [
+   [
+    "eu-inst-european-commission",
+    "Úloha: podporuje všeobecné záujmy EÚ navrhovaním a presadzovaním právnych predpisov, ako aj vykonávaním politík a rozpočtu EÚ"
+   ]
+  ],
+  "img": "img/logo/european-commission.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Súdny dvor Európskej únie",
+  "bad": [
+   "Európsky parlament",
+   "Európska komisia"
+  ],
+  "v": "Na obrázku je logo: Súdny dvor Európskej únie.",
+  "src": [
+   [
+    "eu-inst-court-justice-european-union-cjeu",
+    "European Court of Justice - Logo"
+   ]
+  ],
+  "img": "img/logo/court-justice-european-union-cjeu.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Súdny dvor Európskej únie. V ktorom meste sídli?",
+  "ok": "Luxemburg",
+  "bad": [
+   "Vigo",
+   "Helsinki"
+  ],
+  "v": "Súdny dvor Európskej únie sídli v meste Luxemburg.",
+  "src": [
+   [
+    "eu-inst-court-justice-european-union-cjeu",
+    "Sídlo: Luxemburg"
+   ]
+  ],
+  "img": "img/logo/court-justice-european-union-cjeu.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Súdny dvor Európskej únie. Čím sa zaoberá?",
+  "ok": "zabezpečuje jednotný výklad a uplatňovanie práva EÚ",
+  "bad": [
+   "kontroluje, či sa finančné prostriedky EÚ správne vyberajú a používajú",
+   "navrhuje a presadzuje právne predpisy, vykonáva politiky a rozpočet EÚ"
+  ],
+  "v": "Podľa oficiálneho profilu: Zabezpečuje jednotný výklad a uplatňovanie právnych predpisov EÚ v každej krajine EÚ, ako aj dodržiavanie právnych predpisov EÚ zo strany krajín a inštitúcií EÚ.",
+  "src": [
+   [
+    "eu-inst-court-justice-european-union-cjeu",
+    "Úloha: Zabezpečuje jednotný výklad a uplatňovanie právnych predpisov EÚ v každej krajine EÚ, ako aj dodržiavanie právnych predpisov EÚ zo strany krajín a inštitúcií EÚ."
+   ]
+  ],
+  "img": "img/logo/court-justice-european-union-cjeu.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska centrálna banka",
+  "bad": [
+   "Európska komisia",
+   "Európsky parlament"
+  ],
+  "v": "Na obrázku je logo: Európska centrálna banka.",
+  "src": [
+   [
+    "eu-inst-european-central-bank-ecb",
+    "European Central Bank - Logo"
+   ]
+  ],
+  "img": "img/logo/european-central-bank-ecb.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska centrálna banka. V ktorom meste sídli?",
+  "ok": "Frankfurt nad Mohanom",
+  "bad": [
+   "Luxemburg",
+   "Vilnius"
+  ],
+  "v": "Európska centrálna banka sídli v meste Frankfurt nad Mohanom.",
+  "src": [
+   [
+    "eu-inst-european-central-bank-ecb",
+    "Sídlo: Frankfurt (Nemecko)"
+   ]
+  ],
+  "img": "img/logo/european-central-bank-ecb.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska centrálna banka. Čím sa zaoberá?",
+  "ok": "riadi euro a udržiava stabilné ceny",
+  "bad": [
+   "navrhuje a presadzuje právne predpisy, vykonáva politiky a rozpočet EÚ",
+   "kontroluje, či sa finančné prostriedky EÚ správne vyberajú a používajú"
+  ],
+  "v": "Podľa oficiálneho profilu: riadi euro, udržiava stabilné ceny a vedie hospodársku a menovú politiku EÚ",
+  "src": [
+   [
+    "eu-inst-european-central-bank-ecb",
+    "Úloha: riadi euro, udržiava stabilné ceny a vedie hospodársku a menovú politiku EÚ"
+   ]
+  ],
+  "img": "img/logo/european-central-bank-ecb.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky dvor audítorov",
+  "bad": [
+   "Súdny dvor Európskej únie",
+   "Európska komisia"
+  ],
+  "v": "Na obrázku je logo: Európsky dvor audítorov.",
+  "src": [
+   [
+    "eu-inst-european-court-auditors-eca",
+    "Úloha: kontrolovať, či sa finančné prostriedky EÚ správne vyberajú a používajú, a pomáhať zlepšovať finančné riadenie EÚ."
+   ]
+  ],
+  "img": "img/logo/european-court-auditors-eca.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky dvor audítorov. Čím sa zaoberá?",
+  "ok": "kontroluje, či sa finančné prostriedky EÚ správne vyberajú a používajú",
+  "bad": [
+   "zastupuje vlády krajín EÚ, prijíma právne predpisy a koordinuje politiky",
+   "navrhuje a presadzuje právne predpisy, vykonáva politiky a rozpočet EÚ"
+  ],
+  "v": "Podľa oficiálneho profilu: kontrolovať, či sa finančné prostriedky EÚ správne vyberajú a používajú, a pomáhať zlepšovať finančné riadenie EÚ.",
+  "src": [
+   [
+    "eu-inst-european-court-auditors-eca",
+    "Úloha: kontrolovať, či sa finančné prostriedky EÚ správne vyberajú a používajú, a pomáhať zlepšovať finančné riadenie EÚ."
+   ]
+  ],
+  "img": "img/logo/european-court-auditors-eca.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky hospodársky a sociálny výbor",
+  "bad": [
+   "Európsky výbor regiónov",
+   "Európska centrálna banka"
+  ],
+  "v": "Na obrázku je logo: Európsky hospodársky a sociálny výbor.",
+  "src": [
+   [
+    "eu-inst-european-economic-and-social-committee-eesc",
+    "European Economic and Social Committee - Logo"
+   ]
+  ],
+  "img": "img/logo/european-economic-and-social-committee-eesc.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky hospodársky a sociálny výbor. Čím sa zaoberá?",
+  "ok": "poradný orgán zástupcov zamestnávateľov, zamestnancov a záujmových skupín",
+  "bad": [
+   "priamo volený orgán s legislatívnou, kontrolnou a rozpočtovou zodpovednosťou",
+   "poradný orgán zástupcov regionálnych a miestnych orgánov"
+  ],
+  "v": "Podľa oficiálneho profilu: poradný orgán zastupujúci organizácie zamestnávateľov a zamestnancov a iné záujmové skupiny",
+  "src": [
+   [
+    "eu-inst-european-economic-and-social-committee-eesc",
+    "Úloha: poradný orgán zastupujúci organizácie zamestnávateľov a zamestnancov a iné záujmové skupiny"
+   ]
+  ],
+  "img": "img/logo/european-economic-and-social-committee-eesc.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky výbor regiónov",
+  "bad": [
+   "Súdny dvor Európskej únie",
+   "Európska centrálna banka"
+  ],
+  "v": "Na obrázku je logo: Európsky výbor regiónov.",
+  "src": [
+   [
+    "eu-inst-european-committee-regions-cor",
+    "European Committee of the Regions - Logo"
+   ]
+  ],
+  "img": "img/logo/european-committee-regions-cor.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky výbor regiónov. V ktorom meste sídli?",
+  "ok": "Brusel",
+  "bad": [
+   "Štrasburg",
+   "Kolín"
+  ],
+  "v": "Európsky výbor regiónov sídli v meste Brusel.",
+  "src": [
+   [
+    "eu-inst-european-committee-regions-cor",
+    "Sídlo: Brusel (Belgicko)"
+   ]
+  ],
+  "img": "img/logo/european-committee-regions-cor.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky výbor regiónov. Čím sa zaoberá?",
+  "ok": "poradný orgán zástupcov regionálnych a miestnych orgánov",
+  "bad": [
+   "jednotné uplatňovanie GDPR v krajinách EÚ",
+   "zastupuje vlády krajín EÚ, prijíma právne predpisy a koordinuje politiky"
+  ],
+  "v": "Podľa oficiálneho profilu: poradný orgán zastupujúci európske orgány na regionálnej a miestnej úrovni",
+  "src": [
+   [
+    "eu-inst-european-committee-regions-cor",
+    "Úloha: poradný orgán zastupujúci európske orgány na regionálnej a miestnej úrovni"
+   ]
+  ],
+  "img": "img/logo/european-committee-regions-cor.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky orgán pre bankovníctvo (EBA)",
+  "bad": [
+   "Európsky dvor audítorov",
+   "Európsky výbor regiónov"
+  ],
+  "v": "Na obrázku je logo: Európsky orgán pre bankovníctvo (EBA).",
+  "src": [
+   [
+    "eu-inst-european-banking-authority-eba",
+    "European Banking Authority logo"
+   ]
+  ],
+  "img": "img/logo/european-banking-authority-eba.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky orgán pre bankovníctvo (EBA). Čím sa zaoberá?",
+  "ok": "jednotný regulačný rámec a dohľad pre bankový sektor EÚ",
+  "bad": [
+   "jednotné uplatňovanie GDPR v krajinách EÚ",
+   "poradný orgán zástupcov zamestnávateľov, zamestnancov a záujmových skupín"
+  ],
+  "v": "Podľa oficiálneho profilu: vytvoriť jednotný regulačný rámec a rámec dohľadu pre celý bankový sektor EÚ",
+  "src": [
+   [
+    "eu-inst-european-banking-authority-eba",
+    "Úloha: vytvoriť jednotný regulačný rámec a rámec dohľadu pre celý bankový sektor EÚ"
+   ]
+  ],
+  "img": "img/logo/european-banking-authority-eba.png"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky výbor pre ochranu údajov (EDPB)",
+  "bad": [
+   "Európska komisia",
+   "Európsky dvor audítorov"
+  ],
+  "v": "Na obrázku je logo: Európsky výbor pre ochranu údajov (EDPB).",
+  "src": [
+   [
+    "eu-inst-european-data-protection-board-edpb",
+    "The European Data Protection Board - Logo"
+   ]
+  ],
+  "img": "img/logo/european-data-protection-board-edpb.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky výbor pre ochranu údajov (EDPB). V ktorom meste sídli?",
+  "ok": "Brusel",
+  "bad": [
+   "Parma",
+   "Torrejón de Ardoz"
+  ],
+  "v": "Európsky výbor pre ochranu údajov (EDPB) sídli v meste Brusel.",
+  "src": [
+   [
+    "eu-inst-european-data-protection-board-edpb",
+    "Sídlo: Brusel"
+   ]
+  ],
+  "img": "img/logo/european-data-protection-board-edpb.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky výbor pre ochranu údajov (EDPB). Čím sa zaoberá?",
+  "ok": "jednotné uplatňovanie GDPR v krajinách EÚ",
+  "bad": [
+   "poradný orgán zástupcov zamestnávateľov, zamestnancov a záujmových skupín",
+   "riadi euro a udržiava stabilné ceny"
+  ],
+  "v": "Podľa oficiálneho profilu: Dohliada na jednotné uplatňovanie všeobecného nariadenia o ochrane údajov a smernice o presadzovaní práva v oblasti ochrany údajov v krajinách EÚ, ako aj v Nórsku, Lichtenštajnsku a na Islande.",
+  "src": [
+   [
+    "eu-inst-european-data-protection-board-edpb",
+    "Úloha: Dohliada na jednotné uplatňovanie všeobecného nariadenia o ochrane údajov a smernice o presadzovaní práva v oblasti ochrany údajov v krajinách EÚ, ako aj v Nórsku, Lichtenštajnsku a na Islande."
+   ]
+  ],
+  "img": "img/logo/european-data-protection-board-edpb.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER)",
+  "bad": [
+   "Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)",
+   "Európska agentúra pre kontrolu rybárstva (EFCA)"
+  ],
+  "v": "Na obrázku je logo: Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER).",
+  "src": [
+   [
+    "eu-inst-agency-cooperation-energy-regulators-acer",
+    "Úloha: Agentúra ACER zohráva kľúčovú úlohu pri užšej integrácii trhu s energiou v celej Európe s cieľom priniesť európskym podnikom a občanom výhody cenovo dostupnej, bezpečnej a dekarbonizovanej energie."
+   ]
+  ],
+  "img": "img/logo/agency-cooperation-energy-regulators-acer.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER). V ktorom meste sídli?",
+  "ok": "Ľubľana",
+  "bad": [
+   "Ženeva",
+   "Parma"
+  ],
+  "v": "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER) sídli v meste Ľubľana (Slovinsko).",
+  "src": [
+   [
+    "eu-inst-agency-cooperation-energy-regulators-acer",
+    "Sídlo: Ľubľana, Slovinsko"
+   ]
+  ],
+  "img": "img/logo/agency-cooperation-energy-regulators-acer.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Úrad BEREC",
+  "bad": [
+   "Úrad pre vydávanie publikácií Európskej únie",
+   "Európsky orgán pre cenné papiere a trhy (ESMA)"
+  ],
+  "v": "Na obrázku je logo: Úrad BEREC.",
+  "src": [
+   [
+    "eu-inst-agency-support-berec-berec-office",
+    "Agency for Support for BEREC - Logo"
+   ]
+  ],
+  "img": "img/logo/agency-support-berec-berec-office.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Úrad BEREC. V ktorom meste sídli?",
+  "ok": "Riga",
+  "bad": [
+   "Vigo",
+   "Kolín"
+  ],
+  "v": "Úrad BEREC sídli v meste Riga (Lotyšsko).",
+  "src": [
+   [
+    "eu-inst-agency-support-berec-berec-office",
+    "Sídlo: Riga (Lotyšsko)"
+   ]
+  ],
+  "img": "img/logo/agency-support-berec-berec-office.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Úrad Spoločenstva pre odrody rastlín (CPVO)",
+  "bad": [
+   "Európska chemická agentúra (ECHA)",
+   "Agentúra Európskej únie pre základné práva (FRA)"
+  ],
+  "v": "Na obrázku je logo: Úrad Spoločenstva pre odrody rastlín (CPVO).",
+  "src": [
+   [
+    "eu-inst-community-plant-variety-office-cpvo",
+    "Community Plant Variety Office - Logo"
+   ]
+  ],
+  "img": "img/logo/community-plant-variety-office-cpvo.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok)",
+  "bad": [
+   "Európsky úrad pre bezpečnosť potravín (EFSA)",
+   "Zásobovacia agentúra Euratomu (ESA)"
+  ],
+  "v": "Na obrázku je logo: Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok).",
+  "src": [
+   [
+    "eu-inst-eurofound",
+    "Logo of Eurofound"
+   ]
+  ],
+  "img": "img/logo/eurofound.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok). V ktorom meste sídli?",
+  "ok": "Dublin",
+  "bad": [
+   "Turín",
+   "Bratislava"
+  ],
+  "v": "Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok) sídli v meste Dublin (Írsko).",
+  "src": [
+   [
+    "eu-inst-eurofound",
+    "Sídlo: Dublin (Írsko)"
+   ]
+  ],
+  "img": "img/logo/eurofound.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Eurojust",
+  "bad": [
+   "Európska služba pre vonkajšiu činnosť (ESVČ)",
+   "Európska agentúra pre kontrolu rybárstva (EFCA)"
+  ],
+  "v": "Na obrázku je logo: Eurojust.",
+  "src": [
+   [
+    "eu-inst-eurojust",
+    "Eurojust logo"
+   ]
+  ],
+  "img": "img/logo/eurojust.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Eurojust. V ktorom meste sídli?",
+  "ok": "Haag",
+  "bad": [
+   "Bratislava",
+   "Tallinn"
+  ],
+  "v": "Eurojust sídli v meste Haag (Holandsko).",
+  "src": [
+   [
+    "eu-inst-eurojust",
+    "Sídlo: Haag (Holandsko)"
+   ]
+  ],
+  "img": "img/logo/eurojust.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)",
+  "bad": [
+   "Úrad Európskej únie pre duševné vlastníctvo (EUIPO)",
+   "Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž)"
+  ],
+  "v": "Na obrázku je logo: Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA).",
+  "src": [
+   [
+    "eu-inst-european-agency-safety-and-health-work-eu-osha",
+    "logo of European Agency for Safety and Health at Work"
+   ]
+  ],
+  "img": "img/logo/european-agency-safety-and-health-work-eu-osha.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA). V ktorom meste sídli?",
+  "ok": "Bilbao",
+  "bad": [
+   "Lyon",
+   "Ľubľana"
+  ],
+  "v": "Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA) sídli v meste Bilbao (Španielsko).",
+  "src": [
+   [
+    "eu-inst-european-agency-safety-and-health-work-eu-osha",
+    "Sídlo: Bilbao (Španielsko)"
+   ]
+  ],
+  "img": "img/logo/european-agency-safety-and-health-work-eu-osha.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)",
+  "bad": [
+   "Európske centrum pre prevenciu a kontrolu chorôb (ECDC)",
+   "Inštitút Európskej únie pre bezpečnostné štúdie (EUISS)"
+  ],
+  "v": "Na obrázku je logo: Cedefop (Európske stredisko pre rozvoj odborného vzdelávania).",
+  "src": [
+   [
+    "eu-inst-european-centre-development-vocational-training-cedefop",
+    "logo of CEDEFOP"
+   ]
+  ],
+  "img": "img/logo/european-centre-development-vocational-training-cedefop.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Cedefop (Európske stredisko pre rozvoj odborného vzdelávania). V ktorom meste sídli?",
+  "ok": "Solún",
+  "bad": [
+   "Paríž",
+   "Kodaň"
+  ],
+  "v": "Cedefop (Európske stredisko pre rozvoj odborného vzdelávania) sídli v meste Solún (Grécko).",
+  "src": [
+   [
+    "eu-inst-european-centre-development-vocational-training-cedefop",
+    "Sídlo: Solún (Grécko)"
+   ]
+  ],
+  "img": "img/logo/european-centre-development-vocational-training-cedefop.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európske centrum pre prevenciu a kontrolu chorôb (ECDC)",
+  "bad": [
+   "Európska služba pre vonkajšiu činnosť (ESVČ)",
+   "Európska námorná bezpečnostná agentúra (EMSA)"
+  ],
+  "v": "Na obrázku je logo: Európske centrum pre prevenciu a kontrolu chorôb (ECDC).",
+  "src": [
+   [
+    "eu-inst-european-centre-disease-prevention-and-control-ecdc",
+    "Logo of ECDC"
+   ]
+  ],
+  "img": "img/logo/european-centre-disease-prevention-and-control-ecdc.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európske centrum pre prevenciu a kontrolu chorôb (ECDC). V ktorom meste sídli?",
+  "ok": "Štokholm",
+  "bad": [
+   "Lisabon",
+   "Mníchov"
+  ],
+  "v": "Európske centrum pre prevenciu a kontrolu chorôb (ECDC) sídli v meste Štokholm (Švédsko).",
+  "src": [
+   [
+    "eu-inst-european-centre-disease-prevention-and-control-ecdc",
+    "Sídlo: Štokholm (Švédsko)"
+   ]
+  ],
+  "img": "img/logo/european-centre-disease-prevention-and-control-ecdc.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska chemická agentúra (ECHA)",
+  "bad": [
+   "Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA)",
+   "Zásobovacia agentúra Euratomu (ESA)"
+  ],
+  "v": "Na obrázku je logo: Európska chemická agentúra (ECHA).",
+  "src": [
+   [
+    "eu-inst-european-chemicals-agency-echa",
+    "logo of European Chemicals Agency"
+   ]
+  ],
+  "img": "img/logo/european-chemicals-agency-echa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska chemická agentúra (ECHA). V ktorom meste sídli?",
+  "ok": "Helsinki",
+  "bad": [
+   "Alicante",
+   "Frankfurt nad Mohanom"
+  ],
+  "v": "Európska chemická agentúra (ECHA) sídli v meste Helsinki (Fínsko).",
+  "src": [
+   [
+    "eu-inst-european-chemicals-agency-echa",
+    "Sídlo: Helsinki, Fínsko"
+   ]
+  ],
+  "img": "img/logo/european-chemicals-agency-echa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska environmentálna agentúra (EEA)",
+  "bad": [
+   "Inštitút Európskej únie pre bezpečnostné štúdie (EUISS)",
+   "Agentúra Európskej únie pre základné práva (FRA)"
+  ],
+  "v": "Na obrázku je logo: Európska environmentálna agentúra (EEA).",
+  "src": [
+   [
+    "eu-inst-european-environment-agency-eea",
+    "Logo of European Environment Agency"
+   ]
+  ],
+  "img": "img/logo/european-environment-agency-eea.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska environmentálna agentúra (EEA). V ktorom meste sídli?",
+  "ok": "Kodaň",
+  "bad": [
+   "Helsinki",
+   "Barcelona"
+  ],
+  "v": "Európska environmentálna agentúra (EEA) sídli v meste Kodaň (Dánsko).",
+  "src": [
+   [
+    "eu-inst-european-environment-agency-eea",
+    "Sídlo: Kodaň"
+   ]
+  ],
+  "img": "img/logo/european-environment-agency-eea.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska agentúra pre kontrolu rybárstva (EFCA)",
+  "bad": [
+   "Európske centrum pre prevenciu a kontrolu chorôb (ECDC)",
+   "Eurojust"
+  ],
+  "v": "Na obrázku je logo: Európska agentúra pre kontrolu rybárstva (EFCA).",
+  "src": [
+   [
+    "eu-inst-european-fisheries-control-agency-efca",
+    "logo of European Fisheries Control Agency"
+   ]
+  ],
+  "img": "img/logo/european-fisheries-control-agency-efca.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska agentúra pre kontrolu rybárstva (EFCA). V ktorom meste sídli?",
+  "ok": "Vigo",
+  "bad": [
+   "Paríž",
+   "Riga"
+  ],
+  "v": "Európska agentúra pre kontrolu rybárstva (EFCA) sídli v meste Vigo (Španielsko).",
+  "src": [
+   [
+    "eu-inst-european-fisheries-control-agency-efca",
+    "Sídlo: Vigo (Španielsko)"
+   ]
+  ],
+  "img": "img/logo/european-fisheries-control-agency-efca.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky úrad pre bezpečnosť potravín (EFSA)",
+  "bad": [
+   "Úrad Spoločenstva pre odrody rastlín (CPVO)",
+   "Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)"
+  ],
+  "v": "Na obrázku je logo: Európsky úrad pre bezpečnosť potravín (EFSA).",
+  "src": [
+   [
+    "eu-inst-european-food-safety-authority-efsa",
+    "Úloha: Poskytovať odborné poradenstvo a informovať o existujúcich a vznikajúcich rizikách v súvislosti s potravinovým reťazcom"
+   ]
+  ],
+  "img": "img/logo/european-food-safety-authority-efsa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky úrad pre bezpečnosť potravín (EFSA). V ktorom meste sídli?",
+  "ok": "Parma",
+  "bad": [
+   "Valletta",
+   "Torrejón de Ardoz"
+  ],
+  "v": "Európsky úrad pre bezpečnosť potravín (EFSA) sídli v meste Parma (Taliansko).",
+  "src": [
+   [
+    "eu-inst-european-food-safety-authority-efsa",
+    "Sídlo: Parma (Taliansko)"
+   ]
+  ],
+  "img": "img/logo/european-food-safety-authority-efsa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky inštitút pre rodovú rovnosť (EIGE)",
+  "bad": [
+   "Europol",
+   "Úrad pre vydávanie publikácií Európskej únie"
+  ],
+  "v": "Na obrázku je logo: Európsky inštitút pre rodovú rovnosť (EIGE).",
+  "src": [
+   [
+    "eu-inst-european-institute-gender-equality-eige",
+    "European Institute for Gender Equality (EIGE) logo"
+   ]
+  ],
+  "img": "img/logo/european-institute-gender-equality-eige.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky inštitút pre rodovú rovnosť (EIGE). V ktorom meste sídli?",
+  "ok": "Vilnius",
+  "bad": [
+   "Barcelona",
+   "Torrejón de Ardoz"
+  ],
+  "v": "Európsky inštitút pre rodovú rovnosť (EIGE) sídli v meste Vilnius (Litva).",
+  "src": [
+   [
+    "eu-inst-european-institute-gender-equality-eige",
+    "Sídlo: Vilnius, Litva"
+   ]
+  ],
+  "img": "img/logo/european-institute-gender-equality-eige.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky inovačný a technologický inštitút (EIT)",
+  "bad": [
+   "Európsky dozorný úradník pre ochranu údajov (EDPS)",
+   "Agentúra Európskej únie pre azyl (EUAA)"
+  ],
+  "v": "Na obrázku je logo: Európsky inovačný a technologický inštitút (EIT).",
+  "src": [
+   [
+    "eu-inst-european-institute-innovation-and-technology-eit",
+    "Logo of European Institute of Innovation and Technology"
+   ]
+  ],
+  "img": "img/logo/european-institute-innovation-and-technology-eit.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky inovačný a technologický inštitút (EIT). V ktorom meste sídli?",
+  "ok": "Budapešť",
+  "bad": [
+   "Helsinki",
+   "Ženeva"
+  ],
+  "v": "Európsky inovačný a technologický inštitút (EIT) sídli v meste Budapešť (Maďarsko).",
+  "src": [
+   [
+    "eu-inst-european-institute-innovation-and-technology-eit",
+    "Sídlo: Budapešť (Maďarsko)"
+   ]
+  ],
+  "img": "img/logo/european-institute-innovation-and-technology-eit.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA)",
+  "bad": [
+   "Agentúra Európskej únie pre vesmírny program (EUSPA)",
+   "Európska chemická agentúra (ECHA)"
+  ],
+  "v": "Na obrázku je logo: Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA).",
+  "src": [
+   [
+    "eu-inst-european-insurance-and-occupational-pensions-authority-eiopa",
+    "Logo of European Insurance and Occupational Pensions Authority"
+   ]
+  ],
+  "img": "img/logo/european-insurance-and-occupational-pensions-authority-eiopa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA). V ktorom meste sídli?",
+  "ok": "Frankfurt nad Mohanom",
+  "bad": [
+   "Tallinn",
+   "Kolín"
+  ],
+  "v": "Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov (EIOPA) sídli v meste Frankfurt nad Mohanom (Nemecko).",
+  "src": [
+   [
+    "eu-inst-european-insurance-and-occupational-pensions-authority-eiopa",
+    "Sídlo: Frankfurt nad Mohanom (Nemecko)"
+   ]
+  ],
+  "img": "img/logo/european-insurance-and-occupational-pensions-authority-eiopa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska investičná banka (EIB)",
+  "bad": [
+   "Zásobovacia agentúra Euratomu (ESA)",
+   "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER)"
+  ],
+  "v": "Na obrázku je logo: Európska investičná banka (EIB).",
+  "src": [
+   [
+    "eu-inst-european-investment-bank-eib",
+    "European Investment Bank - Logo"
+   ]
+  ],
+  "img": "img/logo/european-investment-bank-eib.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska investičná banka (EIB). V ktorom meste sídli?",
+  "ok": "Luxemburg",
+  "bad": [
+   "Paríž",
+   "Brusel"
+  ],
+  "v": "Európska investičná banka (EIB) sídli v meste Luxemburg (Luxembursko).",
+  "src": [
+   [
+    "eu-inst-european-investment-bank-eib",
+    "Sídlo: Luxemburg"
+   ]
+  ],
+  "img": "img/logo/european-investment-bank-eib.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky orgán práce (ELA)",
+  "bad": [
+   "Zásobovacia agentúra Euratomu (ESA)",
+   "Európska agentúra pre lieky (EMA)"
+  ],
+  "v": "Na obrázku je logo: Európsky orgán práce (ELA).",
+  "src": [
+   [
+    "eu-inst-european-labour-authority-ela",
+    "Úloha: Európsky orgán (ELA) práce pomáha zlepšovať spoluprácu medzi krajinami EÚ, koordinuje spoločné inšpekcie, vykonáva analýzy a posudzovanie rizika v súvislosti s otázkami cezhraničnej mobility pracovníkov a urovnáva spory medzi krajinami EÚ."
+   ]
+  ],
+  "img": "img/logo/european-labour-authority-ela.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska námorná bezpečnostná agentúra (EMSA)",
+  "bad": [
+   "Európsky orgán pre cenné papiere a trhy (ESMA)",
+   "Agentúra Európskej únie pre bezpečnosť letectva (EASA)"
+  ],
+  "v": "Na obrázku je logo: Európska námorná bezpečnostná agentúra (EMSA).",
+  "src": [
+   [
+    "eu-inst-european-maritime-safety-agency-emsa",
+    "Logo of European Maritime Safety Agency"
+   ]
+  ],
+  "img": "img/logo/european-maritime-safety-agency-emsa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska námorná bezpečnostná agentúra (EMSA). V ktorom meste sídli?",
+  "ok": "Lisabon",
+  "bad": [
+   "Luxemburg",
+   "Vilnius"
+  ],
+  "v": "Európska námorná bezpečnostná agentúra (EMSA) sídli v meste Lisabon (Portugalsko).",
+  "src": [
+   [
+    "eu-inst-european-maritime-safety-agency-emsa",
+    "Sídlo: Lisabon (Portugalsko)"
+   ]
+  ],
+  "img": "img/logo/european-maritime-safety-agency-emsa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska agentúra pre lieky (EMA)",
+  "bad": [
+   "Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)",
+   "Európska prokuratúra (EPPO)"
+  ],
+  "v": "Na obrázku je logo: Európska agentúra pre lieky (EMA).",
+  "src": [
+   [
+    "eu-inst-european-medicines-agency-ema",
+    "Logo of European Medicines Agency (EMA)"
+   ]
+  ],
+  "img": "img/logo/european-medicines-agency-ema.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky ombudsman",
+  "bad": [
+   "Európska investičná banka (EIB)",
+   "Európska agentúra pre kontrolu rybárstva (EFCA)"
+  ],
+  "v": "Na obrázku je logo: Európsky ombudsman.",
+  "src": [
+   [
+    "eu-inst-european-ombudsman",
+    "Úloha: vyšetruje sťažnosti občanov na administratívne postupy inštitúcií, orgánov, úradov a agentúr EÚ"
+   ]
+  ],
+  "img": "img/logo/european-ombudsman.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky ombudsman. V ktorom meste sídli?",
+  "ok": "Štrasburg",
+  "bad": [
+   "Amsterdam",
+   "Ženeva"
+  ],
+  "v": "Európsky ombudsman sídli v meste Štrasburg (Francúzsko).",
+  "src": [
+   [
+    "eu-inst-european-ombudsman",
+    "Sídlo: Štrasburg (Francúzsko)"
+   ]
+  ],
+  "img": "img/logo/european-ombudsman.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska prokuratúra (EPPO)",
+  "bad": [
+   "Úrad Spoločenstva pre odrody rastlín (CPVO)",
+   "Europol"
+  ],
+  "v": "Na obrázku je logo: Európska prokuratúra (EPPO).",
+  "src": [
+   [
+    "eu-inst-european-public-prosecutors-office-eppo",
+    "Úloha: vyšetruje, stíha a podáva žaloby v prípade trestných činov poškodzujúcich finančné záujmy EÚ"
+   ]
+  ],
+  "img": "img/logo/european-public-prosecutors-office-eppo.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska prokuratúra (EPPO). V ktorom meste sídli?",
+  "ok": "Luxemburg",
+  "bad": [
+   "Ženeva",
+   "Valletta"
+  ],
+  "v": "Európska prokuratúra (EPPO) sídli v meste Luxemburg (Luxembursko).",
+  "src": [
+   [
+    "eu-inst-european-public-prosecutors-office-eppo",
+    "Sídlo: Luxemburg (Luxembursko)"
+   ]
+  ],
+  "img": "img/logo/european-public-prosecutors-office-eppo.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky orgán pre cenné papiere a trhy (ESMA)",
+  "bad": [
+   "Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)",
+   "Európska nadácia pre odborné vzdelávanie (ETF)"
+  ],
+  "v": "Na obrázku je logo: Európsky orgán pre cenné papiere a trhy (ESMA).",
+  "src": [
+   [
+    "eu-inst-european-securities-and-markets-authority-esma",
+    "Logo of The European Securities and Markets Authority (ESMA)"
+   ]
+  ],
+  "img": "img/logo/european-securities-and-markets-authority-esma.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky orgán pre cenné papiere a trhy (ESMA). V ktorom meste sídli?",
+  "ok": "Paríž",
+  "bad": [
+   "Tallinn",
+   "Alicante"
+  ],
+  "v": "Európsky orgán pre cenné papiere a trhy (ESMA) sídli v meste Paríž (Francúzsko).",
+  "src": [
+   [
+    "eu-inst-european-securities-and-markets-authority-esma",
+    "Sídlo: Paríž (Francúzsko)"
+   ]
+  ],
+  "img": "img/logo/european-securities-and-markets-authority-esma.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska nadácia pre odborné vzdelávanie (ETF)",
+  "bad": [
+   "Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)",
+   "Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)"
+  ],
+  "v": "Na obrázku je logo: Európska nadácia pre odborné vzdelávanie (ETF).",
+  "src": [
+   [
+    "eu-inst-european-training-foundation-etf",
+    "Úloha: ETF podporuje rozvoj ľudského kapitálu v susedných krajinách"
+   ]
+  ],
+  "img": "img/logo/european-training-foundation-etf.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska nadácia pre odborné vzdelávanie (ETF). V ktorom meste sídli?",
+  "ok": "Turín",
+  "bad": [
+   "Tallinn",
+   "Barcelona"
+  ],
+  "v": "Európska nadácia pre odborné vzdelávanie (ETF) sídli v meste Turín (Taliansko).",
+  "src": [
+   [
+    "eu-inst-european-training-foundation-etf",
+    "Sídlo: Turín (Taliansko)"
+   ]
+  ],
+  "img": "img/logo/european-training-foundation-etf.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Agentúra Európskej únie pre azyl (EUAA)",
+  "bad": [
+   "Jednotná rada pre riešenie krízových situácií (SRB)",
+   "Agentúra Európskej únie pre základné práva (FRA)"
+  ],
+  "v": "Na obrázku je logo: Agentúra Európskej únie pre azyl (EUAA).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-asylum-euaa",
+    "European Union Agency for Asylum - Logo"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-asylum-euaa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Agentúra Európskej únie pre azyl (EUAA). V ktorom meste sídli?",
+  "ok": "Valletta",
+  "bad": [
+   "Vigo",
+   "Parma"
+  ],
+  "v": "Agentúra Európskej únie pre azyl (EUAA) sídli v meste Valletta (Malta).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-asylum-euaa",
+    "Sídlo: Valletta, Malta"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-asylum-euaa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA)",
+  "bad": [
+   "Úrad Európskej únie pre duševné vlastníctvo (EUIPO)",
+   "Eurofound (Európska nadácia pre zlepšovanie životných a pracovných podmienok)"
+  ],
+  "v": "Na obrázku je logo: Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-cybersecurity-enisa",
+    "Úloha: ENISA sa zameriava na dosiahnutie vysokej spoločnej úrovne kybernetickej bezpečnosti v celej Európe"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-cybersecurity-enisa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA). V ktorom meste sídli?",
+  "ok": "Atény",
+  "bad": [
+   "Varšava",
+   "Frankfurt nad Mohanom"
+  ],
+  "v": "Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA) sídli v meste Atény (Grécko).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-cybersecurity-enisa",
+    "Sídlo: ústredie v Aténach s kanceláriami v Heraklione a Bruseli"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-cybersecurity-enisa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Agentúra Európskej únie pre základné práva (FRA)",
+  "bad": [
+   "Európska investičná banka (EIB)",
+   "Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL)"
+  ],
+  "v": "Na obrázku je logo: Agentúra Európskej únie pre základné práva (FRA).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-fundamental-rights-fra",
+    "Logo of European Union Agency for Fundamental Rights (FRA)"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-fundamental-rights-fra.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Agentúra Európskej únie pre základné práva (FRA). V ktorom meste sídli?",
+  "ok": "Viedeň",
+  "bad": [
+   "Luxemburg",
+   "Praha"
+  ],
+  "v": "Agentúra Európskej únie pre základné práva (FRA) sídli v meste Viedeň (Rakúsko).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-fundamental-rights-fra",
+    "Sídlo: Viedeň (Rakúsko)"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-fundamental-rights-fra.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL)",
+  "bad": [
+   "Agentúra Európskej únie pre kybernetickú bezpečnosť (ENISA)",
+   "Európska agentúra pre lieky (EMA)"
+  ],
+  "v": "Na obrázku je logo: Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-law-enforcement-training-cepol",
+    "Logo of European Union Agency for Law Enforcement Training (CEPOL)"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-law-enforcement-training-cepol.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL). V ktorom meste sídli?",
+  "ok": "Budapešť",
+  "bad": [
+   "Bratislava",
+   "Vigo"
+  ],
+  "v": "Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL) sídli v meste Budapešť (Maďarsko).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-law-enforcement-training-cepol",
+    "Sídlo: Budapešť (Maďarsko)"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-law-enforcement-training-cepol.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "eu-LISA (agentúra na riadenie rozsiahlych informačných systémov)",
+  "bad": [
+   "Agentúra Európskej únie pre vesmírny program (EUSPA)",
+   "Jednotná rada pre riešenie krízových situácií (SRB)"
+  ],
+  "v": "Na obrázku je logo: eu-LISA (agentúra na riadenie rozsiahlych informačných systémov).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-operational-management-large-scale-it-systems-area-freedom-security-and",
+    "logo of European Agency for the operational management of large-scale IT systems in the area of freedom, security and justice"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-operational-management-large-scale-it-.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: eu-LISA (agentúra na riadenie rozsiahlych informačných systémov). V ktorom meste sídli?",
+  "ok": "Tallinn",
+  "bad": [
+   "Štrasburg",
+   "Amsterdam"
+  ],
+  "v": "eu-LISA (agentúra na riadenie rozsiahlych informačných systémov) sídli v meste Tallinn (Estónsko).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-operational-management-large-scale-it-systems-area-freedom-security-and",
+    "Sídlo: Tallinn (Estónsko), operačné sídlo: Štrasburg (Francúzsko), podporné pracovisko: Sankt Johann im Pangau (Rakúsko)"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-operational-management-large-scale-it-.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Železničná agentúra Európskej únie (ERA)",
+  "bad": [
+   "Európsky dozorný úradník pre ochranu údajov (EDPS)",
+   "Európsky inovačný a technologický inštitút (EIT)"
+  ],
+  "v": "Na obrázku je logo: Železničná agentúra Európskej únie (ERA).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-railways-era",
+    "Logo of European Union Agency for Railways (ERA)"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-railways-era.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Agentúra Európskej únie pre vesmírny program (EUSPA)",
+  "bad": [
+   "Európsky ombudsman",
+   "Cedefop (Európske stredisko pre rozvoj odborného vzdelávania)"
+  ],
+  "v": "Na obrázku je logo: Agentúra Európskej únie pre vesmírny program (EUSPA).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-space-programme-euspa",
+    "Logo of European Agency for the Space Programme"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-space-programme-euspa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Agentúra Európskej únie pre vesmírny program (EUSPA). V ktorom meste sídli?",
+  "ok": "Praha",
+  "bad": [
+   "Frankfurt nad Mohanom",
+   "Mníchov"
+  ],
+  "v": "Agentúra Európskej únie pre vesmírny program (EUSPA) sídli v meste Praha (Česko).",
+  "src": [
+   [
+    "eu-inst-european-union-agency-space-programme-euspa",
+    "Sídlo: Praha (Česká republika)"
+   ]
+  ],
+  "img": "img/logo/european-union-agency-space-programme-euspa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Agentúra Európskej únie pre bezpečnosť letectva (EASA)",
+  "bad": [
+   "Zásobovacia agentúra Euratomu (ESA)",
+   "Inštitút Európskej únie pre bezpečnostné štúdie (EUISS)"
+  ],
+  "v": "Na obrázku je logo: Agentúra Európskej únie pre bezpečnosť letectva (EASA).",
+  "src": [
+   [
+    "eu-inst-european-union-aviation-safety-agency-easa",
+    "Logo of European Union Aviation Safety Agency"
+   ]
+  ],
+  "img": "img/logo/european-union-aviation-safety-agency-easa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Agentúra Európskej únie pre bezpečnosť letectva (EASA). V ktorom meste sídli?",
+  "ok": "Kolín",
+  "bad": [
+   "Turín",
+   "Praha"
+  ],
+  "v": "Agentúra Európskej únie pre bezpečnosť letectva (EASA) sídli v meste Kolín (Nemecko).",
+  "src": [
+   [
+    "eu-inst-european-union-aviation-safety-agency-easa",
+    "Sídlo: Kolín (Nemecko)"
+   ]
+  ],
+  "img": "img/logo/european-union-aviation-safety-agency-easa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Agentúra Európskej únie pre drogy (EUDA)",
+  "bad": [
+   "Úrad pre vydávanie publikácií Európskej únie",
+   "Spoločný podnik Fusion for Energy (F4E)"
+  ],
+  "v": "Na obrázku je logo: Agentúra Európskej únie pre drogy (EUDA).",
+  "src": [
+   [
+    "eu-inst-european-union-drugs-agency-euda",
+    "European Union Drugs Agency (EUDA) logo"
+   ]
+  ],
+  "img": "img/logo/european-union-drugs-agency-euda.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Agentúra Európskej únie pre drogy (EUDA). V ktorom meste sídli?",
+  "ok": "Lisabon",
+  "bad": [
+   "Solún",
+   "Haag"
+  ],
+  "v": "Agentúra Európskej únie pre drogy (EUDA) sídli v meste Lisabon (Portugalsko).",
+  "src": [
+   [
+    "eu-inst-european-union-drugs-agency-euda",
+    "Sídlo: Lisabon (Portugalsko)"
+   ]
+  ],
+  "img": "img/logo/european-union-drugs-agency-euda.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Inštitút Európskej únie pre bezpečnostné štúdie (EUISS)",
+  "bad": [
+   "Agentúra Európskej únie pre drogy (EUDA)",
+   "Európsky inštitút pre rodovú rovnosť (EIGE)"
+  ],
+  "v": "Na obrázku je logo: Inštitút Európskej únie pre bezpečnostné štúdie (EUISS).",
+  "src": [
+   [
+    "eu-inst-european-union-institute-security-studies-euiss",
+    "Úloha: poskytovať analýzu otázok zahraničnej, bezpečnostnej a obrannej politiky"
+   ]
+  ],
+  "img": "img/logo/european-union-institute-security-studies-euiss.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Inštitút Európskej únie pre bezpečnostné štúdie (EUISS). V ktorom meste sídli?",
+  "ok": "Paríž",
+  "bad": [
+   "Frankfurt nad Mohanom",
+   "Valenciennes"
+  ],
+  "v": "Inštitút Európskej únie pre bezpečnostné štúdie (EUISS) sídli v meste Paríž (Francúzsko).",
+  "src": [
+   [
+    "eu-inst-european-union-institute-security-studies-euiss",
+    "Sídlo: sídlo inštitútu sa nachádza v Paríži (Francúzsko) a styčný úrad v Bruseli (Belgicko)"
+   ]
+  ],
+  "img": "img/logo/european-union-institute-security-studies-euiss.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Úrad Európskej únie pre duševné vlastníctvo (EUIPO)",
+  "bad": [
+   "Európsky inštitút pre rodovú rovnosť (EIGE)",
+   "Agentúra Európskej únie pre vesmírny program (EUSPA)"
+  ],
+  "v": "Na obrázku je logo: Úrad Európskej únie pre duševné vlastníctvo (EUIPO).",
+  "src": [
+   [
+    "eu-inst-european-union-intellectual-property-office-euipo",
+    "Logo of European Union Intellectual Property Office (EUIPO)"
+   ]
+  ],
+  "img": "img/logo/european-union-intellectual-property-office-euipo.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Úrad Európskej únie pre duševné vlastníctvo (EUIPO). V ktorom meste sídli?",
+  "ok": "Alicante",
+  "bad": [
+   "Budapešť",
+   "Varšava"
+  ],
+  "v": "Úrad Európskej únie pre duševné vlastníctvo (EUIPO) sídli v meste Alicante (Španielsko).",
+  "src": [
+   [
+    "eu-inst-european-union-intellectual-property-office-euipo",
+    "Sídlo: Alicante (Španielsko)"
+   ]
+  ],
+  "img": "img/logo/european-union-intellectual-property-office-euipo.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Satelitné stredisko Európskej únie (SatCen)",
+  "bad": [
+   "Európska chemická agentúra (ECHA)",
+   "Eurojust"
+  ],
+  "v": "Na obrázku je logo: Satelitné stredisko Európskej únie (SatCen).",
+  "src": [
+   [
+    "eu-inst-european-union-satellite-centre-satcen",
+    "European Satellite Centre - logo"
+   ]
+  ],
+  "img": "img/logo/european-union-satellite-centre-satcen.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Satelitné stredisko Európskej únie (SatCen). V ktorom meste sídli?",
+  "ok": "Torrejón de Ardoz",
+  "bad": [
+   "Valenciennes",
+   "Turín"
+  ],
+  "v": "Satelitné stredisko Európskej únie (SatCen) sídli v meste Torrejón de Ardoz (Španielsko).",
+  "src": [
+   [
+    "eu-inst-european-union-satellite-centre-satcen",
+    "Sídlo: Torrejón de Ardoz (Španielsko)"
+   ]
+  ],
+  "img": "img/logo/european-union-satellite-centre-satcen.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Europol",
+  "bad": [
+   "Eurojust",
+   "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER)"
+  ],
+  "v": "Na obrázku je logo: Europol.",
+  "src": [
+   [
+    "eu-inst-europol",
+    "Logo of European Police Office (Europol)"
+   ]
+  ],
+  "img": "img/logo/europol.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Europol. V ktorom meste sídli?",
+  "ok": "Haag",
+  "bad": [
+   "Lisabon",
+   "Vigo"
+  ],
+  "v": "Europol sídli v meste Haag (Holandsko).",
+  "src": [
+   [
+    "eu-inst-europol",
+    "Sídlo: Haag (Holandsko)"
+   ]
+  ],
+  "img": "img/logo/europol.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž)",
+  "bad": [
+   "Európska obranná agentúra (EDA)",
+   "Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL)"
+  ],
+  "v": "Na obrázku je logo: Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž).",
+  "src": [
+   [
+    "eu-inst-frontex",
+    "Logo of European Border and Coast Guard Agency (Frontex)"
+   ]
+  ],
+  "img": "img/logo/frontex.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž). V ktorom meste sídli?",
+  "ok": "Varšava",
+  "bad": [
+   "Vigo",
+   "Bratislava"
+  ],
+  "v": "Frontex (Európska agentúra pre pohraničnú a pobrežnú stráž) sídli v meste Varšava (Poľsko).",
+  "src": [
+   [
+    "eu-inst-frontex",
+    "Sídlo: Varšava (Poľsko)"
+   ]
+  ],
+  "img": "img/logo/frontex.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Spoločný podnik Fusion for Energy (F4E)",
+  "bad": [
+   "Európsky ombudsman",
+   "Agentúra Európskej únie pre drogy (EUDA)"
+  ],
+  "v": "Na obrázku je logo: Spoločný podnik Fusion for Energy (F4E).",
+  "src": [
+   [
+    "eu-inst-fusion-energy-f4e",
+    "Fusion for Energy (F4E) - Logo"
+   ]
+  ],
+  "img": "img/logo/fusion-energy-f4e.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Spoločný podnik Fusion for Energy (F4E). V ktorom meste sídli?",
+  "ok": "Barcelona",
+  "bad": [
+   "Amsterdam",
+   "Viedeň"
+  ],
+  "v": "Spoločný podnik Fusion for Energy (F4E) sídli v meste Barcelona (Španielsko).",
+  "src": [
+   [
+    "eu-inst-fusion-energy-f4e",
+    "Sídlo: Barcelona (Španielsko)"
+   ]
+  ],
+  "img": "img/logo/fusion-energy-f4e.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Prekladateľské stredisko pre orgány Európskej únie (CdT)",
+  "bad": [
+   "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER)",
+   "Agentúra Európskej únie pre vesmírny program (EUSPA)"
+  ],
+  "v": "Na obrázku je logo: Prekladateľské stredisko pre orgány Európskej únie (CdT).",
+  "src": [
+   [
+    "eu-inst-translation-centre-bodies-european-union-cdt",
+    "Úloha: preklad a súvisiace služby pre agentúry, orgány a inštitúcie EÚ, medziinštitucionálna spolupráca"
+   ]
+  ],
+  "img": "img/logo/translation-centre-bodies-european-union-cdt.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Prekladateľské stredisko pre orgány Európskej únie (CdT). V ktorom meste sídli?",
+  "ok": "Luxemburg",
+  "bad": [
+   "Ženeva",
+   "Ľubľana"
+  ],
+  "v": "Prekladateľské stredisko pre orgány Európskej únie (CdT) sídli v meste Luxemburg (Luxembursko).",
+  "src": [
+   [
+    "eu-inst-translation-centre-bodies-european-union-cdt",
+    "Sídlo: Luxemburg (Luxembursko)"
+   ]
+  ],
+  "img": "img/logo/translation-centre-bodies-european-union-cdt.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Jednotná rada pre riešenie krízových situácií (SRB)",
+  "bad": [
+   "Európska obranná agentúra (EDA)",
+   "Agentúra EÚ pre odbornú prípravu v oblasti presadzovania práva (CEPOL)"
+  ],
+  "v": "Na obrázku je logo: Jednotná rada pre riešenie krízových situácií (SRB).",
+  "src": [
+   [
+    "eu-inst-single-resolution-board-srb",
+    "Úloha: zabezpečiť náležité riešenie krízovej situácie bánk v ťažkostiach tak, aby to malo minimálny dosah na reálnu ekonomiku a verejné financie zúčastnených krajín EÚ a ostatných krajín"
+   ]
+  ],
+  "img": "img/logo/single-resolution-board-srb.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Jednotná rada pre riešenie krízových situácií (SRB). V ktorom meste sídli?",
+  "ok": "Brusel",
+  "bad": [
+   "Angers",
+   "Viedeň"
+  ],
+  "v": "Jednotná rada pre riešenie krízových situácií (SRB) sídli v meste Brusel (Belgicko).",
+  "src": [
+   [
+    "eu-inst-single-resolution-board-srb",
+    "Sídlo: Brusel (Belgicko)"
+   ]
+  ],
+  "img": "img/logo/single-resolution-board-srb.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska obranná agentúra (EDA)",
+  "bad": [
+   "Agentúra Európskej únie pre vesmírny program (EUSPA)",
+   "Agentúra Európskej únie pre azyl (EUAA)"
+  ],
+  "v": "Na obrázku je logo: Európska obranná agentúra (EDA).",
+  "src": [
+   [
+    "eu-inst-european-defence-agency-eda",
+    "European Defence Agency - Logo"
+   ]
+  ],
+  "img": "img/logo/european-defence-agency-eda.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska obranná agentúra (EDA). V ktorom meste sídli?",
+  "ok": "Brusel",
+  "bad": [
+   "Alicante",
+   "Helsinki"
+  ],
+  "v": "Európska obranná agentúra (EDA) sídli v meste Brusel (Belgicko).",
+  "src": [
+   [
+    "eu-inst-european-defence-agency-eda",
+    "Sídlo: Brusel (Belgicko)"
+   ]
+  ],
+  "img": "img/logo/european-defence-agency-eda.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Úrad pre vydávanie publikácií Európskej únie",
+  "bad": [
+   "Železničná agentúra Európskej únie (ERA)",
+   "Európsky orgán pre cenné papiere a trhy (ESMA)"
+  ],
+  "v": "Na obrázku je logo: Úrad pre vydávanie publikácií Európskej únie.",
+  "src": [
+   [
+    "eu-inst-publications-office-european-union-op",
+    "Publications Office of the European Union logo"
+   ]
+  ],
+  "img": "img/logo/publications-office-european-union-op.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Úrad pre vydávanie publikácií Európskej únie. V ktorom meste sídli?",
+  "ok": "Luxemburg",
+  "bad": [
+   "Helsinki",
+   "Ženeva"
+  ],
+  "v": "Úrad pre vydávanie publikácií Európskej únie sídli v meste Luxemburg (Luxembursko).",
+  "src": [
+   [
+    "eu-inst-publications-office-european-union-op",
+    "Sídlo: Luxemburg"
+   ]
+  ],
+  "img": "img/logo/publications-office-european-union-op.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Zásobovacia agentúra Euratomu (ESA)",
+  "bad": [
+   "Agentúra Európskej únie pre drogy (EUDA)",
+   "Satelitné stredisko Európskej únie (SatCen)"
+  ],
+  "v": "Na obrázku je logo: Zásobovacia agentúra Euratomu (ESA).",
+  "src": [
+   [
+    "eu-inst-euratom-supply-agency-esa",
+    "Úloha: udržiavať pravidelné a bezpečné dodávky jadrového materiálu (rúd, zdrojového materiálu a osobitného štiepneho materiálu) pre všetkých používateľov v EÚ."
+   ]
+  ],
+  "img": "img/logo/euratom-supply-agency-esa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Zásobovacia agentúra Euratomu (ESA). V ktorom meste sídli?",
+  "ok": "Luxemburg",
+  "bad": [
+   "Budapešť",
+   "Praha"
+  ],
+  "v": "Zásobovacia agentúra Euratomu (ESA) sídli v meste Luxemburg (Luxembursko).",
+  "src": [
+   [
+    "eu-inst-euratom-supply-agency-esa",
+    "Sídlo: Luxemburg"
+   ]
+  ],
+  "img": "img/logo/euratom-supply-agency-esa.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky dozorný úradník pre ochranu údajov (EDPS)",
+  "bad": [
+   "Agentúra Európskej únie pre drogy (EUDA)",
+   "Európska environmentálna agentúra (EEA)"
+  ],
+  "v": "Na obrázku je logo: Európsky dozorný úradník pre ochranu údajov (EDPS).",
+  "src": [
+   [
+    "eu-inst-european-data-protection-supervisor-edps",
+    "European Data Protection Supervisor - Logo"
+   ]
+  ],
+  "img": "img/logo/european-data-protection-supervisor-edps.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky dozorný úradník pre ochranu údajov (EDPS). V ktorom meste sídli?",
+  "ok": "Brusel",
+  "bad": [
+   "Barcelona",
+   "Mníchov"
+  ],
+  "v": "Európsky dozorný úradník pre ochranu údajov (EDPS) sídli v meste Brusel (Belgicko).",
+  "src": [
+   [
+    "eu-inst-european-data-protection-supervisor-edps",
+    "Sídlo: Brusel (Belgicko)"
+   ]
+  ],
+  "img": "img/logo/european-data-protection-supervisor-edps.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európska služba pre vonkajšiu činnosť (ESVČ)",
+  "bad": [
+   "Európsky dozorný úradník pre ochranu údajov (EDPS)",
+   "Agentúra Európskej únie pre vesmírny program (EUSPA)"
+  ],
+  "v": "Na obrázku je logo: Európska služba pre vonkajšiu činnosť (ESVČ).",
+  "src": [
+   [
+    "eu-inst-european-external-action-service-eeas",
+    "European External Action Service - Logo"
+   ]
+  ],
+  "img": "img/logo/european-external-action-service-eeas.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európska služba pre vonkajšiu činnosť (ESVČ). V ktorom meste sídli?",
+  "ok": "Brusel",
+  "bad": [
+   "Riga",
+   "Helsinki"
+  ],
+  "v": "Európska služba pre vonkajšiu činnosť (ESVČ) sídli v meste Brusel (Belgicko).",
+  "src": [
+   [
+    "eu-inst-european-external-action-service-eeas",
+    "Sídlo: Brusel (Belgicko)"
+   ]
+  ],
+  "img": "img/logo/european-external-action-service-eeas.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorej inštitúcii, orgánu alebo agentúre EÚ patrí logo na obrázku?",
+  "ok": "Európsky úrad pre výber pracovníkov (EPSO)",
+  "bad": [
+   "Európska chemická agentúra (ECHA)",
+   "Agentúra Európskej únie pre bezpečnosť letectva (EASA)"
+  ],
+  "v": "Na obrázku je logo: Európsky úrad pre výber pracovníkov (EPSO).",
+  "src": [
+   [
+    "eu-inst-european-personnel-selection-office-epso",
+    "European Personnel Selection Office - Logo"
+   ]
+  ],
+  "img": "img/logo/european-personnel-selection-office-epso.png"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Logo na obrázku patrí subjektu EÚ: Európsky úrad pre výber pracovníkov (EPSO). V ktorom meste sídli?",
+  "ok": "Brusel",
+  "bad": [
+   "Paríž",
+   "Ženeva"
+  ],
+  "v": "Európsky úrad pre výber pracovníkov (EPSO) sídli v meste Brusel (Belgicko).",
+  "src": [
+   [
+    "eu-inst-european-personnel-selection-office-epso",
+    "Sídlo: Brusel (jedného zamestnanca má aj v Luxemburgu)"
+   ]
+  ],
+  "img": "img/logo/european-personnel-selection-office-epso.png"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Maďarsko",
+   "Slovinsko"
+  ],
+  "v": "Na mape je vyznačené Rakúsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-austria",
+    "Map of Europe showing location of Austria and country flag"
+   ]
+  ],
+  "img": "img/staty/austria.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Viedeň",
+  "bad": [
+   "Budapešť",
+   "Ľubľana"
+  ],
+  "v": "Na mape je Rakúsko, jeho hlavné mesto je Viedeň.",
+  "src": [
+   [
+    "eu-country-austria",
+    "Map of Europe showing location of Austria and country flag"
+   ],
+   [
+    "eu-country-austria",
+    "Hlavné mesto: Viedeň"
+   ]
+  ],
+  "img": "img/staty/austria.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1995",
+  "bad": [
+   "1986",
+   "2004"
+  ],
+  "v": "Rakúsko je členským štátom EÚ od: 1. januára 1995.",
+  "src": [
+   [
+    "eu-country-austria",
+    "Map of Europe showing location of Austria and country flag"
+   ],
+   [
+    "eu-country-austria",
+    "Členský štát EÚ: od 1. januára 1995"
+   ]
+  ],
+  "img": "img/staty/austria.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Belgicko",
+  "bad": [
+   "Holandsko",
+   "Luxembursko"
+  ],
+  "v": "Na mape je vyznačené Belgicko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-belgium",
+    "Map of Europe showing location of Belgium and country flag"
+   ]
+  ],
+  "img": "img/staty/belgium.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Brusel",
+  "bad": [
+   "Amsterdam",
+   "Luxemburg"
+  ],
+  "v": "Na mape je Belgicko, jeho hlavné mesto je Brusel.",
+  "src": [
+   [
+    "eu-country-belgium",
+    "Map of Europe showing location of Belgium and country flag"
+   ],
+   [
+    "eu-country-belgium",
+    "Hlavné mesto: Brusel"
+   ]
+  ],
+  "img": "img/staty/belgium.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1958",
+  "bad": [
+   "1973",
+   "1981"
+  ],
+  "v": "Belgicko je členským štátom EÚ od: 1. januára 1958.",
+  "src": [
+   [
+    "eu-country-belgium",
+    "Map of Europe showing location of Belgium and country flag"
+   ],
+   [
+    "eu-country-belgium",
+    "Členský štát EÚ: od 1. januára 1958"
+   ]
+  ],
+  "img": "img/staty/belgium.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Bulharsko",
+  "bad": [
+   "Rumunsko",
+   "Grécko"
+  ],
+  "v": "Na mape je vyznačené Bulharsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-bulgaria",
+    "Map of Europe showing location of Bulgaria and country flag"
+   ]
+  ],
+  "img": "img/staty/bulgaria.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Sofia",
+  "bad": [
+   "Bukurešť",
+   "Atény"
+  ],
+  "v": "Na mape je Bulharsko, jeho hlavné mesto je Sofia.",
+  "src": [
+   [
+    "eu-country-bulgaria",
+    "Map of Europe showing location of Bulgaria and country flag"
+   ],
+   [
+    "eu-country-bulgaria",
+    "Hlavné mesto: Sofia"
+   ]
+  ],
+  "img": "img/staty/bulgaria.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2007",
+  "bad": [
+   "2004",
+   "2013"
+  ],
+  "v": "Bulharsko je členským štátom EÚ od: 1. januára 2007.",
+  "src": [
+   [
+    "eu-country-bulgaria",
+    "Map of Europe showing location of Bulgaria and country flag"
+   ],
+   [
+    "eu-country-bulgaria",
+    "Členský štát EÚ: od 1. januára 2007"
+   ]
+  ],
+  "img": "img/staty/bulgaria.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Slovinsko",
+   "Maďarsko"
+  ],
+  "v": "Na mape je vyznačené Chorvátsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-croatia",
+    "Map of Europe showing location of Croatia and country flag"
+   ]
+  ],
+  "img": "img/staty/croatia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Záhreb",
+  "bad": [
+   "Ľubľana",
+   "Budapešť"
+  ],
+  "v": "Na mape je Chorvátsko, jeho hlavné mesto je Záhreb.",
+  "src": [
+   [
+    "eu-country-croatia",
+    "Map of Europe showing location of Croatia and country flag"
+   ],
+   [
+    "eu-country-croatia",
+    "Hlavné mesto: Záhreb"
+   ]
+  ],
+  "img": "img/staty/croatia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2013",
+  "bad": [
+   "2007",
+   "2004"
+  ],
+  "v": "Chorvátsko je členským štátom EÚ od: 1. júla 2013.",
+  "src": [
+   [
+    "eu-country-croatia",
+    "Map of Europe showing location of Croatia and country flag"
+   ],
+   [
+    "eu-country-croatia",
+    "Členský štát EÚ: od 1. júla 2013"
+   ]
+  ],
+  "img": "img/staty/croatia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Cyprus",
+  "bad": [
+   "Malta",
+   "Grécko"
+  ],
+  "v": "Na mape je vyznačené Cyprus; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-cyprus",
+    "Map of Europe showing location of Cyprus and country flag"
+   ]
+  ],
+  "img": "img/staty/cyprus.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Nikózia",
+  "bad": [
+   "Valletta",
+   "Atény"
+  ],
+  "v": "Na mape je Cyprus, jeho hlavné mesto je Nikózia.",
+  "src": [
+   [
+    "eu-country-cyprus",
+    "Map of Europe showing location of Cyprus and country flag"
+   ],
+   [
+    "eu-country-cyprus",
+    "Hlavné mesto: Nikózia"
+   ]
+  ],
+  "img": "img/staty/cyprus.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Cyprus je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-cyprus",
+    "Map of Europe showing location of Cyprus and country flag"
+   ],
+   [
+    "eu-country-cyprus",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/cyprus.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Česko",
+  "bad": [
+   "Slovensko",
+   "Poľsko"
+  ],
+  "v": "Na mape je vyznačené Česko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-czechia",
+    "Map of Europe showing location of Czechia and country flag"
+   ]
+  ],
+  "img": "img/staty/czechia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Praha",
+  "bad": [
+   "Bratislava",
+   "Varšava"
+  ],
+  "v": "Na mape je Česko, jeho hlavné mesto je Praha.",
+  "src": [
+   [
+    "eu-country-czechia",
+    "Map of Europe showing location of Czechia and country flag"
+   ],
+   [
+    "eu-country-czechia",
+    "Hlavné mesto: Praha"
+   ]
+  ],
+  "img": "img/staty/czechia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Česko je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-czechia",
+    "Map of Europe showing location of Czechia and country flag"
+   ],
+   [
+    "eu-country-czechia",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/czechia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Dánsko",
+  "bad": [
+   "Švédsko",
+   "Fínsko"
+  ],
+  "v": "Na mape je vyznačené Dánsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-denmark",
+    "Map of Europe showing location of Denmark and country flag"
+   ]
+  ],
+  "img": "img/staty/denmark.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Kodaň",
+  "bad": [
+   "Štokholm",
+   "Helsinki"
+  ],
+  "v": "Na mape je Dánsko, jeho hlavné mesto je Kodaň.",
+  "src": [
+   [
+    "eu-country-denmark",
+    "Map of Europe showing location of Denmark and country flag"
+   ],
+   [
+    "eu-country-denmark",
+    "Hlavné mesto: Kodaň"
+   ]
+  ],
+  "img": "img/staty/denmark.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1973",
+  "bad": [
+   "1981",
+   "1986"
+  ],
+  "v": "Dánsko je členským štátom EÚ od: 1. januára 1973.",
+  "src": [
+   [
+    "eu-country-denmark",
+    "Map of Europe showing location of Denmark and country flag"
+   ],
+   [
+    "eu-country-denmark",
+    "Členský štát EÚ: od 1. januára 1973"
+   ]
+  ],
+  "img": "img/staty/denmark.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Estónsko",
+  "bad": [
+   "Lotyšsko",
+   "Fínsko"
+  ],
+  "v": "Na mape je vyznačené Estónsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-estonia",
+    "Map of Europe showing location of Estonia and country flag"
+   ]
+  ],
+  "img": "img/staty/estonia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Tallinn",
+  "bad": [
+   "Riga",
+   "Helsinki"
+  ],
+  "v": "Na mape je Estónsko, jeho hlavné mesto je Tallinn.",
+  "src": [
+   [
+    "eu-country-estonia",
+    "Map of Europe showing location of Estonia and country flag"
+   ],
+   [
+    "eu-country-estonia",
+    "Hlavné mesto: Tallinn"
+   ]
+  ],
+  "img": "img/staty/estonia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Estónsko je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-estonia",
+    "Map of Europe showing location of Estonia and country flag"
+   ],
+   [
+    "eu-country-estonia",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/estonia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Fínsko",
+  "bad": [
+   "Švédsko",
+   "Estónsko"
+  ],
+  "v": "Na mape je vyznačené Fínsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-finland",
+    "Map of Europe showing location of Finland and country flag"
+   ]
+  ],
+  "img": "img/staty/finland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Helsinki",
+  "bad": [
+   "Štokholm",
+   "Tallinn"
+  ],
+  "v": "Na mape je Fínsko, jeho hlavné mesto je Helsinki.",
+  "src": [
+   [
+    "eu-country-finland",
+    "Map of Europe showing location of Finland and country flag"
+   ],
+   [
+    "eu-country-finland",
+    "Hlavné mesto: Helsinki"
+   ]
+  ],
+  "img": "img/staty/finland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1995",
+  "bad": [
+   "1986",
+   "2004"
+  ],
+  "v": "Fínsko je členským štátom EÚ od: 1. januára 1995.",
+  "src": [
+   [
+    "eu-country-finland",
+    "Map of Europe showing location of Finland and country flag"
+   ],
+   [
+    "eu-country-finland",
+    "Členský štát EÚ: od 1. januára 1995"
+   ]
+  ],
+  "img": "img/staty/finland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Belgicko",
+   "Španielsko"
+  ],
+  "v": "Na mape je vyznačené Francúzsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-france",
+    "Map of Europe showing location of France and country flag"
+   ]
+  ],
+  "img": "img/staty/france.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Paríž",
+  "bad": [
+   "Brusel",
+   "Madrid"
+  ],
+  "v": "Na mape je Francúzsko, jeho hlavné mesto je Paríž.",
+  "src": [
+   [
+    "eu-country-france",
+    "Map of Europe showing location of France and country flag"
+   ],
+   [
+    "eu-country-france",
+    "Hlavné mesto: Paríž"
+   ]
+  ],
+  "img": "img/staty/france.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1958",
+  "bad": [
+   "1973",
+   "1981"
+  ],
+  "v": "Francúzsko je členským štátom EÚ od: 1. januára 1958.",
+  "src": [
+   [
+    "eu-country-france",
+    "Map of Europe showing location of France and country flag"
+   ],
+   [
+    "eu-country-france",
+    "Členský štát EÚ: od 1. januára 1958"
+   ]
+  ],
+  "img": "img/staty/france.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Nemecko",
+  "bad": [
+   "Rakúsko",
+   "Poľsko"
+  ],
+  "v": "Na mape je vyznačené Nemecko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-germany",
+    "Map of Europe showing location of Germany and country flag"
+   ]
+  ],
+  "img": "img/staty/germany.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Berlín",
+  "bad": [
+   "Viedeň",
+   "Varšava"
+  ],
+  "v": "Na mape je Nemecko, jeho hlavné mesto je Berlín.",
+  "src": [
+   [
+    "eu-country-germany",
+    "Map of Europe showing location of Germany and country flag"
+   ],
+   [
+    "eu-country-germany",
+    "Hlavné mesto: Berlín"
+   ]
+  ],
+  "img": "img/staty/germany.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1958",
+  "bad": [
+   "1973",
+   "1981"
+  ],
+  "v": "Nemecko je členským štátom EÚ od: 1. januára 1958.",
+  "src": [
+   [
+    "eu-country-germany",
+    "Map of Europe showing location of Germany and country flag"
+   ],
+   [
+    "eu-country-germany",
+    "Členský štát EÚ: od 1. januára 1958"
+   ]
+  ],
+  "img": "img/staty/germany.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Grécko",
+  "bad": [
+   "Cyprus",
+   "Bulharsko"
+  ],
+  "v": "Na mape je vyznačené Grécko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-greece",
+    "Map of Europe showing location of Greece and country flag"
+   ]
+  ],
+  "img": "img/staty/greece.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Atény",
+  "bad": [
+   "Nikózia",
+   "Sofia"
+  ],
+  "v": "Na mape je Grécko, jeho hlavné mesto je Atény.",
+  "src": [
+   [
+    "eu-country-greece",
+    "Map of Europe showing location of Greece and country flag"
+   ],
+   [
+    "eu-country-greece",
+    "Hlavné mesto: Atény"
+   ]
+  ],
+  "img": "img/staty/greece.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1981",
+  "bad": [
+   "1986",
+   "1973"
+  ],
+  "v": "Grécko je členským štátom EÚ od: 1. januára 1981.",
+  "src": [
+   [
+    "eu-country-greece",
+    "Map of Europe showing location of Greece and country flag"
+   ],
+   [
+    "eu-country-greece",
+    "Členský štát EÚ: od 1. januára 1981"
+   ]
+  ],
+  "img": "img/staty/greece.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Maďarsko",
+  "bad": [
+   "Rakúsko",
+   "Rumunsko"
+  ],
+  "v": "Na mape je vyznačené Maďarsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-hungary",
+    "Map of Europe showing location of Hungary and country flag"
+   ]
+  ],
+  "img": "img/staty/hungary.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Budapešť",
+  "bad": [
+   "Viedeň",
+   "Bukurešť"
+  ],
+  "v": "Na mape je Maďarsko, jeho hlavné mesto je Budapešť.",
+  "src": [
+   [
+    "eu-country-hungary",
+    "Map of Europe showing location of Hungary and country flag"
+   ],
+   [
+    "eu-country-hungary",
+    "Hlavné mesto: Budapešť"
+   ]
+  ],
+  "img": "img/staty/hungary.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Maďarsko je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-hungary",
+    "Map of Europe showing location of Hungary and country flag"
+   ],
+   [
+    "eu-country-hungary",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/hungary.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Írsko",
+  "bad": [
+   "Dánsko",
+   "Portugalsko"
+  ],
+  "v": "Na mape je vyznačené Írsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-ireland",
+    "Map of Europe showing location of Ireland and country flag"
+   ]
+  ],
+  "img": "img/staty/ireland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Dublin",
+  "bad": [
+   "Kodaň",
+   "Lisabon"
+  ],
+  "v": "Na mape je Írsko, jeho hlavné mesto je Dublin.",
+  "src": [
+   [
+    "eu-country-ireland",
+    "Map of Europe showing location of Ireland and country flag"
+   ],
+   [
+    "eu-country-ireland",
+    "Hlavné mesto: Dublin"
+   ]
+  ],
+  "img": "img/staty/ireland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1973",
+  "bad": [
+   "1981",
+   "1986"
+  ],
+  "v": "Írsko je členským štátom EÚ od: 1. januára 1973.",
+  "src": [
+   [
+    "eu-country-ireland",
+    "Map of Europe showing location of Ireland and country flag"
+   ],
+   [
+    "eu-country-ireland",
+    "Členský štát EÚ: od 1. januára 1973"
+   ]
+  ],
+  "img": "img/staty/ireland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Taliansko",
+  "bad": [
+   "Malta",
+   "Grécko"
+  ],
+  "v": "Na mape je vyznačené Taliansko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-italy",
+    "Map of Europe showing location of Italy and country flag"
+   ]
+  ],
+  "img": "img/staty/italy.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Rím",
+  "bad": [
+   "Valletta",
+   "Atény"
+  ],
+  "v": "Na mape je Taliansko, jeho hlavné mesto je Rím.",
+  "src": [
+   [
+    "eu-country-italy",
+    "Map of Europe showing location of Italy and country flag"
+   ],
+   [
+    "eu-country-italy",
+    "Hlavné mesto: Rím"
+   ]
+  ],
+  "img": "img/staty/italy.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1958",
+  "bad": [
+   "1973",
+   "1981"
+  ],
+  "v": "Taliansko je členským štátom EÚ od: 1. januára 1958.",
+  "src": [
+   [
+    "eu-country-italy",
+    "Map of Europe showing location of Italy and country flag"
+   ],
+   [
+    "eu-country-italy",
+    "Členský štát EÚ: od 1. januára 1958"
+   ]
+  ],
+  "img": "img/staty/italy.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Lotyšsko",
+  "bad": [
+   "Litva",
+   "Estónsko"
+  ],
+  "v": "Na mape je vyznačené Lotyšsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-latvia",
+    "Map of Europe showing location of Latvia and country flag"
+   ]
+  ],
+  "img": "img/staty/latvia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Riga",
+  "bad": [
+   "Vilnius",
+   "Tallinn"
+  ],
+  "v": "Na mape je Lotyšsko, jeho hlavné mesto je Riga.",
+  "src": [
+   [
+    "eu-country-latvia",
+    "Map of Europe showing location of Latvia and country flag"
+   ],
+   [
+    "eu-country-latvia",
+    "Hlavné mesto: Riga"
+   ]
+  ],
+  "img": "img/staty/latvia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Lotyšsko je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-latvia",
+    "Map of Europe showing location of Latvia and country flag"
+   ],
+   [
+    "eu-country-latvia",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/latvia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Litva",
+  "bad": [
+   "Lotyšsko",
+   "Estónsko"
+  ],
+  "v": "Na mape je vyznačené Litva; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-lithuania",
+    "Map of Europe showing location of Lithuania and country flag"
+   ]
+  ],
+  "img": "img/staty/lithuania.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Vilnius",
+  "bad": [
+   "Riga",
+   "Tallinn"
+  ],
+  "v": "Na mape je Litva, jeho hlavné mesto je Vilnius.",
+  "src": [
+   [
+    "eu-country-lithuania",
+    "Map of Europe showing location of Lithuania and country flag"
+   ],
+   [
+    "eu-country-lithuania",
+    "Hlavné mesto: Vilnius"
+   ]
+  ],
+  "img": "img/staty/lithuania.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Litva je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-lithuania",
+    "Map of Europe showing location of Lithuania and country flag"
+   ],
+   [
+    "eu-country-lithuania",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/lithuania.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Belgicko",
+   "Holandsko"
+  ],
+  "v": "Na mape je vyznačené Luxembursko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-luxembourg",
+    "Map of Europe showing location of Luxembourg and country flag"
+   ]
+  ],
+  "img": "img/staty/luxembourg.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Luxemburg",
+  "bad": [
+   "Brusel",
+   "Amsterdam"
+  ],
+  "v": "Na mape je Luxembursko, jeho hlavné mesto je Luxemburg.",
+  "src": [
+   [
+    "eu-country-luxembourg",
+    "Map of Europe showing location of Luxembourg and country flag"
+   ],
+   [
+    "eu-country-luxembourg",
+    "Hlavné mesto: Luxembursko"
+   ]
+  ],
+  "img": "img/staty/luxembourg.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1958",
+  "bad": [
+   "1973",
+   "1981"
+  ],
+  "v": "Luxembursko je členským štátom EÚ od: 1. januára 1958.",
+  "src": [
+   [
+    "eu-country-luxembourg",
+    "Map of Europe showing location of Luxembourg and country flag"
+   ],
+   [
+    "eu-country-luxembourg",
+    "Členský štát EÚ: od 1. januára 1958"
+   ]
+  ],
+  "img": "img/staty/luxembourg.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Malta",
+  "bad": [
+   "Cyprus",
+   "Taliansko"
+  ],
+  "v": "Na mape je vyznačené Malta; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-malta",
+    "Map of Europe showing location of Malta and country flag"
+   ]
+  ],
+  "img": "img/staty/malta.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Valletta",
+  "bad": [
+   "Nikózia",
+   "Rím"
+  ],
+  "v": "Na mape je Malta, jeho hlavné mesto je Valletta.",
+  "src": [
+   [
+    "eu-country-malta",
+    "Map of Europe showing location of Malta and country flag"
+   ],
+   [
+    "eu-country-malta",
+    "Hlavné mesto: Valletta"
+   ]
+  ],
+  "img": "img/staty/malta.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Malta je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-malta",
+    "Map of Europe showing location of Malta and country flag"
+   ],
+   [
+    "eu-country-malta",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/malta.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Holandsko",
+  "bad": [
+   "Belgicko",
+   "Luxembursko"
+  ],
+  "v": "Na mape je vyznačené Holandsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-netherlands",
+    "Map of Europe showing location of Netherlands and country flag"
+   ]
+  ],
+  "img": "img/staty/netherlands.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Amsterdam",
+  "bad": [
+   "Brusel",
+   "Luxemburg"
+  ],
+  "v": "Na mape je Holandsko, jeho hlavné mesto je Amsterdam.",
+  "src": [
+   [
+    "eu-country-netherlands",
+    "Map of Europe showing location of Netherlands and country flag"
+   ],
+   [
+    "eu-country-netherlands",
+    "Hlavné mesto: Amsterdam; parlament a vláda sídlia v Haagu."
+   ]
+  ],
+  "img": "img/staty/netherlands.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1958",
+  "bad": [
+   "1973",
+   "1981"
+  ],
+  "v": "Holandsko je členským štátom EÚ od: 1. januára 1958.",
+  "src": [
+   [
+    "eu-country-netherlands",
+    "Map of Europe showing location of Netherlands and country flag"
+   ],
+   [
+    "eu-country-netherlands",
+    "Členský štát EÚ: od 1. januára 1958"
+   ]
+  ],
+  "img": "img/staty/netherlands.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Poľsko",
+  "bad": [
+   "Česko",
+   "Litva"
+  ],
+  "v": "Na mape je vyznačené Poľsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-poland",
+    "Map of Europe showing location of Poland and country flag"
+   ]
+  ],
+  "img": "img/staty/poland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Varšava",
+  "bad": [
+   "Praha",
+   "Vilnius"
+  ],
+  "v": "Na mape je Poľsko, jeho hlavné mesto je Varšava.",
+  "src": [
+   [
+    "eu-country-poland",
+    "Map of Europe showing location of Poland and country flag"
+   ],
+   [
+    "eu-country-poland",
+    "Hlavné mesto: Varšava"
+   ]
+  ],
+  "img": "img/staty/poland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Poľsko je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-poland",
+    "Map of Europe showing location of Poland and country flag"
+   ],
+   [
+    "eu-country-poland",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/poland.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Portugalsko",
+  "bad": [
+   "Španielsko",
+   "Taliansko"
+  ],
+  "v": "Na mape je vyznačené Portugalsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-portugal",
+    "Map of Europe showing location of Portugal and country flag"
+   ]
+  ],
+  "img": "img/staty/portugal.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Lisabon",
+  "bad": [
+   "Madrid",
+   "Rím"
+  ],
+  "v": "Na mape je Portugalsko, jeho hlavné mesto je Lisabon.",
+  "src": [
+   [
+    "eu-country-portugal",
+    "Map of Europe showing location of Portugal and country flag"
+   ],
+   [
+    "eu-country-portugal",
+    "Hlavné mesto: Lisabon"
+   ]
+  ],
+  "img": "img/staty/portugal.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1986",
+  "bad": [
+   "1981",
+   "1995"
+  ],
+  "v": "Portugalsko je členským štátom EÚ od: 1. januára 1986.",
+  "src": [
+   [
+    "eu-country-portugal",
+    "Map of Europe showing location of Portugal and country flag"
+   ],
+   [
+    "eu-country-portugal",
+    "Členský štát EÚ: od 1. januára 1986"
+   ]
+  ],
+  "img": "img/staty/portugal.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Rumunsko",
+  "bad": [
+   "Bulharsko",
+   "Maďarsko"
+  ],
+  "v": "Na mape je vyznačené Rumunsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-romania",
+    "Map of Europe showing location of Romania and country flag"
+   ]
+  ],
+  "img": "img/staty/romania.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Bukurešť",
+  "bad": [
+   "Sofia",
+   "Budapešť"
+  ],
+  "v": "Na mape je Rumunsko, jeho hlavné mesto je Bukurešť.",
+  "src": [
+   [
+    "eu-country-romania",
+    "Map of Europe showing location of Romania and country flag"
+   ],
+   [
+    "eu-country-romania",
+    "Hlavné mesto: Bukurešť"
+   ]
+  ],
+  "img": "img/staty/romania.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2007",
+  "bad": [
+   "2004",
+   "2013"
+  ],
+  "v": "Rumunsko je členským štátom EÚ od: 1. januára 2007.",
+  "src": [
+   [
+    "eu-country-romania",
+    "Map of Europe showing location of Romania and country flag"
+   ],
+   [
+    "eu-country-romania",
+    "Členský štát EÚ: od 1. januára 2007"
+   ]
+  ],
+  "img": "img/staty/romania.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Slovensko",
+  "bad": [
+   "Česko",
+   "Slovinsko"
+  ],
+  "v": "Na mape je vyznačené Slovensko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-slovakia",
+    "Map of Europe showing location of Slovakia and country flag"
+   ]
+  ],
+  "img": "img/staty/slovakia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Bratislava",
+  "bad": [
+   "Praha",
+   "Ľubľana"
+  ],
+  "v": "Na mape je Slovensko, jeho hlavné mesto je Bratislava.",
+  "src": [
+   [
+    "eu-country-slovakia",
+    "Map of Europe showing location of Slovakia and country flag"
+   ],
+   [
+    "eu-country-slovakia",
+    "Hlavné mesto: Bratislava"
+   ]
+  ],
+  "img": "img/staty/slovakia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Slovensko je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-slovakia",
+    "Map of Europe showing location of Slovakia and country flag"
+   ],
+   [
+    "eu-country-slovakia",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/slovakia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Slovensko",
+   "Chorvátsko"
+  ],
+  "v": "Na mape je vyznačené Slovinsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-slovenia",
+    "Map of Europe showing location of Slovenia and country flag"
+   ]
+  ],
+  "img": "img/staty/slovenia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Ľubľana",
+  "bad": [
+   "Bratislava",
+   "Záhreb"
+  ],
+  "v": "Na mape je Slovinsko, jeho hlavné mesto je Ľubľana.",
+  "src": [
+   [
+    "eu-country-slovenia",
+    "Map of Europe showing location of Slovenia and country flag"
+   ],
+   [
+    "eu-country-slovenia",
+    "Hlavné mesto: Ľubľana"
+   ]
+  ],
+  "img": "img/staty/slovenia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "2004",
+  "bad": [
+   "2007",
+   "1995"
+  ],
+  "v": "Slovinsko je členským štátom EÚ od: 1. mája 2004.",
+  "src": [
+   [
+    "eu-country-slovenia",
+    "Map of Europe showing location of Slovenia and country flag"
+   ],
+   [
+    "eu-country-slovenia",
+    "Členský štát EÚ: od 1. mája 2004"
+   ]
+  ],
+  "img": "img/staty/slovenia.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Španielsko",
+  "bad": [
+   "Portugalsko",
+   "Francúzsko"
+  ],
+  "v": "Na mape je vyznačené Španielsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-spain",
+    "Map of Europe showing location of Spain and country flag"
+   ]
+  ],
+  "img": "img/staty/spain.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Madrid",
+  "bad": [
+   "Lisabon",
+   "Paríž"
+  ],
+  "v": "Na mape je Španielsko, jeho hlavné mesto je Madrid.",
+  "src": [
+   [
+    "eu-country-spain",
+    "Map of Europe showing location of Spain and country flag"
+   ],
+   [
+    "eu-country-spain",
+    "Hlavné mesto: Madrid"
+   ]
+  ],
+  "img": "img/staty/spain.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1986",
+  "bad": [
+   "1981",
+   "1995"
+  ],
+  "v": "Španielsko je členským štátom EÚ od: 1. januára 1986.",
+  "src": [
+   [
+    "eu-country-spain",
+    "Map of Europe showing location of Spain and country flag"
+   ],
+   [
+    "eu-country-spain",
+    "Členský štát EÚ: od 1. januára 1986"
+   ]
+  ],
+  "img": "img/staty/spain.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorý členský štát EÚ je vyznačený na mape (vpravo hore je jeho vlajka)?",
+  "ok": "Švédsko",
+  "bad": [
+   "Fínsko",
+   "Dánsko"
+  ],
+  "v": "Na mape je vyznačené Švédsko; vlajka v rohu je vlajka tohto štátu.",
+  "src": [
+   [
+    "eu-country-sweden",
+    "Map of Europe showing location of Sweden and country flag"
+   ]
+  ],
+  "img": "img/staty/sweden.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Aké je hlavné mesto členského štátu vyznačeného na mape?",
+  "ok": "Štokholm",
+  "bad": [
+   "Helsinki",
+   "Kodaň"
+  ],
+  "v": "Na mape je Švédsko, jeho hlavné mesto je Štokholm.",
+  "src": [
+   [
+    "eu-country-sweden",
+    "Map of Europe showing location of Sweden and country flag"
+   ],
+   [
+    "eu-country-sweden",
+    "Hlavné mesto: Štokholm"
+   ]
+  ],
+  "img": "img/staty/sweden.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "V ktorom roku vstúpil do EÚ (resp. do Európskych spoločenstiev) štát vyznačený na mape?",
+  "ok": "1995",
+  "bad": [
+   "1986",
+   "2004"
+  ],
+  "v": "Švédsko je členským štátom EÚ od: 1. januára 1995.",
+  "src": [
+   [
+    "eu-country-sweden",
+    "Map of Europe showing location of Sweden and country flag"
+   ],
+   [
+    "eu-country-sweden",
+    "Členský štát EÚ: od 1. januára 1995"
+   ]
+  ],
+  "img": "img/staty/sweden.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Nemecko",
+   "Slovinsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Rakúsko – motív: pacifistka Bertha von Suttnerová.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "portrét pacifistky Berthy von Suttnerovej"
+   ]
+  ],
+  "img": "img/mince/at_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Nemecko",
+   "Slovinsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Rakúsko – motív: skladateľ Wolfgang Amadeus Mozart.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Portrét Wolfganga Amadea Mozarta"
+   ]
+  ],
+  "img": "img/mince/at_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Nemecko",
+   "Slovinsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Rakúsko.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "portrét pacifistky Berthy von Suttnerovej"
+   ]
+  ],
+  "img": "img/mince/at_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Rakúsko",
+  "bad": [
+   "Nemecko",
+   "Slovinsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Rakúsko – motív: horec.",
+  "src": [
+   [
+    "ecb-coins-at",
+    "Horec znázornený na tejto minci"
+   ]
+  ],
+  "img": "img/mince/at_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Belgicko",
+  "bad": [
+   "Holandsko",
+   "Luxembursko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Belgicko.",
+  "src": [
+   [
+    "ecb-coins-be",
+    "V roku 2014 Belgicko vydalo tretiu sériu mincí, na ktorých je zobrazený kráľ Philippe"
+   ]
+  ],
+  "img": "img/mince/be_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Belgicko",
+  "bad": [
+   "Holandsko",
+   "Luxembursko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Belgicko.",
+  "src": [
+   [
+    "ecb-coins-be",
+    "V roku 2014 Belgicko vydalo tretiu sériu mincí, na ktorých je zobrazený kráľ Philippe"
+   ]
+  ],
+  "img": "img/mince/be_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Belgicko",
+  "bad": [
+   "Holandsko",
+   "Luxembursko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Belgicko.",
+  "src": [
+   [
+    "ecb-coins-be",
+    "V roku 2014 Belgicko vydalo tretiu sériu mincí, na ktorých je zobrazený kráľ Philippe"
+   ]
+  ],
+  "img": "img/mince/be_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Belgicko",
+  "bad": [
+   "Holandsko",
+   "Luxembursko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Belgicko.",
+  "src": [
+   [
+    "ecb-coins-be",
+    "V roku 2014 Belgicko vydalo tretiu sériu mincí, na ktorých je zobrazený kráľ Philippe"
+   ]
+  ],
+  "img": "img/mince/be_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Bulharsko",
+  "bad": [
+   "Grécko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Bulharsko – motív: svätý Paisij Chilendarský.",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "Minca 2 € nesie portrét svätého Paisija Chilendarského"
+   ]
+  ],
+  "img": "img/mince/bg_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Bulharsko",
+  "bad": [
+   "Grécko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Bulharsko – motív: svätý Ivan Rilský.",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "Na minci 1 € je vyobrazený Ivan Rilský"
+   ]
+  ],
+  "img": "img/mince/bg_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Bulharsko",
+  "bad": [
+   "Grécko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Bulharsko – motív: Madarský jazdec (skalný reliéf z 8. storočia).",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "skalný reliéf Madarského jazdca z 8. storočia"
+   ]
+  ],
+  "img": "img/mince/bg_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Bulharsko",
+  "bad": [
+   "Grécko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Bulharsko – motív: Madarský jazdec (skalný reliéf z 8. storočia).",
+  "src": [
+   [
+    "ecb-coins-bg",
+    "skalný reliéf Madarského jazdca z 8. storočia"
+   ]
+  ],
+  "img": "img/mince/bg_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Cyprus",
+  "bad": [
+   "Grécko",
+   "Malta"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Cyprus – motív: modla v tvare kríža z doby medenej.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Mince 1 € a 2 € zobrazujú modlu v tvare kríža z doby medenej"
+   ]
+  ],
+  "img": "img/mince/cy_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Cyprus",
+  "bad": [
+   "Grécko",
+   "Malta"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Cyprus – motív: modla v tvare kríža z doby medenej.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Mince 1 € a 2 € zobrazujú modlu v tvare kríža z doby medenej"
+   ]
+  ],
+  "img": "img/mince/cy_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Cyprus",
+  "bad": [
+   "Grécko",
+   "Malta"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Cyprus – motív: kyrénska obchodná loď.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Na minciach 10, 20 a 50 centov sa nachádza kyrénska obchodná loď"
+   ]
+  ],
+  "img": "img/mince/cy_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Cyprus",
+  "bad": [
+   "Grécko",
+   "Malta"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Cyprus – motív: muflón.",
+  "src": [
+   [
+    "ecb-coins-cy",
+    "Mince 1 cent, 2 centy a 5 centov nesú motív muflóna"
+   ]
+  ],
+  "img": "img/mince/cy_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Nemecko",
+  "bad": [
+   "Rakúsko",
+   "Holandsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Nemecko – motív: orlica.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 1 € a 2 € je zobrazená orlica, tradičný symbol nemeckej zvrchovanosti"
+   ]
+  ],
+  "img": "img/mince/de_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Nemecko",
+  "bad": [
+   "Rakúsko",
+   "Holandsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Nemecko – motív: orlica.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 1 € a 2 € je zobrazená orlica, tradičný symbol nemeckej zvrchovanosti"
+   ]
+  ],
+  "img": "img/mince/de_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Nemecko",
+  "bad": [
+   "Rakúsko",
+   "Holandsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Nemecko – motív: Brandenburská brána.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 10, 20 a 50 centov je zobrazená Brandenburská brána"
+   ]
+  ],
+  "img": "img/mince/de_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Nemecko",
+  "bad": [
+   "Rakúsko",
+   "Holandsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Nemecko – motív: dubová vetvička.",
+  "src": [
+   [
+    "ecb-coins-de",
+    "Na minciach 1 cent, 2 centy a 5 centov je zobrazená dubová vetvička"
+   ]
+  ],
+  "img": "img/mince/de_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Estónsko",
+  "bad": [
+   "Lotyšsko",
+   "Fínsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Estónsko.",
+  "src": [
+   [
+    "ecb-coins-ee",
+    "Znázorňuje geografický motív Estónska a slovo „Eesti“ (Estónsko)."
+   ]
+  ],
+  "img": "img/mince/ee_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Estónsko",
+  "bad": [
+   "Lotyšsko",
+   "Fínsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Estónsko.",
+  "src": [
+   [
+    "ecb-coins-ee",
+    "Znázorňuje geografický motív Estónska a slovo „Eesti“ (Estónsko)."
+   ]
+  ],
+  "img": "img/mince/ee_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Estónsko",
+  "bad": [
+   "Lotyšsko",
+   "Fínsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Estónsko.",
+  "src": [
+   [
+    "ecb-coins-ee",
+    "Znázorňuje geografický motív Estónska a slovo „Eesti“ (Estónsko)."
+   ]
+  ],
+  "img": "img/mince/ee_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Estónsko",
+  "bad": [
+   "Lotyšsko",
+   "Fínsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Estónsko.",
+  "src": [
+   [
+    "ecb-coins-ee",
+    "Znázorňuje geografický motív Estónska a slovo „Eesti“ (Estónsko)."
+   ]
+  ],
+  "img": "img/mince/ee_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Španielsko",
+  "bad": [
+   "Portugalsko",
+   "Taliansko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Španielsko.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "Mince prvej a druhej série nesú portrét kráľa Juana Carlosa I."
+   ]
+  ],
+  "img": "img/mince/es_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Španielsko",
+  "bad": [
+   "Portugalsko",
+   "Taliansko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Španielsko.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "Mince prvej a druhej série nesú portrét kráľa Juana Carlosa I."
+   ]
+  ],
+  "img": "img/mince/es_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Španielsko",
+  "bad": [
+   "Portugalsko",
+   "Taliansko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Španielsko.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "Mince prvej a druhej série nesú portrét kráľa Juana Carlosa I."
+   ]
+  ],
+  "img": "img/mince/es_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Španielsko",
+  "bad": [
+   "Portugalsko",
+   "Taliansko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Španielsko.",
+  "src": [
+   [
+    "ecb-coins-es",
+    "Mince prvej a druhej série nesú portrét kráľa Juana Carlosa I."
+   ]
+  ],
+  "img": "img/mince/es_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Fínsko",
+  "bad": [
+   "Estónsko",
+   "Lotyšsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Fínsko – motív: plody a kvety moruše.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "Plody a kvety moruše zobrazené na tejto minci"
+   ]
+  ],
+  "img": "img/mince/fi_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Fínsko",
+  "bad": [
+   "Estónsko",
+   "Lotyšsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Fínsko – motív: dve letiace labute.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "Autorom motívu dvoch letiacich labutí na tejto minci je Pertti Mäkinen."
+   ]
+  ],
+  "img": "img/mince/fi_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Fínsko",
+  "bad": [
+   "Estónsko",
+   "Lotyšsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Fínsko – motív: heraldický lev.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "je zobrazený heraldický lev, ktorý je reprodukciou diela sochára Heikkiho Häiväoju"
+   ]
+  ],
+  "img": "img/mince/fi_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Fínsko",
+  "bad": [
+   "Estónsko",
+   "Lotyšsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Fínsko – motív: heraldický lev.",
+  "src": [
+   [
+    "ecb-coins-fi",
+    "je zobrazený heraldický lev, ktorý je reprodukciou diela sochára Heikkiho Häiväoju"
+   ]
+  ],
+  "img": "img/mince/fi_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Belgicko",
+   "Luxembursko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Francúzsko.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú strom, ktorý symbolizuje život, kontinuitu a rast."
+   ]
+  ],
+  "img": "img/mince/fr_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Belgicko",
+   "Luxembursko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Francúzsko.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú strom, ktorý symbolizuje život, kontinuitu a rast."
+   ]
+  ],
+  "img": "img/mince/fr_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Belgicko",
+   "Luxembursko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Francúzsko.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú strom, ktorý symbolizuje život, kontinuitu a rast."
+   ]
+  ],
+  "img": "img/mince/fr_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Francúzsko",
+  "bad": [
+   "Belgicko",
+   "Luxembursko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Francúzsko.",
+  "src": [
+   [
+    "ecb-coins-fr",
+    "Mince zobrazujú strom, ktorý symbolizuje život, kontinuitu a rast."
+   ]
+  ],
+  "img": "img/mince/fr_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Grécko",
+  "bad": [
+   "Cyprus",
+   "Bulharsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Grécko – motív: únos Európy Diom premeneným na býka.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "na ktorej Zeus prevtelený do býka unáša Európu"
+   ]
+  ],
+  "img": "img/mince/gr_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Grécko",
+  "bad": [
+   "Cyprus",
+   "Bulharsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Grécko – motív: sova zo starovekej aténskej tetradrachmy.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Sova zobrazená na tejto minci je prevzatá zo starovekej aténskej tetradrachmy"
+   ]
+  ],
+  "img": "img/mince/gr_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Grécko",
+  "bad": [
+   "Cyprus",
+   "Bulharsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Grécko – motív: politik Eleftherios Venizelos.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Portrét na tejto minci patrí Eleftheriosovi Venizelosovi"
+   ]
+  ],
+  "img": "img/mince/gr_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Grécko",
+  "bad": [
+   "Cyprus",
+   "Bulharsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Grécko – motív: aténska triéra.",
+  "src": [
+   [
+    "ecb-coins-gr",
+    "Tento motív zobrazuje model aténskej triéry"
+   ]
+  ],
+  "img": "img/mince/gr_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Slovinsko",
+   "Slovensko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Chorvátsko – motív: mapa krajiny so šachovnicovým vzorom.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "Na minci 2 € je zobrazená mapa Chorvátska so šachovnicovým vzorom na pozadí."
+   ]
+  ],
+  "img": "img/mince/hr_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Slovinsko",
+   "Slovensko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Chorvátsko – motív: kuna (malý cicavec).",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "Na minci 1 € je zobrazená kuna so šachovnicovým vzorom na pozadí."
+   ]
+  ],
+  "img": "img/mince/hr_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Slovinsko",
+   "Slovensko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Chorvátsko – motív: vynálezca Nikola Tesla.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "portrét vynálezcu a inžiniera Nikolu Teslu"
+   ]
+  ],
+  "img": "img/mince/hr_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Chorvátsko",
+  "bad": [
+   "Slovinsko",
+   "Slovensko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Chorvátsko – motív: písmená „HR“ v hlaholike.",
+  "src": [
+   [
+    "ecb-coins-hr",
+    "sú vyobrazené písmená „HR“ napísané hranatým písmom v hlaholike"
+   ]
+  ],
+  "img": "img/mince/hr_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Írsko",
+  "bad": [
+   "Malta",
+   "Portugalsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Írsko.",
+  "src": [
+   [
+    "ecb-coins-ie",
+    "Je na nich keltská harfa ako tradičný národný symbol Írska."
+   ]
+  ],
+  "img": "img/mince/ie_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Írsko",
+  "bad": [
+   "Malta",
+   "Portugalsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Írsko.",
+  "src": [
+   [
+    "ecb-coins-ie",
+    "Je na nich keltská harfa ako tradičný národný symbol Írska."
+   ]
+  ],
+  "img": "img/mince/ie_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Írsko",
+  "bad": [
+   "Malta",
+   "Portugalsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Írsko.",
+  "src": [
+   [
+    "ecb-coins-ie",
+    "Je na nich keltská harfa ako tradičný národný symbol Írska."
+   ]
+  ],
+  "img": "img/mince/ie_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Írsko",
+  "bad": [
+   "Malta",
+   "Portugalsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Írsko.",
+  "src": [
+   [
+    "ecb-coins-ie",
+    "Je na nich keltská harfa ako tradičný národný symbol Írska."
+   ]
+  ],
+  "img": "img/mince/ie_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Taliansko",
+  "bad": [
+   "Malta",
+   "Španielsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Taliansko – motív: básnik Dante Alighieri.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je portrét Danteho Alighieriho od Raphaëla"
+   ]
+  ],
+  "img": "img/mince/it_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Taliansko",
+  "bad": [
+   "Malta",
+   "Španielsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Taliansko – motív: kresba ideálnych proporcií ľudského tela od Leonarda da Vinciho.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na minci je známa kresba od Leonarda da Vinciho zobrazujúca ideálne proporcie ľudského tela."
+   ]
+  ],
+  "img": "img/mince/it_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Taliansko",
+  "bad": [
+   "Malta",
+   "Španielsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Taliansko – motív: jazdecká socha cisára Marka Aurélia.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je zobrazená socha cisára Marka Aurélia na koni."
+   ]
+  ],
+  "img": "img/mince/it_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 2,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Taliansko",
+  "bad": [
+   "Malta",
+   "Španielsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Taliansko – motív: hrad Castel del Monte.",
+  "src": [
+   [
+    "ecb-coins-it",
+    "Na tejto minci je znázornený hrad Castel del Monte."
+   ]
+  ],
+  "img": "img/mince/it_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Litva",
+  "bad": [
+   "Lotyšsko",
+   "Estónsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Litva.",
+  "src": [
+   [
+    "ecb-coins-lt",
+    "je zobrazený štátny znak Litovskej republiky, Vytis"
+   ]
+  ],
+  "img": "img/mince/lt_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Litva",
+  "bad": [
+   "Lotyšsko",
+   "Estónsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Litva.",
+  "src": [
+   [
+    "ecb-coins-lt",
+    "je zobrazený štátny znak Litovskej republiky, Vytis"
+   ]
+  ],
+  "img": "img/mince/lt_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Litva",
+  "bad": [
+   "Lotyšsko",
+   "Estónsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Litva.",
+  "src": [
+   [
+    "ecb-coins-lt",
+    "je zobrazený štátny znak Litovskej republiky, Vytis"
+   ]
+  ],
+  "img": "img/mince/lt_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Litva",
+  "bad": [
+   "Lotyšsko",
+   "Estónsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Litva.",
+  "src": [
+   [
+    "ecb-coins-lt",
+    "je zobrazený štátny znak Litovskej republiky, Vytis"
+   ]
+  ],
+  "img": "img/mince/lt_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Belgicko",
+   "Holandsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Luxembursko.",
+  "src": [
+   [
+    "ecb-coins-lu",
+    "Všetky luxemburské mince nesú portrét Jeho kráľovského veličenstva veľkovojvodu Henriho."
+   ]
+  ],
+  "img": "img/mince/lu_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Belgicko",
+   "Holandsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Luxembursko.",
+  "src": [
+   [
+    "ecb-coins-lu",
+    "Všetky luxemburské mince nesú portrét Jeho kráľovského veličenstva veľkovojvodu Henriho."
+   ]
+  ],
+  "img": "img/mince/lu_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Belgicko",
+   "Holandsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Luxembursko.",
+  "src": [
+   [
+    "ecb-coins-lu",
+    "Všetky luxemburské mince nesú portrét Jeho kráľovského veličenstva veľkovojvodu Henriho."
+   ]
+  ],
+  "img": "img/mince/lu_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Luxembursko",
+  "bad": [
+   "Belgicko",
+   "Holandsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Luxembursko.",
+  "src": [
+   [
+    "ecb-coins-lu",
+    "Všetky luxemburské mince nesú portrét Jeho kráľovského veličenstva veľkovojvodu Henriho."
+   ]
+  ],
+  "img": "img/mince/lu_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Lotyšsko",
+  "bad": [
+   "Litva",
+   "Estónsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Lotyšsko – motív: lotyšské sedliacke dievča.",
+  "src": [
+   [
+    "ecb-coins-lv",
+    "lotyšské sedliacke dievča"
+   ]
+  ],
+  "img": "img/mince/lv_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Lotyšsko",
+  "bad": [
+   "Litva",
+   "Estónsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Lotyšsko – motív: lotyšské sedliacke dievča.",
+  "src": [
+   [
+    "ecb-coins-lv",
+    "lotyšské sedliacke dievča"
+   ]
+  ],
+  "img": "img/mince/lv_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Lotyšsko",
+  "bad": [
+   "Litva",
+   "Estónsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Lotyšsko.",
+  "src": [
+   [
+    "ecb-coins-lv",
+    "lotyšské sedliacke dievča"
+   ]
+  ],
+  "img": "img/mince/lv_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Lotyšsko",
+  "bad": [
+   "Litva",
+   "Estónsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Lotyšsko.",
+  "src": [
+   [
+    "ecb-coins-lv",
+    "lotyšské sedliacke dievča"
+   ]
+  ],
+  "img": "img/mince/lv_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Malta",
+  "bad": [
+   "Cyprus",
+   "Taliansko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Malta – motív: osemcípy kríž – emblém Maltézskeho rádu.",
+  "src": [
+   [
+    "ecb-coins-mt",
+    "Hlavným motívom mincí 1 € a 2 € je emblém Maltézskeho rádu."
+   ]
+  ],
+  "img": "img/mince/mt_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Malta",
+  "bad": [
+   "Cyprus",
+   "Taliansko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Malta – motív: osemcípy kríž – emblém Maltézskeho rádu.",
+  "src": [
+   [
+    "ecb-coins-mt",
+    "Hlavným motívom mincí 1 € a 2 € je emblém Maltézskeho rádu."
+   ]
+  ],
+  "img": "img/mince/mt_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Malta",
+  "bad": [
+   "Cyprus",
+   "Taliansko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Malta.",
+  "src": [
+   [
+    "ecb-coins-mt",
+    "Hlavným motívom mincí 1 € a 2 € je emblém Maltézskeho rádu."
+   ]
+  ],
+  "img": "img/mince/mt_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Malta",
+  "bad": [
+   "Cyprus",
+   "Taliansko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Malta – motív: oltár z prehistorického chrámu Mnajdra.",
+  "src": [
+   [
+    "ecb-coins-mt",
+    "je zobrazený oltár z prehistorického chrámu Mnajdra"
+   ]
+  ],
+  "img": "img/mince/mt_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Holandsko",
+  "bad": [
+   "Belgicko",
+   "Nemecko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Holandsko.",
+  "src": [
+   [
+    "ecb-coins-nl",
+    "Na minciach druhej série, uvedenej do obehu v roku 2014, je zobrazený kráľ Willem-Alexander"
+   ]
+  ],
+  "img": "img/mince/nl_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Holandsko",
+  "bad": [
+   "Belgicko",
+   "Nemecko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Holandsko.",
+  "src": [
+   [
+    "ecb-coins-nl",
+    "Na minciach druhej série, uvedenej do obehu v roku 2014, je zobrazený kráľ Willem-Alexander"
+   ]
+  ],
+  "img": "img/mince/nl_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Holandsko",
+  "bad": [
+   "Belgicko",
+   "Nemecko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Holandsko.",
+  "src": [
+   [
+    "ecb-coins-nl",
+    "Na minciach druhej série, uvedenej do obehu v roku 2014, je zobrazený kráľ Willem-Alexander"
+   ]
+  ],
+  "img": "img/mince/nl_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Holandsko",
+  "bad": [
+   "Belgicko",
+   "Nemecko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Holandsko.",
+  "src": [
+   [
+    "ecb-coins-nl",
+    "Na minciach druhej série, uvedenej do obehu v roku 2014, je zobrazený kráľ Willem-Alexander"
+   ]
+  ],
+  "img": "img/mince/nl_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Portugalsko",
+  "bad": [
+   "Španielsko",
+   "Írsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Portugalsko – motív: portugalské hrady a erby.",
+  "src": [
+   [
+    "ecb-coins-pt",
+    "Na minciach 1 € a 2 € sú zobrazené portugalské hrady a erby, obklopené hviezdami EÚ."
+   ]
+  ],
+  "img": "img/mince/pt_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Portugalsko",
+  "bad": [
+   "Španielsko",
+   "Írsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Portugalsko – motív: portugalské hrady a erby.",
+  "src": [
+   [
+    "ecb-coins-pt",
+    "Na minciach 1 € a 2 € sú zobrazené portugalské hrady a erby, obklopené hviezdami EÚ."
+   ]
+  ],
+  "img": "img/mince/pt_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Portugalsko",
+  "bad": [
+   "Španielsko",
+   "Írsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Portugalsko – motív: kráľovská pečať z roku 1142.",
+  "src": [
+   [
+    "ecb-coins-pt",
+    "V strede mincí 10, 20 a 50 centov je kráľovská pečať z roku 1142."
+   ]
+  ],
+  "img": "img/mince/pt_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Portugalsko",
+  "bad": [
+   "Španielsko",
+   "Írsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Portugalsko.",
+  "src": [
+   [
+    "ecb-coins-pt",
+    "Na minciach 1 € a 2 € sú zobrazené portugalské hrady a erby, obklopené hviezdami EÚ."
+   ]
+  ],
+  "img": "img/mince/pt_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Slovensko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o národnú stranu mince 2 €, ktorú vydáva Slovinsko – motív: básnik France Prešeren.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Na tejto minci je portrét básnika Franceho Prešerena"
+   ]
+  ],
+  "img": "img/mince/si_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Slovensko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 €, ktorú vydáva Slovinsko – motív: Primož Trubar, autor prvej slovinskej knihy.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Na tejto minci je portrét Primoža Trubara, autora prvej knihy vydanej v slovinčine."
+   ]
+  ],
+  "img": "img/mince/si_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Slovensko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o národnú stranu mince 50 centov, ktorú vydáva Slovinsko – motív: vrch Triglav.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca zobrazuje vrch Triglav."
+   ]
+  ],
+  "img": "img/mince/si_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 3,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Slovinsko",
+  "bad": [
+   "Slovensko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o národnú stranu mince 1 cent, ktorú vydáva Slovinsko – motív: bocian.",
+  "src": [
+   [
+    "ecb-coins-si",
+    "Táto minca znázorňuje bociana."
+   ]
+  ],
+  "img": "img/mince/si_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorá krajina vydáva euromincu 2 € s touto národnou stranou?",
+  "ok": "Slovensko",
+  "bad": [
+   "Slovinsko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o slovenskú mincu 2 €: dvojkríž na trojvrší zo štátneho znaku.",
+  "src": [
+   [
+    "ecb-coins-sk",
+    "Na minciach hodnoty 1 € a 2 € je zobrazený dvojkríž na trojvrší, ktorý je v štátnom znaku Slovenskej republiky."
+   ]
+  ],
+  "img": "img/mince/sk_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Čo je zobrazené na národnej strane slovenskej euromince 2 € na obrázku?",
+  "ok": "dvojkríž na trojvrší zo štátneho znaku",
+  "bad": [
+   "Bratislavský hrad",
+   "tatranský štít Kriváň"
+  ],
+  "v": "Na slovenských minciach: Na minciach hodnoty 1 € a 2 € je zobrazený dvojkríž na trojvrší, ktorý je v štátnom znaku Slovenskej republiky.",
+  "src": [
+   [
+    "ecb-coins-sk",
+    "Na minciach hodnoty 1 € a 2 € je zobrazený dvojkríž na trojvrší, ktorý je v štátnom znaku Slovenskej republiky."
+   ]
+  ],
+  "img": "img/mince/sk_2euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorá krajina vydáva euromincu 1 € s touto národnou stranou?",
+  "ok": "Slovensko",
+  "bad": [
+   "Slovinsko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o slovenskú mincu 1 €: dvojkríž na trojvrší zo štátneho znaku.",
+  "src": [
+   [
+    "ecb-coins-sk",
+    "Na minciach hodnoty 1 € a 2 € je zobrazený dvojkríž na trojvrší, ktorý je v štátnom znaku Slovenskej republiky."
+   ]
+  ],
+  "img": "img/mince/sk_1euro.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorá krajina vydáva euromincu 50 centov s touto národnou stranou?",
+  "ok": "Slovensko",
+  "bad": [
+   "Slovinsko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o slovenskú mincu 50 centov: Bratislavský hrad.",
+  "src": [
+   [
+    "ecb-coins-sk",
+    "Mince v hodnote 10, 20 a 50 centov zobrazujú Bratislavský hrad a štátny znak Slovenskej republiky."
+   ]
+  ],
+  "img": "img/mince/sk_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Čo je zobrazené na národnej strane slovenskej euromince 50 centov na obrázku?",
+  "ok": "Bratislavský hrad",
+  "bad": [
+   "dvojkríž na trojvrší zo štátneho znaku",
+   "tatranský štít Kriváň"
+  ],
+  "v": "Na slovenských minciach: Mince v hodnote 10, 20 a 50 centov zobrazujú Bratislavský hrad a štátny znak Slovenskej republiky.",
+  "src": [
+   [
+    "ecb-coins-sk",
+    "Mince v hodnote 10, 20 a 50 centov zobrazujú Bratislavský hrad a štátny znak Slovenskej republiky."
+   ]
+  ],
+  "img": "img/mince/sk_50cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorá krajina vydáva euromincu 10 centov s touto národnou stranou?",
+  "ok": "Slovensko",
+  "bad": [
+   "Slovinsko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o slovenskú mincu 10 centov: Bratislavský hrad.",
+  "src": [
+   [
+    "ecb-coins-sk",
+    "Mince v hodnote 10, 20 a 50 centov zobrazujú Bratislavský hrad a štátny znak Slovenskej republiky."
+   ]
+  ],
+  "img": "img/mince/sk_10cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Ktorá krajina vydáva euromincu 1 cent s touto národnou stranou?",
+  "ok": "Slovensko",
+  "bad": [
+   "Slovinsko",
+   "Chorvátsko"
+  ],
+  "v": "Ide o slovenskú mincu 1 cent: tatranský štít Kriváň.",
+  "src": [
+   [
+    "ecb-coins-sk",
+    "Na minciach hodnoty 1 cent, 2 centy a 5 centov je tatranský štít Kriváň, symbol zvrchovanosti slovenského národa, a štátny znak Slovenskej republiky."
+   ]
+  ],
+  "img": "img/mince/sk_1cent.jpg"
+ },
+ {
+  "kat": "obr",
+  "n": 1,
+  "text": "Čo je zobrazené na národnej strane slovenskej euromince 1 cent na obrázku?",
+  "ok": "tatranský štít Kriváň",
+  "bad": [
+   "Bratislavský hrad",
+   "Devín"
+  ],
+  "v": "Na slovenských minciach: Na minciach hodnoty 1 cent, 2 centy a 5 centov je tatranský štít Kriváň, symbol zvrchovanosti slovenského národa, a štátny znak Slovenskej republiky.",
+  "src": [
+   [
+    "ecb-coins-sk",
+    "Na minciach hodnoty 1 cent, 2 centy a 5 centov je tatranský štít Kriváň, symbol zvrchovanosti slovenského národa, a štátny znak Slovenskej republiky."
+   ]
+  ],
+  "img": "img/mince/sk_1cent.jpg"
+ }
+]

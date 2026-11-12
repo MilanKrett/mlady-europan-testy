@@ -1,0 +1,128 @@
+#kat ins
+#n 2
+
+V ktorom roku bola ustanovená spoločná zahraničná a bezpečnostná politika EÚ (SZBP)?
++ v roku 1993
+- v roku 1957
+- v roku 2009
+= SZBP bola ustanovená v roku 1993 ako spoločná zahraničná a bezpečnostná politika EÚ.
+> ep-fs-158 | SZBP bola ustanovená v roku 1993
+
+Kto riadi spoločnú zahraničnú a bezpečnostnú politiku EÚ a predsedá Rade pre zahraničné veci?
++ vysoký predstaviteľ Únie pre zahraničné veci a bezpečnostnú politiku
+- predseda Európskeho parlamentu
+- prezident ECB
+= Vysoký predstaviteľ riadi SZBP, predsedá Rade pre zahraničné veci (FAC) a je vedúcim Európskej obrannej agentúry; pomáha mu ESVČ.
+> ep-fs-158 | Vysoký predstaviteľ riadi spoločnú zahraničnú a bezpečnostnú politiku EÚ, predsedá FAC
+
+@ins 3
+V ktorom roku bola prijatá prvá európska bezpečnostná stratégia?
++ v roku 2003
+- v roku 1993
+- v roku 2016
+= Globálna stratégia z roku 2016 vychádza z prvej európskej bezpečnostnej stratégie prijatej v roku 2003.
+> ep-fs-158 | vychádza z prvej európskej bezpečnostnej stratégie prijatej v roku 2003
+
+@ins 3
+Ktorý dokument z roku 2022 doplnil bezpečnostné a obranné aspekty globálnej stratégie EÚ?
++ Strategický kompas EÚ
+- Digitálny kompas
+- Schumanova deklarácia
+= Bezpečnostné a obranné aspekty globálnej stratégie doplnil Strategický kompas EÚ z roku 2022 a biela kniha o európskej obrannej pripravenosti 2030 z roku 2025.
+> ep-fs-158 | Strategickým kompasom EÚ z roku 2022
+
+@akt 3
+Ako sa nazýva biela kniha EÚ o obrane z roku 2025?
++ biela kniha o európskej obrannej pripravenosti 2030
+- zelená kniha o mieri 2050
+- obranný kódex NATO
+= Bezpečnostné a obranné aspekty doplnila biela kniha o európskej obrannej pripravenosti 2030 z roku 2025.
+> ep-fs-158 | bielou knihou o európskej obrannej pripravenosti 2030 z roku 2025
+
+@akt 3
+Čo začala EÚ pripravovať začiatkom roka 2026 v oblasti bezpečnosti?
++ novú európsku bezpečnostnú stratégiu
+- zrušenie spoločnej obrany
+- vstup do Varšavskej zmluvy
+= Začiatkom roka 2026 začala EÚ rozsiahlu revíziu rámca s cieľom prijať novú európsku bezpečnostnú stratégiu.
+> ep-fs-158 | Začiatkom roka 2026 začala EÚ ... rozsiahlu revíziu tohto rámca s cieľom prijať novú európsku bezpečnostnú stratégiu.
+
+V ktorom roku bola založená Európska obranná agentúra?
++ v roku 2004
+- v roku 1993
+- v roku 2017
+= Európska obranná agentúra bola založená v roku 2004 a pomáha armádam členských štátov užšie spolupracovať.
+> ep-fs-159 | Táto agentúra, ktorá bola založená v roku 2004
+
+@ins 3
+Ktorou zmluvou sa zaviedla možnosť stálej štruktúrovanej spolupráce (PESCO) v obrane?
++ Lisabonskou zmluvou
+- Maastrichtskou zmluvou
+- Rímskou zmluvou
+= Možnosť zapojiť sa do stálej štruktúrovanej spolupráce v oblasti bezpečnosti a obrany sa zaviedla Lisabonskou zmluvou v roku 2009.
+> ep-fs-159 | Možnosť krajín EÚ zapojiť sa do stálej štruktúrovanej spolupráce v oblasti bezpečnosti a obrany sa zaviedla Lisabonskou zmluvou v roku 2009.
+
+Kto stanovuje politické usmernenia spoločnej bezpečnostnej a obrannej politiky (SBOP)?
++ hlavy štátov alebo predsedovia vlád v Európskej rade
+- Európsky dvor audítorov
+- Výbor regiónov
+= Politické usmernenia SBOP stanovujú hlavy štátov alebo predsedovia vlád EÚ v rámci Európskej rady.
+> ep-fs-159 | Politické usmernenia SBOP stanovujú hlavy štátov alebo predsedovia vlád EÚ v rámci Európskej rady.
+
+#kat sta
+#n 2
+
+@sta 3
+V ktorom roku pristúpilo Rusko k Svetovej obchodnej organizácii (WTO) s podporou EÚ?
++ v roku 2012
+- v roku 1991
+- v roku 2022
+= EÚ podporovala pristúpenie Ruska k WTO, ktoré sa uskutočnilo v roku 2012.
+> ep-fs-177 | EÚ bola takisto podporovateľom pristúpenia Ruska k Svetovej obchodnej organizácii (WTO), ktoré sa uskutočnilo v roku 2012.
+
+Čo nasledovalo po komplexnej invázii Ruska na Ukrajinu v roku 2022 vo vzťahoch EÚ a Ruska?
++ pozastavenie zostávajúcej spolupráce a bezprecedentné sankcie EÚ
+- nová dohoda o voľnom obchode
+- vstup Ruska do Schengenu
+= Invázia v roku 2022 viedla k pozastaveniu všetkej zostávajúcej spolupráce a k prijatiu bezprecedentných sankcií EÚ.
+> ep-fs-177 | viedla k pozastaveniu všetkej zostávajúcej politickej, kultúrnej a vedeckej spolupráce a k prijatiu bezprecedentných sankcií EÚ
+
+@akt 3
+Kedy a kde bol spustený Pakt pre Stredozemie pri 30. výročí Barcelonského procesu?
++ 28. novembra 2025 v Barcelone
+- 9. mája 2025 v Ríme
+- 1. januára 2026 v Aténach
+= Pakt pre Stredozemie spustili v Barcelone 28. novembra 2025 pri príležitosti 30. výročia Barcelonského procesu.
+> ep-fs-173 | ktorý v Barcelone spoločne spustili členské štáty EÚ a partneri z južného Stredozemia 28. novembra 2025 pri príležitosti 30. výročia Barcelonského procesu
+
+@sta 3
+Prečo nebola nikdy podpísaná dohoda o pridružení EÚ so Sýriou?
++ pre násilný zásah sýrskej vlády proti protestom v roku 2011
+- pretože Sýria vstúpila do EÚ
+- pretože Sýria leží v Ázii
+= Dohoda o pridružení so Sýriou, parafovaná pred násilným zásahom vlády proti protestom v roku 2011, nebola nikdy podpísaná.
+> ep-fs-173 | Dohoda o pridružení so Sýriou, ktorá bola parafovaná ešte pred násilným zásahom sýrskej vlády proti protestom verejnosti v roku 2011, nebola nikdy podpísaná.
+
+@sta 3
+Ktorá dohoda nahradila 15. novembra 2023 dohodu z Cotonou o partnerstve EÚ s africkými, karibskými a tichomorskými štátmi?
++ Samojská dohoda
+- Lomská dohoda
+- Yaoundská dohoda
+= Dohodu nahradila 15. novembra 2023 Samojská dohoda, ktorej cieľom bolo modernizovať partnerstvo.
+> ep-fs-180 | Túto dohodu 15. novembra 2023 nahradila
+
+@akt 3
+Kde sa v novembri 2025 konal siedmy samit EÚ – Africká únia?
++ v Luande (Angola)
+- v Káhire (Egypt)
+- v Bruseli (Belgicko)
+= Siedmy samit EÚ – AÚ sa konal v Luande (Angola) 24. – 25. novembra 2025 pri 25. výročí partnerstva.
+> ep-fs-180 | siedmy samit EÚ – AÚ, ktorý sa konal v Luande (Angola) od 24. do 25. novembra 2025
+
+@sta 3
+Kde sa v roku 2000 začalo partnerstvo EÚ a Afriky prvým samitom?
++ v Káhire
+- v Luande
+- v Lisabone
+= Partnerstvo sa začalo na samite v Káhire v roku 2000.
+> ep-fs-180 | partnerstva, ktoré sa začalo na samite v Káhire v roku 2000

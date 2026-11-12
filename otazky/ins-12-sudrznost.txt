@@ -1,0 +1,342 @@
+#kat ins
+#n 3
+
+@ins 2
+Aký je hlavný cieľ politiky súdržnosti EÚ?
++ znížiť sociálne a hospodárske rozdiely medzi regiónmi
+- zjednotiť dane vo všetkých štátoch
+- financovať armády členských štátov
+= Jedným z kľúčových cieľov EÚ je znížiť sociálne a hospodárske rozdiely medzi regiónmi a zabezpečiť vyvážený rozvoj v celej EÚ.
+> ep-fs-93 | Jedným z kľúčových cieľov EÚ je znížiť sociálne a hospodárske rozdiely medzi regiónmi
+
+Ktoré články ZFEÚ vymedzujú ciele a nástroje politiky súdržnosti?
++ články 174 až 178
+- články 1 až 6
+- články 258 až 260
+= V článkoch 174 až 178 ZFEÚ sa vymedzujú ciele, hlavné nástroje financovania a regulačný rámec politiky súdržnosti.
+> ep-fs-93 | V článkoch 174 až 178 Zmluvy o fungovaní Európskej únie sa vymedzujú ciele, hlavné nástroje financovania a regulačný rámec politiky súdržnosti.
+
+@ins 2
+Aká časť rozpočtu EÚ je približne určená na znižovanie regionálnych rozdielov?
++ približne jedna tretina
+- približne jedna desatina
+- takmer celý rozpočet
+= Približne jedna tretina súčasného rozpočtu EÚ je určená na znižovanie regionálnych rozdielov.
+> ep-fs-93 | Približne jedna tretina súčasného rozpočtu EÚ je určená na znižovanie regionálnych rozdielov.
+
+V ktorom roku vznikol Európsky fond regionálneho rozvoja (EFRR)?
++ v roku 1975
+- v roku 1957
+- v roku 1994
+= EFRR vznikol v roku 1975 s cieľom riešiť regionálne rozdiely.
+> ep-fs-93 | 1975: vznikol Európsky fond regionálneho rozvoja s cieľom riešiť regionálne rozdiely
+
+V ktorom roku vznikol Kohézny fond?
++ v roku 1994
+- v roku 1975
+- v roku 2020
+= Kohézny fond vznikol v roku 1994.
+> ep-fs-93 | 1994: vznikol Kohézny fond
+
+Ktorá zmluva pridala územnú súdržnosť ako tretí rozmer súdržnosti?
++ Lisabonská zmluva
+- Rímska zmluva
+- Zmluva z Nice
+= Lisabonská zmluva pridala územnú súdržnosť ako tretí rozmer súdržnosti spolu so sociálnou a hospodárskou.
+> ep-fs-93 | Lisabonská zmluva pridala územnú súdržnosť ako tretí rozmer súdržnosti spolu so sociálnou a hospodárskou súdržnosťou.
+
+Ktorým dokumentom sa hospodárska a sociálna súdržnosť stala zodpovednosťou Európskeho spoločenstva (1986)?
++ Jednotným európskym aktom
+- Maastrichtskou zmluvou
+- Schumanovou deklaráciou
+= Jednotným európskym aktom sa hospodárska a sociálna súdržnosť stala zodpovednosťou Európskeho spoločenstva.
+> ep-fs-93 | Jednotným európskym aktom sa hospodárska a sociálna súdržnosť stala zodpovednosťou Európskeho spoločenstva.
+
+V ktorom roku vznikol Fond na spravodlivú transformáciu?
++ v roku 2020
+- v roku 2002
+- v roku 1975
+= Fond na spravodlivú transformáciu vznikol v roku 2020.
+> ep-fs-93 | 2020: vznikol Fond na spravodlivú transformáciu.
+
+Ktoré krajiny môžu využívať Kohézny fond?
++ krajiny, ktorých HND na obyvateľa je nižší ako 90 % priemeru EÚ
+- len krajiny eurozóny
+- všetky krajiny EÚ bez rozdielu
+= Kohézny fond môžu využívať iba krajiny EÚ, ktorých hrubý národný dôchodok na obyvateľa je nižší ako 90 % priemeru EÚ.
+> ep-fs-93 | Tento fond môžu využívať iba krajiny EÚ, ktorých hrubý národný dôchodok na obyvateľa je nižší ako 90 % priemeru EÚ.
+
+Ktorý fond je od roku 2021 hlavným nástrojom EÚ na boj proti nezamestnanosti a rozvoj ľudských zdrojov?
++ ESF+ (Európsky sociálny fond plus)
+- Kohézny fond
+- Fond solidarity
+= Od roku 2021 je ESF (teraz ESF+) hlavným nástrojom EÚ podporujúcim boj proti nezamestnanosti a rozvoj ľudských zdrojov.
+> ep-fs-93 | Od roku 2021 je ESF (teraz ESF+) hlavným nástrojom EÚ podporujúcim opatrenia na predchádzanie a boj proti nezamestnanosti
+
+Súčasťou ktorého fondu je program Interreg?
++ Európskeho fondu regionálneho rozvoja (EFRR)
+- Kohézneho fondu
+- Európskeho sociálneho fondu
+= Interreg je fond, ktorý tvorí súčasť EFRR, a presadzuje cezhraničnú, nadnárodnú a medziregionálnu spoluprácu.
+> ep-fs-93 | Interreg je fond, ktorý tvorí súčasť EFRR.
+
+Ako sa spoločne označujú fondy politiky súdržnosti (ESF+, EFRR, Kohézny fond, FST)?
++ európske štrukturálne a investičné fondy
+- fondy NextGenerationEU
+- fondy Európskej centrálnej banky
+= Fondy uvedené v oddieloch A až D sú spoločne označované ako európske štrukturálne a investičné fondy.
+> ep-fs-93 | ktoré sú spoločne označované ako európske štrukturálne a investičné fondy
+
+Podľa zásady doplnkovosti majú finančné prostriedky EÚ…
++ dopĺňať, nie nahrádzať vnútroštátne financovanie
+- úplne nahradiť vnútroštátne financovanie
+- ísť len súkromným firmám
+= Finančné prostriedky EÚ by mali byť dodatkom k vnútroštátnym príspevkom a mali by sa používať na doplnenie, nie na nahradenie vnútroštátneho financovania.
+> ep-fs-93 | mali by sa používať na doplnenie, nie na nahradenie vnútroštátneho financovania
+
+Koľkým členským štátom poskytuje Kohézny fond podporu v období 2021 – 2027?
++ 15
+- 27
+- 5
+= V období 2021 – 2027 sa z Kohézneho fondu poskytuje podpora 15 členským štátom vrátane Slovenska.
+> ep-fs-96 | V období 2021 – 2027 sa z Kohézneho fondu poskytuje podpora týmto 15 členským štátom
+
+@svk 2
+Je Slovensko v období 2021 – 2027 oprávnené čerpať prostriedky z Kohézneho fondu?
++ áno, patrí medzi 15 podporovaných štátov
+- nie, Kohézny fond je len pre Grécko a Portugalsko
+- nie, Slovensko je čistý platiteľ bez nároku
+= Medzi 15 podporovaných štátov patria Bulharsko, Cyprus, Česko, Estónsko, Grécko, Chorvátsko, Litva, Lotyšsko, Maďarsko, Malta, Poľsko, Portugalsko, Rumunsko, Slovensko a Slovinsko.
+> ep-fs-96 | Poľsko, Portugalsko, Rumunsko, Slovensko a Slovinsko
+
+@svk 2
+Koľko pridelil Kohézny fond Slovensku na obdobie 2021 – 2027 (v cenách z roku 2018)?
++ 1 868 miliónov EUR
+- 10 750 miliónov EUR
+- 192 miliónov EUR
+= Slovensko má z Kohézneho fondu pridelených 1 868 miliónov EUR; najviac Poľsko (10 750 mil.), najmenej Malta (192 mil.).
+> ep-fs-96 | Slovensko | 1 868
+
+Ktorá krajina dostáva v období 2021 – 2027 z Kohézneho fondu najviac prostriedkov?
++ Poľsko
+- Malta
+- Slovinsko
+= Poľsko má pridelených 10 750 miliónov EUR, najviac zo všetkých 15 krajín.
+> ep-fs-96 | Poľsko | 10 750
+
+Aký je rozpočet Kohézneho fondu na obdobie 2021 – 2027 (v cenách z roku 2018)?
++ 42,6 miliardy EUR
+- 4,26 miliardy EUR
+- 426 miliárd EUR
+= Rozpočet EÚ pre Kohézny fond na obdobie 2021 – 2027 je 42,6 miliardy EUR vrátane 10 miliárd EUR na Nástroj na prepájanie Európy.
+> ep-fs-96 | Rozpočet EÚ pre Kohézny fond na obdobie 2021 – 2027 je stanovený na 42,6 miliardy EUR
+
+Do akej výšky môže Kohézny fond spolufinancovať projekty?
++ až 85 % hodnoty projektu
+- najviac 10 % hodnoty projektu
+- vždy 100 % hodnoty projektu
+= Miera spolufinancovania môže dosiahnuť až 85 % hodnoty projektov.
+> ep-fs-96 | Miera spolufinancovania môže dosiahnuť až 85 % hodnoty projektov.
+
+Na čo poskytuje Kohézny fond peniaze?
++ na projekty v oblasti životného prostredia a transeurópskych dopravných sietí
+- na dôchodky a sociálne dávky
+- na platy učiteľov
+= Kohézny fond poskytuje finančné príspevky na projekty v oblasti životného prostredia a transeurópskych sietí v oblasti dopravnej infraštruktúry.
+> ep-fs-93 | Kohézny fond poskytuje finančné príspevky na projekty v oblasti životného prostredia a transeurópskych sietí v oblasti dopravnej infraštruktúry.
+
+Aký podiel prostriedkov Kohézneho fondu má prispieť k cieľom EÚ v oblasti klímy?
++ 37 %
+- 3,7 %
+- 73 %
+= Očakáva sa, že 37 % celkových pridelených prostriedkov z Kohézneho fondu prispeje k plneniu cieľov EÚ v oblasti klímy.
+> ep-fs-96 | Očakáva sa, že 37 % celkových pridelených finančných prostriedkov z Kohézneho fondu prispeje k plneniu cieľov EÚ v oblasti klímy.
+
+Ako reakcia na akú udalosť vznikol v roku 2002 Fond solidarity EÚ?
++ na katastrofálne povodne v strednej Európe
+- na finančnú krízu v Grécku
+- na pandémiu COVID-19
+= Fond solidarity bol zriadený v roku 2002 ako reakcia na katastrofálne povodne, ktoré v lete toho roku postihli strednú Európu.
+> ep-fs-97 | Fond solidarity bol zriadený v roku 2002 ako reakcia na katastrofálne povodne, ktoré v lete toho roku postihli strednú Európu.
+
+Od ktorého roku pokrýva Fond solidarity EÚ aj závažné zdravotné krízy?
++ od roku 2020
+- od roku 2002
+- od roku 1995
+= Od roku 2020 pokrýva Fond solidarity aj závažné krízy v oblasti zdravia, ako je pandémia COVID-19.
+> ep-fs-97 | Od roku 2020 pokrýva aj závažné krízy v oblasti zdravia, ako je pandémia COVID-19.
+
+Do kedy musí postihnutá krajina požiadať o pomoc z Fondu solidarity po veľkej prírodnej katastrofe?
++ do 12 týždňov od katastrofy
+- do 12 rokov od katastrofy
+- do 24 hodín od katastrofy
+= Postihnutá krajina musí podať žiadosť do 12 týždňov od katastrofy.
+> ep-fs-97 | postihnutá krajina musí podať žiadosť do 12 týždňov od katastrofy
+
+Do kedy sa musí vyčerpať grant z Fondu solidarity EÚ?
++ do 18 mesiacov odo dňa pridelenia
+- do 18 dní odo dňa pridelenia
+- kedykoľvek, bez lehoty
+= Grant sa musí vyčerpať do 18 mesiacov odo dňa, keď bol pridelený; nevyužité časti sa vracajú.
+> ep-fs-97 | Grant sa musí vyčerpať do 18 mesiacov odo dňa, keď bol pridelený.
+
+Koľko peňazí už vyplatil Fond solidarity EÚ celkovo?
++ viac ako 8,6 miliardy EUR
+- viac ako 860 miliárd EUR
+- približne 86 miliónov EUR
+= Fond solidarity poskytol podporu vo viac ako 130 prípadoch a celkovo vyplatil viac ako 8,6 miliardy EUR.
+> ep-fs-97 | Celkovo bolo vyplatených viac ako 8,6 miliardy EUR.
+
+Ktorá z týchto prístupových krajín už získala podporu z Fondu solidarity EÚ?
++ Srbsko
+- Ukrajina
+- Island
+= Podporu získalo 24 členských štátov, Spojené kráľovstvo a štyri prístupové krajiny: Albánsko, Čierna Hora, Srbsko a Turecko.
+> ep-fs-97 | štyri prístupové krajiny (Albánsko, Čierna Hora, Srbsko a Turecko)
+
+Ako sa nazýva nástroj, cez ktorý sa od roku 2021 financujú Fond solidarity a rezerva na núdzovú pomoc?
++ rezerva na solidaritu a núdzovú pomoc (SEAR)
+- Európsky stabilizačný mechanizmus
+- Nástroj na prepájanie Európy
+= Od roku 2021 sú Fond solidarity a rezerva na núdzovú pomoc financované ako jeden nástroj – SEAR.
+> ep-fs-97 | financované ako jeden nástroj s názvom rezerva na solidaritu a núdzovú pomoc (SEAR)
+
+Ako sa nazýva nariadenie z decembra 2024, ktoré umožnilo krajinám postihnutým katastrofami v rokoch 2024 a 2025 preprogramovať peniaze z EFRR?
++ RESTORE
+- REPowerEU
+- RESCUE
+= V decembri 2024 bolo prijaté nariadenie o regionálnej núdzovej podpore obnovy (RESTORE).
+> ep-fs-97 | V decembri 2024 bolo prijaté nariadenie o regionálnej núdzovej podpore obnovy (RESTORE)
+
+Ako sa ľudovo nazýva Európska územná spolupráca?
++ Interreg
+- Erasmus
+- Horizont
+= Európska územná spolupráca je známa aj ako Interreg.
+> ep-fs-98 | medziregionálnej spolupráce (známej aj ako Interreg)
+
+Od ktorého roku je Európska územná spolupráca súčasťou politiky súdržnosti?
++ od roku 1990
+- od roku 1957
+- od roku 2021
+= Európska územná spolupráca je súčasťou politiky súdržnosti od roku 1990.
+> ep-fs-98 | Európska územná spolupráca je súčasťou politiky súdržnosti od roku 1990.
+
+Koľko vetiev má Európska územná spolupráca (Interreg) v období 2021 – 2027?
++ štyri
+- dve
+- desať
+= Interreg má štyri vetvy: A – cezhraničná, B – nadnárodná, C – medziregionálna, D – spolupráca najvzdialenejších regiónov.
+> ep-fs-98 | V období 2021 – 2027 má Európska územná spolupráca štyri vetvy
+
+Ktorá vetva programu Interreg podporuje cezhraničnú spoluprácu (napr. Slovensko – Rakúsko)?
++ vetva A
+- vetva C
+- vetva D
+= Cezhraničná spolupráca je vetva A programu Interreg.
+> ep-fs-98 | Cezhraničná spolupráca (vetva A programu Interreg)
+
+Ktorá vetva programu Interreg je určená pre najvzdialenejšie regióny?
++ vetva D
+- vetva A
+- vetva B
+= Cieľom spolupráce v najvzdialenejších regiónoch (vetva D) je umožniť im spoluprácu so susednými krajinami a územiami.
+> ep-fs-98 | Cieľom spolupráce v najvzdialenejších regiónoch (vetva D programu Interreg)
+
+S ktorými krajinami Komisia pozastavila spoluprácu v programoch Interreg NEXT po invázii na Ukrajinu?
++ s Ruskom a Bieloruskom
+- s Nórskom a Islandom
+- s Moldavskom a Gruzínskom
+= Po invázii Ruska na Ukrajinu Komisia pozastavila spoluprácu s Ruskom a Bieloruskom v programoch cezhraničnej spolupráce.
+> ep-fs-98 | Komisia pozastavila spoluprácu s Ruskom a Bieloruskom
+
+Čo je NUTS?
++ klasifikácia územných jednotiek na štatistické účely
+- európsky fond na podporu orechov
+- systém mýtnych diaľnic
+= NUTS je nomenklatúra územných jednotiek pre štatistické účely; jej základom je nariadenie z roku 2003.
+> ep-fs-99 | Nariadenie z roku 2003, ktorým sa zostavuje klasifikácia NUTS
+
+Koľko regiónov na úrovni NUTS 2 uvádza klasifikácia NUTS 2021?
++ 242
+- 92
+- 1166
+= Klasifikácia NUTS 2021 uvádza 92 regiónov NUTS 1, 242 regiónov NUTS 2 a 1166 regiónov NUTS 3.
+> ep-fs-99 | 92 regiónov na úrovni NUTS 1, 242 regiónov na úrovni NUTS 2 a 1166 regiónov na úrovni NUTS 3
+
+Koľko obyvateľov má mať najmenej región na úrovni NUTS 2?
++ 800 000
+- 150 000
+- 3 milióny
+= Prahy: NUTS 1 – 3 až 7 miliónov, NUTS 2 – 800 000 až 3 milióny, NUTS 3 – 150 000 až 800 000 obyvateľov.
+> ep-fs-99 | NUTS 2 | 800 000 | 3 milióny
+
+Ako sa nazývajú stavebné kamene NUTS, ktoré tvoria mestá a obce EÚ?
++ lokálne administratívne jednotky (LAU)
+- euroregióny
+- mikroštáty
+= LAU sú stavebnými kameňmi NUTS a tvoria ich mestá a obce EÚ.
+> ep-fs-99 | LAU sú stavebnými kameňmi NUTS a tvoria ich mestá a obce EÚ
+
+Aký celkový rozpočet má Fond na spravodlivú transformáciu na roky 2021 – 2027?
++ 17,5 miliardy EUR
+- 1,75 miliardy EUR
+- 175 miliárd EUR
+= FST má celkový rozpočet 17,5 miliardy EUR: 7,5 mld. z viacročného finančného rámca a 10 mld. z NextGenerationEU.
+> ep-fs-214 | Fond na spravodlivú transformáciu má na roky 2021 – 2027 celkový rozpočet 17,5 miliardy EUR.
+
+Koľko z rozpočtu Fondu na spravodlivú transformáciu pochádza z nástroja NextGenerationEU?
++ 10 miliárd EUR
+- 7,5 miliardy EUR
+- 1 miliarda EUR
+= Suma 7,5 miliardy EUR sa financuje z viacročného finančného rámca a ďalších 10 miliárd EUR z nástroja NextGenerationEU.
+> ep-fs-214 | ďalších 10 miliárd EUR z nástroja NextGenerationEU
+
+Koľko plánovaných prostriedkov z FST dostane štát, ktorý sa nezaviazal ku klimatickej neutralite do roku 2050?
++ len 50 %
+- 100 %
+- 150 %
+= Členským štátom, ktoré sa ešte nezaviazali k cieľu klimatickej neutrality do roku 2050, sa pridelí len 50 % plánovaných prostriedkov.
+> ep-fs-214 | sa pridelí len 50 % plánovaných rozpočtových prostriedkov
+
+Čo musia členské štáty predložiť, aby získali podporu z Fondu na spravodlivú transformáciu?
++ plány spravodlivej transformácie územia
+- plán na zavedenie eura
+- žiadosť o vystúpenie z EÚ
+= Na získanie prístupu k podpore z fondu musia členské štáty predložiť plány spravodlivej transformácie územia.
+> ep-fs-214 | Na získanie prístupu k podpore z fondu musia členské štáty predložiť plány spravodlivej transformácie územia.
+
+Koľko pilierov má Mechanizmus spravodlivej transformácie?
++ tri
+- jeden
+- sedem
+= Mechanizmus pozostáva z troch pilierov: FST, osobitnej časti InvestEU a úverového nástroja EIB pre verejný sektor.
+> ep-fs-214 | Mechanizmus pozostáva z troch pilierov
+
+Koľko EZÚS (európskych zoskupení územnej spolupráce) obsahuje zoznam?
++ 93
+- 9
+- 930
+= Zoznam v súčasnosti obsahuje 93 EZÚS, z ktorých sedem je uzavretých.
+> ep-fs-94 | Zoznam v súčasnosti obsahuje 93 EZÚS, z ktorých sedem je uzavretých.
+
+Partneri z najmenej koľkých členských štátov môžu založiť EZÚS (európske zoskupenie územnej spolupráce)?
++ z dvoch
+- z piatich
+- zo všetkých 27
+= EZÚS môžu založiť partneri usadení najmenej v dvoch členských štátoch (alebo jeden štát a jedna či viac krajín mimo EÚ).
+> ep-fs-94 | EZÚS môžu založiť partneri, ktorí sú usadení najmenej v dvoch členských štátoch
+
+Ktorý fond bol zriadený osobitne článkom 176 ZFEÚ?
++ Európsky fond regionálneho rozvoja (EFRR)
+- Kohézny fond
+- Fond solidarity
+= Medzi fondy politiky súdržnosti patrí EFRR, ktorý je osobitne zriadený článkom 176.
+> ep-fs-95 | Medzi tieto fondy patrí EFRR, ktorý je osobitne zriadený článkom 176.
+
+Aký podiel zdrojov EFRR sa približne používa na Európsku územnú spoluprácu?
++ približne 4 %
+- približne 40 %
+- približne 90 %
+= Väčšina zdrojov EFRR ide na investície do rastu a zamestnanosti, približne 4 % na Európsku územnú spoluprácu.
+> ep-fs-95 | približne 4 % sa používajú na podporu druhého cieľa – Európskej územnej spolupráce

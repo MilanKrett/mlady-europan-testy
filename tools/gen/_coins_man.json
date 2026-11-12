@@ -1,0 +1,342 @@
+{
+ "at_2euro": {
+  "img": "img/mince/at_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_2Euro.jpg"
+ },
+ "at_1euro": {
+  "img": "img/mince/at_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_1Euro.jpg"
+ },
+ "at_50cent": {
+  "img": "img/mince/at_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_50cent.jpg"
+ },
+ "at_1cent": {
+  "img": "img/mince/at_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/at/Austria_1cent.jpg"
+ },
+ "be_2euro": {
+  "img": "img/mince/be_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_2euro_2008.jpg"
+ },
+ "be_1euro": {
+  "img": "img/mince/be_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_1euro_2014.jpg"
+ },
+ "be_50cent": {
+  "img": "img/mince/be_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_50cent_2014.jpg"
+ },
+ "be_1cent": {
+  "img": "img/mince/be_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/be/Belgium_1cent_2014.jpg"
+ },
+ "bg_2euro": {
+  "img": "img/mince/bg_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/bg/Bulgaria_2euro.jpg"
+ },
+ "bg_1euro": {
+  "img": "img/mince/bg_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/bg/Bulgaria_1euro.jpg"
+ },
+ "bg_50cent": {
+  "img": "img/mince/bg_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/bg/Bulgaria_50cent.jpg"
+ },
+ "bg_1cent": {
+  "img": "img/mince/bg_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/bg/Bulgaria_1cent.jpg"
+ },
+ "cy_2euro": {
+  "img": "img/mince/cy_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_2Euro.jpg"
+ },
+ "cy_1euro": {
+  "img": "img/mince/cy_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_1euro.jpg"
+ },
+ "cy_50cent": {
+  "img": "img/mince/cy_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_50cent.jpg"
+ },
+ "cy_1cent": {
+  "img": "img/mince/cy_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/cy/Cyprus_1cent.jpg"
+ },
+ "de_2euro": {
+  "img": "img/mince/de_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_2euro.jpg"
+ },
+ "de_1euro": {
+  "img": "img/mince/de_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_1euro.jpg"
+ },
+ "de_50cent": {
+  "img": "img/mince/de_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_50cent.jpg"
+ },
+ "de_1cent": {
+  "img": "img/mince/de_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/de/Germany_1cent.jpg"
+ },
+ "ee_2euro": {
+  "img": "img/mince/ee_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_2Euro.jpg"
+ },
+ "ee_1euro": {
+  "img": "img/mince/ee_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_1Euro.jpg"
+ },
+ "ee_50cent": {
+  "img": "img/mince/ee_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_50cent.jpg"
+ },
+ "ee_1cent": {
+  "img": "img/mince/ee_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/et/Estonia_1cent.jpg"
+ },
+ "es_2euro": {
+  "img": "img/mince/es_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_2euro_2015.jpg"
+ },
+ "es_1euro": {
+  "img": "img/mince/es_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_1Euro_2015.jpg"
+ },
+ "es_50cent": {
+  "img": "img/mince/es_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_50cent_2014.jpg"
+ },
+ "es_1cent": {
+  "img": "img/mince/es_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/es/Spain_1cent_1999.jpg"
+ },
+ "fi_2euro": {
+  "img": "img/mince/fi_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_2euro.jpg"
+ },
+ "fi_1euro": {
+  "img": "img/mince/fi_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_1euro.jpg"
+ },
+ "fi_50cent": {
+  "img": "img/mince/fi_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_50cent.jpg"
+ },
+ "fi_1cent": {
+  "img": "img/mince/fi_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fi/Finland_1cent.jpg"
+ },
+ "fr_2euro": {
+  "img": "img/mince/fr_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_2euro_2022.jpg"
+ },
+ "fr_1euro": {
+  "img": "img/mince/fr_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_1euro_2022.jpg"
+ },
+ "fr_50cent": {
+  "img": "img/mince/fr_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_50cent_2024.jpg"
+ },
+ "fr_1cent": {
+  "img": "img/mince/fr_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/fr/France_1cent.jpg"
+ },
+ "gr_2euro": {
+  "img": "img/mince/gr_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/gr/Greece_2euro.jpg"
+ },
+ "gr_1euro": {
+  "img": "img/mince/gr_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/gr/Greece_1euro.jpg"
+ },
+ "gr_50cent": {
+  "img": "img/mince/gr_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/gr/Greece_50cent.jpg"
+ },
+ "gr_1cent": {
+  "img": "img/mince/gr_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/gr/Greece_1cent.jpg"
+ },
+ "hr_2euro": {
+  "img": "img/mince/hr_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/hr/Croatia_2euro.jpg"
+ },
+ "hr_1euro": {
+  "img": "img/mince/hr_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/hr/Croatia_1euro.jpg"
+ },
+ "hr_50cent": {
+  "img": "img/mince/hr_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/hr/Croatia_50cent.jpg"
+ },
+ "hr_1cent": {
+  "img": "img/mince/hr_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/hr/Croatia_1cent.jpg"
+ },
+ "ie_2euro": {
+  "img": "img/mince/ie_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_2euro.jpg"
+ },
+ "ie_1euro": {
+  "img": "img/mince/ie_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_1euro.jpg"
+ },
+ "ie_50cent": {
+  "img": "img/mince/ie_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_50cent.jpg"
+ },
+ "ie_1cent": {
+  "img": "img/mince/ie_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/ie/Ireland_1cent.jpg"
+ },
+ "it_2euro": {
+  "img": "img/mince/it_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_2euro.jpg"
+ },
+ "it_1euro": {
+  "img": "img/mince/it_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_1euro.jpg"
+ },
+ "it_50cent": {
+  "img": "img/mince/it_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_50cent.jpg"
+ },
+ "it_1cent": {
+  "img": "img/mince/it_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/it/Italy_1cent.jpg"
+ },
+ "lt_2euro": {
+  "img": "img/mince/lt_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_2euro_2015.jpg"
+ },
+ "lt_1euro": {
+  "img": "img/mince/lt_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_1euro_2015.jpg"
+ },
+ "lt_50cent": {
+  "img": "img/mince/lt_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_50cent_2014.jpg"
+ },
+ "lt_1cent": {
+  "img": "img/mince/lt_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lt/Lithuania_1cent_2015.jpg"
+ },
+ "lu_2euro": {
+  "img": "img/mince/lu_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_2euro.jpg"
+ },
+ "lu_1euro": {
+  "img": "img/mince/lu_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_1Euro.jpg"
+ },
+ "lu_50cent": {
+  "img": "img/mince/lu_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_50cent.jpg"
+ },
+ "lu_1cent": {
+  "img": "img/mince/lu_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lu/Luxembourg_1cent.jpg"
+ },
+ "lv_2euro": {
+  "img": "img/mince/lv_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_2euro.jpg"
+ },
+ "lv_1euro": {
+  "img": "img/mince/lv_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_1euro.jpg"
+ },
+ "lv_50cent": {
+  "img": "img/mince/lv_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_50cent.jpg"
+ },
+ "lv_1cent": {
+  "img": "img/mince/lv_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/lv/Latvia_1cent.jpg"
+ },
+ "mt_2euro": {
+  "img": "img/mince/mt_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_2euro.jpg"
+ },
+ "mt_1euro": {
+  "img": "img/mince/mt_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_1Euro.jpg"
+ },
+ "mt_50cent": {
+  "img": "img/mince/mt_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_50cent.jpg"
+ },
+ "mt_1cent": {
+  "img": "img/mince/mt_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/mt/Malta_1cent.jpg"
+ },
+ "nl_2euro": {
+  "img": "img/mince/nl_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_2euro_2001.jpg"
+ },
+ "nl_1euro": {
+  "img": "img/mince/nl_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_1euro_2014.jpg"
+ },
+ "nl_50cent": {
+  "img": "img/mince/nl_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_50cent.jpg"
+ },
+ "nl_1cent": {
+  "img": "img/mince/nl_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/nl/Netherlands_1cent_2014.jpg"
+ },
+ "pt_2euro": {
+  "img": "img/mince/pt_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_2euro.jpg"
+ },
+ "pt_1euro": {
+  "img": "img/mince/pt_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_1Euro.jpg"
+ },
+ "pt_50cent": {
+  "img": "img/mince/pt_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_50cent.jpg"
+ },
+ "pt_1cent": {
+  "img": "img/mince/pt_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/pt/Portugal_1cent.jpg"
+ },
+ "si_2euro": {
+  "img": "img/mince/si_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_2Euro.jpg"
+ },
+ "si_1euro": {
+  "img": "img/mince/si_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_1Euro.jpg"
+ },
+ "si_50cent": {
+  "img": "img/mince/si_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_50cent.jpg"
+ },
+ "si_1cent": {
+  "img": "img/mince/si_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sl/Slovenia_1cent.jpg"
+ },
+ "sk_2euro": {
+  "img": "img/mince/sk_2euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_2Euro.jpg"
+ },
+ "sk_1euro": {
+  "img": "img/mince/sk_1euro.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_1Euro.jpg"
+ },
+ "sk_50cent": {
+  "img": "img/mince/sk_50cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_50cent.jpg"
+ },
+ "sk_10cent": {
+  "img": "img/mince/sk_10cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_10cent.jpg"
+ },
+ "sk_1cent": {
+  "img": "img/mince/sk_1cent.jpg",
+  "url": "https://www.ecb.europa.eu/euro/coins/common/shared/img/sk/Slovakia_1cent.jpg"
+ }
+}

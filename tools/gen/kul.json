@@ -1,0 +1,5705 @@
+[
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1985?",
+"ok": "Atény",
+"bad": [
+"Leuven",
+"Maribor"
+],
+"v": "V roku 1985 bolo Európskym hlavným mestom kultúry: Atény.",
+"src": [
+[
+"ecoc-node-335",
+"1985 Athens 1985 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Atény Európskym hlavným mestom kultúry?",
+"ok": "1985",
+"bad": [
+"1987",
+"1986"
+],
+"v": "Mesto Atény bolo Európskym hlavným mestom kultúry v roku 1985.",
+"src": [
+[
+"ecoc-node-335",
+"1985 Athens 1985 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1986?",
+"ok": "Florencia",
+"bad": [
+"Janov",
+"Dublin"
+],
+"v": "V roku 1986 bolo Európskym hlavným mestom kultúry: Florencia.",
+"src": [
+[
+"ecoc-node-335",
+"1986 Florence 1986 European Capital of Culture in Italy"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Florencia Európskym hlavným mestom kultúry?",
+"ok": "1986",
+"bad": [
+"1988",
+"1989"
+],
+"v": "Mesto Florencia bolo Európskym hlavným mestom kultúry v roku 1986.",
+"src": [
+[
+"ecoc-node-335",
+"1986 Florence 1986 European Capital of Culture in Italy"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1987?",
+"ok": "Amsterdam",
+"bad": [
+"Trenčín",
+"Weimar"
+],
+"v": "V roku 1987 bolo Európskym hlavným mestom kultúry: Amsterdam.",
+"src": [
+[
+"ecoc-node-335",
+"1987 Amsterdam 1987 European Capital of Culture in the Netherlands"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Amsterdam Európskym hlavným mestom kultúry?",
+"ok": "1987",
+"bad": [
+"1986",
+"1991"
+],
+"v": "Mesto Amsterdam bolo Európskym hlavným mestom kultúry v roku 1987.",
+"src": [
+[
+"ecoc-node-335",
+"1987 Amsterdam 1987 European Capital of Culture in the Netherlands"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1988?",
+"ok": "Západný Berlín",
+"bad": [
+"Temešvár",
+"Évora"
+],
+"v": "V roku 1988 bolo Európskym hlavným mestom kultúry: Západný Berlín.",
+"src": [
+[
+"ecoc-node-335",
+"1988 West Berlin 1988 European Capital of Culture in Germany"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Západný Berlín Európskym hlavným mestom kultúry?",
+"ok": "1988",
+"bad": [
+"1991",
+"1990"
+],
+"v": "Mesto Západný Berlín bolo Európskym hlavným mestom kultúry v roku 1988.",
+"src": [
+[
+"ecoc-node-335",
+"1988 West Berlin 1988 European Capital of Culture in Germany"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1989?",
+"ok": "Paríž",
+"bad": [
+"Aarhus",
+"Lille"
+],
+"v": "V roku 1989 bolo Európskym hlavným mestom kultúry: Paríž.",
+"src": [
+[
+"ecoc-node-335",
+"1989 Paris 1989 European Capital of Culture in France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Paríž Európskym hlavným mestom kultúry?",
+"ok": "1989",
+"bad": [
+"1985",
+"1992"
+],
+"v": "Mesto Paríž bolo Európskym hlavným mestom kultúry v roku 1989.",
+"src": [
+[
+"ecoc-node-335",
+"1989 Paris 1989 European Capital of Culture in France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1990?",
+"ok": "Glasgow",
+"bad": [
+"Santiago de Compostela",
+"Helsinki"
+],
+"v": "V roku 1990 bolo Európskym hlavným mestom kultúry: Glasgow.",
+"src": [
+[
+"ecoc-node-335",
+"1990 Glasgow 1990 European Capital of Culture in the United Kingdom"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Glasgow Európskym hlavným mestom kultúry?",
+"ok": "1990",
+"bad": [
+"1989",
+"1991"
+],
+"v": "Mesto Glasgow bolo Európskym hlavným mestom kultúry v roku 1990.",
+"src": [
+[
+"ecoc-node-335",
+"1990 Glasgow 1990 European Capital of Culture in the United Kingdom"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Glasgow, Európske hlavné mesto kultúry v roku 1990?",
+"ok": "Spojené kráľovstvo",
+"bad": [
+"Slovinsko",
+"Litva"
+],
+"v": "Glasgow (Spojené kráľovstvo) bolo Európskym hlavným mestom kultúry v roku 1990.",
+"src": [
+[
+"ecoc-node-335",
+"1990 Glasgow 1990 European Capital of Culture in the United Kingdom"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1991?",
+"ok": "Dublin",
+"bad": [
+"Marseille",
+"Maribor"
+],
+"v": "V roku 1991 bolo Európskym hlavným mestom kultúry: Dublin.",
+"src": [
+[
+"ecoc-node-335",
+"1991 Dublin 1991 European Capital of Culture in Ireland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Dublin Európskym hlavným mestom kultúry?",
+"ok": "1991",
+"bad": [
+"1988",
+"1987"
+],
+"v": "Mesto Dublin bolo Európskym hlavným mestom kultúry v roku 1991.",
+"src": [
+[
+"ecoc-node-335",
+"1991 Dublin 1991 European Capital of Culture in Ireland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1992?",
+"ok": "Madrid",
+"bad": [
+"Temešvár",
+"Leuven"
+],
+"v": "V roku 1992 bolo Európskym hlavným mestom kultúry: Madrid.",
+"src": [
+[
+"ecoc-node-335",
+"1992 Madrid 1992 European Capital of Culture in Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Madrid Európskym hlavným mestom kultúry?",
+"ok": "1992",
+"bad": [
+"1996",
+"1989"
+],
+"v": "Mesto Madrid bolo Európskym hlavným mestom kultúry v roku 1992.",
+"src": [
+[
+"ecoc-node-335",
+"1992 Madrid 1992 European Capital of Culture in Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1993?",
+"ok": "Antverpy",
+"bad": [
+"Košice",
+"Janov"
+],
+"v": "V roku 1993 bolo Európskym hlavným mestom kultúry: Antverpy.",
+"src": [
+[
+"ecoc-node-335",
+"1993 Antwerp 1993 European Capital of Culture in Belgium"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Antverpy Európskym hlavným mestom kultúry?",
+"ok": "1993",
+"bad": [
+"1990",
+"1989"
+],
+"v": "Mesto Antverpy bolo Európskym hlavným mestom kultúry v roku 1993.",
+"src": [
+[
+"ecoc-node-335",
+"1993 Antwerp 1993 European Capital of Culture in Belgium"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Antverpy, Európske hlavné mesto kultúry v roku 1993?",
+"ok": "Belgicko",
+"bad": [
+"Luxembursko",
+"Írsko"
+],
+"v": "Antverpy (Belgicko) bolo Európskym hlavným mestom kultúry v roku 1993.",
+"src": [
+[
+"ecoc-node-335",
+"1993 Antwerp 1993 European Capital of Culture in Belgium"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1994?",
+"ok": "Lisabon",
+"bad": [
+"Vilnius",
+"Tallinn"
+],
+"v": "V roku 1994 bolo Európskym hlavným mestom kultúry: Lisabon.",
+"src": [
+[
+"ecoc-node-335",
+"1994 Lisbon 1994 European Capital of Culture in Portugal"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Lisabon Európskym hlavným mestom kultúry?",
+"ok": "1994",
+"bad": [
+"1991",
+"1990"
+],
+"v": "Mesto Lisabon bolo Európskym hlavným mestom kultúry v roku 1994.",
+"src": [
+[
+"ecoc-node-335",
+"1994 Lisbon 1994 European Capital of Culture in Portugal"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1995?",
+"ok": "Luxemburg",
+"bad": [
+"Kiruna",
+"Marseille"
+],
+"v": "V roku 1995 bolo Európskym hlavným mestom kultúry: Luxemburg.",
+"src": [
+[
+"ecoc-node-335",
+"1995 Luxembourg 1995 European Capital of Culture in Luxembourg"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1996?",
+"ok": "Kodaň",
+"bad": [
+"Brusel",
+"Chemnitz"
+],
+"v": "V roku 1996 bolo Európskym hlavným mestom kultúry: Kodaň.",
+"src": [
+[
+"ecoc-node-335",
+"1996 Copenhagen 1996 European Capital of Culture in Denmark"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Kodaň Európskym hlavným mestom kultúry?",
+"ok": "1996",
+"bad": [
+"2000",
+"1999"
+],
+"v": "Mesto Kodaň bolo Európskym hlavným mestom kultúry v roku 1996.",
+"src": [
+[
+"ecoc-node-335",
+"1996 Copenhagen 1996 European Capital of Culture in Denmark"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1997?",
+"ok": "Solún",
+"bad": [
+"Bruggy",
+"Tallinn"
+],
+"v": "V roku 1997 bolo Európskym hlavným mestom kultúry: Solún.",
+"src": [
+[
+"ecoc-node-335",
+"1997 Thessaloniki 1997 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Solún Európskym hlavným mestom kultúry?",
+"ok": "1997",
+"bad": [
+"1994",
+"1995"
+],
+"v": "Mesto Solún bolo Európskym hlavným mestom kultúry v roku 1997.",
+"src": [
+[
+"ecoc-node-335",
+"1997 Thessaloniki 1997 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Solún, Európske hlavné mesto kultúry v roku 1997?",
+"ok": "Grécko",
+"bad": [
+"Írsko",
+"Fínsko"
+],
+"v": "Solún (Grécko) bolo Európskym hlavným mestom kultúry v roku 1997.",
+"src": [
+[
+"ecoc-node-335",
+"1997 Thessaloniki 1997 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1998?",
+"ok": "Štokholm",
+"bad": [
+"Matera",
+"Solún"
+],
+"v": "V roku 1998 bolo Európskym hlavným mestom kultúry: Štokholm.",
+"src": [
+[
+"ecoc-node-335",
+"1998 Stockholm 1998 European Capital of Culture in Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Štokholm Európskym hlavným mestom kultúry?",
+"ok": "1998",
+"bad": [
+"1994",
+"2001"
+],
+"v": "Mesto Štokholm bolo Európskym hlavným mestom kultúry v roku 1998.",
+"src": [
+[
+"ecoc-node-335",
+"1998 Stockholm 1998 European Capital of Culture in Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 1999?",
+"ok": "Weimar",
+"bad": [
+"Paríž",
+"Umeå"
+],
+"v": "V roku 1999 bolo Európskym hlavným mestom kultúry: Weimar.",
+"src": [
+[
+"ecoc-node-335",
+"1999 Weimar 1999 European Capital of Culture in Germany"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Weimar Európskym hlavným mestom kultúry?",
+"ok": "1999",
+"bad": [
+"1998",
+"1996"
+],
+"v": "Mesto Weimar bolo Európskym hlavným mestom kultúry v roku 1999.",
+"src": [
+[
+"ecoc-node-335",
+"1999 Weimar 1999 European Capital of Culture in Germany"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Weimar, Európske hlavné mesto kultúry v roku 1999?",
+"ok": "Nemecko",
+"bad": [
+"Čierna Hora",
+"Srbsko"
+],
+"v": "Weimar (Nemecko) bolo Európskym hlavným mestom kultúry v roku 1999.",
+"src": [
+[
+"ecoc-node-335",
+"1999 Weimar 1999 European Capital of Culture in Germany"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2000?",
+"ok": "Brusel",
+"bad": [
+"Graz",
+"Porto"
+],
+"v": "V roku 2000 boli Európskym hlavným mestom kultúry: Avignon, Bergen, Bologna, Brusel, Helsinki, Krakov, Praha, Reykjavík, Santiago de Compostela.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Brusel Európskym hlavným mestom kultúry?",
+"ok": "2000",
+"bad": [
+"1996",
+"2004"
+],
+"v": "Mesto Brusel bolo Európskym hlavným mestom kultúry v roku 2000.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2000?",
+"ok": "Helsinki",
+"bad": [
+"Bourges",
+"Trenčín"
+],
+"v": "V roku 2000 boli Európskym hlavným mestom kultúry: Avignon, Bergen, Bologna, Brusel, Helsinki, Krakov, Praha, Reykjavík, Santiago de Compostela.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Helsinki Európskym hlavným mestom kultúry?",
+"ok": "2000",
+"bad": [
+"1996",
+"2002"
+],
+"v": "Mesto Helsinki bolo Európskym hlavným mestom kultúry v roku 2000.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2000?",
+"ok": "Krakov",
+"bad": [
+"Paríž",
+"San Sebastián"
+],
+"v": "V roku 2000 boli Európskym hlavným mestom kultúry: Avignon, Bergen, Bologna, Brusel, Helsinki, Krakov, Praha, Reykjavík, Santiago de Compostela.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Krakov Európskym hlavným mestom kultúry?",
+"ok": "2000",
+"bad": [
+"1997",
+"1998"
+],
+"v": "Mesto Krakov bolo Európskym hlavným mestom kultúry v roku 2000.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2000?",
+"ok": "Praha",
+"bad": [
+"Turku",
+"Évora"
+],
+"v": "V roku 2000 boli Európskym hlavným mestom kultúry: Avignon, Bergen, Bologna, Brusel, Helsinki, Krakov, Praha, Reykjavík, Santiago de Compostela.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Praha Európskym hlavným mestom kultúry?",
+"ok": "2000",
+"bad": [
+"2004",
+"1996"
+],
+"v": "Mesto Praha bolo Európskym hlavným mestom kultúry v roku 2000.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2000?",
+"ok": "Reykjavík",
+"bad": [
+"Tallinn",
+"Esch-sur-Alzette"
+],
+"v": "V roku 2000 boli Európskym hlavným mestom kultúry: Avignon, Bergen, Bologna, Brusel, Helsinki, Krakov, Praha, Reykjavík, Santiago de Compostela.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Reykjavík Európskym hlavným mestom kultúry?",
+"ok": "2000",
+"bad": [
+"1998",
+"2004"
+],
+"v": "Mesto Reykjavík bolo Európskym hlavným mestom kultúry v roku 2000.",
+"src": [
+[
+"ecoc-node-335",
+"2000 Avignon, Bergen, Bologna, Brussels, Helsinki, Kraków, Prague, Reykjavík and Santiago de Compostela 2000 European Capitals of Culture in France, Norway, Italy, Belgium, Finland, Poland, Czech Republic, Iceland and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2001?",
+"ok": "Porto",
+"bad": [
+"Tallinn",
+"Brusel"
+],
+"v": "V roku 2001 boli Európskym hlavným mestom kultúry: Porto, Rotterdam.",
+"src": [
+[
+"ecoc-node-335",
+"2001 Porto and Rotterdam 2001 European Capitals of Culture in Portugal and the Netherlands"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Porto Európskym hlavným mestom kultúry?",
+"ok": "2001",
+"bad": [
+"1997",
+"2004"
+],
+"v": "Mesto Porto bolo Európskym hlavným mestom kultúry v roku 2001.",
+"src": [
+[
+"ecoc-node-335",
+"2001 Porto and Rotterdam 2001 European Capitals of Culture in Portugal and the Netherlands"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Porto, Európske hlavné mesto kultúry v roku 2001?",
+"ok": "Portugalsko",
+"bad": [
+"Španielsko",
+"Slovensko"
+],
+"v": "Porto (Portugalsko) bolo Európskym hlavným mestom kultúry v roku 2001.",
+"src": [
+[
+"ecoc-node-335",
+"2001 Porto and Rotterdam 2001 European Capitals of Culture in Portugal and the Netherlands"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2001?",
+"ok": "Rotterdam",
+"bad": [
+"Plovdiv",
+"Valletta"
+],
+"v": "V roku 2001 boli Európskym hlavným mestom kultúry: Porto, Rotterdam.",
+"src": [
+[
+"ecoc-node-335",
+"2001 Porto and Rotterdam 2001 European Capitals of Culture in Portugal and the Netherlands"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Rotterdam Európskym hlavným mestom kultúry?",
+"ok": "2001",
+"bad": [
+"1997",
+"2005"
+],
+"v": "Mesto Rotterdam bolo Európskym hlavným mestom kultúry v roku 2001.",
+"src": [
+[
+"ecoc-node-335",
+"2001 Porto and Rotterdam 2001 European Capitals of Culture in Portugal and the Netherlands"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Rotterdam, Európske hlavné mesto kultúry v roku 2001?",
+"ok": "Holandsko",
+"bad": [
+"Čierna Hora",
+"Island"
+],
+"v": "Rotterdam (Holandsko) bolo Európskym hlavným mestom kultúry v roku 2001.",
+"src": [
+[
+"ecoc-node-335",
+"2001 Porto and Rotterdam 2001 European Capitals of Culture in Portugal and the Netherlands"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2002?",
+"ok": "Bruggy",
+"bad": [
+"Atény",
+"Amsterdam"
+],
+"v": "V roku 2002 boli Európskym hlavným mestom kultúry: Bruggy, Salamanca.",
+"src": [
+[
+"ecoc-node-335",
+"2002 Bruges and Salamanca 2002 European Capitals of Culture in Belgium and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Bruggy Európskym hlavným mestom kultúry?",
+"ok": "2002",
+"bad": [
+"2001",
+"1998"
+],
+"v": "Mesto Bruggy bolo Európskym hlavným mestom kultúry v roku 2002.",
+"src": [
+[
+"ecoc-node-335",
+"2002 Bruges and Salamanca 2002 European Capitals of Culture in Belgium and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Bruggy, Európske hlavné mesto kultúry v roku 2002?",
+"ok": "Belgicko",
+"bad": [
+"Česko",
+"Grécko"
+],
+"v": "Bruggy (Belgicko) bolo Európskym hlavným mestom kultúry v roku 2002.",
+"src": [
+[
+"ecoc-node-335",
+"2002 Bruges and Salamanca 2002 European Capitals of Culture in Belgium and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2002?",
+"ok": "Salamanca",
+"bad": [
+"Pafos",
+"Rotterdam"
+],
+"v": "V roku 2002 boli Európskym hlavným mestom kultúry: Bruggy, Salamanca.",
+"src": [
+[
+"ecoc-node-335",
+"2002 Bruges and Salamanca 2002 European Capitals of Culture in Belgium and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Salamanca Európskym hlavným mestom kultúry?",
+"ok": "2002",
+"bad": [
+"1999",
+"2005"
+],
+"v": "Mesto Salamanca bolo Európskym hlavným mestom kultúry v roku 2002.",
+"src": [
+[
+"ecoc-node-335",
+"2002 Bruges and Salamanca 2002 European Capitals of Culture in Belgium and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Salamanca, Európske hlavné mesto kultúry v roku 2002?",
+"ok": "Španielsko",
+"bad": [
+"Grécko",
+"Maďarsko"
+],
+"v": "Salamanca (Španielsko) bolo Európskym hlavným mestom kultúry v roku 2002.",
+"src": [
+[
+"ecoc-node-335",
+"2002 Bruges and Salamanca 2002 European Capitals of Culture in Belgium and Spain"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2003?",
+"ok": "Graz",
+"bad": [
+"Liepāja",
+"Kiruna"
+],
+"v": "V roku 2003 bolo Európskym hlavným mestom kultúry: Graz.",
+"src": [
+[
+"ecoc-node-335",
+"2003 Graz 2003 European Capital of Culture in Austria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Graz Európskym hlavným mestom kultúry?",
+"ok": "2003",
+"bad": [
+"2000",
+"2007"
+],
+"v": "Mesto Graz bolo Európskym hlavným mestom kultúry v roku 2003.",
+"src": [
+[
+"ecoc-node-335",
+"2003 Graz 2003 European Capital of Culture in Austria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Graz, Európske hlavné mesto kultúry v roku 2003?",
+"ok": "Rakúsko",
+"bad": [
+"Island",
+"Holandsko"
+],
+"v": "Graz (Rakúsko) bolo Európskym hlavným mestom kultúry v roku 2003.",
+"src": [
+[
+"ecoc-node-335",
+"2003 Graz 2003 European Capital of Culture in Austria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2004?",
+"ok": "Janov",
+"bad": [
+"Atény",
+"Bergen"
+],
+"v": "V roku 2004 boli Európskym hlavným mestom kultúry: Janov, Lille.",
+"src": [
+[
+"ecoc-node-335",
+"2004 Genoa and Lille 2004 European Capitals of Culture in Italy and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Janov Európskym hlavným mestom kultúry?",
+"ok": "2004",
+"bad": [
+"2003",
+"2006"
+],
+"v": "Mesto Janov bolo Európskym hlavným mestom kultúry v roku 2004.",
+"src": [
+[
+"ecoc-node-335",
+"2004 Genoa and Lille 2004 European Capitals of Culture in Italy and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Janov, Európske hlavné mesto kultúry v roku 2004?",
+"ok": "Taliansko",
+"bad": [
+"Švédsko",
+"Slovinsko"
+],
+"v": "Janov (Taliansko) bolo Európskym hlavným mestom kultúry v roku 2004.",
+"src": [
+[
+"ecoc-node-335",
+"2004 Genoa and Lille 2004 European Capitals of Culture in Italy and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2004?",
+"ok": "Lille",
+"bad": [
+"Valletta",
+"Vroclav"
+],
+"v": "V roku 2004 boli Európskym hlavným mestom kultúry: Janov, Lille.",
+"src": [
+[
+"ecoc-node-335",
+"2004 Genoa and Lille 2004 European Capitals of Culture in Italy and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Lille Európskym hlavným mestom kultúry?",
+"ok": "2004",
+"bad": [
+"2007",
+"2003"
+],
+"v": "Mesto Lille bolo Európskym hlavným mestom kultúry v roku 2004.",
+"src": [
+[
+"ecoc-node-335",
+"2004 Genoa and Lille 2004 European Capitals of Culture in Italy and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Lille, Európske hlavné mesto kultúry v roku 2004?",
+"ok": "Francúzsko",
+"bad": [
+"Švédsko",
+"Portugalsko"
+],
+"v": "Lille (Francúzsko) bolo Európskym hlavným mestom kultúry v roku 2004.",
+"src": [
+[
+"ecoc-node-335",
+"2004 Genoa and Lille 2004 European Capitals of Culture in Italy and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2005?",
+"ok": "Cork",
+"bad": [
+"Vilnius",
+"Dublin"
+],
+"v": "V roku 2005 bolo Európskym hlavným mestom kultúry: Cork.",
+"src": [
+[
+"ecoc-node-335",
+"2005 Cork 2005 European Capital of Culture in Ireland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Cork Európskym hlavným mestom kultúry?",
+"ok": "2005",
+"bad": [
+"2009",
+"2006"
+],
+"v": "Mesto Cork bolo Európskym hlavným mestom kultúry v roku 2005.",
+"src": [
+[
+"ecoc-node-335",
+"2005 Cork 2005 European Capital of Culture in Ireland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Cork, Európske hlavné mesto kultúry v roku 2005?",
+"ok": "Írsko",
+"bad": [
+"Srbsko",
+"Portugalsko"
+],
+"v": "Cork (Írsko) bolo Európskym hlavným mestom kultúry v roku 2005.",
+"src": [
+[
+"ecoc-node-335",
+"2005 Cork 2005 European Capital of Culture in Ireland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2006?",
+"ok": "Patra",
+"bad": [
+"Tartu",
+"Lille"
+],
+"v": "V roku 2006 bolo Európskym hlavným mestom kultúry: Patra.",
+"src": [
+[
+"ecoc-node-335",
+"2006 Patras 2006 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Patra Európskym hlavným mestom kultúry?",
+"ok": "2006",
+"bad": [
+"2007",
+"2005"
+],
+"v": "Mesto Patra bolo Európskym hlavným mestom kultúry v roku 2006.",
+"src": [
+[
+"ecoc-node-335",
+"2006 Patras 2006 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Patra, Európske hlavné mesto kultúry v roku 2006?",
+"ok": "Grécko",
+"bad": [
+"Luxembursko",
+"Bulharsko"
+],
+"v": "Patra (Grécko) bolo Európskym hlavným mestom kultúry v roku 2006.",
+"src": [
+[
+"ecoc-node-335",
+"2006 Patras 2006 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2007?",
+"ok": "Luxemburg",
+"bad": [
+"Vilnius",
+"San Sebastián"
+],
+"v": "V roku 2007 boli Európskym hlavným mestom kultúry: Luxemburg, Sibiu.",
+"src": [
+[
+"ecoc-node-335",
+"2007 Luxembourg and Sibiu 2007 European Capitals of Culture in Luxembourg and Romania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2007?",
+"ok": "Sibiu",
+"bad": [
+"Bourges",
+"Avignon"
+],
+"v": "V roku 2007 boli Európskym hlavným mestom kultúry: Luxemburg, Sibiu.",
+"src": [
+[
+"ecoc-node-335",
+"2007 Luxembourg and Sibiu 2007 European Capitals of Culture in Luxembourg and Romania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Sibiu Európskym hlavným mestom kultúry?",
+"ok": "2007",
+"bad": [
+"2003",
+"2009"
+],
+"v": "Mesto Sibiu bolo Európskym hlavným mestom kultúry v roku 2007.",
+"src": [
+[
+"ecoc-node-335",
+"2007 Luxembourg and Sibiu 2007 European Capitals of Culture in Luxembourg and Romania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Sibiu, Európske hlavné mesto kultúry v roku 2007?",
+"ok": "Rumunsko",
+"bad": [
+"Holandsko",
+"Belgicko"
+],
+"v": "Sibiu (Rumunsko) bolo Európskym hlavným mestom kultúry v roku 2007.",
+"src": [
+[
+"ecoc-node-335",
+"2007 Luxembourg and Sibiu 2007 European Capitals of Culture in Luxembourg and Romania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2008?",
+"ok": "Liverpool",
+"bad": [
+"Brusel",
+"Cork"
+],
+"v": "V roku 2008 boli Európskym hlavným mestom kultúry: Liverpool, Stavanger.",
+"src": [
+[
+"ecoc-node-335",
+"2008 Liverpool and Stavanger 2008 European Capitals of Culture in the United Kingdom and Norway"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Liverpool Európskym hlavným mestom kultúry?",
+"ok": "2008",
+"bad": [
+"2007",
+"2010"
+],
+"v": "Mesto Liverpool bolo Európskym hlavným mestom kultúry v roku 2008.",
+"src": [
+[
+"ecoc-node-335",
+"2008 Liverpool and Stavanger 2008 European Capitals of Culture in the United Kingdom and Norway"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Liverpool, Európske hlavné mesto kultúry v roku 2008?",
+"ok": "Spojené kráľovstvo",
+"bad": [
+"Estónsko",
+"Turecko"
+],
+"v": "Liverpool (Spojené kráľovstvo) bolo Európskym hlavným mestom kultúry v roku 2008.",
+"src": [
+[
+"ecoc-node-335",
+"2008 Liverpool and Stavanger 2008 European Capitals of Culture in the United Kingdom and Norway"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2008?",
+"ok": "Stavanger",
+"bad": [
+"Graz",
+"Cork"
+],
+"v": "V roku 2008 boli Európskym hlavným mestom kultúry: Liverpool, Stavanger.",
+"src": [
+[
+"ecoc-node-335",
+"2008 Liverpool and Stavanger 2008 European Capitals of Culture in the United Kingdom and Norway"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Stavanger Európskym hlavným mestom kultúry?",
+"ok": "2008",
+"bad": [
+"2011",
+"2006"
+],
+"v": "Mesto Stavanger bolo Európskym hlavným mestom kultúry v roku 2008.",
+"src": [
+[
+"ecoc-node-335",
+"2008 Liverpool and Stavanger 2008 European Capitals of Culture in the United Kingdom and Norway"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Stavanger, Európske hlavné mesto kultúry v roku 2008?",
+"ok": "Nórsko",
+"bad": [
+"Česko",
+"Španielsko"
+],
+"v": "Stavanger (Nórsko) bolo Európskym hlavným mestom kultúry v roku 2008.",
+"src": [
+[
+"ecoc-node-335",
+"2008 Liverpool and Stavanger 2008 European Capitals of Culture in the United Kingdom and Norway"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2009?",
+"ok": "Linz",
+"bad": [
+"Tallinn",
+"Patra"
+],
+"v": "V roku 2009 boli Európskym hlavným mestom kultúry: Linz, Vilnius.",
+"src": [
+[
+"ecoc-node-335",
+"2009 Linz and Vilnius 2009 European Capitals of Culture in Austria and Lithuania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Linz Európskym hlavným mestom kultúry?",
+"ok": "2009",
+"bad": [
+"2008",
+"2012"
+],
+"v": "Mesto Linz bolo Európskym hlavným mestom kultúry v roku 2009.",
+"src": [
+[
+"ecoc-node-335",
+"2009 Linz and Vilnius 2009 European Capitals of Culture in Austria and Lithuania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Linz, Európske hlavné mesto kultúry v roku 2009?",
+"ok": "Rakúsko",
+"bad": [
+"Turecko",
+"Nemecko"
+],
+"v": "Linz (Rakúsko) bolo Európskym hlavným mestom kultúry v roku 2009.",
+"src": [
+[
+"ecoc-node-335",
+"2009 Linz and Vilnius 2009 European Capitals of Culture in Austria and Lithuania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2009?",
+"ok": "Vilnius",
+"bad": [
+"Lisabon",
+"Brusel"
+],
+"v": "V roku 2009 boli Európskym hlavným mestom kultúry: Linz, Vilnius.",
+"src": [
+[
+"ecoc-node-335",
+"2009 Linz and Vilnius 2009 European Capitals of Culture in Austria and Lithuania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Vilnius Európskym hlavným mestom kultúry?",
+"ok": "2009",
+"bad": [
+"2011",
+"2007"
+],
+"v": "Mesto Vilnius bolo Európskym hlavným mestom kultúry v roku 2009.",
+"src": [
+[
+"ecoc-node-335",
+"2009 Linz and Vilnius 2009 European Capitals of Culture in Austria and Lithuania"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2010?",
+"ok": "Essen",
+"bad": [
+"Kaunas",
+"Lisabon"
+],
+"v": "V roku 2010 boli Európskym hlavným mestom kultúry: Essen, Pécs, Istanbul.",
+"src": [
+[
+"ecoc-node-335",
+"2010 Essen, Pécs and Istanbul 2010 European Capitals of Culture in Germany, Hungary and Turkey"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Essen Európskym hlavným mestom kultúry?",
+"ok": "2010",
+"bad": [
+"2012",
+"2013"
+],
+"v": "Mesto Essen bolo Európskym hlavným mestom kultúry v roku 2010.",
+"src": [
+[
+"ecoc-node-335",
+"2010 Essen, Pécs and Istanbul 2010 European Capitals of Culture in Germany, Hungary and Turkey"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Essen, Európske hlavné mesto kultúry v roku 2010?",
+"ok": "Nemecko",
+"bad": [
+"Čierna Hora",
+"Srbsko"
+],
+"v": "Essen (Nemecko) bolo Európskym hlavným mestom kultúry v roku 2010.",
+"src": [
+[
+"ecoc-node-335",
+"2010 Essen, Pécs and Istanbul 2010 European Capitals of Culture in Germany, Hungary and Turkey"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2010?",
+"ok": "Pécs",
+"bad": [
+"Solún",
+"Temešvár"
+],
+"v": "V roku 2010 boli Európskym hlavným mestom kultúry: Essen, Pécs, Istanbul.",
+"src": [
+[
+"ecoc-node-335",
+"2010 Essen, Pécs and Istanbul 2010 European Capitals of Culture in Germany, Hungary and Turkey"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Pécs Európskym hlavným mestom kultúry?",
+"ok": "2010",
+"bad": [
+"2013",
+"2014"
+],
+"v": "Mesto Pécs bolo Európskym hlavným mestom kultúry v roku 2010.",
+"src": [
+[
+"ecoc-node-335",
+"2010 Essen, Pécs and Istanbul 2010 European Capitals of Culture in Germany, Hungary and Turkey"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Pécs, Európske hlavné mesto kultúry v roku 2010?",
+"ok": "Maďarsko",
+"bad": [
+"Nórsko",
+"Spojené kráľovstvo"
+],
+"v": "Pécs (Maďarsko) bolo Európskym hlavným mestom kultúry v roku 2010.",
+"src": [
+[
+"ecoc-node-335",
+"2010 Essen, Pécs and Istanbul 2010 European Capitals of Culture in Germany, Hungary and Turkey"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2010?",
+"ok": "Istanbul",
+"bad": [
+"Umeå",
+"Madrid"
+],
+"v": "V roku 2010 boli Európskym hlavným mestom kultúry: Essen, Pécs, Istanbul.",
+"src": [
+[
+"ecoc-node-335",
+"2010 Essen, Pécs and Istanbul 2010 European Capitals of Culture in Germany, Hungary and Turkey"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Istanbul Európskym hlavným mestom kultúry?",
+"ok": "2010",
+"bad": [
+"2007",
+"2008"
+],
+"v": "Mesto Istanbul bolo Európskym hlavným mestom kultúry v roku 2010.",
+"src": [
+[
+"ecoc-node-335",
+"2010 Essen, Pécs and Istanbul 2010 European Capitals of Culture in Germany, Hungary and Turkey"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2011?",
+"ok": "Tallinn",
+"bad": [
+"Cork",
+"Florencia"
+],
+"v": "V roku 2011 boli Európskym hlavným mestom kultúry: Tallinn, Turku.",
+"src": [
+[
+"ecoc-node-335",
+"2011 Tallinn and Turku 2011 European Capitals of Culture in Estonia and Finland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Tallinn Európskym hlavným mestom kultúry?",
+"ok": "2011",
+"bad": [
+"2009",
+"2015"
+],
+"v": "Mesto Tallinn bolo Európskym hlavným mestom kultúry v roku 2011.",
+"src": [
+[
+"ecoc-node-335",
+"2011 Tallinn and Turku 2011 European Capitals of Culture in Estonia and Finland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2011?",
+"ok": "Turku",
+"bad": [
+"Bergen",
+"Kiruna"
+],
+"v": "V roku 2011 boli Európskym hlavným mestom kultúry: Tallinn, Turku.",
+"src": [
+[
+"ecoc-node-335",
+"2011 Tallinn and Turku 2011 European Capitals of Culture in Estonia and Finland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Turku Európskym hlavným mestom kultúry?",
+"ok": "2011",
+"bad": [
+"2007",
+"2012"
+],
+"v": "Mesto Turku bolo Európskym hlavným mestom kultúry v roku 2011.",
+"src": [
+[
+"ecoc-node-335",
+"2011 Tallinn and Turku 2011 European Capitals of Culture in Estonia and Finland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Turku, Európske hlavné mesto kultúry v roku 2011?",
+"ok": "Fínsko",
+"bad": [
+"Bulharsko",
+"Grécko"
+],
+"v": "Turku (Fínsko) bolo Európskym hlavným mestom kultúry v roku 2011.",
+"src": [
+[
+"ecoc-node-335",
+"2011 Tallinn and Turku 2011 European Capitals of Culture in Estonia and Finland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2012?",
+"ok": "Guimarães",
+"bad": [
+"Štokholm",
+"Esch-sur-Alzette"
+],
+"v": "V roku 2012 boli Európskym hlavným mestom kultúry: Guimarães, Maribor.",
+"src": [
+[
+"ecoc-node-335",
+"2012 Guimarães and Maribor 2012 European Capitals of Culture in Portugal and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Guimarães Európskym hlavným mestom kultúry?",
+"ok": "2012",
+"bad": [
+"2013",
+"2015"
+],
+"v": "Mesto Guimarães bolo Európskym hlavným mestom kultúry v roku 2012.",
+"src": [
+[
+"ecoc-node-335",
+"2012 Guimarães and Maribor 2012 European Capitals of Culture in Portugal and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Guimarães, Európske hlavné mesto kultúry v roku 2012?",
+"ok": "Portugalsko",
+"bad": [
+"Island",
+"Severné Macedónsko"
+],
+"v": "Guimarães (Portugalsko) bolo Európskym hlavným mestom kultúry v roku 2012.",
+"src": [
+[
+"ecoc-node-335",
+"2012 Guimarães and Maribor 2012 European Capitals of Culture in Portugal and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2012?",
+"ok": "Maribor",
+"bad": [
+"Bodø",
+"Stavanger"
+],
+"v": "V roku 2012 boli Európskym hlavným mestom kultúry: Guimarães, Maribor.",
+"src": [
+[
+"ecoc-node-335",
+"2012 Guimarães and Maribor 2012 European Capitals of Culture in Portugal and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Maribor Európskym hlavným mestom kultúry?",
+"ok": "2012",
+"bad": [
+"2015",
+"2008"
+],
+"v": "Mesto Maribor bolo Európskym hlavným mestom kultúry v roku 2012.",
+"src": [
+[
+"ecoc-node-335",
+"2012 Guimarães and Maribor 2012 European Capitals of Culture in Portugal and Slovenia"
+]
+]
+},
+{
+"kat": "svk",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2013?",
+"ok": "Košice",
+"bad": [
+"Lublin",
+"Bruggy"
+],
+"v": "V roku 2013 boli Európskym hlavným mestom kultúry: Košice, Marseille.",
+"src": [
+[
+"ecoc-node-335",
+"2013 Košice and Marseille-Provence 2013 European Capitals of Culture in Slovakia and France"
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "V ktorom roku bolo mesto Košice Európskym hlavným mestom kultúry?",
+"ok": "2013",
+"bad": [
+"2015",
+"2012"
+],
+"v": "Mesto Košice bolo Európskym hlavným mestom kultúry v roku 2013.",
+"src": [
+[
+"ecoc-node-335",
+"2013 Košice and Marseille-Provence 2013 European Capitals of Culture in Slovakia and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2013?",
+"ok": "Marseille",
+"bad": [
+"Évora",
+"Aarhus"
+],
+"v": "V roku 2013 boli Európskym hlavným mestom kultúry: Košice, Marseille.",
+"src": [
+[
+"ecoc-node-335",
+"2013 Košice and Marseille-Provence 2013 European Capitals of Culture in Slovakia and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Marseille Európskym hlavným mestom kultúry?",
+"ok": "2013",
+"bad": [
+"2009",
+"2012"
+],
+"v": "Mesto Marseille bolo Európskym hlavným mestom kultúry v roku 2013.",
+"src": [
+[
+"ecoc-node-335",
+"2013 Košice and Marseille-Provence 2013 European Capitals of Culture in Slovakia and France"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2014?",
+"ok": "Riga",
+"bad": [
+"Galway",
+"Santiago de Compostela"
+],
+"v": "V roku 2014 boli Európskym hlavným mestom kultúry: Riga, Umeå.",
+"src": [
+[
+"ecoc-node-335",
+"2014 Riga and Umeå 2014 European Capitals of Culture in Latvia and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Riga Európskym hlavným mestom kultúry?",
+"ok": "2014",
+"bad": [
+"2017",
+"2018"
+],
+"v": "Mesto Riga bolo Európskym hlavným mestom kultúry v roku 2014.",
+"src": [
+[
+"ecoc-node-335",
+"2014 Riga and Umeå 2014 European Capitals of Culture in Latvia and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2014?",
+"ok": "Umeå",
+"bad": [
+"Tallinn",
+"Bourges"
+],
+"v": "V roku 2014 boli Európskym hlavným mestom kultúry: Riga, Umeå.",
+"src": [
+[
+"ecoc-node-335",
+"2014 Riga and Umeå 2014 European Capitals of Culture in Latvia and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Umeå Európskym hlavným mestom kultúry?",
+"ok": "2014",
+"bad": [
+"2017",
+"2010"
+],
+"v": "Mesto Umeå bolo Európskym hlavným mestom kultúry v roku 2014.",
+"src": [
+[
+"ecoc-node-335",
+"2014 Riga and Umeå 2014 European Capitals of Culture in Latvia and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Umeå, Európske hlavné mesto kultúry v roku 2014?",
+"ok": "Švédsko",
+"bad": [
+"Fínsko",
+"Chorvátsko"
+],
+"v": "Umeå (Švédsko) bolo Európskym hlavným mestom kultúry v roku 2014.",
+"src": [
+[
+"ecoc-node-335",
+"2014 Riga and Umeå 2014 European Capitals of Culture in Latvia and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2015?",
+"ok": "Mons",
+"bad": [
+"Oulu",
+"Esch-sur-Alzette"
+],
+"v": "V roku 2015 boli Európskym hlavným mestom kultúry: Mons, Plzeň.",
+"src": [
+[
+"ecoc-node-335",
+"2015 Mons and Plzeň 2015 European Capitals of Culture in Belgium and the Czech Republic"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Mons Európskym hlavným mestom kultúry?",
+"ok": "2015",
+"bad": [
+"2011",
+"2018"
+],
+"v": "Mesto Mons bolo Európskym hlavným mestom kultúry v roku 2015.",
+"src": [
+[
+"ecoc-node-335",
+"2015 Mons and Plzeň 2015 European Capitals of Culture in Belgium and the Czech Republic"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Mons, Európske hlavné mesto kultúry v roku 2015?",
+"ok": "Belgicko",
+"bad": [
+"Nórsko",
+"Lotyšsko"
+],
+"v": "Mons (Belgicko) bolo Európskym hlavným mestom kultúry v roku 2015.",
+"src": [
+[
+"ecoc-node-335",
+"2015 Mons and Plzeň 2015 European Capitals of Culture in Belgium and the Czech Republic"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2015?",
+"ok": "Plzeň",
+"bad": [
+"Temešvár",
+"Brusel"
+],
+"v": "V roku 2015 boli Európskym hlavným mestom kultúry: Mons, Plzeň.",
+"src": [
+[
+"ecoc-node-335",
+"2015 Mons and Plzeň 2015 European Capitals of Culture in Belgium and the Czech Republic"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Plzeň Európskym hlavným mestom kultúry?",
+"ok": "2015",
+"bad": [
+"2012",
+"2011"
+],
+"v": "Mesto Plzeň bolo Európskym hlavným mestom kultúry v roku 2015.",
+"src": [
+[
+"ecoc-node-335",
+"2015 Mons and Plzeň 2015 European Capitals of Culture in Belgium and the Czech Republic"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2016?",
+"ok": "San Sebastián",
+"bad": [
+"Temešvár",
+"Oulu"
+],
+"v": "V roku 2016 boli Európskym hlavným mestom kultúry: San Sebastián, Vroclav.",
+"src": [
+[
+"ecoc-node-335",
+"2016 Donostia-San Sebastián and Wrocław 2016 European Capitals of Culture in Spain and Poland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto San Sebastián Európskym hlavným mestom kultúry?",
+"ok": "2016",
+"bad": [
+"2013",
+"2020"
+],
+"v": "Mesto San Sebastián bolo Európskym hlavným mestom kultúry v roku 2016.",
+"src": [
+[
+"ecoc-node-335",
+"2016 Donostia-San Sebastián and Wrocław 2016 European Capitals of Culture in Spain and Poland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto San Sebastián, Európske hlavné mesto kultúry v roku 2016?",
+"ok": "Španielsko",
+"bad": [
+"Česko",
+"Luxembursko"
+],
+"v": "San Sebastián (Španielsko) bolo Európskym hlavným mestom kultúry v roku 2016.",
+"src": [
+[
+"ecoc-node-335",
+"2016 Donostia-San Sebastián and Wrocław 2016 European Capitals of Culture in Spain and Poland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2016?",
+"ok": "Vroclav",
+"bad": [
+"Tartu",
+"Turku"
+],
+"v": "V roku 2016 boli Európskym hlavným mestom kultúry: San Sebastián, Vroclav.",
+"src": [
+[
+"ecoc-node-335",
+"2016 Donostia-San Sebastián and Wrocław 2016 European Capitals of Culture in Spain and Poland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Vroclav Európskym hlavným mestom kultúry?",
+"ok": "2016",
+"bad": [
+"2018",
+"2014"
+],
+"v": "Mesto Vroclav bolo Európskym hlavným mestom kultúry v roku 2016.",
+"src": [
+[
+"ecoc-node-335",
+"2016 Donostia-San Sebastián and Wrocław 2016 European Capitals of Culture in Spain and Poland"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2017?",
+"ok": "Aarhus",
+"bad": [
+"Salamanca",
+"Krakov"
+],
+"v": "V roku 2017 boli Európskym hlavným mestom kultúry: Aarhus, Pafos.",
+"src": [
+[
+"ecoc-node-335",
+"2017 Aarhus and Pafos 2017 European Capitals of Culture in Denmark and Cyprus"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Aarhus Európskym hlavným mestom kultúry?",
+"ok": "2017",
+"bad": [
+"2016",
+"2022"
+],
+"v": "Mesto Aarhus bolo Európskym hlavným mestom kultúry v roku 2017.",
+"src": [
+[
+"ecoc-node-335",
+"2017 Aarhus and Pafos 2017 European Capitals of Culture in Denmark and Cyprus"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Aarhus, Európske hlavné mesto kultúry v roku 2017?",
+"ok": "Dánsko",
+"bad": [
+"Turecko",
+"Spojené kráľovstvo"
+],
+"v": "Aarhus (Dánsko) bolo Európskym hlavným mestom kultúry v roku 2017.",
+"src": [
+[
+"ecoc-node-335",
+"2017 Aarhus and Pafos 2017 European Capitals of Culture in Denmark and Cyprus"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2017?",
+"ok": "Pafos",
+"bad": [
+"Turku",
+"Kaunas"
+],
+"v": "V roku 2017 boli Európskym hlavným mestom kultúry: Aarhus, Pafos.",
+"src": [
+[
+"ecoc-node-335",
+"2017 Aarhus and Pafos 2017 European Capitals of Culture in Denmark and Cyprus"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Pafos Európskym hlavným mestom kultúry?",
+"ok": "2017",
+"bad": [
+"2020",
+"2019"
+],
+"v": "Mesto Pafos bolo Európskym hlavným mestom kultúry v roku 2017.",
+"src": [
+[
+"ecoc-node-335",
+"2017 Aarhus and Pafos 2017 European Capitals of Culture in Denmark and Cyprus"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Pafos, Európske hlavné mesto kultúry v roku 2017?",
+"ok": "Cyprus",
+"bad": [
+"Fínsko",
+"Malta"
+],
+"v": "Pafos (Cyprus) bolo Európskym hlavným mestom kultúry v roku 2017.",
+"src": [
+[
+"ecoc-node-335",
+"2017 Aarhus and Pafos 2017 European Capitals of Culture in Denmark and Cyprus"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2018?",
+"ok": "Leeuwarden",
+"bad": [
+"Západný Berlín",
+"Luxemburg"
+],
+"v": "V roku 2018 boli Európskym hlavným mestom kultúry: Leeuwarden, Valletta.",
+"src": [
+[
+"ecoc-node-335",
+"2018 Leeuwarden and Valletta 2018 European Capitals of Culture in the Netherlands and Malta"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Leeuwarden Európskym hlavným mestom kultúry?",
+"ok": "2018",
+"bad": [
+"2020",
+"2016"
+],
+"v": "Mesto Leeuwarden bolo Európskym hlavným mestom kultúry v roku 2018.",
+"src": [
+[
+"ecoc-node-335",
+"2018 Leeuwarden and Valletta 2018 European Capitals of Culture in the Netherlands and Malta"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Leeuwarden, Európske hlavné mesto kultúry v roku 2018?",
+"ok": "Holandsko",
+"bad": [
+"Turecko",
+"Luxembursko"
+],
+"v": "Leeuwarden (Holandsko) bolo Európskym hlavným mestom kultúry v roku 2018.",
+"src": [
+[
+"ecoc-node-335",
+"2018 Leeuwarden and Valletta 2018 European Capitals of Culture in the Netherlands and Malta"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2018?",
+"ok": "Valletta",
+"bad": [
+"Sibiu",
+"Nikšić"
+],
+"v": "V roku 2018 boli Európskym hlavným mestom kultúry: Leeuwarden, Valletta.",
+"src": [
+[
+"ecoc-node-335",
+"2018 Leeuwarden and Valletta 2018 European Capitals of Culture in the Netherlands and Malta"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bolo mesto Valletta Európskym hlavným mestom kultúry?",
+"ok": "2018",
+"bad": [
+"2017",
+"2016"
+],
+"v": "Mesto Valletta bolo Európskym hlavným mestom kultúry v roku 2018.",
+"src": [
+[
+"ecoc-node-335",
+"2018 Leeuwarden and Valletta 2018 European Capitals of Culture in the Netherlands and Malta"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2019?",
+"ok": "Matera",
+"bad": [
+"Nikšić",
+"Kodaň"
+],
+"v": "V roku 2019 boli Európskym hlavným mestom kultúry: Matera, Plovdiv.",
+"src": [
+[
+"ecoc-node-335",
+"2019 Matera and Plovdiv 2019 European Capitals of Culture in Italy and Bulgaria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Matera Európskym hlavným mestom kultúry?",
+"ok": "2019",
+"bad": [
+"2017",
+"2024"
+],
+"v": "Mesto Matera bolo Európskym hlavným mestom kultúry v roku 2019.",
+"src": [
+[
+"ecoc-node-335",
+"2019 Matera and Plovdiv 2019 European Capitals of Culture in Italy and Bulgaria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Matera, Európske hlavné mesto kultúry v roku 2019?",
+"ok": "Taliansko",
+"bad": [
+"Holandsko",
+"Nemecko"
+],
+"v": "Matera (Taliansko) bolo Európskym hlavným mestom kultúry v roku 2019.",
+"src": [
+[
+"ecoc-node-335",
+"2019 Matera and Plovdiv 2019 European Capitals of Culture in Italy and Bulgaria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2019?",
+"ok": "Plovdiv",
+"bad": [
+"Tallinn",
+"Riga"
+],
+"v": "V roku 2019 boli Európskym hlavným mestom kultúry: Matera, Plovdiv.",
+"src": [
+[
+"ecoc-node-335",
+"2019 Matera and Plovdiv 2019 European Capitals of Culture in Italy and Bulgaria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Plovdiv Európskym hlavným mestom kultúry?",
+"ok": "2019",
+"bad": [
+"2020",
+"2017"
+],
+"v": "Mesto Plovdiv bolo Európskym hlavným mestom kultúry v roku 2019.",
+"src": [
+[
+"ecoc-node-335",
+"2019 Matera and Plovdiv 2019 European Capitals of Culture in Italy and Bulgaria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Plovdiv, Európske hlavné mesto kultúry v roku 2019?",
+"ok": "Bulharsko",
+"bad": [
+"Španielsko",
+"Nemecko"
+],
+"v": "Plovdiv (Bulharsko) bolo Európskym hlavným mestom kultúry v roku 2019.",
+"src": [
+[
+"ecoc-node-335",
+"2019 Matera and Plovdiv 2019 European Capitals of Culture in Italy and Bulgaria"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2020?",
+"ok": "Galway",
+"bad": [
+"Chemnitz",
+"San Sebastián"
+],
+"v": "V roku 2020 boli Európskym hlavným mestom kultúry: Galway, Rijeka.",
+"src": [
+[
+"ecoc-node-335",
+"2020 Galway and Rijeka 2020 European Capitals of Culture in Ireland and Croatia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Galway Európskym hlavným mestom kultúry?",
+"ok": "2020",
+"bad": [
+"2017",
+"2018"
+],
+"v": "Mesto Galway bolo Európskym hlavným mestom kultúry v roku 2020.",
+"src": [
+[
+"ecoc-node-335",
+"2020 Galway and Rijeka 2020 European Capitals of Culture in Ireland and Croatia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Galway, Európske hlavné mesto kultúry v roku 2020?",
+"ok": "Írsko",
+"bad": [
+"Portugalsko",
+"Litva"
+],
+"v": "Galway (Írsko) bolo Európskym hlavným mestom kultúry v roku 2020.",
+"src": [
+[
+"ecoc-node-335",
+"2020 Galway and Rijeka 2020 European Capitals of Culture in Ireland and Croatia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2020?",
+"ok": "Rijeka",
+"bad": [
+"Amsterdam",
+"Liverpool"
+],
+"v": "V roku 2020 boli Európskym hlavným mestom kultúry: Galway, Rijeka.",
+"src": [
+[
+"ecoc-node-335",
+"2020 Galway and Rijeka 2020 European Capitals of Culture in Ireland and Croatia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Rijeka Európskym hlavným mestom kultúry?",
+"ok": "2020",
+"bad": [
+"2024",
+"2019"
+],
+"v": "Mesto Rijeka bolo Európskym hlavným mestom kultúry v roku 2020.",
+"src": [
+[
+"ecoc-node-335",
+"2020 Galway and Rijeka 2020 European Capitals of Culture in Ireland and Croatia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Rijeka, Európske hlavné mesto kultúry v roku 2020?",
+"ok": "Chorvátsko",
+"bad": [
+"Turecko",
+"Srbsko"
+],
+"v": "Rijeka (Chorvátsko) bolo Európskym hlavným mestom kultúry v roku 2020.",
+"src": [
+[
+"ecoc-node-335",
+"2020 Galway and Rijeka 2020 European Capitals of Culture in Ireland and Croatia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2022?",
+"ok": "Esch-sur-Alzette",
+"bad": [
+"Cork",
+"Riga"
+],
+"v": "V roku 2022 boli Európskym hlavným mestom kultúry: Esch-sur-Alzette, Kaunas, Novi Sad.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Esch-sur-Alzette Európskym hlavným mestom kultúry?",
+"ok": "2022",
+"bad": [
+"2024",
+"2020"
+],
+"v": "Mesto Esch-sur-Alzette bolo Európskym hlavným mestom kultúry v roku 2022.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Esch-sur-Alzette, Európske hlavné mesto kultúry v roku 2022?",
+"ok": "Luxembursko",
+"bad": [
+"Španielsko",
+"Spojené kráľovstvo"
+],
+"v": "Esch-sur-Alzette (Luxembursko) bolo Európskym hlavným mestom kultúry v roku 2022.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2022?",
+"ok": "Kaunas",
+"bad": [
+"Guimarães",
+"Patra"
+],
+"v": "V roku 2022 boli Európskym hlavným mestom kultúry: Esch-sur-Alzette, Kaunas, Novi Sad.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Kaunas Európskym hlavným mestom kultúry?",
+"ok": "2022",
+"bad": [
+"2025",
+"2026"
+],
+"v": "Mesto Kaunas bolo Európskym hlavným mestom kultúry v roku 2022.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Kaunas, Európske hlavné mesto kultúry v roku 2022?",
+"ok": "Litva",
+"bad": [
+"Turecko",
+"Nórsko"
+],
+"v": "Kaunas (Litva) bolo Európskym hlavným mestom kultúry v roku 2022.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2022?",
+"ok": "Novi Sad",
+"bad": [
+"Atény",
+"Weimar"
+],
+"v": "V roku 2022 boli Európskym hlavným mestom kultúry: Esch-sur-Alzette, Kaunas, Novi Sad.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Novi Sad Európskym hlavným mestom kultúry?",
+"ok": "2022",
+"bad": [
+"2023",
+"2019"
+],
+"v": "Mesto Novi Sad bolo Európskym hlavným mestom kultúry v roku 2022.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Novi Sad, Európske hlavné mesto kultúry v roku 2022?",
+"ok": "Srbsko",
+"bad": [
+"Írsko",
+"Švédsko"
+],
+"v": "Novi Sad (Srbsko) bolo Európskym hlavným mestom kultúry v roku 2022.",
+"src": [
+[
+"ecoc-node-335",
+"2022 Esch, Kaunas and Novi Sad 2022 European Capitals of Culture in Luxembourg, Lithuania and Serbia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2023?",
+"ok": "Elefsina",
+"bad": [
+"Pécs",
+"Umeå"
+],
+"v": "V roku 2023 boli Európskym hlavným mestom kultúry: Elefsina, Temešvár, Veszprém.",
+"src": [
+[
+"ecoc-node-335",
+"2023 Elefsina, Timișoara and Veszprém"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Elefsina Európskym hlavným mestom kultúry?",
+"ok": "2023",
+"bad": [
+"2018",
+"2024"
+],
+"v": "Mesto Elefsina bolo Európskym hlavným mestom kultúry v roku 2023.",
+"src": [
+[
+"ecoc-node-335",
+"2023 Elefsina, Timișoara and Veszprém"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2023?",
+"ok": "Temešvár",
+"bad": [
+"Bourges",
+"Pafos"
+],
+"v": "V roku 2023 boli Európskym hlavným mestom kultúry: Elefsina, Temešvár, Veszprém.",
+"src": [
+[
+"ecoc-node-335",
+"2023 Elefsina, Timișoara and Veszprém"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Temešvár Európskym hlavným mestom kultúry?",
+"ok": "2023",
+"bad": [
+"2025",
+"2020"
+],
+"v": "Mesto Temešvár bolo Európskym hlavným mestom kultúry v roku 2023.",
+"src": [
+[
+"ecoc-node-335",
+"2023 Elefsina, Timișoara and Veszprém"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2023?",
+"ok": "Veszprém",
+"bad": [
+"Lille",
+"Weimar"
+],
+"v": "V roku 2023 boli Európskym hlavným mestom kultúry: Elefsina, Temešvár, Veszprém.",
+"src": [
+[
+"ecoc-node-335",
+"2023 Elefsina, Timișoara and Veszprém"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Veszprém Európskym hlavným mestom kultúry?",
+"ok": "2023",
+"bad": [
+"2019",
+"2020"
+],
+"v": "Mesto Veszprém bolo Európskym hlavným mestom kultúry v roku 2023.",
+"src": [
+[
+"ecoc-node-335",
+"2023 Elefsina, Timișoara and Veszprém"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2024?",
+"ok": "Bad Ischl",
+"bad": [
+"Nova Gorica",
+"Glasgow"
+],
+"v": "V roku 2024 boli Európskym hlavným mestom kultúry: Bad Ischl, Bodø, Tartu.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Bad Ischl Európskym hlavným mestom kultúry?",
+"ok": "2024",
+"bad": [
+"2020",
+"2023"
+],
+"v": "Mesto Bad Ischl bolo Európskym hlavným mestom kultúry v roku 2024.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Bad Ischl, Európske hlavné mesto kultúry v roku 2024?",
+"ok": "Rakúsko",
+"bad": [
+"Holandsko",
+"Island"
+],
+"v": "Bad Ischl (Rakúsko) bolo Európskym hlavným mestom kultúry v roku 2024.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2024?",
+"ok": "Bodø",
+"bad": [
+"Bologna",
+"Sibiu"
+],
+"v": "V roku 2024 boli Európskym hlavným mestom kultúry: Bad Ischl, Bodø, Tartu.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Bodø Európskym hlavným mestom kultúry?",
+"ok": "2024",
+"bad": [
+"2025",
+"2022"
+],
+"v": "Mesto Bodø bolo Európskym hlavným mestom kultúry v roku 2024.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Bodø, Európske hlavné mesto kultúry v roku 2024?",
+"ok": "Nórsko",
+"bad": [
+"Slovensko",
+"Estónsko"
+],
+"v": "Bodø (Nórsko) bolo Európskym hlavným mestom kultúry v roku 2024.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2024?",
+"ok": "Tartu",
+"bad": [
+"Liepāja",
+"Galway"
+],
+"v": "V roku 2024 boli Európskym hlavným mestom kultúry: Bad Ischl, Bodø, Tartu.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Tartu Európskym hlavným mestom kultúry?",
+"ok": "2024",
+"bad": [
+"2022",
+"2028"
+],
+"v": "Mesto Tartu bolo Európskym hlavným mestom kultúry v roku 2024.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Tartu, Európske hlavné mesto kultúry v roku 2024?",
+"ok": "Estónsko",
+"bad": [
+"Turecko",
+"Bulharsko"
+],
+"v": "Tartu (Estónsko) bolo Európskym hlavným mestom kultúry v roku 2024.",
+"src": [
+[
+"ecoc-node-335",
+"2024 Bad Ischl, Bodø and Tartu 2024 European Capitals of Culture in Austria, Norway (EFTA/EEA country) and Estonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2025?",
+"ok": "Chemnitz",
+"bad": [
+"Salamanca",
+"Vilnius"
+],
+"v": "V roku 2025 boli Európskym hlavným mestom kultúry: Chemnitz, Nova Gorica.",
+"src": [
+[
+"ecoc-node-335",
+"2025 Chemnitz and Nova Gorica 2025 European Capitals of Culture in Germany and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Chemnitz Európskym hlavným mestom kultúry?",
+"ok": "2025",
+"bad": [
+"2022",
+"2026"
+],
+"v": "Mesto Chemnitz bolo Európskym hlavným mestom kultúry v roku 2025.",
+"src": [
+[
+"ecoc-node-335",
+"2025 Chemnitz and Nova Gorica 2025 European Capitals of Culture in Germany and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Chemnitz, Európske hlavné mesto kultúry v roku 2025?",
+"ok": "Nemecko",
+"bad": [
+"Turecko",
+"Malta"
+],
+"v": "Chemnitz (Nemecko) bolo Európskym hlavným mestom kultúry v roku 2025.",
+"src": [
+[
+"ecoc-node-335",
+"2025 Chemnitz and Nova Gorica 2025 European Capitals of Culture in Germany and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bolo Európskym hlavným mestom kultúry v roku 2025?",
+"ok": "Nova Gorica",
+"bad": [
+"Kaunas",
+"Štokholm"
+],
+"v": "V roku 2025 boli Európskym hlavným mestom kultúry: Chemnitz, Nova Gorica.",
+"src": [
+[
+"ecoc-node-335",
+"2025 Chemnitz and Nova Gorica 2025 European Capitals of Culture in Germany and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bolo mesto Nova Gorica Európskym hlavným mestom kultúry?",
+"ok": "2025",
+"bad": [
+"2020",
+"2024"
+],
+"v": "Mesto Nova Gorica bolo Európskym hlavným mestom kultúry v roku 2025.",
+"src": [
+[
+"ecoc-node-335",
+"2025 Chemnitz and Nova Gorica 2025 European Capitals of Culture in Germany and Slovenia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Nova Gorica, Európske hlavné mesto kultúry v roku 2025?",
+"ok": "Slovinsko",
+"bad": [
+"Francúzsko",
+"Turecko"
+],
+"v": "Nova Gorica (Slovinsko) bolo Európskym hlavným mestom kultúry v roku 2025.",
+"src": [
+[
+"ecoc-node-335",
+"2025 Chemnitz and Nova Gorica 2025 European Capitals of Culture in Germany and Slovenia"
+]
+]
+},
+{
+"kat": "akt",
+"n": 1,
+"text": "Ktoré z týchto miest je Európskym hlavným mestom kultúry v roku 2026?",
+"ok": "Oulu",
+"bad": [
+"Antverpy",
+"Brusel"
+],
+"v": "V roku 2026 sú Európskym hlavným mestom kultúry: Oulu, Trenčín.",
+"src": [
+[
+"ecoc-node-335",
+"2026 Oulu and Trenčín 2026 European Capitals of Culture in Finland and Slovakia"
+]
+]
+},
+{
+"kat": "akt",
+"n": 2,
+"text": "V ktorom roku je mesto Oulu Európskym hlavným mestom kultúry?",
+"ok": "2026",
+"bad": [
+"2022",
+"2030"
+],
+"v": "Mesto Oulu je Európskym hlavným mestom kultúry v roku 2026.",
+"src": [
+[
+"ecoc-node-335",
+"2026 Oulu and Trenčín 2026 European Capitals of Culture in Finland and Slovakia"
+]
+]
+},
+{
+"kat": "svk",
+"n": 1,
+"text": "Ktoré z týchto miest je Európskym hlavným mestom kultúry v roku 2026?",
+"ok": "Trenčín",
+"bad": [
+"Mons",
+"San Sebastián"
+],
+"v": "V roku 2026 sú Európskym hlavným mestom kultúry: Oulu, Trenčín.",
+"src": [
+[
+"ecoc-node-335",
+"2026 Oulu and Trenčín 2026 European Capitals of Culture in Finland and Slovakia"
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "V ktorom roku je mesto Trenčín Európskym hlavným mestom kultúry?",
+"ok": "2026",
+"bad": [
+"2030",
+"2024"
+],
+"v": "Mesto Trenčín je Európskym hlavným mestom kultúry v roku 2026.",
+"src": [
+[
+"ecoc-node-335",
+"2026 Oulu and Trenčín 2026 European Capitals of Culture in Finland and Slovakia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2027?",
+"ok": "Liepāja",
+"bad": [
+"Patra",
+"Tallinn"
+],
+"v": "V roku 2027 budú Európskym hlavným mestom kultúry: Liepāja, Évora.",
+"src": [
+[
+"ecoc-node-335",
+"2027 Liepāja and Évora 2027 European Capitals of Culture in Latvia and Portugal"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Liepāja Európskym hlavným mestom kultúry?",
+"ok": "2027",
+"bad": [
+"2023",
+"2024"
+],
+"v": "Mesto Liepāja bude Európskym hlavným mestom kultúry v roku 2027.",
+"src": [
+[
+"ecoc-node-335",
+"2027 Liepāja and Évora 2027 European Capitals of Culture in Latvia and Portugal"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Liepāja, Európske hlavné mesto kultúry v roku 2027?",
+"ok": "Lotyšsko",
+"bad": [
+"Švédsko",
+"Slovinsko"
+],
+"v": "Liepāja (Lotyšsko) bude Európskym hlavným mestom kultúry v roku 2027.",
+"src": [
+[
+"ecoc-node-335",
+"2027 Liepāja and Évora 2027 European Capitals of Culture in Latvia and Portugal"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2027?",
+"ok": "Évora",
+"bad": [
+"Solún",
+"Košice"
+],
+"v": "V roku 2027 budú Európskym hlavným mestom kultúry: Liepāja, Évora.",
+"src": [
+[
+"ecoc-node-335",
+"2027 Liepāja and Évora 2027 European Capitals of Culture in Latvia and Portugal"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Évora Európskym hlavným mestom kultúry?",
+"ok": "2027",
+"bad": [
+"2028",
+"2029"
+],
+"v": "Mesto Évora bude Európskym hlavným mestom kultúry v roku 2027.",
+"src": [
+[
+"ecoc-node-335",
+"2027 Liepāja and Évora 2027 European Capitals of Culture in Latvia and Portugal"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Évora, Európske hlavné mesto kultúry v roku 2027?",
+"ok": "Portugalsko",
+"bad": [
+"Chorvátsko",
+"Island"
+],
+"v": "Évora (Portugalsko) bude Európskym hlavným mestom kultúry v roku 2027.",
+"src": [
+[
+"ecoc-node-335",
+"2027 Liepāja and Évora 2027 European Capitals of Culture in Latvia and Portugal"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2028?",
+"ok": "České Budějovice",
+"bad": [
+"Helsinki",
+"Turku"
+],
+"v": "V roku 2028 budú Európskym hlavným mestom kultúry: České Budějovice, Bourges, Skopje.",
+"src": [
+[
+"ecoc-node-335",
+"2028 České Budějovice, Bourges and Skopje 2028 European Capitals of Culture in Czechia, France and North Macedonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom roku bude mesto České Budějovice Európskym hlavným mestom kultúry?",
+"ok": "2028",
+"bad": [
+"2025",
+"2026"
+],
+"v": "Mesto České Budějovice bude Európskym hlavným mestom kultúry v roku 2028.",
+"src": [
+[
+"ecoc-node-335",
+"2028 České Budějovice, Bourges and Skopje 2028 European Capitals of Culture in Czechia, France and North Macedonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2028?",
+"ok": "Bourges",
+"bad": [
+"Mons",
+"Lublin"
+],
+"v": "V roku 2028 budú Európskym hlavným mestom kultúry: České Budějovice, Bourges, Skopje.",
+"src": [
+[
+"ecoc-node-335",
+"2028 České Budějovice, Bourges and Skopje 2028 European Capitals of Culture in Czechia, France and North Macedonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Bourges Európskym hlavným mestom kultúry?",
+"ok": "2028",
+"bad": [
+"2024",
+"2029"
+],
+"v": "Mesto Bourges bude Európskym hlavným mestom kultúry v roku 2028.",
+"src": [
+[
+"ecoc-node-335",
+"2028 České Budějovice, Bourges and Skopje 2028 European Capitals of Culture in Czechia, France and North Macedonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Bourges, Európske hlavné mesto kultúry v roku 2028?",
+"ok": "Francúzsko",
+"bad": [
+"Estónsko",
+"Luxembursko"
+],
+"v": "Bourges (Francúzsko) bude Európskym hlavným mestom kultúry v roku 2028.",
+"src": [
+[
+"ecoc-node-335",
+"2028 České Budějovice, Bourges and Skopje 2028 European Capitals of Culture in Czechia, France and North Macedonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2028?",
+"ok": "Skopje",
+"bad": [
+"Nova Gorica",
+"Reykjavík"
+],
+"v": "V roku 2028 budú Európskym hlavným mestom kultúry: České Budějovice, Bourges, Skopje.",
+"src": [
+[
+"ecoc-node-335",
+"2028 České Budějovice, Bourges and Skopje 2028 European Capitals of Culture in Czechia, France and North Macedonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Skopje Európskym hlavným mestom kultúry?",
+"ok": "2028",
+"bad": [
+"2030",
+"2027"
+],
+"v": "Mesto Skopje bude Európskym hlavným mestom kultúry v roku 2028.",
+"src": [
+[
+"ecoc-node-335",
+"2028 České Budějovice, Bourges and Skopje 2028 European Capitals of Culture in Czechia, France and North Macedonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Skopje, Európske hlavné mesto kultúry v roku 2028?",
+"ok": "Severné Macedónsko",
+"bad": [
+"Maďarsko",
+"Fínsko"
+],
+"v": "Skopje (Severné Macedónsko) bude Európskym hlavným mestom kultúry v roku 2028.",
+"src": [
+[
+"ecoc-node-335",
+"2028 České Budějovice, Bourges and Skopje 2028 European Capitals of Culture in Czechia, France and North Macedonia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2029?",
+"ok": "Lublin",
+"bad": [
+"Temešvár",
+"San Sebastián"
+],
+"v": "V roku 2029 budú Európskym hlavným mestom kultúry: Lublin, Kiruna.",
+"src": [
+[
+"ecoc-node-335",
+"2029 Lublin and Kiruna 2029 European Capitals of Culture in Poland and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Lublin Európskym hlavným mestom kultúry?",
+"ok": "2029",
+"bad": [
+"2028",
+"2030"
+],
+"v": "Mesto Lublin bude Európskym hlavným mestom kultúry v roku 2029.",
+"src": [
+[
+"ecoc-node-335",
+"2029 Lublin and Kiruna 2029 European Capitals of Culture in Poland and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Lublin, Európske hlavné mesto kultúry v roku 2029?",
+"ok": "Poľsko",
+"bad": [
+"Taliansko",
+"Česko"
+],
+"v": "Lublin (Poľsko) bude Európskym hlavným mestom kultúry v roku 2029.",
+"src": [
+[
+"ecoc-node-335",
+"2029 Lublin and Kiruna 2029 European Capitals of Culture in Poland and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2029?",
+"ok": "Kiruna",
+"bad": [
+"Chemnitz",
+"Oulu"
+],
+"v": "V roku 2029 budú Európskym hlavným mestom kultúry: Lublin, Kiruna.",
+"src": [
+[
+"ecoc-node-335",
+"2029 Lublin and Kiruna 2029 European Capitals of Culture in Poland and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Kiruna Európskym hlavným mestom kultúry?",
+"ok": "2029",
+"bad": [
+"2026",
+"2025"
+],
+"v": "Mesto Kiruna bude Európskym hlavným mestom kultúry v roku 2029.",
+"src": [
+[
+"ecoc-node-335",
+"2029 Lublin and Kiruna 2029 European Capitals of Culture in Poland and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Kiruna, Európske hlavné mesto kultúry v roku 2029?",
+"ok": "Švédsko",
+"bad": [
+"Čierna Hora",
+"Malta"
+],
+"v": "Kiruna (Švédsko) bude Európskym hlavným mestom kultúry v roku 2029.",
+"src": [
+[
+"ecoc-node-335",
+"2029 Lublin and Kiruna 2029 European Capitals of Culture in Poland and Sweden"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2030?",
+"ok": "Leuven",
+"bad": [
+"Liverpool",
+"Solún"
+],
+"v": "V roku 2030 budú Európskym hlavným mestom kultúry: Leuven, Larnaka, Nikšić.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Leuven Európskym hlavným mestom kultúry?",
+"ok": "2030",
+"bad": [
+"2028",
+"2029"
+],
+"v": "Mesto Leuven bude Európskym hlavným mestom kultúry v roku 2030.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Leuven, Európske hlavné mesto kultúry v roku 2030?",
+"ok": "Belgicko",
+"bad": [
+"Nórsko",
+"Severné Macedónsko"
+],
+"v": "Leuven (Belgicko) bude Európskym hlavným mestom kultúry v roku 2030.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2030?",
+"ok": "Larnaka",
+"bad": [
+"Santiago de Compostela",
+"Oulu"
+],
+"v": "V roku 2030 budú Európskym hlavným mestom kultúry: Leuven, Larnaka, Nikšić.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Larnaka Európskym hlavným mestom kultúry?",
+"ok": "2030",
+"bad": [
+"2028",
+"2026"
+],
+"v": "Mesto Larnaka bude Európskym hlavným mestom kultúry v roku 2030.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Larnaka, Európske hlavné mesto kultúry v roku 2030?",
+"ok": "Cyprus",
+"bad": [
+"Bulharsko",
+"Chorvátsko"
+],
+"v": "Larnaka (Cyprus) bude Európskym hlavným mestom kultúry v roku 2030.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest bude Európskym hlavným mestom kultúry v roku 2030?",
+"ok": "Nikšić",
+"bad": [
+"Atény",
+"Umeå"
+],
+"v": "V roku 2030 budú Európskym hlavným mestom kultúry: Leuven, Larnaka, Nikšić.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorom roku bude mesto Nikšić Európskym hlavným mestom kultúry?",
+"ok": "2030",
+"bad": [
+"2027",
+"2028"
+],
+"v": "Mesto Nikšić bude Európskym hlavným mestom kultúry v roku 2030.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "V ktorej krajine leží mesto Nikšić, Európske hlavné mesto kultúry v roku 2030?",
+"ok": "Čierna Hora",
+"bad": [
+"Bulharsko",
+"Taliansko"
+],
+"v": "Nikšić (Čierna Hora) bude Európskym hlavným mestom kultúry v roku 2030.",
+"src": [
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić 2030 European Capitals of Culture in Belgium, Cyprus and Montenegro"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Od ktorého roku existuje iniciatíva Európske hlavné mesto kultúry?",
+"ok": "1985",
+"bad": [
+"1975",
+"1993"
+],
+"v": "Iniciatíva Európske hlavné mesto kultúry vznikla v roku 1985 (prvým mestom boli Atény).",
+"src": [
+[
+"ecoc",
+"The initiative was developed in 1985"
+],
+[
+"ecoc-node-335",
+"1985 Athens 1985 European Capital of Culture in Greece"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ako sa volá cena, ktorú môže Európska komisia vyplatiť úspešnému Európskemu hlavnému mestu kultúry?",
+"ok": "Cena Meliny Mercouriovej",
+"bad": [
+"Cena Altiera Spinelliho",
+"Cena Karola Veľkého"
+],
+"v": "Ide o Cenu Meliny Mercouriovej (Melina Mercouri Prize), v súčasnosti 1,5 mil. eur z programu Kreatívna Európa.",
+"src": [
+[
+"ecoc",
+"Melina Mercouri Prize (currently €1.5m funded from the EU Creative Europe programme)"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Z ktorého programu EÚ sa financuje Cena Meliny Mercouriovej pre Európske hlavné mestá kultúry?",
+"ok": "Kreatívna Európa",
+"bad": [
+"Erasmus+",
+"Horizont Európa"
+],
+"v": "Cena Meliny Mercouriovej (1,5 mil. eur) sa financuje z programu Kreatívna Európa.",
+"src": [
+[
+"ecoc",
+"Melina Mercouri Prize (currently €1.5m funded from the EU Creative Europe programme)"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Koľko rokov pred rokom, v ktorom mesto nesie titul, sa Európske hlavné mesto kultúry formálne určí?",
+"ok": "štyri roky",
+"bad": [
+"jeden rok",
+"desať rokov"
+],
+"v": "Európske hlavné mestá kultúry sa formálne určujú štyri roky pred samotným rokom titulu.",
+"src": [
+[
+"ecoc",
+"European Capitals of Culture are formally designated four years before the actual title year"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Kto formálne určí mesto za Európske hlavné mesto kultúry v členskom štáte EÚ?",
+"ok": "príslušný orgán daného členského štátu na odporúčanie poroty",
+"bad": [
+"Európsky parlament hlasovaním v pléne",
+"Rada Európy"
+],
+"v": "Nezávislá porota odporučí jedno mesto za každú hostiteľskú krajinu a príslušný orgán členského štátu ho formálne určí.",
+"src": [
+[
+"ecoc",
+"The relevant authority in the Member State concerned then formally designates the recommended city as European Capital of Culture"
+]
+]
+},
+{
+"kat": "akt",
+"n": 2,
+"text": "Ktoré dve krajiny budú mať Európske hlavné mesto kultúry v roku 2031?",
+"ok": "Malta a Španielsko",
+"bad": [
+"Bulharsko a Dánsko",
+"Grécko a Írsko"
+],
+"v": "V roku 2031 budú tento titul niesť mestá z Malty a zo Španielska; súťaže o rok 2032 prebiehajú v Bulharsku a Dánsku.",
+"src": [
+[
+"ecoc-node-335",
+"2031 European Capitals of Culture in Malta and Spain"
+]
+]
+},
+{
+"kat": "akt",
+"n": 3,
+"text": "Ktoré dve krajiny budú mať Európske hlavné mesto kultúry v roku 2032?",
+"ok": "Bulharsko a Dánsko",
+"bad": [
+"Malta a Španielsko",
+"Slovensko a Fínsko"
+],
+"v": "V roku 2032 budú mať Európske hlavné mesto kultúry Bulharsko a Dánsko (súťaže sa začali v decembri 2025).",
+"src": [
+[
+"ecoc-node-335",
+"one in Bulgaria: competition started in December 2025 one in Denmark: competition started in December 2025"
+]
+]
+},
+{
+"kat": "akt",
+"n": 3,
+"text": "Kedy Európska komisia predložila návrh nového právneho rámca pre Európske hlavné mestá kultúry na roky 2034 – 2047?",
+"ok": "v septembri 2026",
+"bad": [
+"v januári 2024",
+"v máji 2025"
+],
+"v": "Komisia predložila návrh nového právneho rámca na obdobie 2034 – 2047 v septembri 2026.",
+"src": [
+[
+"ecoc",
+"The European Commission put forward its proposal for the new legal framework for the period between 2034 and 2047 in September 2026"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré z týchto miest mimo EÚ získalo titul Európske hlavné mesto kultúry pre rok 2030?",
+"ok": "Nikšić (Čierna Hora)",
+"bad": [
+"Skopje (Severné Macedónsko)",
+"Novi Sad (Srbsko)"
+],
+"v": "Pre rok 2030 je určené čiernohorské mesto Nikšić; Skopje má titul v roku 2028 a Novi Sad ho mal v roku 2022.",
+"src": [
+[
+"ecoc-node-335",
+"Nikšić in Montenegro"
+],
+[
+"ecoc-node-335",
+"2030 Leuven, Larnaka and Nikšić"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1988?",
+"ok": "Nelson Mandela",
+"bad": [
+"Taslima Nasrin",
+"Oswaldo José Payá Sardiñas"
+],
+"v": "Sacharovovu cenu za rok 1988 získal(i): Nelson Mandela.",
+"src": [
+[
+"sak-1988-2000",
+"Nelson Rolihlahla Mandela – 1988, Južná Afrika"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Nelson Mandela?",
+"ok": "1988",
+"bad": [
+"1992",
+"1989"
+],
+"v": "Nelson Mandela – Sacharovova cena za rok 1988.",
+"src": [
+[
+"sak-1988-2000",
+"Nelson Rolihlahla Mandela – 1988, Južná Afrika"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Nelson Mandela (1988)?",
+"ok": "Južná Afrika",
+"bad": [
+"Východný Timor",
+"Slovensko"
+],
+"v": "Nelson Mandela získal(a) Sacharovovu cenu v roku 1988; podľa EP: Južná Afrika.",
+"src": [
+[
+"sak-1988-2000",
+"Nelson Rolihlahla Mandela – 1988, Južná Afrika"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Anatolij Marčenko (1988)?",
+"ok": "Rusko",
+"bad": [
+"Irán",
+"Konžská demokratická republika"
+],
+"v": "Anatolij Marčenko získal(a) Sacharovovu cenu v roku 1988; podľa EP: Rusko.",
+"src": [
+[
+"sak-1988-2000",
+"Anatolij Marčenko (in memoriam) – 1988, Rusko"
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1989?",
+"ok": "Alexander Dubček",
+"bad": [
+"Memorial",
+"Kofi Annan a pracovníci Organizácie Spojených národov"
+],
+"v": "Sacharovovu cenu za rok 1989 získal(i): Alexander Dubček.",
+"src": [
+[
+"sak-1988-2000",
+"Alexander Dubček – 1989, Slovensko"
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Alexander Dubček?",
+"ok": "1989",
+"bad": [
+"1988",
+"1991"
+],
+"v": "Alexander Dubček – Sacharovova cena za rok 1989.",
+"src": [
+[
+"sak-1988-2000",
+"Alexander Dubček – 1989, Slovensko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1990?",
+"ok": "Aun Schan Su Ťij",
+"bad": [
+"demokratická opozícia v Bielorusku",
+"Andrzej Poczobut a Mzia Amaglobeli"
+],
+"v": "Sacharovovu cenu za rok 1990 získal(i): Aun Schan Su Ťij.",
+"src": [
+[
+"sak-1988-2000",
+"Aun Schan Su Ťij – 1990, Mjanmarsko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Aun Schan Su Ťij?",
+"ok": "1990",
+"bad": [
+"1992",
+"1989"
+],
+"v": "Aun Schan Su Ťij – Sacharovova cena za rok 1990.",
+"src": [
+[
+"sak-1988-2000",
+"Aun Schan Su Ťij – 1990, Mjanmarsko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Aun Schan Su Ťij (1990)?",
+"ok": "Mjanmarsko",
+"bad": [
+"Pakistan",
+"Slovensko"
+],
+"v": "Aun Schan Su Ťij získal(a) Sacharovovu cenu v roku 1990; podľa EP: Mjanmarsko.",
+"src": [
+[
+"sak-1988-2000",
+"Aun Schan Su Ťij – 1990, Mjanmarsko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1991?",
+"ok": "Adem Demaçi",
+"bad": [
+"Rá´if Badawí",
+"Salíma Ghazálí"
+],
+"v": "Sacharovovu cenu za rok 1991 získal(i): Adem Demaçi.",
+"src": [
+[
+"sak-1988-2000",
+"Adem Demaçi – 1991, Kosovo"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Adem Demaçi (1991)?",
+"ok": "Kosovo",
+"bad": [
+"Bosna a Hercegovina",
+"Alžírsko"
+],
+"v": "Adem Demaçi získal(a) Sacharovovu cenu v roku 1991; podľa EP: Kosovo.",
+"src": [
+[
+"sak-1988-2000",
+"Adem Demaçi – 1991, Kosovo"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1992?",
+"ok": "Las Madres de Plaza de Mayo (Matky z Májového námestia)",
+"bad": [
+"Alexander Dubček",
+"Aun Schan Su Ťij"
+],
+"v": "Sacharovovu cenu za rok 1992 získal(i): Las Madres de Plaza de Mayo (Matky z Májového námestia).",
+"src": [
+[
+"sak-1988-2000",
+"Las Madres de Plaza de Mayo – 1992, Argentína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Las Madres de Plaza de Mayo (Matky z Májového námestia)?",
+"ok": "1992",
+"bad": [
+"1990",
+"1988"
+],
+"v": "Las Madres de Plaza de Mayo (Matky z Májového námestia) – Sacharovova cena za rok 1992.",
+"src": [
+[
+"sak-1988-2000",
+"Las Madres de Plaza de Mayo – 1992, Argentína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Las Madres de Plaza de Mayo (Matky z Májového námestia) (1992)?",
+"ok": "Argentína",
+"bad": [
+"Mjanmarsko",
+"Slovensko"
+],
+"v": "Las Madres de Plaza de Mayo (Matky z Májového námestia) získal(a) Sacharovovu cenu v roku 1992; podľa EP: Argentína.",
+"src": [
+[
+"sak-1988-2000",
+"Las Madres de Plaza de Mayo – 1992, Argentína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1993?",
+"ok": "denník Oslobođenje",
+"bad": [
+"Bieloruské združenie novinárov",
+"María Corina Machado a Edmundo González Urrutia"
+],
+"v": "Sacharovovu cenu za rok 1993 získal(i): denník Oslobođenje.",
+"src": [
+[
+"sak-1988-2000",
+"Oslobođenje – 1993, Bosna a Hercegovina"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny denník Oslobođenje (1993)?",
+"ok": "Bosna a Hercegovina",
+"bad": [
+"Saudská Arábia",
+"Sudán"
+],
+"v": "denník Oslobođenje získal(a) Sacharovovu cenu v roku 1993; podľa EP: Bosna a Hercegovina.",
+"src": [
+[
+"sak-1988-2000",
+"Oslobođenje – 1993, Bosna a Hercegovina"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1994?",
+"ok": "Taslima Nasrin",
+"bad": [
+"Las Madres de Plaza de Mayo (Matky z Májového námestia)",
+"Reportéri bez hraníc"
+],
+"v": "Sacharovovu cenu za rok 1994 získal(i): Taslima Nasrin.",
+"src": [
+[
+"sak-1988-2000",
+"Taslima Nasrin – 1994, Bangladéš"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Taslima Nasrin (1994)?",
+"ok": "Bangladéš",
+"bad": [
+"Rusko",
+"Turecko"
+],
+"v": "Taslima Nasrin získal(a) Sacharovovu cenu v roku 1994; podľa EP: Bangladéš.",
+"src": [
+[
+"sak-1988-2000",
+"Taslima Nasrin – 1994, Bangladéš"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1995?",
+"ok": "Leyla Zana",
+"bad": [
+"denník Oslobođenje",
+"Oleg Sencov"
+],
+"v": "Sacharovovu cenu za rok 1995 získal(i): Leyla Zana.",
+"src": [
+[
+"sak-1988-2000",
+"Leyla Zana – 1995, Turecko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Leyla Zana?",
+"ok": "1995",
+"bad": [
+"1991",
+"1992"
+],
+"v": "Leyla Zana – Sacharovova cena za rok 1995.",
+"src": [
+[
+"sak-1988-2000",
+"Leyla Zana – 1995, Turecko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Leyla Zana (1995)?",
+"ok": "Turecko",
+"bad": [
+"Kuba",
+"Rusko"
+],
+"v": "Leyla Zana získal(a) Sacharovovu cenu v roku 1995; podľa EP: Turecko.",
+"src": [
+[
+"sak-1988-2000",
+"Leyla Zana – 1995, Turecko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1996?",
+"ok": "Wej Ťing-šeng",
+"bad": [
+"Xanana Gusmão",
+"denník Oslobođenje"
+],
+"v": "Sacharovovu cenu za rok 1996 získal(i): Wej Ťing-šeng.",
+"src": [
+[
+"sak-1988-2000",
+"Wej Ťing-šeng – 1996, Čína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Wej Ťing-šeng (1996)?",
+"ok": "Čína",
+"bad": [
+"Bosna a Hercegovina",
+"Sudán"
+],
+"v": "Wej Ťing-šeng získal(a) Sacharovovu cenu v roku 1996; podľa EP: Čína.",
+"src": [
+[
+"sak-1988-2000",
+"Wej Ťing-šeng – 1996, Čína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1997?",
+"ok": "Salíma Ghazálí",
+"bad": [
+"Reportéri bez hraníc",
+"Alexander Milinkievič"
+],
+"v": "Sacharovovu cenu za rok 1997 získal(i): Salíma Ghazálí.",
+"src": [
+[
+"sak-1988-2000",
+"Salíma Ghazálí – 1997, Alžírsko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Salíma Ghazálí (1997)?",
+"ok": "Alžírsko",
+"bad": [
+"Bielorusko",
+"Mjanmarsko"
+],
+"v": "Salíma Ghazálí získal(a) Sacharovovu cenu v roku 1997; podľa EP: Alžírsko.",
+"src": [
+[
+"sak-1988-2000",
+"Salíma Ghazálí – 1997, Alžírsko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1998?",
+"ok": "Ibrahim Rugova",
+"bad": [
+"statočný ľud Ukrajiny",
+"Bieloruské združenie novinárov"
+],
+"v": "Sacharovovu cenu za rok 1998 získal(i): Ibrahim Rugova.",
+"src": [
+[
+"sak-1988-2000",
+"Ibrahim Rugova – 1998, Kosovo"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Ibrahim Rugova?",
+"ok": "1998",
+"bad": [
+"1994",
+"1995"
+],
+"v": "Ibrahim Rugova – Sacharovova cena za rok 1998.",
+"src": [
+[
+"sak-1988-2000",
+"Ibrahim Rugova – 1998, Kosovo"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Ibrahim Rugova (1998)?",
+"ok": "Kosovo",
+"bad": [
+"Konžská demokratická republika",
+"Južná Afrika"
+],
+"v": "Ibrahim Rugova získal(a) Sacharovovu cenu v roku 1998; podľa EP: Kosovo.",
+"src": [
+[
+"sak-1988-2000",
+"Ibrahim Rugova – 1998, Kosovo"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 1999?",
+"ok": "Xanana Gusmão",
+"bad": [
+"demokratická opozícia vo Venezuele",
+"Oswaldo José Payá Sardiñas"
+],
+"v": "Sacharovovu cenu za rok 1999 získal(i): Xanana Gusmão.",
+"src": [
+[
+"sak-1988-2000",
+"Xanana Gusmão – 1999, Východný Timor"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Xanana Gusmão (1999)?",
+"ok": "Východný Timor",
+"bad": [
+"Pakistan",
+"Južná Afrika"
+],
+"v": "Xanana Gusmão získal(a) Sacharovovu cenu v roku 1999; podľa EP: Východný Timor.",
+"src": [
+[
+"sak-1988-2000",
+"Xanana Gusmão – 1999, Východný Timor"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2000?",
+"ok": "¡Basta Ya!",
+"bad": [
+"Memorial",
+"Ibrahim Rugova"
+],
+"v": "Sacharovovu cenu za rok 2000 získal(i): ¡Basta Ya!.",
+"src": [
+[
+"sak-1988-2000",
+"¡Basta Ya! – 2000, Španielsko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny ¡Basta Ya! (2000)?",
+"ok": "Španielsko",
+"bad": [
+"Východný Timor",
+"Alžírsko"
+],
+"v": "¡Basta Ya! získal(a) Sacharovovu cenu v roku 2000; podľa EP: Španielsko.",
+"src": [
+[
+"sak-1988-2000",
+"¡Basta Ya! – 2000, Španielsko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2001?",
+"ok": "Dom Zacarias Kamwenho",
+"bad": [
+"María Corina Machado a Edmundo González Urrutia",
+"Ilham Tohti"
+],
+"v": "Sacharovovu cenu za rok 2001 získal(i): Dom Zacarias Kamwenho.",
+"src": [
+[
+"sak-2001-2010",
+"Dom Zacarias Kamwenho – 2001, Angola"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Dom Zacarias Kamwenho?",
+"ok": "2001",
+"bad": [
+"1999",
+"2003"
+],
+"v": "Dom Zacarias Kamwenho – Sacharovova cena za rok 2001.",
+"src": [
+[
+"sak-2001-2010",
+"Dom Zacarias Kamwenho – 2001, Angola"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Dom Zacarias Kamwenho (2001)?",
+"ok": "Angola",
+"bad": [
+"Španielsko",
+"Argentína"
+],
+"v": "Dom Zacarias Kamwenho získal(a) Sacharovovu cenu v roku 2001; podľa EP: Angola.",
+"src": [
+[
+"sak-2001-2010",
+"Dom Zacarias Kamwenho – 2001, Angola"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2002?",
+"ok": "Oswaldo José Payá Sardiñas",
+"bad": [
+"Anatolij Marčenko",
+"Nádja Murád a Lamjá´ Hadží Bašár"
+],
+"v": "Sacharovovu cenu za rok 2002 získal(i): Oswaldo José Payá Sardiñas.",
+"src": [
+[
+"sak-2001-2010",
+"Oswaldo José Payá Sardiñas – 2002, Kuba"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Oswaldo José Payá Sardiñas (2002)?",
+"ok": "Kuba",
+"bad": [
+"Čína",
+"Pakistan"
+],
+"v": "Oswaldo José Payá Sardiñas získal(a) Sacharovovu cenu v roku 2002; podľa EP: Kuba.",
+"src": [
+[
+"sak-2001-2010",
+"Oswaldo José Payá Sardiñas – 2002, Kuba"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2003?",
+"ok": "Kofi Annan a pracovníci Organizácie Spojených národov",
+"bad": [
+"¡Basta Ya!",
+"Denis Mukwege"
+],
+"v": "Sacharovovu cenu za rok 2003 získal(i): Kofi Annan a pracovníci Organizácie Spojených národov.",
+"src": [
+[
+"sak-2001-2010",
+"Kofi Annan a pracovníci Organizácie Spojených národov – 2003"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Kofi Annan a pracovníci Organizácie Spojených národov?",
+"ok": "2003",
+"bad": [
+"2001",
+"1999"
+],
+"v": "Kofi Annan a pracovníci Organizácie Spojených národov – Sacharovova cena za rok 2003.",
+"src": [
+[
+"sak-2001-2010",
+"Kofi Annan a pracovníci Organizácie Spojených národov – 2003"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2004?",
+"ok": "Bieloruské združenie novinárov",
+"bad": [
+"Sálih Mahmúd Muhammad Usmán",
+"denník Oslobođenje"
+],
+"v": "Sacharovovu cenu za rok 2004 získal(i): Bieloruské združenie novinárov.",
+"src": [
+[
+"sak-2001-2010",
+"Bieloruské združenie novinárov – 2004, Bielorusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Bieloruské združenie novinárov?",
+"ok": "2004",
+"bad": [
+"2006",
+"2002"
+],
+"v": "Bieloruské združenie novinárov – Sacharovova cena za rok 2004.",
+"src": [
+[
+"sak-2001-2010",
+"Bieloruské združenie novinárov – 2004, Bielorusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Bieloruské združenie novinárov (2004)?",
+"ok": "Bielorusko",
+"bad": [
+"Irán",
+"Čína"
+],
+"v": "Bieloruské združenie novinárov získal(a) Sacharovovu cenu v roku 2004; podľa EP: Bielorusko.",
+"src": [
+[
+"sak-2001-2010",
+"Bieloruské združenie novinárov – 2004, Bielorusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2005?",
+"ok": "Reportéri bez hraníc",
+"bad": [
+"Medzinárodný trestný súd (ICC) a jeho predstavitelia",
+"Oleg Sencov"
+],
+"v": "Sacharovovu cenu za rok 2005 získal(i): Reportéri bez hraníc.",
+"src": [
+[
+"sak-2001-2010",
+"Reportéri bez hraníc – 2005, sídlo vo Francúzsku"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Reportéri bez hraníc?",
+"ok": "2005",
+"bad": [
+"2004",
+"2006"
+],
+"v": "Reportéri bez hraníc – Sacharovova cena za rok 2005.",
+"src": [
+[
+"sak-2001-2010",
+"Reportéri bez hraníc – 2005, sídlo vo Francúzsku"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2006?",
+"ok": "Alexander Milinkievič",
+"bad": [
+"Bieloruské združenie novinárov",
+"Denis Mukwege"
+],
+"v": "Sacharovovu cenu za rok 2006 získal(i): Alexander Milinkievič.",
+"src": [
+[
+"sak-2001-2010",
+"Alexander Milinkievič – 2006, Bielorusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Alexander Milinkievič (2006)?",
+"ok": "Bielorusko",
+"bad": [
+"Bangladéš",
+"Bosna a Hercegovina"
+],
+"v": "Alexander Milinkievič získal(a) Sacharovovu cenu v roku 2006; podľa EP: Bielorusko.",
+"src": [
+[
+"sak-2001-2010",
+"Alexander Milinkievič – 2006, Bielorusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2007?",
+"ok": "Sálih Mahmúd Muhammad Usmán",
+"bad": [
+"Anatolij Marčenko",
+"Taslima Nasrin"
+],
+"v": "Sacharovovu cenu za rok 2007 získal(i): Sálih Mahmúd Muhammad Usmán.",
+"src": [
+[
+"sak-2001-2010",
+"Sálih Mahmúd Muhammad Usmán – 2007, Sudán"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Sálih Mahmúd Muhammad Usmán?",
+"ok": "2007",
+"bad": [
+"2003",
+"2004"
+],
+"v": "Sálih Mahmúd Muhammad Usmán – Sacharovova cena za rok 2007.",
+"src": [
+[
+"sak-2001-2010",
+"Sálih Mahmúd Muhammad Usmán – 2007, Sudán"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Sálih Mahmúd Muhammad Usmán (2007)?",
+"ok": "Sudán",
+"bad": [
+"Konžská demokratická republika",
+"Pakistan"
+],
+"v": "Sálih Mahmúd Muhammad Usmán získal(a) Sacharovovu cenu v roku 2007; podľa EP: Sudán.",
+"src": [
+[
+"sak-2001-2010",
+"Sálih Mahmúd Muhammad Usmán – 2007, Sudán"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2008?",
+"ok": "Chu Ťia",
+"bad": [
+"Taslima Nasrin",
+"demokratická opozícia vo Venezuele"
+],
+"v": "Sacharovovu cenu za rok 2008 získal(i): Chu Ťia.",
+"src": [
+[
+"sak-2001-2010",
+"Chu Ťia – 2008, Čína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Chu Ťia (2008)?",
+"ok": "Čína",
+"bad": [
+"Južná Afrika",
+"Ukrajina"
+],
+"v": "Chu Ťia získal(a) Sacharovovu cenu v roku 2008; podľa EP: Čína.",
+"src": [
+[
+"sak-2001-2010",
+"Chu Ťia – 2008, Čína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2009?",
+"ok": "Memorial",
+"bad": [
+"Leyla Zana",
+"Oswaldo José Payá Sardiñas"
+],
+"v": "Sacharovovu cenu za rok 2009 získal(i): Memorial.",
+"src": [
+[
+"sak-2001-2010",
+"Memorial – 2009, Rusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Memorial (2009)?",
+"ok": "Rusko",
+"bad": [
+"Španielsko",
+"Sudán"
+],
+"v": "Memorial získal(a) Sacharovovu cenu v roku 2009; podľa EP: Rusko.",
+"src": [
+[
+"sak-2001-2010",
+"Memorial – 2009, Rusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2010?",
+"ok": "Guillermo Fariñas",
+"bad": [
+"Wej Ťing-šeng",
+"demokratická opozícia v Bielorusku"
+],
+"v": "Sacharovovu cenu za rok 2010 získal(i): Guillermo Fariñas.",
+"src": [
+[
+"sak-2001-2010",
+"Guillermo Fariñas – 2010, Kuba"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Guillermo Fariñas?",
+"ok": "2010",
+"bad": [
+"2007",
+"2013"
+],
+"v": "Guillermo Fariñas – Sacharovova cena za rok 2010.",
+"src": [
+[
+"sak-2001-2010",
+"Guillermo Fariñas – 2010, Kuba"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Guillermo Fariñas (2010)?",
+"ok": "Kuba",
+"bad": [
+"Kosovo",
+"Východný Timor"
+],
+"v": "Guillermo Fariñas získal(a) Sacharovovu cenu v roku 2010; podľa EP: Kuba.",
+"src": [
+[
+"sak-2001-2010",
+"Guillermo Fariñas – 2010, Kuba"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2012?",
+"ok": "Džaafar Panáhí",
+"bad": [
+"statočný ľud Ukrajiny",
+"Dom Zacarias Kamwenho"
+],
+"v": "Sacharovovu cenu za rok 2012 získal(i): Džaafar Panáhí.",
+"src": [
+[
+"sak-2011-2020",
+"Džaafar Panáhí – 2012, Irán"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Džaafar Panáhí (2012)?",
+"ok": "Irán",
+"bad": [
+"Rusko",
+"Pakistan"
+],
+"v": "Džaafar Panáhí získal(a) Sacharovovu cenu v roku 2012; podľa EP: Irán.",
+"src": [
+[
+"sak-2011-2020",
+"Džaafar Panáhí – 2012, Irán"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2013?",
+"ok": "Malála Júsafzaj",
+"bad": [
+"Džaafar Panáhí",
+"Denis Mukwege"
+],
+"v": "Sacharovovu cenu za rok 2013 získal(i): Malála Júsafzaj.",
+"src": [
+[
+"sak-2011-2020",
+"Malála Júsafzaj – 2013, Pakistan"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Malála Júsafzaj?",
+"ok": "2013",
+"bad": [
+"2008",
+"2009"
+],
+"v": "Malála Júsafzaj – Sacharovova cena za rok 2013.",
+"src": [
+[
+"sak-2011-2020",
+"Malála Júsafzaj – 2013, Pakistan"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Malála Júsafzaj (2013)?",
+"ok": "Pakistan",
+"bad": [
+"Irak",
+"Angola"
+],
+"v": "Malála Júsafzaj získal(a) Sacharovovu cenu v roku 2013; podľa EP: Pakistan.",
+"src": [
+[
+"sak-2011-2020",
+"Malála Júsafzaj – 2013, Pakistan"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2014?",
+"ok": "Denis Mukwege",
+"bad": [
+"¡Basta Ya!",
+"Malála Júsafzaj"
+],
+"v": "Sacharovovu cenu za rok 2014 získal(i): Denis Mukwege.",
+"src": [
+[
+"sak-2011-2020",
+"Denis Mukwege – 2014, Konžská demokratická republika"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Denis Mukwege (2014)?",
+"ok": "Konžská demokratická republika",
+"bad": [
+"Rusko",
+"Bangladéš"
+],
+"v": "Denis Mukwege získal(a) Sacharovovu cenu v roku 2014; podľa EP: Konžská demokratická republika.",
+"src": [
+[
+"sak-2011-2020",
+"Denis Mukwege – 2014, Konžská demokratická republika"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2015?",
+"ok": "Rá´if Badawí",
+"bad": [
+"denník Oslobođenje",
+"María Corina Machado a Edmundo González Urrutia"
+],
+"v": "Sacharovovu cenu za rok 2015 získal(i): Rá´if Badawí.",
+"src": [
+[
+"sak-2011-2020",
+"Rá´if Badawí – 2015, Saudská Arábia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Rá´if Badawí (2015)?",
+"ok": "Saudská Arábia",
+"bad": [
+"Bielorusko",
+"Sudán"
+],
+"v": "Rá´if Badawí získal(a) Sacharovovu cenu v roku 2015; podľa EP: Saudská Arábia.",
+"src": [
+[
+"sak-2011-2020",
+"Rá´if Badawí – 2015, Saudská Arábia"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2016?",
+"ok": "Nádja Murád a Lamjá´ Hadží Bašár",
+"bad": [
+"Medzinárodný trestný súd (ICC) a jeho predstavitelia",
+"Memorial"
+],
+"v": "Sacharovovu cenu za rok 2016 získal(i): Nádja Murád a Lamjá´ Hadží Bašár.",
+"src": [
+[
+"sak-2011-2020",
+"Nádja Murád a Lamjá´ Hadží Bašár – 2016, Irak"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Nádja Murád a Lamjá´ Hadží Bašár?",
+"ok": "2016",
+"bad": [
+"2014",
+"2013"
+],
+"v": "Nádja Murád a Lamjá´ Hadží Bašár – Sacharovova cena za rok 2016.",
+"src": [
+[
+"sak-2011-2020",
+"Nádja Murád a Lamjá´ Hadží Bašár – 2016, Irak"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Nádja Murád a Lamjá´ Hadží Bašár (2016)?",
+"ok": "Irak",
+"bad": [
+"Kosovo",
+"Saudská Arábia"
+],
+"v": "Nádja Murád a Lamjá´ Hadží Bašár získal(a) Sacharovovu cenu v roku 2016; podľa EP: Irak.",
+"src": [
+[
+"sak-2011-2020",
+"Nádja Murád a Lamjá´ Hadží Bašár – 2016, Irak"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2017?",
+"ok": "demokratická opozícia vo Venezuele",
+"bad": [
+"Leyla Zana",
+"Adem Demaçi"
+],
+"v": "Sacharovovu cenu za rok 2017 získal(i): demokratická opozícia vo Venezuele.",
+"src": [
+[
+"sak-2011-2020",
+"Demokratická opozícia vo Venezuele – 2017"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2018?",
+"ok": "Oleg Sencov",
+"bad": [
+"Žína Mahsa Amíní a hnutie Žena, život, sloboda",
+"Adem Demaçi"
+],
+"v": "Sacharovovu cenu za rok 2018 získal(i): Oleg Sencov.",
+"src": [
+[
+"sak-2011-2020",
+"Oleg Sencov – 2018, Ukrajina"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Oleg Sencov?",
+"ok": "2018",
+"bad": [
+"2015",
+"2014"
+],
+"v": "Oleg Sencov – Sacharovova cena za rok 2018.",
+"src": [
+[
+"sak-2011-2020",
+"Oleg Sencov – 2018, Ukrajina"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Oleg Sencov (2018)?",
+"ok": "Ukrajina",
+"bad": [
+"Pakistan",
+"Južná Afrika"
+],
+"v": "Oleg Sencov získal(a) Sacharovovu cenu v roku 2018; podľa EP: Ukrajina.",
+"src": [
+[
+"sak-2011-2020",
+"Oleg Sencov – 2018, Ukrajina"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2019?",
+"ok": "Ilham Tohti",
+"bad": [
+"Malála Júsafzaj",
+"Reportéri bez hraníc"
+],
+"v": "Sacharovovu cenu za rok 2019 získal(i): Ilham Tohti.",
+"src": [
+[
+"sak-2011-2020",
+"Ilham Tohti – 2019, Čína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Ilham Tohti?",
+"ok": "2019",
+"bad": [
+"2017",
+"2020"
+],
+"v": "Ilham Tohti – Sacharovova cena za rok 2019.",
+"src": [
+[
+"sak-2011-2020",
+"Ilham Tohti – 2019, Čína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Ilham Tohti (2019)?",
+"ok": "Čína",
+"bad": [
+"Irán",
+"Rusko"
+],
+"v": "Ilham Tohti získal(a) Sacharovovu cenu v roku 2019; podľa EP: Čína.",
+"src": [
+[
+"sak-2011-2020",
+"Ilham Tohti – 2019, Čína"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2020?",
+"ok": "demokratická opozícia v Bielorusku",
+"bad": [
+"Anatolij Marčenko",
+"Denis Mukwege"
+],
+"v": "Sacharovovu cenu za rok 2020 získal(i): demokratická opozícia v Bielorusku.",
+"src": [
+[
+"sak-2011-2020",
+"Demokratická opozícia v Bielorusku- 2020, Bielorusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2021?",
+"ok": "Alexej Navaľný",
+"bad": [
+"demokratická opozícia vo Venezuele",
+"Denis Mukwege"
+],
+"v": "Sacharovovu cenu za rok 2021 získal(i): Alexej Navaľný.",
+"src": [
+[
+"sak-2021-2030",
+"Alexej Navaľný - 2021, Rusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Alexej Navaľný?",
+"ok": "2021",
+"bad": [
+"2024",
+"2019"
+],
+"v": "Alexej Navaľný – Sacharovova cena za rok 2021.",
+"src": [
+[
+"sak-2021-2030",
+"Alexej Navaľný - 2021, Rusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "S ktorou krajinou je spojený laureát Sacharovovej ceny Alexej Navaľný (2021)?",
+"ok": "Rusko",
+"bad": [
+"Kuba",
+"Španielsko"
+],
+"v": "Alexej Navaľný získal(a) Sacharovovu cenu v roku 2021; podľa EP: Rusko.",
+"src": [
+[
+"sak-2021-2030",
+"Alexej Navaľný - 2021, Rusko"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2022?",
+"ok": "statočný ľud Ukrajiny",
+"bad": [
+"Alexander Dubček",
+"Taslima Nasrin"
+],
+"v": "Sacharovovu cenu za rok 2022 získal(i): statočný ľud Ukrajiny.",
+"src": [
+[
+"sak-2021-2030",
+"Sacharovova cena EP za slobodu myslenia za rok 2022 sa udeľuje ukrajinskému ľudu"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: statočný ľud Ukrajiny?",
+"ok": "2022",
+"bad": [
+"2021",
+"2020"
+],
+"v": "statočný ľud Ukrajiny – Sacharovova cena za rok 2022.",
+"src": [
+[
+"sak-2021-2030",
+"Sacharovova cena EP za slobodu myslenia za rok 2022 sa udeľuje ukrajinskému ľudu"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2023?",
+"ok": "Žína Mahsa Amíní a hnutie Žena, život, sloboda",
+"bad": [
+"Aun Schan Su Ťij",
+"Alexej Navaľný"
+],
+"v": "Sacharovovu cenu za rok 2023 získal(i): Žína Mahsa Amíní a hnutie Žena, život, sloboda.",
+"src": [
+[
+"sak-2021-2030",
+"Žína Mahsa Amíní a iránske hnutie Žena, život, sloboda – laureáti Sacharovovej ceny za rok 2023"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Žína Mahsa Amíní a hnutie Žena, život, sloboda?",
+"ok": "2023",
+"bad": [
+"2024",
+"2019"
+],
+"v": "Žína Mahsa Amíní a hnutie Žena, život, sloboda – Sacharovova cena za rok 2023.",
+"src": [
+[
+"sak-2021-2030",
+"Žína Mahsa Amíní a iránske hnutie Žena, život, sloboda – laureáti Sacharovovej ceny za rok 2023"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2024?",
+"ok": "María Corina Machado a Edmundo González Urrutia",
+"bad": [
+"Alexander Milinkievič",
+"Reportéri bez hraníc"
+],
+"v": "Sacharovovu cenu za rok 2024 získal(i): María Corina Machado a Edmundo González Urrutia.",
+"src": [
+[
+"sak-2021-2030",
+"María Corina Machado a nový prezident Edmundo González Urrutia – laureáti Sacharovovej ceny za rok 2024"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: María Corina Machado a Edmundo González Urrutia?",
+"ok": "2024",
+"bad": [
+"2020",
+"2023"
+],
+"v": "María Corina Machado a Edmundo González Urrutia – Sacharovova cena za rok 2024.",
+"src": [
+[
+"sak-2021-2030",
+"María Corina Machado a nový prezident Edmundo González Urrutia – laureáti Sacharovovej ceny za rok 2024"
+]
+]
+},
+{
+"kat": "akt",
+"n": 1,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2025?",
+"ok": "Andrzej Poczobut a Mzia Amaglobeli",
+"bad": [
+"Rá´if Badawí",
+"¡Basta Ya!"
+],
+"v": "Sacharovovu cenu za rok 2025 získal(i): Andrzej Poczobut a Mzia Amaglobeli.",
+"src": [
+[
+"sak-2021-2030",
+"Andrzej Poczobut a Mzia Amaglobeli – laureáti Sacharovovej ceny za rok 2025"
+]
+]
+},
+{
+"kat": "akt",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Andrzej Poczobut a Mzia Amaglobeli?",
+"ok": "2025",
+"bad": [
+"2024",
+"2023"
+],
+"v": "Andrzej Poczobut a Mzia Amaglobeli – Sacharovova cena za rok 2025.",
+"src": [
+[
+"sak-2021-2030",
+"Andrzej Poczobut a Mzia Amaglobeli – laureáti Sacharovovej ceny za rok 2025"
+]
+]
+},
+{
+"kat": "akt",
+"n": 1,
+"text": "Komu udelil Európsky parlament Sacharovovu cenu za slobodu myslenia za rok 2026?",
+"ok": "Medzinárodný trestný súd (ICC) a jeho predstavitelia",
+"bad": [
+"Adem Demaçi",
+"Anatolij Marčenko"
+],
+"v": "Sacharovovu cenu za rok 2026 získal(i): Medzinárodný trestný súd (ICC) a jeho predstavitelia.",
+"src": [
+[
+"sak-2021-2030",
+"International Criminal Court and its officials – 2026 Sakharov Prize laureate"
+]
+]
+},
+{
+"kat": "akt",
+"n": 2,
+"text": "Za ktorý rok získal(i) Sacharovovu cenu za slobodu myslenia: Medzinárodný trestný súd (ICC) a jeho predstavitelia?",
+"ok": "2026",
+"bad": [
+"2024",
+"2023"
+],
+"v": "Medzinárodný trestný súd (ICC) a jeho predstavitelia – Sacharovova cena za rok 2026.",
+"src": [
+[
+"sak-2021-2030",
+"International Criminal Court and its officials – 2026 Sakharov Prize laureate"
+]
+]
+},
+{
+"kat": "svk",
+"n": 1,
+"text": "Ktorý Slovák získal Sacharovovu cenu za slobodu myslenia?",
+"ok": "Alexander Dubček",
+"bad": [
+"Václav Havel",
+"Milan Rastislav Štefánik"
+],
+"v": "Alexander Dubček, vedúca osobnosť Pražskej jari, získal Sacharovovu cenu v roku 1989.",
+"src": [
+[
+"sak-1988-2000",
+"Alexander Dubček – 1989, Slovensko ... Alexander Dubček, vedúca osobnosť Pražskej jari"
+]
+]
+},
+{
+"kat": "svk",
+"n": 2,
+"text": "Akou udalosťou je známy laureát Sacharovovej ceny z roku 1989 Alexander Dubček?",
+"ok": "bol vedúcou osobnosťou Pražskej jari",
+"bad": [
+"bol prvým prezidentom Slovenskej republiky",
+"podpísal prístupovú zmluvu Slovenska k EÚ"
+],
+"v": "Podľa EP sa Alexander Dubček ako vedúca osobnosť Pražskej jari usiloval o demokratické a hospodárske reformy.",
+"src": [
+[
+"sak-1988-2000",
+"Alexander Dubček, vedúca osobnosť Pražskej jari, sa usiloval presadiť demokratické a hospodárske reformy"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Kto udeľuje Sacharovovu cenu za slobodu myslenia?",
+"ok": "Európsky parlament",
+"bad": [
+"Európska komisia",
+"Rada Európy"
+],
+"v": "Sacharovovu cenu udeľuje Európsky parlament.",
+"src": [
+[
+"sak-faq",
+"Európsky parlament udeľuje cenu tým, ktorí tak ako Sacharov zasvätili svoje životy nenásilnému boju za ľudské práva"
+]
+]
+},
+{
+"kat": "kul",
+"n": 1,
+"text": "Po kom je pomenovaná Sacharovova cena?",
+"ok": "po sovietskom vedcovi a disidentovi Andrejovi Sacharovovi",
+"bad": [
+"po ruskom spisovateľovi Alexandrovi Solženicynovi",
+"po zakladateľovi Červeného kríža Henrim Dunantovi"
+],
+"v": "Cena nesie meno sovietskeho vedca, disidenta a laureáta Nobelovej ceny za mier Andreja Sacharova (1921 – 1989).",
+"src": [
+[
+"sak-faq",
+"Cena je pomenovaná po sovietskom vedcovi, disidentovi a laureátovi Nobelovej ceny za mier Andrejovi Sacharovovi (1921 - 1989)"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Aká vysoká je peňažná odmena spojená so Sacharovovou cenou?",
+"ok": "50 000 eur",
+"bad": [
+"10 000 eur",
+"1 milión eur"
+],
+"v": "Peňažná odmena Sacharovovej ceny je 50 000 eur.",
+"src": [
+[
+"sak-faq",
+"Peňažná odmena je 50 000 EUR."
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Koľko poslancov EP musí najmenej podporiť kandidáta na Sacharovovu cenu, ak ho nenavrhuje politická skupina?",
+"ok": "40",
+"bad": [
+"10",
+"100"
+],
+"v": "Kandidátov navrhujú politické skupiny alebo skupina minimálne 40 poslancov EP; poslanec môže podporiť iba jedného kandidáta.",
+"src": [
+[
+"sak-faq",
+"Kandidátov na Sacharovovu cenu navrhujú politické skupiny alebo skupina minimálne 40 poslancov EP"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Koľkých kandidátov na Sacharovovu cenu môže podporiť jeden poslanec EP?",
+"ok": "iba jedného",
+"bad": [
+"najviac troch",
+"neobmedzený počet"
+],
+"v": "Každý poslanec môže podporiť iba jedného kandidáta.",
+"src": [
+[
+"sak-faq",
+"Poslanec môže podporiť iba jedného kandidáta."
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "V ktorom mesiaci sa laureát Sacharovovej ceny zvyčajne vyhlasuje?",
+"ok": "v októbri",
+"bad": [
+"v máji",
+"v januári"
+],
+"v": "Nominácie sa podávajú v septembri a víťaz sa zvyčajne vyhlasuje v októbri.",
+"src": [
+[
+"sak-how",
+"Víťaz sa zvyčajne vyhlasuje v októbri."
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Kto v Európskom parlamente rozhoduje v záverečnom hlasovaní o laureátovi Sacharovovej ceny?",
+"ok": "Konferencia predsedov",
+"bad": [
+"plénum všetkých 720 poslancov",
+"Výbor pre kultúru a vzdelávanie"
+],
+"v": "Výbor pre zahraničné veci a Výbor pre rozvoj zostavia užší výber troch kandidátov a laureáta vyberie Konferencia predsedov.",
+"src": [
+[
+"sak-how",
+"Ďalej sa zostaví užší výber troch kandidátov a predloží sa Konferencii predsedov na záverečné hlasovanie"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktoré výbory Európskeho parlamentu posudzujú nominácie na Sacharovovu cenu?",
+"ok": "Výbor pre zahraničné veci a Výbor pre rozvoj",
+"bad": [
+"Výbor pre právne veci a Výbor pre petície",
+"Výbor pre rozpočet a Výbor pre kontrolu rozpočtu"
+],
+"v": "Nominácie sa posudzujú na spoločnej schôdzi Výboru pre zahraničné veci a Výboru pre rozvoj.",
+"src": [
+[
+"sak-how",
+"posudzujú na spoločnej schôdzi Výboru pre zahraničné veci a Výboru pre rozvoj"
+]
+]
+},
+{
+"kat": "kul",
+"n": 2,
+"text": "Ktorú cenu získal Andrej Sacharov v roku 1975?",
+"ok": "Nobelovu cenu za mier",
+"bad": [
+"Nobelovu cenu za fyziku",
+"Pulitzerovu cenu"
+],
+"v": "Ruský fyzik Andrej Sacharov získal v roku 1975 Nobelovu cenu za mier.",
+"src": [
+[
+"sak-andrei",
+"Ruský fyzik Andrej Dmitrijevič Sacharov (1921 - 1989), ktorý v roku 1975 získal Nobelovu cenu za mier"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Čím sa Andrej Sacharov najprv preslávil?",
+"ok": "ako tvorca sovietskej vodíkovej bomby",
+"bad": [
+"ako prvý človek vo vesmíre",
+"ako autor románu Súostrovie Gulag"
+],
+"v": "Andrej Sacharov sa najprv preslávil ako tvorca sovietskej vodíkovej bomby, neskôr sa stal obhajcom ľudských práv.",
+"src": [
+[
+"sak-andrei",
+"sa najprv preslávil ako tvorca sovietskej vodíkovej bomby"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Kam poslali sovietske orgány Andreja Sacharova do exilu?",
+"ok": "do Gorkého",
+"bad": [
+"na Sibír do Norilska",
+"do Kyjeva"
+],
+"v": "Sovietske orgány poslali Sacharova do exilu v Gorkom, aby obmedzili jeho kontakty s cudzincami.",
+"src": [
+[
+"sak-andrei",
+"Sovietske orgány poslali Andreja Sacharova do exilu v Gorkom"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktorá laureátka Sacharovovej ceny si ju mohla osobne prevziať až o 23 rokov neskôr, v roku 2013?",
+"ok": "Aun Schan Su Ťij",
+"bad": [
+"Malála Júsafzaj",
+"Leyla Zana"
+],
+"v": "Aun Schan Su Ťij bola v čase udelenia ceny (1990) v domácom väzení a cenu si prevzala až 22. októbra 2013.",
+"src": [
+[
+"sak-1988-2000",
+"Sacharovovu cenu si mohla prísť prevziať osobne až o 23 rokov neskôr – 22. októbra 2013"
+]
+]
+},
+{
+"kat": "kul",
+"n": 3,
+"text": "Ktorého laureáta Sacharovovej ceny nominoval na cenu sám Andrej Sacharov?",
+"ok": "Anatolija Marčenka",
+"bad": [
+"Nelsona Mandelu",
+"Alexandra Dubčeka"
+],
+"v": "Anatolij Marčenko, sovietsky disident, dostal cenu in memoriam v roku 1988; nominoval ho sám Andrej Sacharov.",
+"src": [
+[
+"sak-1988-2000",
+"Na cenu ho nominoval sám Andrej Sacharov."
+]
+]
+},
+{
+"kat": "akt",
+"n": 1,
+"text": "Akú inštitúciu ocenil Európsky parlament Sacharovovou cenou za rok 2026?",
+"ok": "Medzinárodný trestný súd a jeho predstaviteľov",
+"bad": [
+"Medzinárodný súdny dvor OSN",
+"Európsky súd pre ľudské práva"
+],
+"v": "Sacharovova cena za rok 2026 bola udelená Medzinárodnému trestnému súdu (ICC) a jeho predstaviteľom so sídlom v Haagu.",
+"src": [
+[
+"sak-2021-2030",
+"the 2026 Sakharov Prize for Freedom of Thought to the International Criminal Court (ICC) and its officials"
+]
+]
+},
+{
+"kat": "akt",
+"n": 2,
+"text": "Ktoré povolanie spája laureátov Sacharovovej ceny za rok 2025 Andrzeja Poczobuta a Mziu Amaglobeliovú?",
+"ok": "sú to uväznení novinári",
+"bad": [
+"sú to lekári v vojnových zónach",
+"sú to opoziční prezidentskí kandidáti"
+],
+"v": "Cenu za rok 2025 získali uväznení novinári Andrzej Poczobut z Bieloruska a Mzia Amaglobeli z Gruzínska.",
+"src": [
+[
+"sak-2021-2030",
+"udelená Andrzejovi Poczobutovi z Bieloruska a Mzii Amaglobeliovej z Gruzínska"
+]
+]
+},
+{
+"kat": "akt",
+"n": 2,
+"text": "Z ktorých krajín pochádzajú laureáti Sacharovovej ceny za rok 2025?",
+"ok": "z Bieloruska a Gruzínska",
+"bad": [
+"z Ruska a Ukrajiny",
+"z Iránu a Afganistanu"
+],
+"v": "Andrzej Poczobut je z Bieloruska a Mzia Amaglobeli z Gruzínska.",
+"src": [
+[
+"sak-2021-2030",
+"udelená Andrzejovi Poczobutovi z Bieloruska a Mzii Amaglobeliovej z Gruzínska"
+]
+]
+},
+{
+"kat": "med",
+"n": 2,
+"text": "Ktorá medzinárodná mimovládna organizácia bojujúca za slobodu informácií získala Sacharovovu cenu v roku 2005?",
+"ok": "Reportéri bez hraníc",
+"bad": [
+"Amnesty International",
+"Lekári bez hraníc"
+],
+"v": "Reportéri bez hraníc (RSF) bojujú za slobodu informácií a prejavu a podporujú prenasledovaných novinárov.",
+"src": [
+[
+"sak-2001-2010",
+"Reportéri bez hraníc – 2005, sídlo vo Francúzsku"
+]
+]
+},
+{
+"kat": "sym",
+"n": 2,
+"text": "Aký Európsky rok vyhlásila EÚ na obdobie 2023 – 2024?",
+"ok": "Európsky rok zručností",
+"bad": [
+"Európsky rok kultúrneho dedičstva",
+"Európsky rok občanov"
+],
+"v": "Obdobie 2023 – 2024 bolo Európsky rok zručností.",
+"src": [
+[
+"eu-symbol-european-years",
+"2023 – 2024 – Európsky rok zručností"
+]
+]
+},
+{
+"kat": "sym",
+"n": 2,
+"text": "Aký Európsky rok vyhlásila EÚ na obdobie 2022?",
+"ok": "Európsky rok mládeže",
+"bad": [
+"Európsky rok kultúrneho dedičstva",
+"Európsky rok zručností"
+],
+"v": "Obdobie 2022 bolo Európsky rok mládeže.",
+"src": [
+[
+"eu-symbol-european-years",
+"2022 – Európsky rok mládeže"
+]
+]
+},
+{
+"kat": "sym",
+"n": 2,
+"text": "Aký Európsky rok vyhlásila EÚ na obdobie 2021?",
+"ok": "Európsky rok železníc",
+"bad": [
+"Európsky rok kultúrneho dedičstva",
+"Európsky rok občanov"
+],
+"v": "Obdobie 2021 bolo Európsky rok železníc.",
+"src": [
+[
+"eu-symbol-european-years",
+"2021 – Európsky rok železníc"
+]
+]
+},
+{
+"kat": "sym",
+"n": 3,
+"text": "Aký Európsky rok vyhlásila EÚ na obdobie 2018?",
+"ok": "Európsky rok kultúrneho dedičstva",
+"bad": [
+"Európsky rok železníc",
+"Európsky rok zručností"
+],
+"v": "Obdobie 2018 bolo Európsky rok kultúrneho dedičstva.",
+"src": [
+[
+"eu-symbol-european-years",
+"2018 – Európsky rok kultúrneho dedičstva"
+]
+]
+},
+{
+"kat": "sym",
+"n": 3,
+"text": "Aký Európsky rok vyhlásila EÚ na obdobie 2015?",
+"ok": "Európsky rok rozvoja",
+"bad": [
+"Európsky rok mládeže",
+"Európsky rok zručností"
+],
+"v": "Obdobie 2015 bolo Európsky rok rozvoja.",
+"src": [
+[
+"eu-symbol-european-years",
+"2015 – Európsky rok rozvoja"
+]
+]
+},
+{
+"kat": "sym",
+"n": 3,
+"text": "Aký Európsky rok vyhlásila EÚ na obdobie 2013 – 2014?",
+"ok": "Európsky rok občanov",
+"bad": [
+"Európsky rok kultúrneho dedičstva",
+"Európsky rok rozvoja"
+],
+"v": "Obdobie 2013 – 2014 bolo Európsky rok občanov.",
+"src": [
+[
+"eu-symbol-european-years",
+"2013 – 2014 – Európsky rok občanov"
+]
+]
+},
+{
+"kat": "sym",
+"n": 3,
+"text": "Od ktorého roku sa vyhlasujú Európske roky?",
+"ok": "1983",
+"bad": [
+"1957",
+"1999"
+],
+"v": "Európske roky sa vyhlasujú od roku 1983 a nemusia sa vyhlasovať každý rok.",
+"src": [
+[
+"eu-symbol-european-years",
+"Európske roky sa vyhlasujú od roku 1983"
+]
+]
+},
+{
+"kat": "sym",
+"n": 3,
+"text": "Kto navrhuje tému Európskeho roka?",
+"ok": "Európska komisia",
+"bad": [
+"Európsky parlament",
+"Výbor regiónov"
+],
+"v": "Tému navrhuje Európska komisia a schvaľuje ju Európsky parlament a krajiny EÚ.",
+"src": [
+[
+"eu-symbol-european-years",
+"Tému konkrétneho Európskeho roka navrhuje Európska komisia a schvaľuje ju Európsky parlament a krajiny EÚ"
+]
+]
+},
+{
+"kat": "sym",
+"n": 2,
+"text": "V ktorom Európskom roku sa mladí ľudia zúčastnili na viac ako 13 000 aktivitách v 67 krajinách?",
+"ok": "Európsky rok mládeže 2022",
+"bad": [
+"Európsky rok zručností 2023 – 2024",
+"Európsky rok občanov 2013 – 2014"
+],
+"v": "Počas Európskeho roka mládeže 2022 sa mladí zúčastnili na viac ako 13 000 aktivitách v 67 krajinách.",
+"src": [
+[
+"eu-symbol-european-years",
+"2022 – Európsky rok mládeže Mladí ľudia sa zúčastnili na viac ako 13 000 aktivitách v 67 krajinách"
+]
+]
+},
+{
+"kat": "sym",
+"n": 3,
+"text": "S akým cieľom EÚ spojila Európsky rok železníc 2021?",
+"ok": "upriamiť pozornosť na úlohu železníc pri dosahovaní klimatickej neutrality do roku 2050",
+"bad": [
+"osláviť 100 rokov od prvého vlaku cez Alpy",
+"zaviesť jednotný cestovný lístok platný v celej EÚ"
+],
+"v": "Európsky rok železníc upriamil pozornosť na kľúčovú úlohu železníc pri dosahovaní klimatickej neutrality do roku 2050.",
+"src": [
+[
+"eu-symbol-european-years",
+"kľúčovú úlohu pri dosahovaní klimatickej neutrality do roku 2050"
+]
+]
+}
+]

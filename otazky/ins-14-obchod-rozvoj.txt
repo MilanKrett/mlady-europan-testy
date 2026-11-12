@@ -1,0 +1,288 @@
+#kat ins
+#n 3
+
+Akú právomoc má EÚ v spoločnej obchodnej politike?
++ výlučnú – obchodné dohody dojednáva v mene členských štátov
+- žiadnu – obchod je len vecou štátov
+- len poradnú
+= V rámci výlučnej právomoci EÚ dojednáva dvojstranné i mnohostranné obchodné dohody v mene svojich členských štátov.
+> ep-fs-160 | v rámci výlučnej právomoci EÚ dojednáva dvojstranné i mnohostranné obchodné dohody v mene svojich členských štátov
+
+Koľko dohôd o voľnom obchode má EÚ približne vo svojej sieti?
++ viac ako 40
+- menej ako 5
+- viac ako 400
+= EÚ si vytvorila sieť viac ako 40 dohôd o voľnom obchode a rokuje o ďalších.
+> ep-fs-160 | si EÚ navyše vytvorila sieť viac ako 40 dohôd o voľnom obchode
+
+Koľko pracovných miest v EÚ závisí od zahraničného obchodu?
++ viac ako 30 miliónov (každé siedme)
+- približne 3 milióny (každé stoté)
+- všetky pracovné miesta
+= Viac ako 30 miliónov pracovných miest (každé siedme) v EÚ závisí od zahraničného obchodu.
+> ep-fs-160 | viac ako 30 miliónov pracovných miest (alebo každé siedme pracovné miesto) v EÚ závisí od zahraničného obchodu
+
+Aký je približne HDP EÚ podľa informačného listu o obchodnej politike?
++ asi 18 biliónov EUR
+- asi 18 miliárd EUR
+- asi 180 biliónov EUR
+= Vďaka HDP vo výške asi 18 biliónov EUR a otvorenosti trhu zohráva Únia ústrednú úlohu v globálnom obchode.
+> ep-fs-160 | Vďaka HDP EÚ vo výške asi 18 biliónov EUR
+
+S ktorou krajinou sa dohoda o voľnom obchode skrýva pod skratkou CETA (predbežne od septembra 2017)?
++ s Kanadou
+- s Čile
+- s Japonskom
+= Komplexná hospodárska a obchodná dohoda medzi EÚ a Kanadou sa predbežne vykonáva od septembra 2017.
+> ep-fs-160 | Komplexná hospodárska a obchodná dohoda medzi EÚ a Kanadou, ktorá sa predbežne vykonáva od septembra 2017.
+
+Kedy vstúpila do platnosti dohoda o hospodárskom partnerstve medzi EÚ a Japonskom?
++ 1. februára 2019
+- 1. mája 2004
+- 1. januára 2026
+= Dohoda o hospodárskom partnerstve medzi EÚ a Japonskom vstúpila do platnosti 1. februára 2019.
+> ep-fs-160 | Dohoda o hospodárskom partnerstve medzi EÚ a Japonskom, ktorá vstúpila do platnosti 1. februára 2019.
+
+S ktorou ázijskou krajinou platí dohoda o voľnom obchode s EÚ od 1. augusta 2020?
++ s Vietnamom
+- s Čínou
+- s Indiou
+= Dohoda o voľnom obchode medzi EÚ a Vietnamom začala platiť 1. augusta 2020.
+> ep-fs-160 | Dohoda o voľnom obchode medzi EÚ a Vietnamom, ktorá začala platiť 1. augusta 2020.
+
+Od kedy platí dohoda o voľnom obchode medzi EÚ a Novým Zélandom?
++ od 1. mája 2024
+- od 1. februára 2019
+- od roku 2013
+= Dohodu o voľnom obchode s Novým Zélandom schválil Parlament 22. novembra 2023 s platnosťou od 1. mája 2024.
+> ep-fs-160 | Dohoda o voľnom obchode medzi EÚ a Novým Zélandom, ktorú Parlament schválil 22. novembra 2023 s platnosťou od 1. mája 2024.
+
+Kedy vstúpila do platnosti dohoda o obchode a spolupráci medzi EÚ a Spojeným kráľovstvom?
++ 1. mája 2021
+- 31. januára 2020
+- 23. júna 2016
+= Dohoda o hospodárskom partnerstve medzi EÚ a Spojeným kráľovstvom vstúpila do platnosti 1. mája 2021.
+> ep-fs-160 | Dohoda o hospodárskom partnerstve medzi EÚ a Spojeným kráľovstvom, ktorá vstúpila do platnosti 1. mája 2021.
+
+Ktorá krajina sa v roku 2017 pridala k obchodnej dohode medzi EÚ, Kolumbiou a Peru?
++ Ekvádor
+- Brazília
+- Mexiko
+= Mnohostranná obchodná dohoda s Kolumbiou a Peru platí od roku 2013 a v roku 2017 sa k nej pridal Ekvádor.
+> ep-fs-160 | Mnohostranná obchodná dohoda medzi EÚ, Kolumbiou a Peru, ktorá platí od roku 2013 a v roku 2017 sa k nej pridal Ekvádor.
+
+@akt 3
+Kedy podpísali EÚ a krajiny Mercosuru dohodu o partnerstve a dočasnú dohodu o obchode?
++ 17. januára 2026
+- 1. februára 2019
+- 28. júna 2019
+= EÚ a krajiny Mercosuru podpísali 17. januára 2026 dohodu o partnerstve a dočasnú dohodu o obchode.
+> ep-fs-160 | EÚ a krajiny Mercosuru podpísali 17. januára 2026 dohodu o partnerstve a dočasnú dohodu o obchode.
+
+@akt 3
+Čo urobil Európsky parlament 21. januára 2026 v súvislosti s dohodami s Mercosurom?
++ požiadal Súdny dvor EÚ o stanovisko k ich zlučiteľnosti so zmluvami
+- dohody definitívne zamietol
+- dohody schválil bez rozpravy
+= 21. januára 2026 Parlament požiadal Súdny dvor EÚ o stanovisko, či sú dohody zlučiteľné so zmluvami o EÚ.
+> ep-fs-160 | Dňa 21. januára 2026 Parlament požiadal Súdny dvor Európskej únie o stanovisko k tomu, či sú dohody zlučiteľné so zmluvami o EÚ.
+
+@akt 3
+Kedy boli ukončené rokovania o dohode o voľnom obchode medzi EÚ a Indiou?
++ 27. januára 2026
+- 1. augusta 2020
+- 23. septembra 2025
+= 27. januára 2026 boli ukončené rokovania o dohode o voľnom obchode medzi EÚ a Indiou.
+> ep-fs-160 | 27. januára 2026 rokovania o dohode o voľnom obchode medzi EÚ a Indiou
+
+@akt 3
+S ktorou krajinou začala 1. februára 2026 platiť dohoda o digitálnom obchode s EÚ?
++ so Singapurom
+- s Japonskom
+- s Kanadou
+= Dohoda o digitálnom obchode medzi EÚ a Singapurom začala platiť 1. februára 2026.
+> ep-fs-160 | Dohoda o digitálnom obchode medzi EÚ a Singapurom začala platiť 1. februára 2026
+
+Od kedy platí dočasná dohoda o obchode medzi EÚ a Čile?
++ od 1. februára 2025
+- od roku 1995
+- od 1. mája 2004
+= Dočasná dohoda o obchode medzi EÚ a Čile je v platnosti od 1. februára 2025.
+> ep-fs-160 | dočasná dohoda o obchode medzi EÚ a Čile, ktorá je v platnosti od 1. februára 2025
+
+Ktorá organizácia nahradila v roku 1995 dohodu GATT?
++ Svetová obchodná organizácia (WTO)
+- Medzinárodný menový fond
+- OECD
+= Počas Uruguajského kola sa dohoda GATT zmenila a ako jej nástupca bola zriadená Svetová obchodná organizácia (WTO).
+> ep-fs-161 | ako jej nástupca bola zriadená Svetová obchodná organizácia (WTO)
+
+Z ktorého roku je Všeobecná dohoda o clách a obchode (GATT)?
++ z roku 1947
+- z roku 1957
+- z roku 1995
+= Všeobecná dohoda o clách a obchode (GATT) z roku 1947 zaviedla multilaterálny prístup k obchodu.
+> ep-fs-161 | Všeobecná dohoda o clách a obchode (GATT) z roku 1947
+
+Ktoré sú tri hlavné činnosti WTO?
++ obchodné rokovania, monitorovanie obchodných politík a riešenie obchodných sporov
+- tlač peňazí, vyberanie daní a súdenie zločincov
+- vojenská obrana, polícia a hranice
+= WTO vykonáva obchodné rokovania, monitorovanie obchodných politík svojich členov a riešenie obchodných sporov.
+> ep-fs-161 | WTO vykonáva tri hlavné činnosti: obchodné rokovania, vykonávanie a monitorovanie obchodných politík svojich členov
+
+@akt 3
+Kde sa konala 14. ministerská konferencia WTO v marci 2026?
++ v Yaoundé (Kamerun)
+- v Abú Zabí (SAE)
+- v Ženeve (Švajčiarsko)
+= 14. ministerská konferencia WTO sa konala 26. – 29. marca 2026 v Yaoundé v Kamerune.
+> ep-fs-161 | Na 14. ministerskej konferencii, ktorá sa konala od 26. do 29. marca 2026 v Yaoundé (Kamerun)
+
+Kedy nadobudla platnosť dohoda WTO o rybolovných dotáciách?
++ 15. septembra 2025
+- v júni 2022
+- 1. januára 1995
+= Dohodu dosiahli členovia WTO v júni 2022, platnosť nadobudla 15. septembra 2025.
+> ep-fs-161 | Dňa 15. septembra 2025 nadobudla platnosť Dohoda o rybolovných dotáciách.
+
+Ako sa nazýva kolo multilaterálnych obchodných rokovaní WTO, ktoré sa začalo v roku 2001?
++ kolo rokovaní z Dauhy (rozvojový program z Dauhy)
+- Uruguajské kolo
+- Kennedyho kolo
+= Od roku 2001 sa členovia WTO zúčastňujú na kole rokovaní v Dauhe, ktorého cieľom je posilniť úlohu rozvojových krajín.
+> ep-fs-161 | známom ako kolo rokovaní v Dauhe alebo rozvojový program z Dauhy (DDA)
+
+Ktorá dohoda bola prvou mnohostrannou obchodnou dohodou uzavretou v rámci WTO?
++ Dohoda o uľahčení obchodu (platná od februára 2017)
+- Dohoda GATT z roku 1947
+- Dohoda o voľnom obchode s Kanadou
+= Vo februári 2017 nadobudla platnosť Dohoda o uľahčení obchodu z roku 2013 – prvá mnohostranná obchodná dohoda WTO.
+> ep-fs-161 | Išlo o prvú mnohostrannú obchodnú dohodu uzavretú v rámci WTO.
+
+Aký podiel všetkých prostriedkov na pomoc obchodu vo svete poskytujú EÚ a jej členské štáty?
++ 42 %
+- 4,2 %
+- 92 %
+= EÚ a jej štáty poskytujú 42 % všetkých finančných prostriedkov na pomoc obchodu (v roku 2018 to bolo 33 %).
+> ep-fs-162 | To predstavuje 42 % všetkých finančných prostriedkov na pomoc obchodu
+
+Koľko oficiálnej rozvojovej pomoci (ODA) poskytli EÚ a jej členské štáty v roku 2024?
++ 88,7 miliardy EUR
+- 8,87 miliardy EUR
+- 887 miliárd EUR
+= EÚ a jej štáty sú najväčším globálnym poskytovateľom ODA – v roku 2024 poskytli 88,7 miliardy EUR.
+> ep-fs-163 | v roku 2024 poskytli v rámci ODA 88,7 miliardy EUR
+
+Kto je najväčším globálnym poskytovateľom oficiálnej rozvojovej pomoci (ODA)?
++ EÚ a jej členské štáty spolu
+- Čína
+- Rusko
+= EÚ a jej členské štáty sú spolu najväčším globálnym poskytovateľom oficiálnej rozvojovej pomoci.
+> ep-fs-163 | EÚ a jej členské štáty sú spolu najväčším globálnym poskytovateľom oficiálnej rozvojovej pomoci (ODA)
+
+Aký je dlhodobý hlavný cieľ rozvojovej politiky EÚ?
++ odstrániť chudobu
+- rozšíriť EÚ na celý svet
+- zaviesť euro v rozvojových krajinách
+= Dlhodobým cieľom je odstrániť chudobu – cieľ kľúčový od zriadenia Európskeho rozvojového fondu podľa Rímskej zmluvy.
+> ep-fs-163 | Dlhodobým cieľom je odstrániť chudobu
+
+Pre ktoré regióny bol pôvodne zriadený Európsky rozvojový fond (ERF)?
++ pre bývalé kolónie v Afrike, Karibiku a Tichomorí
+- pre Škandináviu
+- pre Balkán
+= ERF bol zriadený na podporu osobitného vzťahu s bývalými kolóniami v regiónoch Afriky, Karibiku a Tichomoria.
+> ep-fs-163 | ERF bol zriadený na podporu osobitného vzťahu s bývalými kolóniami v regiónoch Afriky, Karibiku a Tichomoria.
+
+Ktorá dohoda medzi EÚ a krajinami Afriky, Karibiku a Tichomoria sa predbežne uplatňuje od januára 2024?
++ Samojská dohoda
+- Dohoda z Cotonou
+- Dohoda z Lomé
+= Samojská dohoda sa predbežne uplatňuje od januára 2024.
+> ep-fs-163 | Samojská dohoda, ktorá sa predbežne uplatňuje od januára 2024.
+
+Koľko cieľov udržateľného rozvoja obsahuje Agenda OSN 2030?
++ 17
+- 8
+- 27
+= Agenda 2030 bola schválená v septembri 2015 v New Yorku a obsahuje 17 cieľov udržateľného rozvoja.
+> ep-fs-163 | prostredníctvom nového súboru 17 cieľov v oblasti udržateľného rozvoja
+
+Kde a kedy bola schválená Agenda OSN 2030 pre udržateľný rozvoj?
++ v septembri 2015 v New Yorku
+- v roku 1992 v Riu de Janeiro
+- v decembri 2019 v Bruseli
+= Program bol schválený v septembri 2015 v New Yorku a nadväzuje na miléniové rozvojové ciele.
+> ep-fs-163 | Program bol schválený v septembri 2015 v New Yorku
+
+Ktorý článok ZFEÚ je právnym základom humanitárnej pomoci EÚ?
++ článok 214
+- článok 50
+- článok 122
+= Právnym základom pre humanitárnu pomoc je článok 214 ZFEÚ.
+> ep-fs-164 | Právnym základom pre humanitárnu pomoc je článok 214 Zmluvy o fungovaní Európskej únie (ZFEÚ).
+
+V ktorom roku bolo založené ECHO (útvar EÚ pre humanitárnu pomoc)?
++ v roku 1992
+- v roku 1957
+- v roku 2010
+= ECHO sa od svojho založenia v roku 1992 výrazne rozrástlo; má vyše 400 expertov na viac ako 40 pracoviskách.
+> ep-fs-164 | ECHO sa od svojho založenia v roku 1992 výrazne rozrástlo
+
+Koľko bolo na roky 2021 – 2027 vyčlenených na nástroj humanitárnej pomoci EÚ?
++ 11,6 miliardy EUR
+- 1,16 miliardy EUR
+- 116 miliárd EUR
+= Z viacročného finančného rámca bolo na obdobie 2021 – 2027 na nástroj humanitárnej pomoci vyčlenených 11,6 miliardy EUR.
+> ep-fs-164 | na nástroj humanitárnej pomoci vyčlenených 11,6 miliardy EUR
+
+@akt 3
+Koľko môže ECHO vyčleniť na humanitárnu pomoc v roku 2026?
++ 1,9 miliardy EUR
+- 19 miliónov EUR
+- 190 miliárd EUR
+= Na rok 2026 môže ECHO vyčleniť 1,9 miliardy EUR na riešenie rozsiahlych globálnych potrieb.
+> ep-fs-164 | Na rok 2026 môže ECHO vyčleniť 1,9 miliardy EUR
+
+Ktoré tri inštitúcie podpísali Európsky konsenzus o humanitárnej pomoci (2007)?
++ Komisia, Rada a Parlament
+- ECB, Súdny dvor a Dvor audítorov
+- NATO, OSN a Rada Európy
+= Európsky konsenzus o humanitárnej pomoci (2007) podpísali tri hlavné inštitúcie EÚ: Komisia, Rada a Parlament.
+> ep-fs-164 | ktorý podpísali tri hlavné inštitúcie EÚ (Komisia, Rada a Parlament)
+
+Ako sa skratkou označuje mechanizmus Únie v oblasti civilnej ochrany?
++ UCPM
+- ECHO
+- PESCO
+= Činnosť EÚ sa riadi rozhodnutím o mechanizme Únie v oblasti civilnej ochrany (UCPM) z roku 2019.
+> ep-fs-164 | mechanizme Únie v oblasti civilnej ochrany (UCPM)
+
+Ktorý článok ZEÚ vyžaduje, aby EÚ pristúpila k Európskemu dohovoru o ľudských právach?
++ článok 6 ods. 2
+- článok 50
+- článok 13
+= V článku 6 ods. 2 ZEÚ sa vyžaduje, aby EÚ pristúpila k Európskemu dohovoru o ľudských právach.
+> ep-fs-165 | V článku 6 ods. 2 sa vyžaduje, aby EÚ pristúpila k Európskemu dohovoru o ľudských právach
+
+S približne koľkými krajinami a zoskupeniami vedie EÚ dialógy o ľudských právach?
++ s približne 60
+- s približne 6
+- so všetkými štátmi sveta
+= S približne 60 krajinami mimo EÚ a regionálnymi zoskupeniami vedie EÚ dialóg a konzultácie o ľudských právach.
+> ep-fs-165 | S približne 60 krajinami mimo EÚ a regionálnymi zoskupeniami taktiež vedie dialóg
+
+Do kedy bol predĺžený akčný plán EÚ pre ľudské práva a demokraciu z novembra 2020?
++ do roku 2027
+- do roku 2024
+- do roku 2050
+= Akčný plán sa pôvodne uplatňoval do roku 2024, ale bol predĺžený do roku 2027.
+> ep-fs-165 | ale bol predĺžený do roku 2027
+
+Ktorý článok ZEÚ stanovuje zásady, ktorými sa riadi vonkajšia činnosť EÚ?
++ článok 21
+- článok 7
+- článok 49
+= V článku 21 ZEÚ sa stanovujú zásady, ktorými sa riadi činnosť EÚ na medzinárodnej úrovni.
+> ep-fs-165 | V článku 21 ZEÚ sa stanovujú zásady, ktorými sa riadi činnosť EÚ na medzinárodnej úrovni

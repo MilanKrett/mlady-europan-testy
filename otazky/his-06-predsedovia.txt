@@ -1,0 +1,273 @@
+#kat his
+#n 3
+
+V ktorom koncentračnom tábore bola v marci 1944 deportovaná Simone Veilová, neskoršia prvá predsedníčka EP?
++ v Osvienčime (Auschwitz)
+- v Dachau
+- v Terezíne
+= V marci 1944 bola Simone Veilová deportovaná do Osvienčimu a potom presunutá do Bergen-Belsenu, kde bola internovaná do januára 1945.
+> eppres-simone-veil | In March 1944, Veil was deported to Auschwitz before being moved to Bergen-Belsen where she was interned until January 1945.
+
+Do ktorej prestížnej inštitúcie bola 20. novembra 2008 zvolená Simone Veilová?
++ do Francúzskej akadémie (Académie française)
+- do Nobelovho výboru
+- do Rady Európy
+= Dňa 20. novembra 2008 bola Simone Veilová zvolená za členku Francúzskej akadémie.
+> eppres-simone-veil | On the 20th of November 2008, she was elected a member of the Académie Française.
+
+@his 2
+Ktorý predseda Európskeho parlamentu sa narodil v Smiloviciach v Československu?
++ Jerzy Buzek
+- Martin Schulz
+- Pat Cox
+= Jerzy Buzek sa narodil 3. júla 1940 v Smiloviciach v Československu; v rokoch 1997 – 2001 bol premiérom Poľska.
+> eppres-jerzy-buzek | Jerzy Karol Buzek was born on 3 July 1940 in Smilovice, Czechoslovakia.
+
+Akú funkciu zastával Jerzy Buzek v rokoch 1997 – 2001, ešte pred pôsobením v Európskom parlamente?
++ predseda vlády Poľska
+- prezident Poľska
+- generálny tajomník NATO
+= V rokoch 1997 – 2001 bol Jerzy Buzek predsedom vlády Poľska.
+> eppres-jerzy-buzek | From 1997 to 2001, Buzek was Prime Minister of Poland.
+
+V ktorom antikomunistickom hnutí pôsobil v 80. rokoch Jerzy Buzek?
++ v odborovom zväze Solidarita (Solidarność)
+- v Charte 77
+- vo Verejnosti proti násiliu
+= V 80. rokoch bol Buzek aktivistom odborového zväzu a antikomunistického hnutia Solidarita.
+> eppres-jerzy-buzek | In the 1980s, Buzek was an activist of the Solidarność (Solidarity) trade union and political anti-communist movement.
+
+Kedy bol Jerzy Buzek zvolený za predsedu Európskeho parlamentu?
++ 14. júla 2009
+- 1. mája 2004
+- 17. januára 2017
+= Dňa 14. júla 2009 bol Jerzy Buzek zvolený za predsedu Európskeho parlamentu.
+> eppres-jerzy-buzek | On 14 July 2009, Buzek was elected President of the European Parliament.
+
+Ktorý predseda Európskeho parlamentu bol ako prvý (a doteraz jediný) zvolený do funkcie znova?
++ Martin Schulz
+- Hans-Gert Pöttering
+- Antonio Tajani
+= Martin Schulz bol zvolený za predsedu EP v roku 2012 a ako prvý a doteraz jediný predseda bol v roku 2014 zvolený opätovne.
+> eppres-martin-schulz | In 2012, he was elected President of the European Parliament and the first and so far only President of Parliament to be re-elected, as he was in 2014.
+
+Akým remeslom sa vyučil Martin Schulz, neskorší predseda Európskeho parlamentu?
++ kníhkupec
+- pekár
+- elektrikár
+= Po vyučení za kníhkupca si Martin Schulz založil vlastné kníhkupectvo zamerané na politickú literatúru.
+> eppres-martin-schulz | After his training as a bookseller he founded his own bookshop and specialised in political literature.
+
+Ktorú cenu získal Martin Schulz v roku 2015 za posilnenie postavenia Parlamentu?
++ Cenu Karola Veľkého
+- Nobelovu cenu za mier
+- Sacharovovu cenu
+= Za mimoriadne zásluhy o posilnenie Parlamentu získal Martin Schulz v roku 2015 Cenu Karola Veľkého.
+> eppres-martin-schulz | he was awarded the Charlemagne Prize for Democratic Legitimation in the EU in 2015
+
+Ktorý predseda EP navrhol vytvorenie múzea Dom európskej histórie v Bruseli?
++ Hans-Gert Pöttering
+- Pat Cox
+- Josep Borrell
+= Ako predseda Európskeho parlamentu Hans-Gert Pöttering navrhol vytvorenie múzea Dom európskej histórie v Bruseli.
+> eppres-hans-gert-poettering | As president of the European Parliament he proposed the creation of the House of European History museum in Brussels
+
+Ako dlho bol Hans-Gert Pöttering nepretržite poslancom Európskeho parlamentu?
++ od prvých priamych volieb v roku 1979 až do roku 2014
+- len v rokoch 2007 – 2009
+- od roku 1952 do roku 1979
+= Pöttering bol poslancom EP nepretržite od prvých priamych volieb v roku 1979 do roku 2014; pri odchode bol najdlhšie slúžiacim poslancom.
+> eppres-hans-gert-poettering | He served as a Member of the European Parliament continuously from the first direct elections in 1979 until 2014.
+
+Kto nastúpil na post predsedu EP po Josepovi Borrellovi v druhej polovici volebného obdobia 2004 – 2009?
++ Hans-Gert Pöttering
+- Jerzy Buzek
+- Klaus Hänsch
+= Hans-Gert Pöttering nahradil Josepa Borrella vo funkcii predsedu EP v druhej polovici obdobia 2004 – 2009.
+> eppres-hans-gert-poettering | He succeeded Josep Borrell Fontelles as President of the European Parliament in the second part of the 2004–2009 term.
+
+@his 2
+Kedy bol Antonio Tajani zvolený za predsedu Európskeho parlamentu?
++ 17. januára 2017
+- 14. júla 2009
+- 3. júla 2019
+= Antonio Tajani bol zvolený za predsedu Európskeho parlamentu 17. januára 2017.
+> eppres-antonio-tajani | Antonio Tajani was elected President of the European Parliament on 17 January 2017.
+
+Za ktorú oblasť zodpovedal Antonio Tajani ako európsky komisár od roku 2008?
++ za dopravu
+- za poľnohospodárstvo
+- za hospodársku súťaž
+= Antonio Tajani bol v roku 2008 vymenovaný za európskeho komisára pre dopravu a presadzoval rozšírenie práv cestujúcich.
+> eppres-antonio-tajani | He was appointed European Commissioner for Transport in 2008 and backed the extension of passenger rights during his tenure.
+
+Akému povolaniu sa viac ako 20 rokov venoval Antonio Tajani pred politickou kariérou?
++ bol novinárom
+- bol lekárom
+- bol futbalovým trénerom
+= Tajani bol viac ako dvadsať rokov profesionálnym novinárom (Rai Radio 1, Il Giornale).
+> eppres-antonio-tajani | Tajani was a professional journalist for more than twenty years.
+
+Ktorý predseda EP pracoval predtým ako televízny reportér a zástupca riaditeľa spravodajstva TG1?
++ David Sassoli
+- Martin Schulz
+- Jerzy Buzek
+= David Sassoli bol televíznym novinárom; v roku 2007 sa stal zástupcom riaditeľa spravodajskej relácie TG1.
+> eppres-david-sassoli | In 2007, he became Deputy Director of TG1
+
+@his 2
+V ktorom meste sa narodil predseda Európskeho parlamentu David Sassoli?
++ vo Florencii
+- v Ríme
+- v Miláne
+= David Maria Sassoli sa narodil vo Florencii 30. mája 1956.
+> eppres-david-sassoli | David Maria Sassoli was born in Florence on 30 May 1956.
+
+Na ktorej známej škole európskych štúdií študovala európske právo Roberta Metsolová?
++ na College of Europe v Bruggách
+- na Sorbonne v Paríži
+- na Oxfordskej univerzite
+= Roberta Metsolová získala doktorát z práva na Maltskej univerzite a európske právo študovala na College of Europe v Bruggách.
+> eppres-roberta-metsola | before pursuing studies in European Law at the College of Europe in Bruges
+
+@his 2
+V ktorom roku sa narodila predsedníčka Európskeho parlamentu Roberta Metsolová?
++ v roku 1979
+- v roku 1959
+- v roku 1989
+= Roberta Metsolová sa narodila 18. januára 1979 v St. Julian's na Malte.
+> eppres-roberta-metsola | Roberta Metsola was born on 18 January 1979 in St. Julians in Malta.
+
+Kedy bola Roberta Metsolová prvýkrát zvolená do Európskeho parlamentu?
++ v roku 2013
+- v roku 1999
+- v roku 2022
+= Metsolová bola prvýkrát zvolená do EP v roku 2013 ako jedna z prvých maltských poslankýň EP.
+> eppres-roberta-metsola | Metsola was first elected to the European Parliament in 2013, becoming one of Malta's first female Members of the European Parliament.
+
+Akú funkciu zastával Josep Borrell v rokoch 2019 – 2024, po pôsobení na čele EP?
++ vysoký predstaviteľ EÚ pre zahraničné veci a bezpečnostnú politiku
+- predseda Európskej rady
+- generálny tajomník OSN
+= Josep Borrell bol v rokoch 2019 – 2024 vysokým predstaviteľom EÚ pre zahraničné veci a bezpečnostnú politiku a podpredsedom Komisie.
+> eppres-josep-borrell-fontelles | From 2019 to 2024, he was the High Representative of the European Union for Foreign Affairs and Security Policy and Vice President of the European Commission.
+
+Kedy bol Josep Borrell zvolený za predsedu Európskeho parlamentu?
++ 20. júla 2004
+- 1. mája 2004
+- 14. júla 2009
+= Josep Borrell bol zvolený za predsedu Európskeho parlamentu 20. júla 2004.
+> eppres-josep-borrell-fontelles | On 20 July 2004, he was elected President of the European Parliament.
+
+Ktorý predseda EP povedal: „Nie som ani zo starej, ani z novej Európy. Som jednoducho Európan…“?
++ Josep Borrell
+- Jerzy Buzek
+- Pat Cox
+= Výrok o odmietaní delenia na „starú“ a „novú“ Európu patrí Josepovi Borrellovi (predseda EP 2004 – 2007).
+> ep-hist-presidents | "I am neither of the old nor of the new Europe. I am simply a European who rejects denominations intended to perpetuate our division."
+
+Ktorý predseda EP povedal: „Narodil som sa ako Angličan. Zomriem ako Európan… anglický Európan.“?
++ lord Henry Plumb
+- Pat Cox
+- Martin Schulz
+= Tento výrok patrí lordovi Plumbovi, predsedovi EP v rokoch 1987 – 1989.
+> ep-hist-presidents | "...I was born an Englishman. I shall die a European... an English European."
+
+Akému povolaniu sa venoval lord Henry Plumb, predseda EP v rokoch 1987 – 1989?
++ bol farmárom a predsedom zväzu farmárov
+- bol lodným kapitánom
+- bol profesionálnym športovcom
+= Charles Henry Plumb bol farmár a politik; v rokoch 1970 – 1979 bol predsedom Národného zväzu farmárov (NFU).
+> eppres-lord-plumb | He was a farmer and politician ... 1970-1979: President of the NFU
+
+Kedy Európsky parlament zvolil za svojho predsedu Klausa Hänscha?
++ 19. júla 1994
+- 20. júla 2004
+- 1. januára 1995
+= Dňa 19. júla 1994 si Európsky parlament zvolil Klausa Hänscha za svojho predsedu.
+> eppres-klaus-haensch | On 19 July 1994, the European Parliament elected him as its President.
+
+@akt 3
+Ktorý bývalý predseda Európskeho parlamentu zomrel 4. augusta 2026 v nemeckom Erkrathe?
++ Klaus Hänsch
+- Hans-Gert Pöttering
+- Martin Schulz
+= Klaus Hänsch, predseda EP v rokoch 1994 – 1997 a člen predsedníctva Konventu o budúcnosti Európy, zomrel 4. augusta 2026 v Erkrathe.
+> eppres-klaus-haensch | Klaus Hänsch passed away in Erkrath, Germany, on 4 August 2026.
+
+V ktorom orgáne pôsobil Klaus Hänsch v rokoch 2002 – 2003?
++ v predsedníctve Konventu o budúcnosti Európy
+- v Európskej centrálnej banke
+- v Bezpečnostnej rade OSN
+= Klaus Hänsch bol členom predsedníctva Konventu o budúcnosti Európy (2002 – 2003).
+> eppres-klaus-haensch | Klaus Hänsch was a Member of the Praesidium of the Convention on the Future of Europe (2002-2003).
+
+Ktorého mesta bol starostom Pierre Pflimlin v rokoch 1959 – 1983?
++ Štrasburgu
+- Bruselu
+- Luxemburgu
+= Pierre Pflimlin bol v rokoch 1959 – 1983 starostom Štrasburgu; predsedom EP bol v rokoch 1984 – 1987.
+> eppres-pierre-pflimlin | Mayor of Strasbourg, an office he held from 1959 to 1983
+
+Prečo v roku 1962 odstúpil Pierre Pflimlin z francúzskej vlády?
++ pre nezhody s generálom de Gaullom o európskej integrácii
+- pre zdravotné problémy
+- pretože bol zvolený za prezidenta
+= V roku 1962 odstúpil spolu s ďalšími ministrami MRP pre nezhody s generálom de Gaullom o európskej integrácii.
+> eppres-pierre-pflimlin | In 1962 he resigned, along with the other ministers from the MRP, over disagreements with General de Gaulle about European integration.
+
+Ktorému zhromaždeniu predsedal Pierre Pflimlin v rokoch 1963 – 1966?
++ Parlamentnému zhromaždeniu Rady Európy
+- Valnému zhromaždeniu OSN
+- Bundestagu
+= Pflimlin bol v rokoch 1963 – 1966 predsedom Parlamentného zhromaždenia Rady Európy.
+> eppres-pierre-pflimlin | He was also President of the Parliamentary Assembly of the Council of Europe (1963-1966).
+
+Akú funkciu zastával Emilio Colombo v rokoch 1970 – 1972?
++ predseda talianskej vlády
+- predseda Európskej komisie
+- generálny tajomník NATO
+= Emilio Colombo bol v rokoch 1970 – 1972 predsedom Rady ministrov talianskej vlády.
+> eppres-emilio-colombo | held the position of the President of the Italian Government's Council of Ministers from 1970 to 1972
+
+Na tvorbe ktorých európskych programov sa významne podieľala Nicole Fontaineová ako poslankyňa EP?
++ Sokrates a Mládež pre Európu
+- Galileo a Copernicus
+- Schengen a Dublin
+= Fontaineová sa usilovala priblížiť Európu ľuďom a zohrala kľúčovú úlohu pri vytváraní programov Sokrates a Mládež pre Európu.
+> eppres-nicole-fontaine | she played a key role in developing the Socrates and Youth for Europe programmes
+
+V ktorom meste sa narodil Pat Cox, predseda EP v rokoch 2002 – 2004?
++ v Dubline
+- v Belfaste
+- v Londýne
+= Pat Cox sa narodil 28. novembra 1952 v Dubline v Írsku.
+> eppres-pat-cox | Pat Cox was born on 28th November 1952 in Dublin, Ireland.
+
+Ktorú európsku politickú stranu viedol Pat Cox?
++ Európskych liberálnych demokratov
+- Európsku ľudovú stranu
+- Stranu európskych socialistov
+= Pat Cox bol zástupcom predsedu a potom predsedom Európskych liberálnych demokratov.
+> eppres-pat-cox | the Deputy Leader and thereafter the Leader of the European Liberal Democrats
+
+Ktorej nadácie je zakladajúcim členom a predsedom Enrique Barón Crespo?
++ Medzinárodnej nadácie Yehudiho Menuhina
+- Nobelovej nadácie
+- Nadácie Konrada Adenauera
+= Enrique Barón Crespo je predsedom a zakladajúcim členom Medzinárodnej nadácie Yehudiho Menuhina.
+> eppres-enrique-baron-crespo | He is also the President and a founding member of the International Yehudi Menuhin Foundation
+
+Ktorú inštitúciu viedol Piet Dankert v rokoch 1975 – 1980, pred zvolením za predsedu EP?
++ Holandský inštitút pre mier a bezpečnosť
+- Holandskú centrálnu banku
+- Medzinárodný súdny dvor v Haagu
+= V rokoch 1975 – 1980 bol Pieter Dankert predsedom Holandského inštitútu pre mier a bezpečnosť.
+> eppres-piet-dankert | From 1975 to 1980, Dankert held the position of President of the Netherlands Institute for Peace and Security.
+
+Ktorý predseda EP začal v roku 1995 program systematického archivovania spisov všetkých predsedov od roku 1979?
++ Klaus Hänsch
+- Simone Veilová
+- Enrique Barón Crespo
+= V roku 1995 začal predseda Klaus Hänsch rozsiahly program systematického archivovania spisov všetkých predsedov od roku 1979.
+> ep-hist-presidents | In 1995, President Klaus Hansch initiated a major programme of systematically archiving the files of all Presidents since 1979.

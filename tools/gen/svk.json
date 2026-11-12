@@ -1,0 +1,1945 @@
+[
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bola zvolená slovenská europoslankyňa Monika Beňová?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Hnutie Republika",
+   "Progresívne Slovensko"
+  ],
+  "v": "Monika Beňová je poslankyňou EP za stranu SMER-Sociálna demokracia (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Monika BEŇOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradená Monika Beňová?",
+  "ok": "nezaradení poslanci",
+  "bad": [
+   "Zelení/Európska slobodná aliancia",
+   "Socialisti a demokrati (S&D)"
+  ],
+  "v": "V zozname poslancov EP: Monika Beňová (SMER-Sociálna demokracia) – Nezaradení poslanci.",
+  "src": [
+   [
+    "sk-meps",
+    "Monika BEŇOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bol zvolený slovenský europoslanec Ľuboš Blaha?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Kresťanskodemokratické hnutie",
+   "Hnutie Republika"
+  ],
+  "v": "Ľuboš Blaha je poslancom EP za stranu SMER-Sociálna demokracia (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Ľuboš BLAHA Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradený Ľuboš Blaha?",
+  "ok": "nezaradení poslanci",
+  "bad": [
+   "Európska ľudová strana (EĽS)",
+   "Socialisti a demokrati (S&D)"
+  ],
+  "v": "V zozname poslancov EP: Ľuboš Blaha (SMER-Sociálna demokracia) – Nezaradení poslanci.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľuboš BLAHA Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bola zvolená slovenská europoslankyňa Veronika Cifrová Ostrihoňová?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Hnutie Republika",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Veronika Cifrová Ostrihoňová je poslankyňou EP za stranu Progresívne Slovensko (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Veronika CIFROVÁ OSTRIHOŇOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradená Veronika Cifrová Ostrihoňová?",
+  "ok": "Renew Europe",
+  "bad": [
+   "Patrioti pre Európu",
+   "Európska ľudová strana (EĽS)"
+  ],
+  "v": "V zozname poslancov EP: Veronika Cifrová Ostrihoňová (Progresívne Slovensko) – skupina Renew Europe.",
+  "src": [
+   [
+    "sk-meps",
+    "Veronika CIFROVÁ OSTRIHOŇOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bol zvolený slovenský europoslanec Martin Hojsík?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "SMER-Sociálna demokracia"
+  ],
+  "v": "Martin Hojsík je poslancom EP za stranu Progresívne Slovensko (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Martin HOJSÍK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradený Martin Hojsík?",
+  "ok": "Renew Europe",
+  "bad": [
+   "Európa suverénnych národov (ESN)",
+   "Patrioti pre Európu"
+  ],
+  "v": "V zozname poslancov EP: Martin Hojsík (Progresívne Slovensko) – skupina Renew Europe.",
+  "src": [
+   [
+    "sk-meps",
+    "Martin HOJSÍK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bol zvolený slovenský europoslanec Erik Kaliňák?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Progresívne Slovensko",
+   "Hlas – sociálna demokracia"
+  ],
+  "v": "Erik Kaliňák je poslancom EP za stranu SMER-Sociálna demokracia (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Erik KALIŇÁK Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradený Erik Kaliňák?",
+  "ok": "nezaradení poslanci",
+  "bad": [
+   "Európska ľudová strana (EĽS)",
+   "Zelení/Európska slobodná aliancia"
+  ],
+  "v": "V zozname poslancov EP: Erik Kaliňák (SMER-Sociálna demokracia) – Nezaradení poslanci.",
+  "src": [
+   [
+    "sk-meps",
+    "Erik KALIŇÁK Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bola zvolená slovenská europoslankyňa Ľubica Karvašová?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Hnutie Republika",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Ľubica Karvašová je poslankyňou EP za stranu Progresívne Slovensko (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Ľubica KARVAŠOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradená Ľubica Karvašová?",
+  "ok": "Renew Europe",
+  "bad": [
+   "nezaradení poslanci",
+   "Socialisti a demokrati (S&D)"
+  ],
+  "v": "V zozname poslancov EP: Ľubica Karvašová (Progresívne Slovensko) – skupina Renew Europe.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľubica KARVAŠOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bola zvolená slovenská europoslankyňa Judita Laššáková?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Progresívne Slovensko",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Judita Laššáková je poslankyňou EP za stranu SMER-Sociálna demokracia (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Judita LAŠŠÁKOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradená Judita Laššáková?",
+  "ok": "nezaradení poslanci",
+  "bad": [
+   "Socialisti a demokrati (S&D)",
+   "Renew Europe"
+  ],
+  "v": "V zozname poslancov EP: Judita Laššáková (SMER-Sociálna demokracia) – Nezaradení poslanci.",
+  "src": [
+   [
+    "sk-meps",
+    "Judita LAŠŠÁKOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bola zvolená slovenská europoslankyňa Miriam Lexmann?",
+  "ok": "Kresťanskodemokratické hnutie",
+  "bad": [
+   "Progresívne Slovensko",
+   "SMER-Sociálna demokracia"
+  ],
+  "v": "Miriam Lexmann je poslankyňou EP za stranu Kresťanskodemokratické hnutie (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Miriam LEXMANN Poslanecký klub Európskej ľudovej strany (Kresťanských demokratov) Slovensko Kresťanskodemokratické hnutie"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradená Miriam Lexmann?",
+  "ok": "Európska ľudová strana (EĽS)",
+  "bad": [
+   "Socialisti a demokrati (S&D)",
+   "nezaradení poslanci"
+  ],
+  "v": "V zozname poslancov EP: Miriam Lexmann (Kresťanskodemokratické hnutie) – Poslanecký klub Európskej ľudovej strany (Kresťanských demokratov).",
+  "src": [
+   [
+    "sk-meps",
+    "Miriam LEXMANN Poslanecký klub Európskej ľudovej strany (Kresťanských demokratov) Slovensko Kresťanskodemokratické hnutie"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bol zvolený slovenský europoslanec Milan Mazurek?",
+  "ok": "Hnutie Republika",
+  "bad": [
+   "Progresívne Slovensko",
+   "Hlas – sociálna demokracia"
+  ],
+  "v": "Milan Mazurek je poslancom EP za stranu Hnutie Republika (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Milan MAZUREK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradený Milan Mazurek?",
+  "ok": "Európa suverénnych národov (ESN)",
+  "bad": [
+   "Renew Europe",
+   "nezaradení poslanci"
+  ],
+  "v": "V zozname poslancov EP: Milan Mazurek (Hnutie Republika) – skupina Európa suverénnych národov.",
+  "src": [
+   [
+    "sk-meps",
+    "Milan MAZUREK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bol zvolený slovenský europoslanec Ľudovít Ódor?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "SMER-Sociálna demokracia"
+  ],
+  "v": "Ľudovít Ódor je poslancom EP za stranu Progresívne Slovensko (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Ľudovít ÓDOR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradený Ľudovít Ódor?",
+  "ok": "Renew Europe",
+  "bad": [
+   "Socialisti a demokrati (S&D)",
+   "Európska ľudová strana (EĽS)"
+  ],
+  "v": "V zozname poslancov EP: Ľudovít Ódor (Progresívne Slovensko) – skupina Renew Europe.",
+  "src": [
+   [
+    "sk-meps",
+    "Ľudovít ÓDOR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bol zvolený slovenský europoslanec Branislav Ondruš?",
+  "ok": "Hlas – sociálna demokracia",
+  "bad": [
+   "Progresívne Slovensko",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Branislav Ondruš je poslancom EP za stranu Hlas – sociálna demokracia (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Branislav ONDRUŠ Nezaradení poslanci Slovensko Hlas – sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradený Branislav Ondruš?",
+  "ok": "nezaradení poslanci",
+  "bad": [
+   "Socialisti a demokrati (S&D)",
+   "Európska ľudová strana (EĽS)"
+  ],
+  "v": "V zozname poslancov EP: Branislav Ondruš (Hlas – sociálna demokracia) – Nezaradení poslanci.",
+  "src": [
+   [
+    "sk-meps",
+    "Branislav ONDRUŠ Nezaradení poslanci Slovensko Hlas – sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bola zvolená slovenská europoslankyňa Katarína Roth Neveďalová?",
+  "ok": "SMER-Sociálna demokracia",
+  "bad": [
+   "Hnutie Republika",
+   "Kresťanskodemokratické hnutie"
+  ],
+  "v": "Katarína Roth Neveďalová je poslankyňou EP za stranu SMER-Sociálna demokracia (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Katarína ROTH NEVEĎALOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradená Katarína Roth Neveďalová?",
+  "ok": "nezaradení poslanci",
+  "bad": [
+   "Renew Europe",
+   "Socialisti a demokrati (S&D)"
+  ],
+  "v": "V zozname poslancov EP: Katarína Roth Neveďalová (SMER-Sociálna demokracia) – Nezaradení poslanci.",
+  "src": [
+   [
+    "sk-meps",
+    "Katarína ROTH NEVEĎALOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bol zvolený slovenský europoslanec Milan Uhrík?",
+  "ok": "Hnutie Republika",
+  "bad": [
+   "Kresťanskodemokratické hnutie",
+   "Hlas – sociálna demokracia"
+  ],
+  "v": "Milan Uhrík je poslancom EP za stranu Hnutie Republika (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Milan UHRÍK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradený Milan Uhrík?",
+  "ok": "Európa suverénnych národov (ESN)",
+  "bad": [
+   "Renew Europe",
+   "Zelení/Európska slobodná aliancia"
+  ],
+  "v": "V zozname poslancov EP: Milan Uhrík (Hnutie Republika) – skupina Európa suverénnych národov.",
+  "src": [
+   [
+    "sk-meps",
+    "Milan UHRÍK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bol zvolený slovenský europoslanec Michal Wiezik?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "Hlas – sociálna demokracia",
+   "SMER-Sociálna demokracia"
+  ],
+  "v": "Michal Wiezik je poslancom EP za stranu Progresívne Slovensko (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Michal WIEZIK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradený Michal Wiezik?",
+  "ok": "Renew Europe",
+  "bad": [
+   "Patrioti pre Európu",
+   "Socialisti a demokrati (S&D)"
+  ],
+  "v": "V zozname poslancov EP: Michal Wiezik (Progresívne Slovensko) – skupina Renew Europe.",
+  "src": [
+   [
+    "sk-meps",
+    "Michal WIEZIK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Za ktorú stranu bola zvolená slovenská europoslankyňa Lucia Yar?",
+  "ok": "Progresívne Slovensko",
+  "bad": [
+   "SMER-Sociálna demokracia",
+   "Hlas – sociálna demokracia"
+  ],
+  "v": "Lucia Yar je poslankyňou EP za stranu Progresívne Slovensko (volebné obdobie 2024 – 2029).",
+  "src": [
+   [
+    "sk-meps",
+    "Lucia YAR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny Európskeho parlamentu je zaradená Lucia Yar?",
+  "ok": "Renew Europe",
+  "bad": [
+   "Európa suverénnych národov (ESN)",
+   "Európska ľudová strana (EĽS)"
+  ],
+  "v": "V zozname poslancov EP: Lucia Yar (Progresívne Slovensko) – skupina Renew Europe.",
+  "src": [
+   [
+    "sk-meps",
+    "Lucia YAR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Koľko poslancov má v Európskom parlamente (2024 – 2029) strana SMER-Sociálna demokracia?",
+  "ok": "5",
+  "bad": [
+   "6",
+   "4"
+  ],
+  "v": "Strana SMER-Sociálna demokracia má v EP 5 poslancov: Monika Beňová, Ľuboš Blaha, Erik Kaliňák, Judita Laššáková, Katarína Roth Neveďalová.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Monika BEŇOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ],
+   [
+    "sk-meps",
+    "Ľuboš BLAHA Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ],
+   [
+    "sk-meps",
+    "Erik KALIŇÁK Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ],
+   [
+    "sk-meps",
+    "Judita LAŠŠÁKOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ],
+   [
+    "sk-meps",
+    "Katarína ROTH NEVEĎALOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Koľko poslancov má v Európskom parlamente (2024 – 2029) strana Progresívne Slovensko?",
+  "ok": "6",
+  "bad": [
+   "3",
+   "8"
+  ],
+  "v": "Strana Progresívne Slovensko má v EP 6 poslancov: Veronika Cifrová Ostrihoňová, Martin Hojsík, Ľubica Karvašová, Ľudovít Ódor, Michal Wiezik, Lucia Yar.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Veronika CIFROVÁ OSTRIHOŇOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ],
+   [
+    "sk-meps",
+    "Martin HOJSÍK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ],
+   [
+    "sk-meps",
+    "Ľubica KARVAŠOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ],
+   [
+    "sk-meps",
+    "Ľudovít ÓDOR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ],
+   [
+    "sk-meps",
+    "Michal WIEZIK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ],
+   [
+    "sk-meps",
+    "Lucia YAR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Koľko poslancov má v Európskom parlamente (2024 – 2029) strana Kresťanskodemokratické hnutie?",
+  "ok": "1",
+  "bad": [
+   "5",
+   "6"
+  ],
+  "v": "Strana Kresťanskodemokratické hnutie má v EP 1 poslanca: Miriam Lexmann.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Miriam LEXMANN Poslanecký klub Európskej ľudovej strany (Kresťanských demokratov) Slovensko Kresťanskodemokratické hnutie"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Koľko poslancov má v Európskom parlamente (2024 – 2029) strana Hnutie Republika?",
+  "ok": "2",
+  "bad": [
+   "5",
+   "4"
+  ],
+  "v": "Strana Hnutie Republika má v EP 2 poslancov: Milan Mazurek, Milan Uhrík.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Milan MAZUREK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ],
+   [
+    "sk-meps",
+    "Milan UHRÍK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Koľko poslancov má v Európskom parlamente (2024 – 2029) strana Hlas – sociálna demokracia?",
+  "ok": "1",
+  "bad": [
+   "5",
+   "8"
+  ],
+  "v": "Strana Hlas – sociálna demokracia má v EP 1 poslanca: Branislav Ondruš.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Branislav ONDRUŠ Nezaradení poslanci Slovensko Hlas – sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý z týchto slovenských politikov je poslancom/poslankyňou Európskeho parlamentu (2024 – 2029)?",
+  "ok": "Monika Beňová",
+  "bad": [
+   "Igor Matovič",
+   "Robert Fico"
+  ],
+  "v": "Monika Beňová je jedným z 15 slovenských poslancov EP; Igor Matovič ani Robert Fico medzi nich nepatria.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Monika BEŇOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý z týchto slovenských politikov je poslancom/poslankyňou Európskeho parlamentu (2024 – 2029)? ",
+  "ok": "Veronika Cifrová Ostrihoňová",
+  "bad": [
+   "Peter Pellegrini",
+   "Michal Šimečka"
+  ],
+  "v": "Veronika Cifrová Ostrihoňová je jedným z 15 slovenských poslancov EP; Peter Pellegrini ani Michal Šimečka medzi nich nepatria.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Veronika CIFROVÁ OSTRIHOŇOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý z týchto slovenských politikov je poslancom/poslankyňou Európskeho parlamentu (2024 – 2029)?  ",
+  "ok": "Erik Kaliňák",
+  "bad": [
+   "Michal Šimečka",
+   "Robert Fico"
+  ],
+  "v": "Erik Kaliňák je jedným z 15 slovenských poslancov EP; Michal Šimečka ani Robert Fico medzi nich nepatria.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Erik KALIŇÁK Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý z týchto slovenských politikov je poslancom/poslankyňou Európskeho parlamentu (2024 – 2029)?",
+  "ok": "Judita Laššáková",
+  "bad": [
+   "Michal Šimečka",
+   "Robert Fico"
+  ],
+  "v": "Judita Laššáková je jedným z 15 slovenských poslancov EP; Michal Šimečka ani Robert Fico medzi nich nepatria.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Judita LAŠŠÁKOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý z týchto slovenských politikov je poslancom/poslankyňou Európskeho parlamentu (2024 – 2029)? ",
+  "ok": "Milan Mazurek",
+  "bad": [
+   "Andrej Danko",
+   "Igor Matovič"
+  ],
+  "v": "Milan Mazurek je jedným z 15 slovenských poslancov EP; Andrej Danko ani Igor Matovič medzi nich nepatria.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Milan MAZUREK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý z týchto slovenských politikov je poslancom/poslankyňou Európskeho parlamentu (2024 – 2029)?  ",
+  "ok": "Branislav Ondruš",
+  "bad": [
+   "Richard Sulík",
+   "Igor Matovič"
+  ],
+  "v": "Branislav Ondruš je jedným z 15 slovenských poslancov EP; Richard Sulík ani Igor Matovič medzi nich nepatria.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Branislav ONDRUŠ Nezaradení poslanci Slovensko Hlas – sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý z týchto slovenských politikov je poslancom/poslankyňou Európskeho parlamentu (2024 – 2029)?",
+  "ok": "Milan Uhrík",
+  "bad": [
+   "Peter Pellegrini",
+   "Michal Šimečka"
+  ],
+  "v": "Milan Uhrík je jedným z 15 slovenských poslancov EP; Peter Pellegrini ani Michal Šimečka medzi nich nepatria.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Milan UHRÍK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý z týchto slovenských politikov je poslancom/poslankyňou Európskeho parlamentu (2024 – 2029)? ",
+  "ok": "Lucia Yar",
+  "bad": [
+   "Zuzana Čaputová",
+   "Richard Sulík"
+  ],
+  "v": "Lucia Yar je jedným z 15 slovenských poslancov EP; Zuzana Čaputová ani Richard Sulík medzi nich nepatria.",
+  "src": [
+   [
+    "sk-meps",
+    "Nájdené výsledky: 15"
+   ],
+   [
+    "sk-meps",
+    "Lucia YAR skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Ktorá slovenská europoslankyňa patrí do najväčšej skupiny EP – Európskej ľudovej strany (EĽS)?",
+  "ok": "Miriam Lexmann",
+  "bad": [
+   "Monika Beňová",
+   "Veronika Cifrová Ostrihoňová"
+  ],
+  "v": "Miriam Lexmann (KDH) je jedinou slovenskou poslankyňou v skupine EĽS.",
+  "src": [
+   [
+    "sk-meps",
+    "Miriam LEXMANN Poslanecký klub Európskej ľudovej strany (Kresťanských demokratov) Slovensko Kresťanskodemokratické hnutie"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Ako sú v Európskom parlamente zaradení europoslanci strany SMER – sociálna demokracia?",
+  "ok": "nezaradení poslanci",
+  "bad": [
+   "Socialisti a demokrati (S&D)",
+   "Európska ľudová strana (EĽS)"
+  ],
+  "v": "Všetci piati europoslanci strany SMER-SD sú v zozname EP vedení ako nezaradení poslanci.",
+  "src": [
+   [
+    "sk-meps",
+    "Monika BEŇOVÁ Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ],
+   [
+    "sk-meps",
+    "Ľuboš BLAHA Nezaradení poslanci Slovensko SMER-Sociálna demokracia"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Do ktorej politickej skupiny EP patria europoslanci Hnutia Republika?",
+  "ok": "Európa suverénnych národov (ESN)",
+  "bad": [
+   "Patrioti pre Európu",
+   "Renew Europe"
+  ],
+  "v": "Milan Mazurek a Milan Uhrík (Hnutie Republika) patria do skupiny Európa suverénnych národov.",
+  "src": [
+   [
+    "sk-meps",
+    "Milan MAZUREK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ],
+   [
+    "sk-meps",
+    "Milan UHRÍK skupina Európa suverénnych národov Slovensko Hnutie Republika"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Do ktorej politickej skupiny EP patria europoslanci Progresívneho Slovenska?",
+  "ok": "Renew Europe",
+  "bad": [
+   "Zelení/Európska slobodná aliancia",
+   "Socialisti a demokrati (S&D)"
+  ],
+  "v": "Šesť europoslancov Progresívneho Slovenska patrí do skupiny Renew Europe.",
+  "src": [
+   [
+    "sk-meps",
+    "Veronika CIFROVÁ OSTRIHOŇOVÁ skupina Renew Europe Slovensko Progresívne Slovensko"
+   ],
+   [
+    "sk-meps",
+    "Martin HOJSÍK skupina Renew Europe Slovensko Progresívne Slovensko"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2026?",
+  "ok": "Pamätné euromince, ktoré vydalo Slovensko si pozriete v tabuľke nižšie. Všetky pamätné euromince sú na stránkach ECB.",
+  "bad": [
+   "Prvé predsedníctvo Slovenskej republiky v Rade Európskej únie",
+   "550. výročie začatia činnosti Univerzity Istropolitany"
+  ],
+  "v": "Pamätná 2 € minca „Pamätné euromince, ktoré vydalo Slovensko si pozriete v tabuľke nižšie. Všetky pamätné euromince sú na stránkach ECB.“ bola vydaná 15. 6. 2026.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "Pamätné euromince, ktoré vydalo Slovensko si pozriete v tabuľke nižšie. Všetky pamätné euromince sú na stránkach ECB. Pamätné euromince si môžete kúpiť, alebo vymeniť v ústredí NBS, alebo na expozitúrach počas otváracích hodín. Informácie zverejňované na internetovej stránke NBS je povolené ukladať, rozmnožovať a ďalej používať bez predchádzajúceho súhlasu Národnej banky Slovenska. Národná banka Slovenska však musí byť uvedená ako zdroj informácií a príslušný elektronický súbor nesmie byť obsahovo ani inak pozmeňovaný. 50. výročie víťazstva futbalistov Československa na Majstrovstvách Európy [img: Bankovky a mince, Pamätné euromince] Pamätná minca v hodnote 2 € Autor: Matěj Hanuš Emisia: 15. 6. 2026"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „Pamätné euromince, ktoré vydalo Slovensko si pozriete v tabuľke nižšie. Všetky pamätné euromince sú na stránkach ECB.“?",
+  "ok": "2026",
+  "bad": [
+   "2023",
+   "2021"
+  ],
+  "v": "Minca „Pamätné euromince, ktoré vydalo Slovensko si pozriete v tabuľke nižšie. Všetky pamätné euromince sú na stránkach ECB.“ bola vydaná 15. 6. 2026 (autor: Matěj Hanuš).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "Pamätné euromince, ktoré vydalo Slovensko si pozriete v tabuľke nižšie. Všetky pamätné euromince sú na stránkach ECB. Pamätné euromince si môžete kúpiť, alebo vymeniť v ústredí NBS, alebo na expozitúrach počas otváracích hodín. Informácie zverejňované na internetovej stránke NBS je povolené ukladať, rozmnožovať a ďalej používať bez predchádzajúceho súhlasu Národnej banky Slovenska. Národná banka Slovenska však musí byť uvedená ako zdroj informácií a príslušný elektronický súbor nesmie byť obsahovo ani inak pozmeňovaný. 50. výročie víťazstva futbalistov Československa na Majstrovstvách Európy [img: Bankovky a mince, Pamätné euromince] Pamätná minca v hodnote 2 € Autor: Matěj Hanuš Emisia: 15. 6. 2026"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2025?",
+  "ok": "100. výročie prvého medzinárodného športového turnaja na území Slovenskej republiky – majstrovstiev Európy v hokeji",
+  "bad": [
+   "100. výročie narodenia Alexandra Dubčeka",
+   "200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava"
+  ],
+  "v": "Pamätná 2 € minca „100. výročie prvého medzinárodného športového turnaja na území Slovenskej republiky – majstrovstiev Európy v hokeji“ bola vydaná 20. 1. 2025.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "100. výročie prvého medzinárodného športového turnaja na území Slovenskej republiky – majstrovstiev Európy v hokeji [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Karol Ličko Emisia: 20. 1. 2025"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „100. výročie prvého medzinárodného športového turnaja na území Slovenskej republiky – majstrovstiev Európy v hokeji“?",
+  "ok": "2025",
+  "bad": [
+   "2026",
+   "2024"
+  ],
+  "v": "Minca „100. výročie prvého medzinárodného športového turnaja na území Slovenskej republiky – majstrovstiev Európy v hokeji“ bola vydaná 20. 1. 2025 (autor: Karol Ličko).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "100. výročie prvého medzinárodného športového turnaja na území Slovenskej republiky – majstrovstiev Európy v hokeji [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Karol Ličko Emisia: 20. 1. 2025"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2024?",
+  "ok": "100. výročie založenia Medzinárodného maratónskeho behu v Košiciach",
+  "bad": [
+   "300. výročie zostrojenia prvého parného stroja na odčerpanie vôd z baní v kontinentálnej Európe",
+   "200. výročie narodenia Ľudovíta Štúra"
+  ],
+  "v": "Pamätná 2 € minca „100. výročie založenia Medzinárodného maratónskeho behu v Košiciach“ bola vydaná 19. 9. 2024.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "100. výročie založenia Medzinárodného maratónskeho behu v Košiciach [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mgr. art. Roman Lugár Emisia: 19. 9. 2024"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „100. výročie založenia Medzinárodného maratónskeho behu v Košiciach“?",
+  "ok": "2024",
+  "bad": [
+   "2022",
+   "2025"
+  ],
+  "v": "Minca „100. výročie založenia Medzinárodného maratónskeho behu v Košiciach“ bola vydaná 19. 9. 2024 (autor: Mgr. art. Roman Lugár).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "100. výročie založenia Medzinárodného maratónskeho behu v Košiciach [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mgr. art. Roman Lugár Emisia: 19. 9. 2024"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2023?",
+  "ok": "200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava",
+  "bad": [
+   "Európske hlavné mesto kultúry Trenčín 2026",
+   "Desať rokov eurových bankoviek a mincí"
+  ],
+  "v": "Pamätná 2 € minca „200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava“ bola vydaná 11. 10. 2023.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mária Poldaufová Emisia: 11. 10. 2023"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava“?",
+  "ok": "2023",
+  "bad": [
+   "2024",
+   "2025"
+  ],
+  "v": "Minca „200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava“ bola vydaná 11. 10. 2023 (autor: Mária Poldaufová).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mária Poldaufová Emisia: 11. 10. 2023"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2023?",
+  "ok": "100. výročie prvej transfúzie krvi na Slovensku",
+  "bad": [
+   "35. výročie programu Erasmus",
+   "20. výročie 17. novembra 1989 (Dňa boja za slobodu a demokraciu)"
+  ],
+  "v": "Pamätná 2 € minca „100. výročie prvej transfúzie krvi na Slovensku“ bola vydaná 2. 3. 2023.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "100. výročie prvej transfúzie krvi na Slovensku [img: Bankovky a mince, Pamätné euromince] Pamätná minca v hodnote 2 € Autor: Mária Poldaufová Emisia: 2. 3. 2023"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „100. výročie prvej transfúzie krvi na Slovensku“?",
+  "ok": "2023",
+  "bad": [
+   "2022",
+   "2021"
+  ],
+  "v": "Minca „100. výročie prvej transfúzie krvi na Slovensku“ bola vydaná 2. 3. 2023 (autor: Mária Poldaufová).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "100. výročie prvej transfúzie krvi na Slovensku [img: Bankovky a mince, Pamätné euromince] Pamätná minca v hodnote 2 € Autor: Mária Poldaufová Emisia: 2. 3. 2023"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2022?",
+  "ok": "300. výročie zostrojenia prvého parného stroja na odčerpanie vôd z baní v kontinentálnej Európe",
+  "bad": [
+   "1150. výročie príchodu misie Konštantína a Metoda na Veľkú Moravu",
+   "Desať rokov eurových bankoviek a mincí"
+  ],
+  "v": "Pamätná 2 € minca „300. výročie zostrojenia prvého parného stroja na odčerpanie vôd z baní v kontinentálnej Európe“ bola vydaná 5. 10. 2022.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "300. výročie zostrojenia prvého parného stroja na odčerpanie vôd z baní v kontinentálnej Európe [img: Minca] Pamätná minca v hodnote 2 € Autor: Mgr. art. Peter Valach Emisia: 5. 10. 2022"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „300. výročie zostrojenia prvého parného stroja na odčerpanie vôd z baní v kontinentálnej Európe“?",
+  "ok": "2022",
+  "bad": [
+   "2024",
+   "2023"
+  ],
+  "v": "Minca „300. výročie zostrojenia prvého parného stroja na odčerpanie vôd z baní v kontinentálnej Európe“ bola vydaná 5. 10. 2022 (autor: Mgr. art. Peter Valach).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "300. výročie zostrojenia prvého parného stroja na odčerpanie vôd z baní v kontinentálnej Európe [img: Minca] Pamätná minca v hodnote 2 € Autor: Mgr. art. Peter Valach Emisia: 5. 10. 2022"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2020?",
+  "ok": "20. výročie vstupu Slovenskej republiky do Organizácie pre hospodársku spoluprácu a rozvoj (OECD)",
+  "bad": [
+   "35. výročie programu Erasmus",
+   "100. výročie prvej transfúzie krvi na Slovensku"
+  ],
+  "v": "Pamätná 2 € minca „20. výročie vstupu Slovenskej republiky do Organizácie pre hospodársku spoluprácu a rozvoj (OECD)“ bola vydaná 11. 11. 2020.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "20. výročie vstupu Slovenskej republiky do Organizácie pre hospodársku spoluprácu a rozvoj (OECD) [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mgr. art. Peter Valach Emisia: 11. 11. 2020"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „20. výročie vstupu Slovenskej republiky do Organizácie pre hospodársku spoluprácu a rozvoj (OECD)“?",
+  "ok": "2020",
+  "bad": [
+   "2017",
+   "2019"
+  ],
+  "v": "Minca „20. výročie vstupu Slovenskej republiky do Organizácie pre hospodársku spoluprácu a rozvoj (OECD)“ bola vydaná 11. 11. 2020 (autor: Mgr. art. Peter Valach).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "20. výročie vstupu Slovenskej republiky do Organizácie pre hospodársku spoluprácu a rozvoj (OECD) [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mgr. art. Peter Valach Emisia: 11. 11. 2020"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2019?",
+  "ok": "100. výročie úmrtia Milana Rastislava Štefánika",
+  "bad": [
+   "30. výročie vlajky Európskej únie",
+   "200. výročie narodenia Ľudovíta Štúra"
+  ],
+  "v": "Pamätná 2 € minca „100. výročie úmrtia Milana Rastislava Štefánika“ bola vydaná 25. 4. 2019.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "100. výročie úmrtia Milana Rastislava Štefánika [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mgr. art. Peter Valach Emisia: 25. 4. 2019"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „100. výročie úmrtia Milana Rastislava Štefánika“?",
+  "ok": "2019",
+  "bad": [
+   "2021",
+   "2018"
+  ],
+  "v": "Minca „100. výročie úmrtia Milana Rastislava Štefánika“ bola vydaná 25. 4. 2019 (autor: Mgr. art. Peter Valach).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "100. výročie úmrtia Milana Rastislava Štefánika [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mgr. art. Peter Valach Emisia: 25. 4. 2019"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2018?",
+  "ok": "25. výročie vzniku Slovenskej republiky",
+  "bad": [
+   "20. výročie vstupu Slovenskej republiky do Organizácie pre hospodársku spoluprácu a rozvoj (OECD)",
+   "Európske hlavné mesto kultúry Trenčín 2026"
+  ],
+  "v": "Pamätná 2 € minca „25. výročie vzniku Slovenskej republiky“ bola vydaná 3. 1. 2018.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "25. výročie vzniku Slovenskej republiky [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Pavel Károly Emisia: 3. 1. 2018"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „25. výročie vzniku Slovenskej republiky“?",
+  "ok": "2018",
+  "bad": [
+   "2016",
+   "2015"
+  ],
+  "v": "Minca „25. výročie vzniku Slovenskej republiky“ bola vydaná 3. 1. 2018 (autor: Pavel Károly).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "25. výročie vzniku Slovenskej republiky [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Pavel Károly Emisia: 3. 1. 2018"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2017?",
+  "ok": "550. výročie začatia činnosti Univerzity Istropolitany",
+  "bad": [
+   "Európske hlavné mesto kultúry Trenčín 2026",
+   "200. výročie narodenia Ľudovíta Štúra"
+  ],
+  "v": "Pamätná 2 € minca „550. výročie začatia činnosti Univerzity Istropolitany“ bola vydaná 4. 1. 2017.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "550. výročie začatia činnosti Univerzity Istropolitany [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mária Poldaufová Emisia: 4. 1. 2017"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „550. výročie začatia činnosti Univerzity Istropolitany“?",
+  "ok": "2017",
+  "bad": [
+   "2018",
+   "2014"
+  ],
+  "v": "Minca „550. výročie začatia činnosti Univerzity Istropolitany“ bola vydaná 4. 1. 2017 (autor: Mária Poldaufová).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "550. výročie začatia činnosti Univerzity Istropolitany [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mária Poldaufová Emisia: 4. 1. 2017"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2015?",
+  "ok": "200. výročie narodenia Ľudovíta Štúra",
+  "bad": [
+   "550. výročie začatia činnosti Univerzity Istropolitany",
+   "100. výročie prvého medzinárodného športového turnaja na území Slovenskej republiky – majstrovstiev Európy v hokeji"
+  ],
+  "v": "Pamätná 2 € minca „200. výročie narodenia Ľudovíta Štúra“ bola vydaná 23. 10. 2015.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "200. výročie narodenia Ľudovíta Štúra [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: akad. soch. Ivan Řehák Emisia: 23. 10. 2015"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „200. výročie narodenia Ľudovíta Štúra“?",
+  "ok": "2015",
+  "bad": [
+   "2013",
+   "2016"
+  ],
+  "v": "Minca „200. výročie narodenia Ľudovíta Štúra“ bola vydaná 23. 10. 2015 (autor: akad. soch. Ivan Řehák).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "200. výročie narodenia Ľudovíta Štúra [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: akad. soch. Ivan Řehák Emisia: 23. 10. 2015"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2015?",
+  "ok": "30. výročie vlajky Európskej únie",
+  "bad": [
+   "200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava",
+   "1150. výročie príchodu misie Konštantína a Metoda na Veľkú Moravu"
+  ],
+  "v": "Pamätná 2 € minca „30. výročie vlajky Európskej únie“ bola vydaná 24. 9. 2015.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "30. výročie vlajky Európskej únie [img: 30. výročie vlajky Európskej únie] Pamätná minca v hodnote 2 € Autor: George Stamatopoulos Emisia: 24. 9. 2015"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „30. výročie vlajky Európskej únie“?",
+  "ok": "2015",
+  "bad": [
+   "2014",
+   "2013"
+  ],
+  "v": "Minca „30. výročie vlajky Európskej únie“ bola vydaná 24. 9. 2015 (autor: George Stamatopoulos).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "30. výročie vlajky Európskej únie [img: 30. výročie vlajky Európskej únie] Pamätná minca v hodnote 2 € Autor: George Stamatopoulos Emisia: 24. 9. 2015"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2013?",
+  "ok": "1150. výročie príchodu misie Konštantína a Metoda na Veľkú Moravu",
+  "bad": [
+   "200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava",
+   "10. výročie vstupu Slovenskej republiky do Európskej únie"
+  ],
+  "v": "Pamätná 2 € minca „1150. výročie príchodu misie Konštantína a Metoda na Veľkú Moravu“ bola vydaná 5. 7. 2013.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "1150. výročie príchodu misie Konštantína a Metoda na Veľkú Moravu [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mgr. art. Miroslav Hric, ArtD. Emisia: 5. 7. 2013"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „1150. výročie príchodu misie Konštantína a Metoda na Veľkú Moravu“?",
+  "ok": "2013",
+  "bad": [
+   "2015",
+   "2012"
+  ],
+  "v": "Minca „1150. výročie príchodu misie Konštantína a Metoda na Veľkú Moravu“ bola vydaná 5. 7. 2013 (autor: Mgr. art. Miroslav Hric, ArtD.).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "1150. výročie príchodu misie Konštantína a Metoda na Veľkú Moravu [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Mgr. art. Miroslav Hric, ArtD. Emisia: 5. 7. 2013"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2012?",
+  "ok": "Desať rokov eurových bankoviek a mincí",
+  "bad": [
+   "300. výročie zostrojenia prvého parného stroja na odčerpanie vôd z baní v kontinentálnej Európe",
+   "25. výročie vzniku Slovenskej republiky"
+  ],
+  "v": "Pamätná 2 € minca „Desať rokov eurových bankoviek a mincí“ bola vydaná 2. 1. 2012.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "Desať rokov eurových bankoviek a mincí [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Helmut Andexlinger Emisia: 2. 1. 2012"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „Desať rokov eurových bankoviek a mincí“?",
+  "ok": "2012",
+  "bad": [
+   "2013",
+   "2014"
+  ],
+  "v": "Minca „Desať rokov eurových bankoviek a mincí“ bola vydaná 2. 1. 2012 (autor: Helmut Andexlinger).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "Desať rokov eurových bankoviek a mincí [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Helmut Andexlinger Emisia: 2. 1. 2012"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2009?",
+  "ok": "20. výročie 17. novembra 1989 (Dňa boja za slobodu a demokraciu)",
+  "bad": [
+   "20. výročie vytvorenia Vyšehradskej skupiny",
+   "Prvé predsedníctvo Slovenskej republiky v Rade Európskej únie"
+  ],
+  "v": "Pamätná 2 € minca „20. výročie 17. novembra 1989 (Dňa boja za slobodu a demokraciu)“ bola vydaná 10. 11. 2009.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "20. výročie 17. novembra 1989 (Dňa boja za slobodu a demokraciu) [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Pavel Károly Emisia: 10. 11. 2009"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „20. výročie 17. novembra 1989 (Dňa boja za slobodu a demokraciu)“?",
+  "ok": "2009",
+  "bad": [
+   "2014",
+   "2015"
+  ],
+  "v": "Minca „20. výročie 17. novembra 1989 (Dňa boja za slobodu a demokraciu)“ bola vydaná 10. 11. 2009 (autor: Pavel Károly).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "20. výročie 17. novembra 1989 (Dňa boja za slobodu a demokraciu) [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: Pavel Károly Emisia: 10. 11. 2009"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Akej udalosti alebo výročiu venovalo Slovensko pamätnú 2 € mincu vydanú v roku 2009?",
+  "ok": "10. výročie hospodárskej a menovej únie",
+  "bad": [
+   "20. výročie vstupu Slovenskej republiky do Organizácie pre hospodársku spoluprácu a rozvoj (OECD)",
+   "200. výročie začiatku pravidelnej expresnej pošty ťahanej koňmi na trase Viedeň – Bratislava"
+  ],
+  "v": "Pamätná 2 € minca „10. výročie hospodárskej a menovej únie“ bola vydaná 5. 1. 2009.",
+  "src": [
+   [
+    "nbs-pamatne",
+    "10. výročie hospodárskej a menovej únie [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: George Stamatopoulos Emisia: 5. 1. 2009"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom roku vydalo Slovensko pamätnú 2 € mincu „10. výročie hospodárskej a menovej únie“?",
+  "ok": "2009",
+  "bad": [
+   "2015",
+   "2013"
+  ],
+  "v": "Minca „10. výročie hospodárskej a menovej únie“ bola vydaná 5. 1. 2009 (autor: George Stamatopoulos).",
+  "src": [
+   [
+    "nbs-pamatne",
+    "10. výročie hospodárskej a menovej únie [img: Národná strana pamätnej mince] Pamätná minca v hodnote 2 € Autor: George Stamatopoulos Emisia: 5. 1. 2009"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bola najvyššia účasť v referende o vstupe Slovenska do EÚ (2003)? ",
+  "ok": "Prešovský kraj",
+  "bad": [
+   "Trenčiansky kraj",
+   "Banskobystrický kraj"
+  ],
+  "v": "Trenčiansky kraj: účasť 48,00 %, áno 90,66 %; Banskobystrický kraj: účasť 52,31 %, áno 91,18 %; Prešovský kraj: účasť 53,11 %, áno 91,16 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ],
+   [
+    "ref-2003-kraje",
+    "Banská Bystrica region | 513 985 | 268 915 | 52,31 | 245 209 | 20 123 | 91,18 | 7,48"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bola najvyššia účasť v referende o vstupe Slovenska do EÚ (2003)?  ",
+  "ok": "Bratislavský kraj",
+  "bad": [
+   "Nitriansky kraj",
+   "Banskobystrický kraj"
+  ],
+  "v": "Bratislavský kraj: účasť 59,45 %, áno 95,15 %; Nitriansky kraj: účasť 51,00 %, áno 92,89 %; Banskobystrický kraj: účasť 52,31 %, áno 91,18 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Bratislava region | 511 642 | 304 172 | 59,45 | 289 420 | 11 769 | 95,15 | 3,86"
+   ],
+   [
+    "ref-2003-kraje",
+    "Nitra region | 561 700 | 286 520 | 51,00 | 266 166 | 16 486 | 92,89 | 5,75"
+   ],
+   [
+    "ref-2003-kraje",
+    "Banská Bystrica region | 513 985 | 268 915 | 52,31 | 245 209 | 20 123 | 91,18 | 7,48"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bola najvyššia účasť v referende o vstupe Slovenska do EÚ (2003)?   ",
+  "ok": "Bratislavský kraj",
+  "bad": [
+   "Trenčiansky kraj",
+   "Banskobystrický kraj"
+  ],
+  "v": "Bratislavský kraj: účasť 59,45 %, áno 95,15 %; Trenčiansky kraj: účasť 48,00 %, áno 90,66 %; Banskobystrický kraj: účasť 52,31 %, áno 91,18 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Bratislava region | 511 642 | 304 172 | 59,45 | 289 420 | 11 769 | 95,15 | 3,86"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ],
+   [
+    "ref-2003-kraje",
+    "Banská Bystrica region | 513 985 | 268 915 | 52,31 | 245 209 | 20 123 | 91,18 | 7,48"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bola najvyššia účasť v referende o vstupe Slovenska do EÚ (2003)?",
+  "ok": "Košický kraj",
+  "bad": [
+   "Trenčiansky kraj",
+   "Žilinský kraj"
+  ],
+  "v": "Trenčiansky kraj: účasť 48,00 %, áno 90,66 %; Žilinský kraj: účasť 47,65 %, áno 91,34 %; Košický kraj: účasť 53,59 %, áno 93,47 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ],
+   [
+    "ref-2003-kraje",
+    "Žilina region | 524 288 | 249 845 | 47,65 | 228 220 | 18 285 | 91,34 | 7,31"
+   ],
+   [
+    "ref-2003-kraje",
+    "Košice region | 583 156 | 312 532 | 53,59 | 292 142 | 16 380 | 93,47 | 5,24"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bola najnižšia účasť v referende o vstupe Slovenska do EÚ (2003)? ",
+  "ok": "Žilinský kraj",
+  "bad": [
+   "Nitriansky kraj",
+   "Prešovský kraj"
+  ],
+  "v": "Nitriansky kraj: účasť 51,00 %, áno 92,89 %; Žilinský kraj: účasť 47,65 %, áno 91,34 %; Prešovský kraj: účasť 53,11 %, áno 91,16 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Nitra region | 561 700 | 286 520 | 51,00 | 266 166 | 16 486 | 92,89 | 5,75"
+   ],
+   [
+    "ref-2003-kraje",
+    "Žilina region | 524 288 | 249 845 | 47,65 | 228 220 | 18 285 | 91,34 | 7,31"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bola najnižšia účasť v referende o vstupe Slovenska do EÚ (2003)?  ",
+  "ok": "Trenčiansky kraj",
+  "bad": [
+   "Banskobystrický kraj",
+   "Prešovský kraj"
+  ],
+  "v": "Trenčiansky kraj: účasť 48,00 %, áno 90,66 %; Banskobystrický kraj: účasť 52,31 %, áno 91,18 %; Prešovský kraj: účasť 53,11 %, áno 91,16 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ],
+   [
+    "ref-2003-kraje",
+    "Banská Bystrica region | 513 985 | 268 915 | 52,31 | 245 209 | 20 123 | 91,18 | 7,48"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bola najnižšia účasť v referende o vstupe Slovenska do EÚ (2003)?   ",
+  "ok": "Trnavský kraj",
+  "bad": [
+   "Prešovský kraj",
+   "Košický kraj"
+  ],
+  "v": "Trnavský kraj: účasť 51,60 %, áno 93,19 %; Prešovský kraj: účasť 53,11 %, áno 91,16 %; Košický kraj: účasť 53,59 %, áno 93,47 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trnava region | 433 890 | 223 903 | 51,60 | 208 670 | 12 316 | 93,19 | 5,50"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ],
+   [
+    "ref-2003-kraje",
+    "Košice region | 583 156 | 312 532 | 53,59 | 292 142 | 16 380 | 93,47 | 5,24"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bola najnižšia účasť v referende o vstupe Slovenska do EÚ (2003)?",
+  "ok": "Trenčiansky kraj",
+  "bad": [
+   "Bratislavský kraj",
+   "Trnavský kraj"
+  ],
+  "v": "Bratislavský kraj: účasť 59,45 %, áno 95,15 %; Trnavský kraj: účasť 51,60 %, áno 93,19 %; Trenčiansky kraj: účasť 48,00 %, áno 90,66 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Bratislava region | 511 642 | 304 172 | 59,45 | 289 420 | 11 769 | 95,15 | 3,86"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trnava region | 433 890 | 223 903 | 51,60 | 208 670 | 12 316 | 93,19 | 5,50"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bol najvyšší podiel odpovedí „áno“ v referende o vstupe Slovenska do EÚ (2003)? ",
+  "ok": "Bratislavský kraj",
+  "bad": [
+   "Trnavský kraj",
+   "Prešovský kraj"
+  ],
+  "v": "Bratislavský kraj: účasť 59,45 %, áno 95,15 %; Trnavský kraj: účasť 51,60 %, áno 93,19 %; Prešovský kraj: účasť 53,11 %, áno 91,16 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Bratislava region | 511 642 | 304 172 | 59,45 | 289 420 | 11 769 | 95,15 | 3,86"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trnava region | 433 890 | 223 903 | 51,60 | 208 670 | 12 316 | 93,19 | 5,50"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bol najvyšší podiel odpovedí „áno“ v referende o vstupe Slovenska do EÚ (2003)?  ",
+  "ok": "Bratislavský kraj",
+  "bad": [
+   "Nitriansky kraj",
+   "Banskobystrický kraj"
+  ],
+  "v": "Bratislavský kraj: účasť 59,45 %, áno 95,15 %; Nitriansky kraj: účasť 51,00 %, áno 92,89 %; Banskobystrický kraj: účasť 52,31 %, áno 91,18 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Bratislava region | 511 642 | 304 172 | 59,45 | 289 420 | 11 769 | 95,15 | 3,86"
+   ],
+   [
+    "ref-2003-kraje",
+    "Nitra region | 561 700 | 286 520 | 51,00 | 266 166 | 16 486 | 92,89 | 5,75"
+   ],
+   [
+    "ref-2003-kraje",
+    "Banská Bystrica region | 513 985 | 268 915 | 52,31 | 245 209 | 20 123 | 91,18 | 7,48"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bol najvyšší podiel odpovedí „áno“ v referende o vstupe Slovenska do EÚ (2003)?   ",
+  "ok": "Bratislavský kraj",
+  "bad": [
+   "Trenčiansky kraj",
+   "Prešovský kraj"
+  ],
+  "v": "Bratislavský kraj: účasť 59,45 %, áno 95,15 %; Trenčiansky kraj: účasť 48,00 %, áno 90,66 %; Prešovský kraj: účasť 53,11 %, áno 91,16 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Bratislava region | 511 642 | 304 172 | 59,45 | 289 420 | 11 769 | 95,15 | 3,86"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bol najnižší podiel odpovedí „áno“ v referende o vstupe Slovenska do EÚ (2003)? ",
+  "ok": "Trenčiansky kraj",
+  "bad": [
+   "Trnavský kraj",
+   "Žilinský kraj"
+  ],
+  "v": "Trnavský kraj: účasť 51,60 %, áno 93,19 %; Trenčiansky kraj: účasť 48,00 %, áno 90,66 %; Žilinský kraj: účasť 47,65 %, áno 91,34 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trnava region | 433 890 | 223 903 | 51,60 | 208 670 | 12 316 | 93,19 | 5,50"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ],
+   [
+    "ref-2003-kraje",
+    "Žilina region | 524 288 | 249 845 | 47,65 | 228 220 | 18 285 | 91,34 | 7,31"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bol najnižší podiel odpovedí „áno“ v referende o vstupe Slovenska do EÚ (2003)?  ",
+  "ok": "Prešovský kraj",
+  "bad": [
+   "Nitriansky kraj",
+   "Banskobystrický kraj"
+  ],
+  "v": "Nitriansky kraj: účasť 51,00 %, áno 92,89 %; Banskobystrický kraj: účasť 52,31 %, áno 91,18 %; Prešovský kraj: účasť 53,11 %, áno 91,16 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Nitra region | 561 700 | 286 520 | 51,00 | 266 166 | 16 486 | 92,89 | 5,75"
+   ],
+   [
+    "ref-2003-kraje",
+    "Banská Bystrica region | 513 985 | 268 915 | 52,31 | 245 209 | 20 123 | 91,18 | 7,48"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "V ktorom z týchto krajov bol najnižší podiel odpovedí „áno“ v referende o vstupe Slovenska do EÚ (2003)?   ",
+  "ok": "Žilinský kraj",
+  "bad": [
+   "Trnavský kraj",
+   "Nitriansky kraj"
+  ],
+  "v": "Trnavský kraj: účasť 51,60 %, áno 93,19 %; Nitriansky kraj: účasť 51,00 %, áno 92,89 %; Žilinský kraj: účasť 47,65 %, áno 91,34 %.",
+  "src": [
+   [
+    "ref-2003-a",
+    "Do you agree to the proposal that the Slovak Republic should become a member state of the European Union?"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trnava region | 433 890 | 223 903 | 51,60 | 208 670 | 12 316 | 93,19 | 5,50"
+   ],
+   [
+    "ref-2003-kraje",
+    "Nitra region | 561 700 | 286 520 | 51,00 | 266 166 | 16 486 | 92,89 | 5,75"
+   ],
+   [
+    "ref-2003-kraje",
+    "Žilina region | 524 288 | 249 845 | 47,65 | 228 220 | 18 285 | 91,34 | 7,31"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 2,
+  "text": "Ktorý kraj mal v referende o vstupe do EÚ v roku 2003 najvyššiu účasť zo všetkých krajov?",
+  "ok": "Bratislavský kraj",
+  "bad": [
+   "Trnavský kraj",
+   "Trenčiansky kraj"
+  ],
+  "v": "Bratislavský kraj mal účasť 59,45 %, najviac zo všetkých ôsmich krajov.",
+  "src": [
+   [
+    "ref-2003-kraje",
+    "Bratislava region | 511 642 | 304 172 | 59,45 | 289 420 | 11 769 | 95,15 | 3,86"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trnava region | 433 890 | 223 903 | 51,60 | 208 670 | 12 316 | 93,19 | 5,50"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ],
+   [
+    "ref-2003-kraje",
+    "Nitra region | 561 700 | 286 520 | 51,00 | 266 166 | 16 486 | 92,89 | 5,75"
+   ],
+   [
+    "ref-2003-kraje",
+    "Žilina region | 524 288 | 249 845 | 47,65 | 228 220 | 18 285 | 91,34 | 7,31"
+   ],
+   [
+    "ref-2003-kraje",
+    "Banská Bystrica region | 513 985 | 268 915 | 52,31 | 245 209 | 20 123 | 91,18 | 7,48"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ],
+   [
+    "ref-2003-kraje",
+    "Košice region | 583 156 | 312 532 | 53,59 | 292 142 | 16 380 | 93,47 | 5,24"
+   ]
+  ]
+ },
+ {
+  "kat": "svk",
+  "n": 3,
+  "text": "Ktorý kraj mal v referende o vstupe do EÚ v roku 2003 najnižšiu účasť zo všetkých krajov?",
+  "ok": "Žilinský kraj",
+  "bad": [
+   "Bratislavský kraj",
+   "Trenčiansky kraj"
+  ],
+  "v": "Žilinský kraj mal účasť 47,65 %, najmenej zo všetkých ôsmich krajov.",
+  "src": [
+   [
+    "ref-2003-kraje",
+    "Bratislava region | 511 642 | 304 172 | 59,45 | 289 420 | 11 769 | 95,15 | 3,86"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trnava region | 433 890 | 223 903 | 51,60 | 208 670 | 12 316 | 93,19 | 5,50"
+   ],
+   [
+    "ref-2003-kraje",
+    "Trenčín region | 472 881 | 226 998 | 48,00 | 205 798 | 18 100 | 90,66 | 7,97"
+   ],
+   [
+    "ref-2003-kraje",
+    "Nitra region | 561 700 | 286 520 | 51,00 | 266 166 | 16 486 | 92,89 | 5,75"
+   ],
+   [
+    "ref-2003-kraje",
+    "Žilina region | 524 288 | 249 845 | 47,65 | 228 220 | 18 285 | 91,34 | 7,31"
+   ],
+   [
+    "ref-2003-kraje",
+    "Banská Bystrica region | 513 985 | 268 915 | 52,31 | 245 209 | 20 123 | 91,18 | 7,48"
+   ],
+   [
+    "ref-2003-kraje",
+    "Prešov region | 572 555 | 304 105 | 53,11 | 277 245 | 21 572 | 91,16 | 7,09"
+   ],
+   [
+    "ref-2003-kraje",
+    "Košice region | 583 156 | 312 532 | 53,59 | 292 142 | 16 380 | 93,47 | 5,24"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,399 @@
+#kat sym
+#n 1
+
+Koľko hviezd je na vlajke Európskej únie?
++ 12
+- 27
+- 15
+= Vlajku tvorí kruh 12 zlatých hviezd na modrom pozadí.
+> eu-symbol-european-flag | Tvorí ju kruh 12 zlatých hviezd na modrom pozadí.
+
+Akej farby sú hviezdy na európskej vlajke a aké je jej pozadie?
++ zlaté hviezdy na modrom pozadí
+- biele hviezdy na modrom pozadí
+- modré hviezdy na zlatom pozadí
+= Vlajku tvorí kruh 12 zlatých hviezd na modrom pozadí.
+> eu-symbol-european-flag | Tvorí ju kruh 12 zlatých hviezd na modrom pozadí.
+
+@sym 2
+Súvisí počet hviezd na európskej vlajke s počtom členských štátov EÚ?
++ nie, kruh vyjadruje jednotu, počet nesúvisí s počtom krajín
+- áno, každá hviezda je jeden zakladajúci štát
+- áno, pri každom rozšírení sa pridá hviezda
+= Počet hviezd nesúvisí s počtom krajín EÚ, kruh však vyjadruje ich jednotu.
+> eu-symbol-european-flag | Počet hviezd nesúvisí s počtom krajín EÚ, kruh však vyjadruje ich jednotu.
+
+@sym 2
+Čo symbolizujú hviezdy na európskej vlajke?
++ ideály jednoty, solidarity a harmónie medzi ľuďmi v Európe
+- počet zakladajúcich štátov
+- mesiace roka
+= Hviezdy symbolizujú ideály jednoty, solidarity a harmónie medzi ľuďmi v Európe.
+> eu-symbol-european-flag | Symbolizujú ideály jednoty, solidarity a harmónie medzi ľuďmi v Európe.
+
+@sym 3
+Ktorá organizácia si ako prvá vybrala súčasnú podobu európskej vlajky v roku 1955?
++ Rada Európy
+- Európske hospodárske spoločenstvo
+- NATO
+= História vlajky siaha do roku 1955, keď si Rada Európy vybrala jej súčasnú podobu na vlastné použitie.
+> eu-symbol-european-flag | História vlajky siaha do roku 1955, keď si Rada Európy – medzinárodná organizácia pre ľudské práva – vybrala jej súčasnú podobu na vlastné použitie.
+
+@sym 3
+Pred ktorou budovou po prvýkrát zaviala európska vlajka ako symbol Spoločenstva?
++ pred budovou Berlaymont v Bruseli (sídlo Komisie)
+- pred Európskym parlamentom v Štrasburgu
+- pred ECB vo Frankfurte
+= Európska vlajka po prvýkrát zaviala pred budovou Berlaymont, sídlom Európskej komisie v Bruseli.
+> eu-symbol-european-flag | Európska vlajka po prvýkrát zaviala pred budovou Berlaymont, sídlom Európskej komisie v Bruseli.
+
+@sym 3
+Kto vytvoril podobu pamätnej euromince k 30. výročiu európskej vlajky?
++ Georgios Stamatopoulos, rytec Gréckej národnej banky
+- Ľubomír Černaj, slovenský sochár
+- Robert Kalina, rakúsky dizajnér
+= Pamätnú euromincu k 30. výročiu vlajky vytvoril Georgios Stamatopoulos z Gréckej národnej banky – 12 hviezd sa mení na ľudské postavy.
+> eu-symbol-european-flag | Jej podobu vytvoril Georgios Stamatopoulos, rytec z Gréckej národnej banky.
+
+Z ktorej skladby pochádza melódia európskej hymny?
++ z Deviatej symfónie Ludwiga van Beethovena
+- z Novosvetskej symfónie Antonína Dvořáka
+- z Bolera Maurica Ravela
+= Melódia vychádza z Deviatej symfónie, ktorú v roku 1823 skomponoval Ludwig van Beethoven.
+> eu-symbol-european-anthem | Melódia symbolizujúca EÚ vychádza z Deviatej symfónie, ktorú v roku 1823 skomponoval Ludwig van Beethoven
+
+Ako sa nazýva báseň, ku ktorej Beethoven zložil hudbu, z ktorej vychádza európska hymna?
++ Óda na radosť
+- Marseillaisa
+- Óda na slobodu
+= Beethoven skomponoval Deviatu symfóniu ako hudobný podklad pre verše Schillerovej „Ódy na radosť“.
+> eu-symbol-european-anthem | ako hudobný podklad pre verše Schillerovej „Ódy na radosť“
+
+@sym 2
+Kto napísal báseň Óda na radosť?
++ Friedrich Schiller
+- Johann Wolfgang Goethe
+- Victor Hugo
+= Verše „Ódy na radosť“ napísal Friedrich Schiller v roku 1785.
+> eu-symbol-european-anthem | verše Schillerovej „Ódy na radosť“ (Ode "An die Freude") z roku 1785
+
+Má európska hymna oficiálny text?
++ nie, pozostáva iba z hudby
+- áno, v angličtine
+- áno, v latinčine
+= Hymna nemá žiadny text, pozostáva iba z hudby.
+> eu-symbol-european-anthem | Hymna nemá žiadny text, pozostáva iba z hudby.
+
+@sym 2
+V ktorom roku schválili hlavy štátov a predsedovia vlád Ódu na radosť za oficiálnu hymnu EÚ?
++ v roku 1985
+- v roku 1957
+- v roku 2004
+= V roku 1985 predsedovia vlád a hlavy štátov schválili prijatie skladby za oficiálnu hymnu EÚ.
+> eu-symbol-european-anthem | V roku 1985 predsedovia vlád a hlavy členských štátov EÚ schválili prijatie skladby za oficiálnu hymnu Európskej únie.
+
+@sym 3
+Ktorá organizácia si v roku 1972 vybrala Ódu na radosť za svoju hymnu?
++ Rada Európy
+- OSN
+- Európsky parlament
+= V roku 1972 si Rada Európy vybrala Beethovenovu „Ódu na radosť“ za svoju hymnu.
+> eu-symbol-european-anthem | V roku 1972 si Rada Európy vybrala Beethovenovu „Ódu na radosť“ za svoju hymnu.
+
+@sym 2
+Nahrádza európska hymna národné hymny členských štátov?
++ nie, oslavuje ich spoločné hodnoty
+- áno, od roku 2009
+- áno, na všetkých športových podujatiach
+= Európska hymna v žiadnom prípade nenahrádza národné hymny, skôr oslavuje ich spoločné hodnoty.
+> eu-symbol-european-anthem | Európska hymna v žiadnom prípade nenahrádza národné hymny členských štátov EÚ
+
+V ktorom roku skomponoval Beethoven Deviatu symfóniu?
++ v roku 1823
+- v roku 1785
+- v roku 1950
+= Deviatu symfóniu skomponoval Ludwig van Beethoven v roku 1823.
+> eu-symbol-european-anthem | Deviatej symfónie, ktorú v roku 1823 skomponoval Ludwig van Beethoven
+
+Aké je motto Európskej únie?
++ Zjednotení v rozmanitosti
+- Sloboda, rovnosť, bratstvo
+- Jeden za všetkých, všetci za jedného
+= „Zjednotení v rozmanitosti“ je motto EÚ, ktoré sa začalo používať v roku 2000.
+> eu-symbol-eu-motto | „Zjednotení v rozmanitosti“ – motto EÚ
+
+@sym 2
+Od ktorého roku sa používa motto EÚ „Zjednotení v rozmanitosti“?
++ od roku 2000
+- od roku 1957
+- od roku 2009
+= Motto „Zjednotení v rozmanitosti“ sa začalo používať v roku 2000.
+> eu-symbol-eu-motto | motto EÚ, ktoré sa začalo používať v roku 2000
+
+@sym 3
+Z koľkých príspevkov do súťaže bolo vybrané motto EÚ „Zjednotení v rozmanitosti“?
++ z 80 000
+- z 800
+- z 8 miliónov
+= Motto bolo vybrané z 80 000 príspevkov zaslaných do súťaže o slogan pre Európu.
+> eu-symbol-eu-motto | Toto motto bolo vybrané z 80 000 príspevkov
+
+Kedy sa oslavuje Deň Európy?
++ 9. mája
+- 1. mája
+- 25. marca
+= Deň Európy pripomína 9. máj 1950, keď Robert Schuman predniesol Schumanovu deklaráciu.
+> eu-europe-day | Robert Schuman predniesol 9. mája 1950 historický prejav
+
+@sym 2
+Čo pripomína Deň Európy 9. mája?
++ Schumanovu deklaráciu z roku 1950
+- podpis Lisabonskej zmluvy
+- pád Berlínskeho múru
+= Robert Schuman predniesol 9. mája 1950 historický prejav známy ako Schumanova deklarácia.
+> eu-europe-day | Tento prejav, známy ako Schumanova deklarácia
+
+@akt 2
+Aké 40. výročie si EÚ pripomenula počas Dňa Európy 2026 (okrem prvých osláv Dňa Európy)?
++ vstup Portugalska a Španielska do EÚ
+- vstup Slovenska do EÚ
+- zavedenie eura
+= V roku 2026 sme si pripomenuli 40 rokov od vstupu Portugalska a Španielska do EÚ aj 40. výročie prvých osláv Dňa Európy.
+> eu-europe-day | Pripomenuli sme si nielen 40 rokov od vstupu Portugalska a Španielska do EÚ
+
+@akt 3
+Ktoré výročie verejného používania symbolov EÚ sa pripomínalo v roku 2026?
++ 40. výročie prvých osláv Dňa Európy a používania vlajky a hymny EÚ
+- 100. výročie európskej vlajky
+- 10. výročie motta EÚ
+= V roku 2026 sme si pripomenuli 40. výročie prvých oficiálnych osláv Dňa Európy a verejného používania vlajky a hymny EÚ.
+> eu-europe-day | 40. výročie prvých oficiálnych osláv Dňa Európy a verejného používania vlajky a hymny EÚ
+
+Koľko úradných jazykov má Európska únia?
++ 24
+- 27
+- 12
+= Inštitúcie EÚ majú 24 úradných a pracovných jazykov.
+> eu-languages | inštitúcie majú 24 úradných a pracovných jazykov
+
+@sym 2
+Je angličtina aj po brexite úradným jazykom EÚ?
++ áno – je aj úradným jazykom Írska a Malty
+- nie, od roku 2020 už nie
+- len do roku 2027
+= Napriek brexitu angličtina zostáva úradným jazykom EÚ; je zároveň úradným jazykom Írska a Malty.
+> eu-languages | Napriek tomu, že Spojené kráľovstvo vystúpilo z EÚ, angličtina zostáva úradným jazykom EÚ.
+
+@sym 2
+V akom jazyku môže občan EÚ písať inštitúciám EÚ a v akom jazyku dostane odpoveď?
++ v ktoromkoľvek z 24 úradných jazykov a odpoveď dostane v tom istom jazyku
+- len v angličtine, francúzštine alebo nemčine
+- v jazyku sídla inštitúcie
+= Občania EÚ majú právo používať ktorýkoľvek z 24 úradných jazykov a inštitúcie im musia odpovedať v tom istom jazyku.
+> eu-languages | občania EÚ majú právo používať ktorýkoľvek z 24 úradných jazykov pri komunikácii s inštitúciami EÚ, a tie im musia odpovedať v tom istom jazyku
+
+@svk 1
+Od ktorého roku je slovenčina úradným jazykom EÚ?
++ od roku 2004
+- od roku 1993
+- od roku 2009
+= V roku 2004 pribudli úradné jazyky čeština, estónčina, litovčina, lotyština, maďarčina, maltčina, poľština, slovenčina a slovinčina.
+> eu-languages | 2004: čeština, estónčina, litovčina, lotyština, maďarčina, maltčina, poľština, slovenčina a slovinčina
+
+@sym 3
+Kto a ako určuje pravidlá používania jazykov v inštitúciách EÚ?
++ Rada jednomyseľne nariadeniami (nariadenie č. 1)
+- Komisia jednoduchou väčšinou
+- každá inštitúcia sama bez pravidiel
+= Pravidlá o používaní jazykov určuje jednomyseľne Rada prostredníctvom nariadení podľa článku 342 ZFEÚ (nariadenie č. 1).
+> eu-languages | Pravidlá o používaní jazykov v inštitúciách EÚ určuje jednomyseľne Rada prostredníctvom nariadení prijatých v súlade s článkom 342
+
+Ktorý z týchto jazykov je úradným jazykom EÚ?
++ írčina
+- katalánčina
+- ruština
+= Medzi 24 úradných jazykov EÚ patrí aj írčina; katalánčina ani ruština nimi nie sú.
+> eu-languages | írčina, litovčina, lotyština
+
+Ktorý z týchto jazykov je úradným jazykom EÚ?
++ maltčina
+- turečtina
+- nórčina
+= Medzi 24 úradných jazykov EÚ patrí aj maltčina.
+> eu-languages | maďarčina, maltčina, nemčina
+
+V ktorom článku Lisabonskej zmluvy (ZEÚ) sú vymedzené hodnoty EÚ?
++ v článku 2
+- v článku 50
+- v článku 288
+= Hodnoty EÚ sú vymedzené v článku 2 Lisabonskej zmluvy a v Charte základných práv EÚ.
+> eu-aims-values | Hodnoty EÚ sú vymedzené v článku 2 Lisabonskej zmluvy a v Charte základných práv EÚ.
+
+@sym 2
+Ktorá zmluva už v roku 1957 obsahovala zásadu rovnakej mzdy za rovnakú prácu pre ženy a mužov?
++ Rímska zmluva
+- Maastrichtská zmluva
+- Lisabonská zmluva
+= Zásada rovnakej mzdy za rovnakú prácu bola zahrnutá do Rímskej zmluvy z roku 1957.
+> eu-aims-values | Zásada rovnakej mzdy za rovnakú prácu bola zahrnutá do Rímskej zmluvy z roku 1957.
+
+Čo je podľa hodnôt EÚ „nedotknuteľné“ a musí sa rešpektovať a chrániť?
++ ľudská dôstojnosť
+- štátne hranice
+- výška daní
+= Ľudská dôstojnosť je nedotknuteľná; musí sa rešpektovať a ochraňovať.
+> eu-aims-values | Ľudská dôstojnosť je nedotknuteľná.
+
+@sym 2
+Na akej demokracii je založené fungovanie EÚ?
++ na zastupiteľskej demokracii
+- na priamej demokracii referendami o každom zákone
+- na absolútnej monarchii
+= Fungovanie EÚ je založené na zastupiteľskej demokracii.
+> eu-aims-values | Fungovanie EÚ je založené na zastupiteľskej demokracii.
+
+Za čo dostala EÚ v roku 2012 Nobelovu cenu za mier?
++ za presadzovanie mieru, uzmierenia, demokracie a ľudských práv v Európe
+- za zavedenie eura
+- za program Erasmus
+= V roku 2012 dostala EÚ Nobelovu cenu za mier ako uznanie úsilia pri presadzovaní mieru, uzmierenia, demokracie a ľudských práv.
+> eu-aims-values | V roku 2012 dostala EÚ Nobelovu cenu za mier
+
+@sym 2
+Ktorý z týchto cieľov patrí medzi ciele EÚ?
++ podporovať rovnosť medzi ženami a mužmi a ochranu práv dieťaťa
+- zaviesť jednotné náboženstvo
+- zrušiť národné štáty
+= Medzi ciele EÚ patrí podporovať sociálnu spravodlivosť a ochranu, rovnosť medzi ženami a mužmi a ochranu práv dieťaťa.
+> eu-aims-values | podporovať sociálnu spravodlivosť a ochranu, rovnosť medzi ženami a mužmi, ako aj ochranu práv dieťaťa
+
+Kto je podľa zmlúv občanom EÚ?
++ každá osoba, ktorá má štátnu príslušnosť členského štátu
+- každý, kto žije v EÚ aspoň 5 rokov
+- len ten, kto požiada o európsky pas
+= Podľa článku 9 ZEÚ a článku 20 ZFEÚ je občanom EÚ každá osoba, ktorá má štátnu príslušnosť členského štátu.
+> ep-fs-145 | je občanom EÚ každá osoba, ktorá má štátnu príslušnosť členského štátu
+
+@sym 2
+Ktorou zmluvou bolo zavedené občianstvo Únie?
++ Maastrichtskou zmluvou
+- Rímskou zmluvou
+- Zmluvou z Nice
+= Maastrichtskou zmluvou sa v roku 1993 zaviedla koncepcia občianstva EÚ.
+> ep-fs-147 | Maastrichtskou zmluvou sa v roku 1993 zaviedla koncepcia občianstva EÚ
+
+@sym 3
+V ktorých článkoch Charty základných práv EÚ sú práva spojené s občianstvom Únie?
++ v článkoch 39 až 46
+- v článkoch 1 až 5
+- v článkoch 100 až 110
+= V článkoch 39 až 46 Charty sa stanovujú práva spojené s občianstvom Únie (volebné práva, dobrá správa, prístup k dokumentom, ombudsman, sloboda pohybu).
+> ep-fs-145 | v článkoch 39 až 46 sa stanovujú práva spojené s občianstvom Únie
+
+Ktoré z týchto práv patrí občanom EÚ podľa článku 20 ZFEÚ?
++ právo na slobodný pohyb a pobyt na území členských štátov
+- právo na bezplatné bývanie v ktoromkoľvek štáte
+- právo voliť prezidenta iného štátu
+= Občianstvo EÚ zahŕňa okrem iného právo na slobodný pohyb a pobyt na území členských štátov (článok 21 ZFEÚ).
+> ep-fs-145 | Právo na slobodný pohyb a pobyt na území členských štátov
+
+@sym 2
+Kedy bola podpísaná Schengenská dohoda?
++ 14. júna 1985
+- 1. mája 2004
+- 9. mája 1950
+= Schengenská dohoda bola podpísaná 14. júna 1985, vykonávací dohovor 19. júna 1990.
+> ep-fs-147 | najprv podpísaním Schengenskej dohody 14. júna 1985
+
+@sym 3
+Ktoré štáty pôvodne podpísali Schengenskú dohodu?
++ Belgicko, Francúzsko, Nemecko, Luxembursko a Holandsko
+- Taliansko, Španielsko, Portugalsko a Grécko
+- Rakúsko, Švédsko a Fínsko
+= Dohodu pôvodne podpísalo Belgicko, Francúzsko, Nemecko, Luxembursko a Holandsko.
+> ep-fs-147 | Dohodu pôvodne podpísalo Belgicko, Francúzsko, Nemecko, Luxembursko a Holandsko
+
+@sym 3
+Kedy nadobudol platnosť Dohovor, ktorým sa vykonáva Schengenská dohoda?
++ 26. marca 1995
+- 14. júna 1985
+- 1. januára 2002
+= Dohovor, ktorým sa vykonáva Schengenská dohoda, podpísaný 19. júna 1990, nadobudol platnosť 26. marca 1995.
+> ep-fs-147 | podpísaný 19. júna 1990, ktorý nadobudol platnosť 26. marca 1995
+
+@sym 3
+Ktorá zmluva presunula schengenské acquis do zmlúv EÚ?
++ Amsterdamská zmluva (protokol z roku 1997)
+- Zmluva z Nice
+- Rímska zmluva
+= V roku 1997 sa protokolom pripojeným k Amsterdamskej zmluve presunulo schengenské acquis do zmlúv.
+> ep-fs-147 | V roku 1997 sa protokolom pripojeným k Amsterdamskej zmluve presunulo takzvané schengenské acquis do zmlúv.
+
+Kto má právo predložiť petíciu Európskemu parlamentu?
++ každý občan EÚ aj každá osoba s bydliskom alebo sídlom v EÚ
+- len poslanci národných parlamentov
+- len mimovládne organizácie
+= Petičné právo má každý občan EÚ a každá fyzická alebo právnická osoba s bydliskom alebo so sídlom v členskom štáte.
+> ep-fs-148 | Petičné právo má každý občan EÚ a každá fyzická alebo právnická osoba s bydliskom alebo so sídlom v členskom štáte
+
+Ktorý výbor Európskeho parlamentu skúma petície?
++ Výbor pre petície
+- Výbor pre rozpočet
+- Výbor pre zahraničné veci
+= Zodpovednosťou za preskúmanie petícií je poverený Výbor pre petície.
+> ep-fs-148 | je zodpovednosťou za preskúmanie petícií poverený Výbor pre petície
+
+@sym 2
+Ako možno predložiť petíciu Európskemu parlamentu?
++ elektronicky cez portál EP pre petície alebo poštou
+- len osobne v Štrasburgu
+- len cez národný parlament
+= Petície sa môžu predkladať elektronicky prostredníctvom webového portálu EP pre petície alebo poštou.
+> ep-fs-148 | Môžu sa predkladať buď elektronicky prostredníctvom webového portálu Európskeho parlamentu pre petície, alebo poštou.
+
+@sym 2
+Odkedy existuje európska iniciatíva občanov (EIO)?
++ od roku 2011 (nariadenie prijaté 16. februára 2011)
+- od roku 1957
+- od roku 2024
+= Nariadenie o EIO formálne prijali Parlament a Rada 16. februára 2011; EIO sa spustila v roku 2011.
+> ep-fs-149 | Od spustenia EIO v roku 2011
+
+@sym 3
+Koľko európskych iniciatív občanov bolo od roku 2011 úspešne predložených?
++ štrnásť
+- štyri
+- stoštyridsať
+= Od spustenia EIO v roku 2011 bolo úspešne predložených štrnásť iniciatív.
+> ep-fs-149 | Od spustenia EIO v roku 2011 bolo úspešne predložených štrnásť iniciatív
+
+@sym 3
+Ministri zahraničných vecí ktorých dvoch krajín navrhli už v roku 1996 právo občanov podávať iniciatívy?
++ Rakúska a Talianska
+- Francúzska a Nemecka
+- Slovenska a Česka
+= Už v roku 1996 navrhli ministri zahraničných vecí Rakúska a Talianska vytvoriť právo podávať iniciatívy.
+> ep-fs-149 | Už v roku 1996 ministri zahraničných vecí Rakúska a Talianska
+
+Aký cieľ má podľa článku 165 ZFEÚ činnosť Únie vo vzdelávaní vo vzťahu k jazykom?
++ rozvoj európskej dimenzie najmä výučbou a šírením jazykov členských štátov
+- zaviesť jeden spoločný jazyk
+- zakázať menšinové jazyky
+= Činnosť Únie sa zameriava na rozvoj európskej dimenzie vo vzdelávaní, najmä výučbou a šírením jazykov členských štátov.
+> ep-fs-142 | činnosť Únie sa zameriava na rozvoj európskej dimenzie vo vzdelávaní, najmä výučbou a šírením jazykov členských štátov
+
+@sym 2
+Čo je eTwinning?
++ bezplatná online komunita pre zamestnancov škôl v Európe
+- európska letecká spoločnosť
+- program na výmenu bankoviek
+= eTwinning je bezplatná online komunita pre zamestnancov škôl v celej Európe na spoluprácu na projektoch.
+> ep-fs-142 | eTwinning je bezplatná online komunita pre zamestnancov škôl v celej Európe
+
+@akt 3
+Ako sa má volať navrhovaný nástupnícky program Kreatívnej Európy na roky 2028 – 2034?
++ AgoraEU
+- Kreatívna Európa 2
+- CultureNow
+= Navrhovaný nástupnícky program AgoraEU (2028 – 2034) zachováva cieľ podpory kultúrnej a jazykovej rozmanitosti.
+> ep-fs-142 | Navrhovaný nástupnícky program AgoraEU (2028 – 2034)

@@ -1,0 +1,274 @@
+#kat sta
+#n 2
+
+Ktorý článok ZEÚ hovorí, že o členstvo v Únii môže požiadať každý európsky štát, ktorý rešpektuje jej hodnoty?
++ článok 49
+- článok 50
+- článok 7
+= O členstvo v Únii môže požiadať každý európsky štát, ktorý rešpektuje jej spoločné hodnoty a zaviaže sa ich podporovať (článok 49 ZEÚ).
+> ep-fs-167 | O členstvo v Únii môže požiadať každý európsky štát, ktorý rešpektuje jej spoločné hodnoty a zaviaže sa ich podporovať (článok 49 ZEÚ).
+
+@sta 3
+Prečo Bulharsko a Rumunsko nevstúpili do EÚ už v roku 2004 spolu s ostatnými krajinami?
++ nestihli dostatočne rýchlo prijať potrebné reformy
+- nepodali žiadosť o členstvo
+- v referende vstup odmietli
+= Tempo, ktorým Bulharsko a Rumunsko prijímali reformy, neumožnilo týmto krajinám vstúpiť do EÚ v roku 2004; vstúpili v roku 2007.
+> ep-fs-167 | Tempo, ktorým Bulharsko a Rumunsko prijímali reformy, neumožnilo týmto krajinám vstúpiť do EÚ v roku 2004.
+
+Kedy pristúpilo Chorvátsko k EÚ?
++ 1. júla 2013
+- 1. mája 2004
+- 1. januára 2007
+= Pristúpenie Chorvátska k EÚ 1. júla 2013 je výraznou motiváciou pre ostatné krajiny západného Balkánu.
+> ep-fs-167 | Pristúpenie Chorvátska k EÚ 1. júla 2013
+
+@sta 3
+Koľko rokovacích kapitol otvorila s EÚ Čierna Hora?
++ všetkých 33
+- 5
+- žiadnu
+= S Čiernou Horou sa otvorilo všetkých 33 rokovacích kapitol a 14 bolo predbežne uzavretých.
+> ep-fs-167 | Do dnešného dňa sa otvorilo všetkých 33 rokovacích kapitol s Čiernou Horou a 14 bolo predbežne uzavretých.
+
+@sta 3
+Akú veľkosť má plán rastu pre západný Balkán prijatý Komisiou 8. novembra 2023?
++ 6 miliárd EUR
+- 60 miliárd EUR
+- 600 miliónov EUR
+= Komisia 8. novembra 2023 prijala nový plán rastu pre západný Balkán vo výške 6 miliárd EUR na obdobie 2024 – 2027.
+> ep-fs-167 | Komisia 8. novembra 2023 prijala nový plán rastu pre západný Balkán vo výške 6 miliárd EUR
+
+@sta 3
+Ktoré štyri kandidátske krajiny po prvý raz zahrnula Komisia do správy o právnom štáte v júli 2024?
++ Albánsko, Čiernu Horu, Severné Macedónsko a Srbsko
+- Ukrajinu, Moldavsko, Gruzínsko a Turecko
+- Island, Nórsko, Švajčiarsko a Lichtenštajnsko
+= V júli 2024 Komisia do výročnej správy o právnom štáte po prvýkrát zahrnula Albánsko, Čiernu Horu, Severné Macedónsko a Srbsko.
+> ep-fs-167 | štyri kandidátske krajiny (Albánsko, Čiernu Horu, Severné Macedónsko a Srbsko)
+
+@sta 3
+Od kedy môžu občania Kosova cestovať do schengenského priestoru bez víz?
++ od januára 2024
+- od decembra 2009
+- od marca 2017
+= Po záverečnom hlasovaní Európskeho parlamentu v apríli 2023 uplatňuje Kosovo od januára 2024 bezvízový režim so schengenským priestorom.
+> ep-fs-168 | uplatňuje Kosovo od januára 2024 s krajinami schengenského priestoru bezvízový režim
+
+@sta 3
+Občania ktorých krajín môžu cestovať do schengenu bez víz od decembra 2009?
++ Severného Macedónska, Čiernej Hory a Srbska
+- Albánska a Bosny a Hercegoviny
+- Kosova a Gruzínska
+= Od decembra 2009 bezvízový styk pre Severné Macedónsko, Čiernu Horu a Srbsko, od novembra 2010 pre Albánsko a Bosnu a Hercegovinu.
+> ep-fs-168 | Možnosť cestovať do schengenského priestoru bez víz majú od decembra 2009 občania bývalej Juhoslovanskej republiky Macedónsko (teraz Severomacedónskej republiky), Čiernej Hory a Srbska
+
+@sta 3
+Kedy požiadalo Albánsko o členstvo v EÚ?
++ 28. apríla 2009
+- 1. júla 2013
+- v marci 2022
+= Albánsko požiadalo o členstvo 28. apríla 2009 a štatút kandidátskej krajiny získalo v júni 2014.
+> ep-fs-168 | Albánsko požiadalo o členstvo v EÚ 28. apríla 2009
+
+@sta 3
+Kedy sa formálne začali prístupové rokovania s Albánskom a Severným Macedónskom?
++ v júli 2022
+- v júni 2014
+- v januári 2004
+= Prístupové rokovania s Albánskom a Severným Macedónskom sa formálne začali v júli 2022 po dlhých prieťahoch.
+> ep-fs-168 | sa formálne začali v júli 2022
+
+@sta 3
+Ako sa nazýva rámec, ktorý od roku 1999 podporuje zbližovanie krajín západného Balkánu s EÚ?
++ proces stabilizácie a pridruženia
+- Východné partnerstvo
+- Únia pre Stredozemie
+= Proces stabilizácie a pridruženia (PSP), ktorý sa začal v roku 1999, je strategickým rámcom zbližovania západného Balkánu s EÚ.
+> ep-fs-168 | Proces stabilizácie a pridruženia PSP, ktorý sa začal v roku 1999
+
+Ktoré slobody musia dodržiavať krajiny Európskeho hospodárskeho priestoru (EHP)?
++ voľný pohyb tovaru, osôb, služieb a kapitálu
+- spoločnú menu a spoločnú armádu
+- spoločné dane a spoločný parlament
+= Krajiny EHP musia dodržiavať tzv. štyri slobody vnútorného trhu – voľný pohyb tovaru, osôb, služieb a kapitálu.
+> ep-fs-169 | musia dodržiavať tzv. štyri slobody, ktoré definujú vnútorný trh – voľný pohyb tovaru, osôb, služieb a kapitálu
+
+@sta 3
+Z ktorého roku je Dohoda o Európskom hospodárskom priestore (EHP)?
++ z roku 1992
+- z roku 1957
+- z roku 2004
+= Dohoda o EHP je z roku 1992.
+> ep-fs-169 | ako je Dohoda o EHP z roku 1992
+
+Na ktoré tri krajiny EHP dohliada Dozorný úrad EZVO?
++ Island, Lichtenštajnsko a Nórsko
+- Švajčiarsko, Island a Turecko
+- Nórsko, Dánsko a Švédsko
+= Dozorný úrad EZVO zabezpečuje, aby Island, Lichtenštajnsko a Nórsko dodržiavali pravidlá EHP.
+> ep-fs-169 | zabezpečovaním toho, aby Island, Lichtenštajnsko a Nórsko dodržiavali pravidlá EHP
+
+V ktorom roku sa začalo vykonávať Východné partnerstvo EÚ?
++ v roku 2009
+- v roku 1995
+- v roku 2022
+= Východné partnerstvo, ktoré vychádza z Európskej susedskej politiky, sa začalo vykonávať v roku 2009.
+> ep-fs-170 | Východné partnerstvo, ktoré vychádza z ESP, sa začalo vykonávať v roku 2009.
+
+@sta 3
+Ako sa nazýva parlamentné zhromaždenie Východného partnerstva zriadené v roku 2011?
++ Euronest
+- Euromed
+- Eurojust
+= Parlamentné zhromaždenie Euronest, zriadené v roku 2011, je parlamentnou zložkou Východného partnerstva.
+> ep-fs-170 | Parlamentné zhromaždenie Euronest, ktoré bolo zriadené v roku 2011
+
+Ktoré tri krajiny Východného partnerstva požiadali o vstup do EÚ?
++ Gruzínsko, Moldavsko a Ukrajina
+- Arménsko, Azerbajdžan a Bielorusko
+- Rusko, Kazachstan a Turecko
+= Gruzínsko, Moldavsko a Ukrajina tiež požiadali o vstup do EÚ.
+> ep-fs-170 | Gruzínsko, Moldavsko a Ukrajina tiež požiadali o vstup do EÚ.
+
+@sta 3
+Od kedy je plne v platnosti dohoda o pridružení EÚ s Ukrajinou vrátane zóny voľného obchodu (DCFTA)?
++ od roku 2017
+- od roku 2004
+- od roku 2022
+= Dohoda o pridružení s Ukrajinou bola podpísaná v roku 2014 a plne v platnosti je od roku 2017; v tom roku sa zaviedol aj bezvízový styk.
+> ep-fs-171 | v roku 2014 – plne v platnosti od roku 2017
+
+@akt 3
+Koľko balíkov sankcií prijala EÚ proti Rusku do júna 2026?
++ 20 (a oznámila 21. balík)
+- 3
+- 100
+= K júnu 2026 prijala EÚ v reakcii na útočnú vojnu Ruska 20 rôznych balíkov sankcií a oznámila dvadsiaty prvý balík.
+> ep-fs-171 | K júnu 2026 prijala EÚ v reakcii na útočnú vojnu Ruska 20 rôznych balíkov sankcií a oznámila dvadsiaty prvý balík.
+
+@akt 3
+Koľko ľudí, ktorí utiekli z Ukrajiny, malo v auguste 2025 štatút dočasnej ochrany v EÚ?
++ 4,37 milióna
+- 437 000
+- 43,7 milióna
+= V auguste 2025 malo 4,37 milióna ľudí z Ukrajiny štatút dočasnej ochrany v EÚ.
+> ep-fs-171 | V auguste 2025 malo 4,37 milióna občanov krajín mimo EÚ, ktorí utiekli z Ukrajiny
+
+@akt 3
+Akú celkovú podporu poskytli EÚ a jej členské štáty Ukrajine od začiatku ruskej útočnej vojny do júna 2026?
++ 200 miliárd EUR
+- 20 miliárd EUR
+- 2 bilióny EUR
+= Do júna 2026 EÚ a jej členské štáty poskytli Ukrajine podporu vo výške 200 miliárd EUR, z toho 75,2 miliardy EUR vojenskej podpory.
+> ep-fs-171 | EÚ a jej členské štáty poskytli Ukrajine podporu vo výške 200 miliárd EUR
+
+@sta 3
+Koľko peňazí môže poskytnúť Nástroj pre Ukrajinu na obdobie 2024 – 2027?
++ až 50 miliárd EUR
+- až 5 miliárd EUR
+- až 500 miliárd EUR
+= Z Nástroja pre Ukrajinu, zriadeného v marci 2024, sa poskytuje spolu až 50 miliárd EUR v grantoch a úveroch.
+> ep-fs-171 | Z Nástroja pre Ukrajinu sa poskytuje spolu až 50 miliárd EUR v grantoch a úveroch
+
+Kedy EÚ aktivovala smernicu o dočasnej ochrane pre ukrajinských utečencov?
++ 4. marca 2022
+- 24. februára 2014
+- 1. januára 2025
+= EÚ aktivovala 4. marca 2022 smernicu o dočasnej ochrane – ukrajinskí utečenci majú pobyt a prístup k práci, vzdelávaniu a zdravotnej starostlivosti.
+> ep-fs-171 | EÚ aktivovala 4. marca 2022 smernicu o dočasnej ochrane
+
+@sta 3
+Kedy požiadalo Gruzínsko o členstvo v EÚ?
++ v marci 2022
+- v roku 2009
+- v júli 2016
+= Gruzínsko predložilo žiadosť o členstvo v marci 2022 po tom, ako o pristúpenie požiadala Ukrajina.
+> ep-fs-172 | Gruzínsko predložilo žiadosť o členstvo v EÚ v marci 2022
+
+@sta 3
+Od kedy môžu občania Gruzínska cestovať do schengenu bez víz?
++ od marca 2017
+- od januára 2024
+- od mája 2004
+= Od marca 2017 môžu gruzínski občania využívať pri vstupe do schengenského priestoru bezvízový styk.
+> ep-fs-172 | Od marca 2017 môžu gruzínski občania využívať pri vstupe do schengenského priestoru bezvízový styk.
+
+@sta 3
+Ako sa volá vládna strana v Gruzínsku, ktorá chcela v roku 2025 zakázať opozičné strany?
++ Gruzínsky sen
+- Jednotné národné hnutie
+- Gruzínska cesta
+= Strana Gruzínsky sen 28. októbra 2025 oznámila žalobu na ústavný súd s cieľom zakázať tri hlavné opozičné strany.
+> ep-fs-172 | Strana Gruzínsky sen 28. októbra 2025 oznámila, že podá žalobu na ústavný súd, ktorej cieľom bude zákaz troch hlavných opozičných strán.
+
+@akt 3
+Kto bola v roku 2024 vymenovaná za komisárku pre Stredozemie?
++ Dubravka Šuicová
+- Kaja Kallasová
+- Ursula von der Leyenová
+= Zriadenie GR MENA a vymenovanie komisárky pre Stredozemie Dubravky Šuicovej v roku 2024 zdôraznili význam regiónu.
+> ep-fs-173 | vymenovanie komisárky pre Stredozemie (Dubravky Šuicovej) v roku 2024
+
+@akt 3
+Kedy bol spustený osobitný akčný plán pre Pakt pre Stredozemie?
++ v apríli 2026
+- v novembri 1995
+- v júli 2008
+= V apríli 2026 bol spustený osobitný akčný plán pre Pakt pre Stredozemie.
+> ep-fs-173 | V apríli 2026 bol spustený osobitný akčný plán pre Pakt pre Stredozemie
+
+@sta 3
+Kedy boli pozastavené rokovania o rámcovej dohode medzi EÚ a Líbyou?
++ vo februári 2011
+- v roku 1995
+- v marci 2022
+= Rokovania o rámcovej dohode medzi EÚ a Líbyou boli pozastavené vo februári 2011 a zatiaľ neboli obnovené.
+> ep-fs-173 | Rokovania o rámcovej dohode medzi EÚ a Líbyou boli pozastavené vo februári 2011
+
+@akt 3
+Kedy prijal Európsky parlament v pléne pozíciu k dvom návrhom obchodnej dohody medzi EÚ a USA?
++ 26. marca 2026
+- 28. augusta 2025
+- 1. januára 2025
+= Komisia predložila návrhy 28. augusta 2025, Parlament prijal svoju pozíciu 26. marca 2026.
+> ep-fs-174 | Parlament prijal 26. marca 2026 v pléne svoju pozíciu k dvom návrhom obchodnej dohody medzi EÚ a USA.
+
+@sta 3
+Kedy nadobudla platnosť rámcová dohoda medzi EÚ a Austráliou z roku 2017?
++ v októbri 2022
+- v roku 2017
+- v januári 2026
+= Rámcová dohoda medzi EÚ a Austráliou z roku 2017 nadobudla platnosť v októbri 2022.
+> ep-fs-175 | Táto dohoda nadobudla platnosť v októbri 2022.
+
+@sta 3
+Kde sa v júni 1999 konal prvý samit EÚ a Latinskej Ameriky a Karibiku?
++ v Riu de Janeiro
+- v Madride
+- v Bruseli
+= Prvý samit EÚ a LAK sa konal v júni 1999 v Riu de Janeiro a ustanovil strategické partnerstvo.
+> ep-fs-176 | Prvý samit medzi EÚ a LAK sa konal v júni 1999 v Riu de Janeiro
+
+Koľko krajín združuje Spoločenstvo štátov Latinskej Ameriky a Karibiku (CELAC)?
++ 33
+- 12
+- 54
+= CELAC, ktoré vzniklo v roku 2010, je regionálnym blokom 33 krajín Latinskej Ameriky a Karibiku.
+> ep-fs-176 | je regionálnym blokom 33 krajín Latinskej Ameriky a Karibiku
+
+@akt 3
+V ktorom meste sa v novembri 2025 konal štvrtý samit EÚ – CELAC?
++ v kolumbijskej Santa Marte
+- v Bruseli
+- v Riu de Janeiro
+= Štvrtý samit EÚ – CELAC sa konal 9. a 10. novembra 2025 v kolumbijskej Santa Marte; predchádzajúci bol v júli 2023 v Bruseli.
+> ep-fs-176 | Štvrtý samit hláv štátov alebo predsedov vlád EÚ – CELAC sa konal 9. a 10. novembra 2025 v kolumbijskej Santa Marte
+
+@sta 3
+Ktorá organizácia nahradila v roku 2008 Pakt stability pre juhovýchodnú Európu?
++ Rada pre regionálnu spoluprácu
+- Rada Európy
+- Euroskupina
+= Pakt stability bol v roku 2008 nahradený Radou pre regionálnu spoluprácu.
+> ep-fs-168 | Pakt stability bol v roku 2008 nahradený Radou pre regionálnu spoluprácu.

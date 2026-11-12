@@ -1,0 +1,157 @@
+#kat ins
+#n 3
+
+Čo po prvý raz urobil prvý energetický balík EÚ prijatý v rokoch 1996 – 1998?
++ otvoril národné energetické odvetvia hospodárskej súťaži
+- zakázal jadrovú energiu
+- zaviedol jednotnú cenu benzínu
+= Prvý energetický balík prijatý v rokoch 1996 až 1998 po prvýkrát otvoril národné energetické odvetvia hospodárskej súťaži.
+> ep-fs-45 | Prvý energetický balík prijatý v rokoch 1996 až 1998, ktorý po prvýkrát otvoril národné energetické odvetvia hospodárskej súťaži.
+
+Čo umožnil domácnostiam druhý energetický balík z roku 2003?
++ vyberať si dodávateľov energie zo širšieho spektra konkurentov
+- vyrábať jadrovú energiu doma
+- neplatiť za elektrinu
+= Druhý energetický balík z roku 2003 umožnil priemyselným odberateľom a domácnostiam vyberať si dodávateľov energie zo širšieho spektra konkurentov.
+> ep-fs-45 | Druhý energetický balík prijatý v roku 2003, ktorý umožnil priemyselným odberateľom a domácnostiam vyberať si dodávateľov energie zo širšieho spektra konkurentov.
+
+Ako sa označuje piaty energetický balík prijatý v roku 2024?
++ „Fit for 55“
+- „Agenda 2000“
+- „Európa 2020“
+= Piaty energetický balík „Fit For 55“ zosúladil ciele v energetike s cieľom znížiť emisie o 55 % do roku 2030 a dosiahnuť klimatickú neutralitu do roku 2050.
+> ep-fs-45 | Piaty energetický balík označovaný ako „Fit For 55“ a prijatý v roku 2024
+
+Kto rozhoduje o tom, či členský štát zahrnie jadrovú energiu do svojho energetického mixu?
++ samotný členský štát
+- Európska komisia
+- Medzinárodná agentúra pre atómovú energiu
+= Podľa článku 194 ZFEÚ sa členské štáty môžu rozhodnúť, či do svojho energetického mixu zahrnú jadrovú energiu.
+> ep-fs-62 | členské štáty sa môžu rozhodnúť, či do svojho energetického mixu zahrnú jadrovú energiu
+
+Po ktorej havárii jadrovej elektrárne v roku 2011 EÚ posilnila normy jadrovej bezpečnosti?
++ vo Fukušime
+- v Černobyle
+- v Bohuniciach
+= Po havárii vo Fukušime v roku 2011 EÚ posilnila svoje normy jadrovej bezpečnosti.
+> ep-fs-62 | Po havárii vo Fukušime v roku 2011 EÚ posilnila svoje normy jadrovej bezpečnosti
+
+Ako vymedzuje EÚ malé a stredné podniky (MSP) podľa počtu zamestnancov?
++ menej ako 250 zamestnancov
+- menej ako 25 zamestnancov
+- menej ako 2 500 zamestnancov
+= MSP sú podniky s menej ako 250 zamestnancami a ročným obratom do 50 mil. EUR (alebo súvahou do 43 mil. EUR).
+> ep-fs-63 | MSP v odporúčaní vymedzené ako podniky s menej ako 250 zamestnancami a buď s ročným obratom, ktorý nepresahuje 50 miliónov EUR
+
+Aký podiel všetkých podnikov v EÚ tvoria malé a stredné podniky?
++ 99,8 %
+- 49,8 %
+- 9,8 %
+= MSP predstavujú 99,8 % všetkých podnikov v EÚ.
+> ep-fs-63 | MSP predstavujú 99,8 % všetkých podnikov v EÚ.
+
+Koľko ľudí zamestnávali malé a stredné podniky v EÚ v roku 2024?
++ približne 89,8 milióna
+- približne 8,98 milióna
+- približne 898 tisíc
+= MSP v EÚ zamestnávali v roku 2024 približne 89,8 milióna ľudí.
+> ep-fs-63 | MSP v EÚ zamestnávali v roku 2024 približne 89,8 milióna ľudí
+
+Ako sa nazýva iniciatíva Komisie z júna 2008 na podporu malých a stredných podnikov?
++ Small Business Act (SBA)
+- Digital Services Act
+- Single European Act
+= Komisia v júni 2008 predstavila komplexnú iniciatívu na podporu MSP – „Small Business Act“ (SBA).
+> ep-fs-63 | Komisia v júni 2008 predstavila komplexnú iniciatívu na podporu MSP v podobe oznámenia o iniciatíve „Small Business Act“ (SBA).
+
+Do koľkých dní musia verejné orgány podľa smernice o oneskorených platbách zaplatiť firmám?
++ do 30 dní
+- do 3 dní
+- do 300 dní
+= Smernica o oneskorených platbách vyžaduje od verejných orgánov, aby uskutočnili platby do 30 dní.
+> ep-fs-63 | smernice o oneskorených platbách, v ktorej sa od verejných orgánov vyžaduje, aby uskutočnili platby do 30 dní
+
+@ins 2
+Ako sa volá hlavný program EÚ na financovanie výskumu a inovácií v období 2021 – 2027?
++ Horizont Európa
+- Erasmus+
+- Kreatívna Európa
+= Horizont Európa je hlavným programom EÚ na financovanie výskumu a inovácií v období 2021 – 2027 s rozpočtom 93,5 miliardy EUR.
+> ep-fs-66 | Horizont Európa je hlavným programom EÚ na financovanie výskumu a inovácií v období 2021 – 2027 s rozpočtom 93,5 miliardy EUR.
+
+Aký rozpočet má program Horizont Európa (2021 – 2027)?
++ viac ako 93,5 miliardy EUR
+- približne 9,35 miliardy EUR
+- približne 935 miliónov EUR
+= Horizont Európa je deviaty rámcový program a zatiaľ najrozsiahlejší, s rozpočtom viac ako 93,5 miliardy EUR.
+> ep-fs-66 | je deviatym RP a zatiaľ najrozsiahlejším a najambicióznejším programom s rozpočtom viac ako 93,5 miliardy EUR
+
+Koľký rámcový program pre výskum v poradí je Horizont Európa?
++ deviaty
+- prvý
+- dvadsiaty
+= Horizont Európa realizovaný v rokoch 2021 až 2027 je deviatym rámcovým programom.
+> ep-fs-66 | Horizont Európa realizovaný v rokoch 2021 až 2027 je deviatym RP
+
+Kedy bol ustanovený prvý rámcový program EÚ pre výskum?
++ v roku 1983
+- v roku 1957
+- v roku 2014
+= Prvý rámcový program (RP) bol ustanovený v roku 1983.
+> ep-fs-66 | Prvý rámcový program (RP) bol ustanovený v roku 1983.
+
+Ktorá sieť, založená v roku 1971, je najstaršou výskumnou sieťou Európy?
++ COST (Európska spolupráca v oblasti vedy a techniky)
+- CERN
+- Európska výskumná rada
+= COST, založená v roku 1971, bola prvým experimentom Európy v oblasti cezhraničných vedeckých sietí a zostáva najstaršou výskumnou sieťou kontinentu.
+> ep-fs-66 | Európska spolupráca v oblasti vedy a techniky (COST), založená v roku 1971, bola prvým experimentom Európy v oblasti cezhraničných vedeckých sietí.
+
+V ktorých článkoch Zmluvy o fungovaní EÚ sú vymedzené právomoci EÚ v oblasti výskumu?
++ v článkoch 179 – 190
+- v článkoch 1 – 5
+- v článkoch 300 – 310
+= V článkoch 179 – 190 ZFEÚ sa vymedzujú právomoci EÚ v oblasti výskumu a technologického rozvoja.
+> ep-fs-66 | V článkoch 179 – 190 sa vymedzujú právomoci EÚ v oblasti výskumu a technologického rozvoja.
+
+Čo zaručuje zásada „sčítania“ v koordinácii sociálneho zabezpečenia v EÚ?
++ že obdobia poistenia či práce v iných krajinách EÚ sa zohľadnia pri výpočte dávok
+- že dávky sa sčítajú zo všetkých krajín a vyplatia dvakrát
+- že každý platí poistné vo všetkých krajinách naraz
+= Zásada sčítania zaručuje, že predchádzajúce obdobia poistenia, zamestnania alebo pobytu v iných krajinách sa zohľadňujú pri výpočte dávok.
+> ep-fs-55 | Sčítanie (článok 6) Táto zásada zaručuje, že predchádzajúce obdobia poistenia, zamestnania alebo pobytu v iných krajinách sa zohľadňujú pri výpočte dávok.
+
+V koľkých krajinách platí pracovník v EÚ príspevky na sociálne zabezpečenie podľa zásady jediného rozhodného práva?
++ len v jednej krajine
+- vo všetkých krajinách, kde býval
+- v žiadnej krajine
+= Na každého príjemcu sa vzťahujú právne predpisy len jednej krajiny a každý platí príspevky len v danej krajine.
+> ep-fs-55 | Na každého príjemcu sa vzťahujú právne predpisy len jednej krajiny a každý platí príspevky len v danej krajine.
+
+Aké práva majú pracovníci z iných členských štátov v hostiteľskom štáte v oblasti sociálneho zabezpečenia?
++ rovnaké práva a povinnosti ako jeho štátni príslušníci
+- žiadne práva
+- dvojnásobné dávky
+= Pracovníci a samostatne zárobkovo činné osoby z iných členských štátov majú rovnaké práva a povinnosti ako štátni príslušníci hostiteľského štátu.
+> ep-fs-55 | Pracovníci a samostatne zárobkovo činné osoby z iných členských štátov majú rovnaké práva a povinnosti ako štátni príslušníci hostiteľského štátu.
+
+Ktorý dokument z roku 1987 po prvý raz vniesol do Zmluvy o EHS bezpečnosť a ochranu zdravia pri práci?
++ Jednotný európsky akt
+- Maastrichtská zmluva
+- Lisabonská zmluva
+= Prijatím Jednotného európskeho aktu v roku 1987 sa po prvýkrát v Zmluve o EHS objavila problematika bezpečnosti a ochrany zdravia pri práci.
+> ep-fs-56 | Prijatím Jednotného európskeho aktu v roku 1987 sa po prvýkrát v Zmluve o EHS objavila problematika bezpečnosti a ochrany zdravia pri práci
+
+Na základe ktorého článku ZFEÚ môže EÚ prijímať smernice o bezpečnosti a zdraví pri práci?
++ článku 153
+- článku 50
+- článku 7
+= Na základe článku 153 ZFEÚ môže EÚ prijímať smernice o bezpečnosti a zdraví pri práci.
+> ep-fs-56 | Na základe článku 153 ZFEÚ môže EÚ prijímať právne predpisy (smernice) o bezpečnosti a zdraví pri práci
+
+Kedy bol na pomoc Komisii založený poradný výbor pre bezpečnosť, hygienu a ochranu zdravia pri práci?
++ v roku 1974
+- v roku 1994
+- v roku 2014
+= V roku 1974 bol na pomoc Komisii založený poradný výbor pre bezpečnosť, hygienu a ochranu zdravia pri práci.
+> ep-fs-56 | V roku 1974 bol na pomoc Komisii založený poradný výbor pre bezpečnosť, hygienu a ochranu zdravia pri práci.

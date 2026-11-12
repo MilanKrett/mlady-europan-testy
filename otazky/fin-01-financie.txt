@@ -1,0 +1,241 @@
+#kat fin
+#n 2
+
+@fin 1
+Čo je inflácia?
++ všeobecný rast cien tovarov a služieb
+- rast ceny jedného konkrétneho výrobku
+- pokles cien tovarov a služieb
+= O inflácii hovoríme vtedy, keď dochádza k všeobecnému rastu cien tovarov a služieb, nie len k rastu cien jednotlivých položiek.
+> ecb-inflation | O inflácii hovoríme vtedy, keď dochádza k všeobecnému rastu cien tovarov a služieb, nie len k rastu cien jednotlivých položiek.
+
+@fin 1
+Akú mieru inflácie sa snaží v strednodobom horizonte udržiavať Európska centrálna banka?
++ 2 %
+- 0 %
+- 5 %
+= Úlohou ECB je udržiavať cenovú stabilitu – infláciu nízku, stabilnú a predvídateľnú na úrovni 2 % v strednodobom horizonte.
+> ecb-inflation | na úrovni 2 % v strednodobom horizonte
+
+Ako sa skratkou nazýva harmonizovaný index spotrebiteľských cien, ktorým sa meria inflácia v eurozóne?
++ HICP
+- HDP
+- ECB
+= Harmonizovaný index spotrebiteľských cien (Harmonised Index of Consumer Prices – HICP) počíta každý mesiac Eurostat.
+> ecb-inflation | Harmonizovaný index spotrebiteľských cien (Harmonised Index of Consumer Prices – HICP)
+
+Ktorá inštitúcia každý mesiac počíta infláciu spotrebiteľských cien v eurozóne?
++ Eurostat
+- Európsky dvor audítorov
+- Európska investičná banka
+= Výpočet inflácie spotrebiteľských cien v eurozóne uskutočňuje každý mesiac Eurostat.
+> ecb-inflation | Výpočet inflácie spotrebiteľských cien v eurozóne uskutočňuje každý mesiac Eurostat.
+
+@fin 3
+Približne koľko tovarov a služieb pokrýva harmonizovaný index spotrebiteľských cien (HICP)?
++ približne 700
+- približne 70
+- približne 7 000
+= HICP pokrýva v priemere približne 700 tovarov a služieb.
+> ecb-inflation | pokrýva v priemere približne 700 tovarov a služieb
+
+@fin 3
+Na koľko kategórií produktov sa delia ceny zisťované pre výpočet inflácie v eurozóne?
++ 295
+- 27
+- 1 000
+= Ceny sa zisťujú v celej eurozóne a sú rozdelené na 295 kategórií produktov.
+> ecb-inflation | sú rozdelené na 295 kategórií produktov
+
+Ako sa nazýva súbor všetkých tovarov a služieb spotrebovaných domácnosťami počas roka, ktorého cena sa porovnáva pri meraní inflácie?
++ kôš
+- portfólio
+- rozpočet
+= Všetky tovary a služby spotrebované domácnosťami počas roka predstavujú tzv. „kôš“.
+> ecb-inflation | Všetky tovary a služby spotrebované domácnosťami počas roka predstavujú tzv. „kôš“.
+
+@fin 3
+Benzín má v indexe HICP váhu 4,6 %, káva 0,4 %. Čo z toho vyplýva?
++ rovnaká percentuálna zmena ceny benzínu ovplyvní infláciu asi desaťkrát viac ako zmena ceny kávy
+- zmena ceny kávy ovplyvní infláciu viac ako zmena ceny benzínu
+- obe zmeny ovplyvnia infláciu rovnako
+= Benzín má váhu 4,6 %, káva 0,4 % – rovnaká percentuálna zmena ceny benzínu má na HICP približne desaťkrát väčší vplyv.
+> ecb-inflation | Rovnaká percentuálna zmena ceny ako v prípade kávy teda bude mať v tomto prípade na HICP približne desaťkrát väčší vplyv.
+
+@fin 3
+Ak ročná inflácia (HICP) dosahuje 2 %, o koľko sa približne zvýši celková úroveň cien po desiatich rokoch?
++ o viac ako 20 %
+- presne o 2 %
+- o menej ako 10 %
+= Ak ročné tempo rastu HICP predstavuje 2 %, po desiatich rokoch sa celková úroveň cien zvýši o viac ako 20 % (úroky sa „zložia“).
+> ecb-inflation | Ak napríklad ročné tempo rastu HICP predstavuje 2 %, po desiatich rokoch sa celková úroveň cien zvýši o viac ako 20 %.
+
+@fin 3
+V príklade ECB stál nákupný kôš v roku 0 sumu 850 € a o rok neskôr 875 €. Aká bola miera inflácie?
++ 2,9 %
+- 25 %
+- 1,8 %
+= (875 − 850) : 850 × 100 ≈ 2,9 %. Cenový index vzrástol zo 100,0 na 102,9.
+> ecb-inflation | Celková cena koša | | 850 € | | 875 € | | 891 €
+> ecb-inflation | Miera inflácie | | | | 2,9 % | | 1,8 %
+
+Čo robí index HICP so zmenami ceny, ktoré súvisia so zlepšením kvality výrobku?
++ odpočítava ich – nepovažuje ich za infláciu
+- započítava ich dvojnásobne
+- ignoruje celý výrobok
+= Index HICP zohľadňuje zmeny kvality odpočítaním zmien, ktoré súvisia s kvalitou.
+> ecb-inflation | Index HICP túto skutočnosť zohľadňuje odpočítaním zmien, ktoré súvisia s kvalitou.
+
+@fin 1
+Koľko rôznych nominálnych hodnôt má druhá séria eurových bankoviek (séria Európa)?
++ 6
+- 7
+- 8
+= Séria Európa pozostáva zo šiestich nominálnych hodnôt, pretože vydávanie bankoviek 500 € sa ukončilo.
+> ecb-banknotes | Druhá, známa aj ako séria Európa, pozostáva iba zo šiestich nominálnych hodnôt, keďže vydávanie bankoviek 500 € sme sa rozhodli ukončiť.
+
+Vydávanie ktorej eurovej bankovky sa ECB rozhodla ukončiť?
++ 500 €
+- 200 €
+- 5 €
+= Séria Európa má iba šesť nominálnych hodnôt, keďže vydávanie bankoviek 500 € sa ECB rozhodla ukončiť.
+> ecb-banknotes | keďže vydávanie bankoviek 500 € sme sa rozhodli ukončiť
+
+Koľko nominálnych hodnôt mala prvá séria eurových bankoviek?
++ 7 (5 € až 500 €)
+- 6 (5 € až 200 €)
+- 8 (1 € až 500 €)
+= Prvá séria pozostáva zo siedmich nominálnych hodnôt: 5 €, 10 €, 20 €, 50 €, 100 €, 200 € a 500 €.
+> ecb-banknotes | Prvá séria pozostáva zo siedmich rôznych nominálnych hodnôt: 5 €, 10 €, 20 €, 50 €, 100 €, 200 € a 500 €.
+
+@fin 3
+Koľko eurových bankoviek je približne v obehu?
++ viac než 30 miliárd
+- približne 3 milióny
+- približne 300 miliónov
+= V obehu je viac než 30 miliárd eurových bankoviek v celkovej hodnote viac ako 1,5 bilióna €.
+> ecb-banknotes | V obehu je viac než 30 miliárd eurových bankoviek v celkovej hodnote viac ako 1,5 bilióna €.
+
+@fin 3
+Ako sa nazýva stratégia Eurosystému, ktorej cieľom je okrem iného bezpečnosť a udržateľnosť eurových bankoviek?
++ Hotovosť 2030
+- Digitálne euro 2050
+- Euro bez hraníc 2028
+= Jedným z cieľov stratégie Hotovosť 2030 je zabezpečiť, aby eurové bankovky boli bezpečné a udržateľné.
+> ecb-banknotes | Jedným z cieľov našej stratégie Hotovosť 2030 je zabezpečiť, aby eurové bankovky boli bezpečné a udržateľné.
+
+@fin 1
+Akú minimálnu zákonnú záruku máte v EÚ na tovar kúpený od predajcu?
++ 2 roky
+- 6 mesiacov
+- 1 rok
+= Od okamihu, keď ste tovar dostali, máte vždy právo na minimálne dvojročnú záruku.
+> ye-guarantees | Od okamihu, keď ste tovar dostali, máte vždy právo na minimálne dvojročnú záruku.
+
+Kedy začína plynúť dvojročná zákonná záručná lehota?
++ hneď po prevzatí tovaru
+- prvým dňom nasledujúceho mesiaca
+- až po prvej reklamácii
+= Dvojročná záručná lehota začína plynúť hneď po prevzatí tovaru.
+> ye-guarantees | Dvojročná záručná lehota začína plynúť hneď po prevzatí tovaru.
+
+@fin 3
+Tovar sa pokazí 8 mesiacov po kúpe. Kto musí preukazovať, či chyba existovala už pri dodaní?
++ predávajúci – predpokladá sa, že chyba existovala, kým predávajúci nepreukáže opak
+- kupujúci musí vždy predložiť znalecký posudok
+- nikto, záruka sa na taký tovar nevzťahuje
+= Ak sa nedostatok prejaví do jedného roka od dodania, nemusíte preukazovať, že existoval v čase dodania – predpokladá sa, že existoval, pokiaľ predávajúci nepreukáže opak.
+> ye-guarantees | Ak sa nedostatok prejaví do jedného roka od dodania, nemusíte preukazovať, že existoval v čase dodania. Predpokladá sa, že existoval, pokiaľ predávajúci nepreukáže opak.
+
+@fin 3
+Katarína si kúpila fén so šesťmesačnou obchodnou zárukou. Po 8 mesiacoch sa pokazil. Na čo má nárok?
++ na bezplatnú opravu alebo výmenu v rámci zákonnej dvojročnej záruky
+- na nič, pretože obchodná záruka uplynula
+- iba na zľavu na nový fén
+= Obchodná záruka nikdy nemôže vylúčiť ani obmedziť práva z minimálnej dvojročnej zákonnej záruky.
+> ye-guarantees | Katarína si kúpila fén so šesťmesačnou obchodnou zárukou.
+> ye-guarantees | ale nikdy nemôže vylúčiť alebo obmedziť vaše práva minimálnej dvojročnej záruky
+
+@fin 3
+Aká najkratšia zákonná záručná lehota sa môže v niektorých krajinách EÚ dohodnúť pri použitom tovare od profesionálneho predajcu?
++ 1 rok
+- 3 mesiace
+- žiadna, použitý tovar je bez záruky
+= Pri použitom tovare sa v niektorých krajinách možno dohodnúť na kratšej lehote ako dva roky, nesmie však byť kratšia ako jeden rok.
+> ye-guarantees | V niektorých krajinách EÚ sa môžete s predávajúcim dohodnúť na kratšej ... záručnej lehote ako dva roky. Nesmie však trvať menej ako jeden rok.
+
+Vzťahuje sa zákonná záruka v EÚ aj na digitálny obsah, napríklad mobilné aplikácie alebo videohry?
++ áno, aj na digitálny obsah a digitálne služby
+- nie, len na fyzický tovar
+- len ak stoja viac ako 100 €
+= Zákonnú záruku máte aj pri nákupe digitálneho obsahu a digitálnych služieb, ako sú videá, hudba, mobilné aplikácie či videohry.
+> ye-guarantees | Zákonnú záruku máte aj pri nákupe digitálneho obsahu a digitálnych služieb
+
+@fin 1
+Koľko zaplatíte za bežné volania a dáta v rámci EÚ pri príležitostnom cestovaní (roaming)?
++ rovnako ako doma (roaming za domáce ceny)
+- dvojnásobok domácej ceny
+- pevný poplatok 1 € za deň
+= Pri príležitostnom cestovaní sa za volania, správy a dáta v rámci EÚ účtujú domáce ceny.
+> ye-roaming | Za volania, správy a využívanie dát v rámci EÚ sa vám preto budú účtovať domáce ceny.
+
+@fin 3
+V ktorých krajinách mimo EÚ platí tiež režim roamingu za domáce ceny?
++ na Islande, v Lichtenštajnsku, Nórsku, Moldavsku a na Ukrajine
+- vo Švajčiarsku, v Spojenom kráľovstve a Srbsku
+- v Turecku, Gruzínsku a Albánsku
+= Roaming za vnútroštátne ceny je dostupný aj v krajinách EHP (Island, Lichtenštajnsko a Nórsko), ako aj v Moldavsku a na Ukrajine.
+> ye-roaming | Režim roamingu za vnútroštátne ceny je dostupný aj v krajinách Európskeho hospodárskeho ... priestoru (Island, Lichtenštajnsko a Nórsko), ako aj v Moldavsku a na Ukrajine.
+
+@fin 3
+Na akú maximálnu sumu je od roku 2027 obmedzený príplatok za dáta v roamingu nad rámec primeraného využívania?
++ 1 EUR/GB + DPH
+- 5 EUR/GB + DPH
+- 0,10 EUR/GB + DPH
+= V roku 2025 ide o 1,30 EUR/GB + DPH, suma sa postupne znižuje a od roku 2027 bude obmedzená na 1 EUR/GB + DPH.
+> ye-roaming | Od roku 2027 bude obmedzená na 1 EUR/GB + DPH.
+
+Čo by vám mal poslať mobilný operátor pri každom prekročení hraníc v rámci EÚ?
++ textovú správu o roamingu, cenách a núdzových kontaktoch
+- novú SIM kartu
+- faktúru za roaming vopred
+= Pri každom prekročení hraníc v rámci EÚ by vám operátor mal poslať textovú správu s informáciami o roamingu, cenách a núdzových kontaktoch v danej krajine.
+> ye-roaming | Pri každom prekročení hraníc v rámci EÚ by vám mobilný operátor mal poslať textovú správu
+
+@fin 3
+Platia pravidlá EÚ o roamingu aj pri mobilných službách cez satelit (napr. na lodi alebo v lietadle)?
++ nie, pri satelitných službách sa pravidlá EÚ neuplatňujú
+- áno, vždy za domáce ceny
+- áno, ale len v pracovné dni
+= Ak sa mobilné služby poskytujú prostredníctvom satelitných systémov, pravidlá EÚ sa neuplatňujú a môžu byť účtované poplatky bez cenových stropov.
+> ye-roaming | Ak sa mobilné služby poskytujú prostredníctvom ... satelitných systémov, pravidlá EÚ sa neuplatňujú
+
+Do cieľovej destinácie ste priletili s meškaním viac ako tri hodiny. Na čo máte podľa pravidiel EÚ spravidla nárok?
++ na odškodnenie, ak meškanie nespôsobili mimoriadne okolnosti
+- na nič, meškanie sa neodškodňuje
+- na odškodnenie len pri meškaní nad 24 hodín
+= Ak ste do cieľovej destinácie dorazili s viac ako trojhodinovým meškaním, máte nárok na odškodnenie s výnimkou mimoriadnych okolností.
+> ye-air | Ak ste do cieľovej destinácie dorazili s viac ako trojhodinovým meškaním, máte nárok na odškodnenie s výnimkou prípadu, že k meškaniu došlo z dôvodu mimoriadnych okolností.
+
+@fin 3
+Pri zrušení letu máte spravidla nárok na odškodnenie, ak vás o zrušení informovali menej ako…
++ 14 dní pred odletom
+- 48 hodín pred odletom
+- 30 dní pred odletom
+= Nárok na odškodnenie vzniká, ak ste boli o zrušení informovaný menej ako 14 dní pred plánovaným odletom (okrem mimoriadnych okolností).
+> ye-air | Ak ste boli informovaný o zrušení letu menej ako 14 dní pred plánovaným dátumom odchodu
+
+Kto musí preukázať, že k zrušeniu letu došlo pre mimoriadne okolnosti?
++ letecká spoločnosť (prepravca)
+- cestujúci
+- letisko
+= Nárok na odškodnenie nevzniká, ak prepravca preukáže, že k zrušeniu došlo z dôvodu mimoriadnych okolností.
+> ye-air | Nárok na odškodnenie nevzniká, ak prepravca preukáže, že k zrušeniu došlo z dôvodu mimoriadnych okolností
+
+@fin 3
+Aké odškodnenie vám patrí pri meškaní 3 hodiny alebo viac na lete do 1 500 km?
++ 250 €
+- 400 €
+- 600 €
+= Pri lete do 1 500 km a meškaní pri prílete 3 hodiny alebo viac je odškodnenie 250 €.
+> ye-air | 250 | 1 500 km alebo menej | 3 hodiny alebo viac

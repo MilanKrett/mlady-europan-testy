@@ -1,0 +1,161 @@
+#kat med
+#n 2
+
+@med 3
+Kedy Komisia spustila stratégiu pre digitálny jednotný trh?
++ v roku 2015
+- v roku 2004
+- v roku 2024
+= Odkedy Komisia v roku 2015 spustila stratégiu pre digitálny jednotný trh, EÚ prijala širokú škálu iniciatív.
+> ep-fs-43 | Odkedy Komisia v roku 2015 spustila stratégiu pre digitálny jednotný trh
+
+@med 3
+Kedy zverejnila Komisia návrh aktu o umelej inteligencii?
++ v apríli 2021
+- v decembri 2015
+- v januári 2026
+= Cieľ vytvoriť prvý horizontálny regulačný rámec pre AI viedol k tomu, že Komisia zverejnila návrh aktu o umelej inteligencii v apríli 2021.
+> ep-fs-43 | Komisia zverejnila návrh aktu o umelej inteligencii v apríli 2021
+
+@med 3
+Kto v apríli 2019 predložil etické usmernenia pre dôveryhodnú umelú inteligenciu?
++ expertná skupina na vysokej úrovni pre umelú inteligenciu
+- Európsky dvor audítorov
+- Rada Európy
+= V apríli 2019 predložila expertná skupina na vysokej úrovni pre umelú inteligenciu etické usmernenia pre dôveryhodnú AI.
+> ep-fs-43 | V apríli 2019 predložila expertná skupina na vysokej úrovni pre umelú inteligenciu svoje etické usmernenia pre dôveryhodnú umelú inteligenciu.
+
+Ako sa nazýva desaťročný program EÚ prijatý v roku 2021 s digitálnymi cieľmi do roku 2030?
++ Digitálny kompas do roku 2030 (digitálne desaťročie)
+- Európa 2020
+- Lisabonská stratégia
+= V roku 2021 EÚ prijala desaťročný „Digitálny kompas do roku 2030: digitálne desaťročie na európsky spôsob“.
+> ep-fs-44 | prijala EÚ v roku 2021 desaťročný „Digitálny kompas do roku 2030: digitálne desaťročie na európsky spôsob“
+
+@med 3
+V ktorom roku Digitálna agenda pre Európu po prvý raz vymedzila kľúčovú úlohu IKT pre ciele EÚ?
++ v roku 2010
+- v roku 1995
+- v roku 2021
+= V Digitálnej agende pre Európu z roku 2010 sa po prvýkrát vymedzila kľúčová úloha IKT.
+> ep-fs-44 | v Digitálnej agende pre Európu z roku 2010 po prvýkrát vymedzila kľúčová úloha IKT pri plnení cieľov EÚ
+
+Ktorá z týchto oblastí patrí medzi štyri oblasti cieľov Digitálneho kompasu do roku 2030?
++ digitálne zručná populácia a viac odborníkov na IKT
+- zrušenie internetu v školách
+- zákaz sociálnych sietí
+= Digitálny kompas stanovuje ciele v štyroch oblastiach, napr. digitálne zručná populácia a viac odborníkov na IKT či bezpečné a udržateľné digitálne infraštruktúry.
+> ep-fs-44 | digitálne zručná populácia a viac odborníkov na IKT
+
+@med 3
+Ako sa volala stratégia EÚ z roku 2020 zameraná na technológie, ktoré pracujú v prospech ľudí?
++ Formovanie digitálnej budúcnosti Európy
+- Digitálna pevnosť Európa
+- Európa offline
+= V roku 2020 sa stratégia „Formovanie digitálnej budúcnosti Európy“ zamerala na technológie v prospech ľudí, spravodlivé hospodárstvo a otvorenú spoločnosť.
+> ep-fs-44 | V roku 2020 sa stratégia s názvom „Formovanie digitálnej budúcnosti Európy“ zamerala na technológie, ktoré pracujú v prospech ľudí
+
+#kat fin
+#n 2
+
+@akt 2
+Ako sa volá program Komisie pre spotrebiteľov uverejnený v novembri 2025?
++ Program pre spotrebiteľov do roku 2030
+- Nová dohoda pre spotrebiteľov 2020
+- Spotrebiteľský kompas 2050
+= V novembri 2025 uverejnila Komisia Program pre spotrebiteľov do roku 2030 a akčný plán pre spotrebiteľov na jednotnom trhu.
+> ep-fs-46 | V novembri 2025 uverejnila Komisia Program pre spotrebiteľov do roku 2030
+
+@fin 3
+O akom práve spotrebiteľov prijal Európsky parlament uznesenie 7. apríla 2022?
++ o práve na opravu (trvanlivé a opraviteľné výrobky)
+- o práve na bezplatný internet
+- o práve na nákup bez DPH
+= Parlament prijal 7. apríla 2022 uznesenie o práve spotrebiteľov na opravu so zameraním na trvanlivé a opraviteľné výrobky.
+> ep-fs-46 | Parlament prijal 7. apríla 2022 uznesenie o práve spotrebiteľov na opravu
+
+Čo podľa článku 169 ZFEÚ EÚ chráni pri spotrebiteľoch?
++ zdravie, bezpečnosť a hospodárske záujmy spotrebiteľov
+- len ceny potravín
+- výhradne práva predajcov
+= EÚ chráni zdravie, bezpečnosť a hospodárske záujmy spotrebiteľov a podporuje ich právo na informácie a osvetu.
+> ep-fs-47 | EÚ chráni zdravie, bezpečnosť a hospodárske záujmy spotrebiteľov a zároveň podporuje právo na informácie a osvetu
+
+Na akých troch hlavných zásadách sú založené práva cestujúcich v EÚ?
++ rovnaké zaobchádzanie, jasné a včasné informácie, primeraná pomoc
+- nízke ceny, rýchlosť, pohodlie
+- cestovné poistenie, víza, clá
+= Práva cestujúcich sú založené na troch zásadách: rovnaké zaobchádzanie bez diskriminácie, jasné a včasné informácie a primeraná pomoc.
+> ep-fs-48 | Tieto práva sú založené na troch hlavných zásadách: rovnaké zaobchádzanie bez diskriminácie, jasné a včasné informácie a v prípade potreby primeraná pomoc.
+
+@fin 3
+Čo musí letecký dopravca urobiť najskôr, ak má na let viac rezervácií ako miest?
++ vyzvať dobrovoľníkov, aby sa za kompenzáciu vzdali rezervácie
+- vylosovať cestujúcich, ktorí nepoletia
+- zrušiť celý let
+= Pri odmietnutí nástupu musí dopravca najskôr vyzvať dobrovoľníkov, aby sa vzdali svojej rezervácie výmenou za kompenzáciu.
+> ep-fs-48 | dopravca musí najskôr vyzvať prípadných dobrovoľníkov, aby sa vzdali svojej rezervácie
+
+@fin 3
+Do koľkých dní musí letecký dopravca vrátiť peniaze cestujúcemu, ktorý sa po odmietnutí nástupu rozhodne pre vrátenie ceny?
++ do siedmich dní
+- do 30 dní
+- do jedného roka
+= Dopravca ponúkne výber medzi vrátením peňazí do siedmich dní a presmerovaním letu.
+> ep-fs-48 | výber medzi vrátením peňazí do siedmich dní
+
+@fin 3
+Po akom meškaní má cestujúci na lete do 1 500 km nárok na pomoc (občerstvenie, telefón, prípadne ubytovanie)?
++ najmenej 2 hodiny
+- najmenej 30 minút
+- najmenej 12 hodín
+= Práva na pomoc sa týkajú meškaní najmenej 2 hodiny pri letoch do 1 500 km, 3 hodiny pri letoch 1 500 – 3 500 km a 4 hodiny nad 3 500 km.
+> ep-fs-48 | meškaní trvajúcich najmenej i) 2 hodiny v prípade letov do 1 500 km
+
+#kat ins
+#n 2
+
+Ktorý článok Charty základných práv EÚ zaručuje právo na prístup k preventívnej zdravotnej starostlivosti a liečbe?
++ článok 35
+- článok 50
+- článok 2
+= V článku 35 Charty sa uvádza, že každý má právo na prístup k preventívnej zdravotnej starostlivosti a k liečbe.
+> ep-fs-49 | V článku 35 Charty základných práv Európskej únie sa uvádza, že každý má právo na prístup k preventívnej zdravotnej starostlivosti
+
+V ktorom roku bola zriadená Európska agentúra pre lieky (EMA)?
++ v roku 1995
+- v roku 1957
+- v roku 2020
+= Európska agentúra pre lieky bola zriadená v roku 1995 s cieľom hodnotiť lieky a monitorovať ich bezpečnosť.
+> ep-fs-49 | Európska agentúra pre lieky bola zriadená v roku 1995
+
+@ins 3
+V ktorom roku bolo zriadené Európske centrum pre prevenciu a kontrolu chorôb (ECDC)?
++ v roku 2004
+- v roku 1995
+- v roku 2020
+= ECDC bolo zriadené v roku 2004 – zhromažďuje údaje o infekčných chorobách a posudzuje riziká.
+> ep-fs-49 | Európske centrum pre prevenciu a kontrolu chorôb, ktoré bolo zriadené v roku 2004
+
+Ako sa nazýva program EÚ pre zdravie na roky 2021 – 2027, prijatý v reakcii na pandémiu COVID-19?
++ EU4Health
+- Erasmus+
+- Horizont 2020
+= Program EU4Health (2021 – 2027) bol prijatý v reakcii na pandémiu COVID-19 s cieľom zlepšiť pripravenosť na krízy.
+> ep-fs-49 | Program EU4Health (2021 – 2027) bol zriadený s cieľom riešiť dlhodobé výzvy v oblasti zdravia
+
+@ins 3
+Ako sa nazýva prístup z roku 2006, podľa ktorého sa vplyv na zdravie zohľadňuje pri tvorbe všetkých politík?
++ zdravie vo všetkých politikách
+- zdravie na prvom mieste
+- jedno telo, jedna Európa
+= V roku 2006 bol sformulovaný prístup „zdravie vo všetkých politikách“.
+> ep-fs-49 | V roku 2006 bol sformulovaný prístup „zdravie vo všetkých politikách“
+
+@ins 3
+Ktorá smernica stanovila Zákonník Spoločenstva o humánnych liekoch?
++ smernica 2001/83/ES
+- smernica 2004/38/ES
+- smernica 2014/40/EÚ
+= Zákonník Spoločenstva o humánnych liekoch (smernica 2001/83/ES) harmonizoval pravidlá povoľovania, výroby, distribúcie a reklamy liekov.
+> ep-fs-47 | Zákonník Spoločenstva o humánnych liekoch (stanovený smernicou 2001/83/ES)
