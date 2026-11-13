@@ -1,5 +1,5 @@
 /* Offline režim: aplikácia a dáta sa uložia pri prvej návšteve, obrázky postupne pri zobrazení. */
-var V = "me-testy-v5";
+var V = "me-testy-v6";
 var CORE = ["./", "index.html", "style.css", "app.js", "data/otazky.json", "data/testy.json", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "pismo/inter.woff2"];
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(V).then(function (c) { return c.addAll(CORE); }).then(function () { return self.skipWaiting(); }));
@@ -17,7 +17,7 @@ self.addEventListener("fetch", function (e) {
     // najprv sieť (aby sa prejavili opravy), pri výpadku cache
     e.respondWith(fetch(e.request).then(function (r) {
       var cp = r.clone(); caches.open(V).then(function (c) { c.put(e.request, cp); }); return r;
-    }).catch(function () { return caches.match(e.request); }));
+    }).catch(function () { return caches.match(e.request, { ignoreSearch: true }); }));
   } else {
     e.respondWith(caches.match(e.request).then(function (m) {
       return m || fetch(e.request).then(function (r) {
