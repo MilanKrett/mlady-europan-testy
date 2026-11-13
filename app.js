@@ -33,23 +33,29 @@
   function stopTick() { if (tick) { clearInterval(tick); tick = null; } }
   function go(h) { if (location.hash === h) route(); else location.hash = h; }
 
-  /* ---------- úvod: len tlačidlo ---------- */
+  /* ---------- úvod: počítadlo a náhodný test ---------- */
   function home() {
     stopTick();
-    app.innerHTML = '<div class="start"><button class="btn primary xl" id="go">Spustiť test</button></div>';
-    document.getElementById("go").onclick = start;
+    var n = Object.keys(doneTests()).length, left = Math.max(0, 1000 - n);
+    app.innerHTML = '<div class="start"><section class="card home">' +
+      '<div class="counts"><div class="count"><b>' + n + '</b><span>spravené</span></div>' +
+      '<div class="count"><b>' + left + '</b><span>zostáva</span></div></div>' +
+      '<div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="1000" aria-valuenow="' + n + '"><i style="width:' + (n / 10) + '%"></i></div>' +
+      (S.cur ? '<button class="btn primary xl" id="cont">Pokračovať</button><button class="btn xl" id="rnd">Náhodný test</button>'
+             : '<button class="btn primary xl" id="rnd">Náhodný test</button>') +
+      '</section></div>';
+    document.getElementById("rnd").onclick = random;
+    var ct = document.getElementById("cont"); if (ct) ct.onclick = function () { go("#/test"); };
   }
 
-  // rozpracovaný test pokračuje; inak náhodný test, ktorý ešte nebol
-  function start() {
-    if (!S.cur) {
-      var done = doneTests(), free = [], i;
-      for (i = 1; i <= 1000; i++) if (!done[i]) free.push(i);
-      if (!free.length) for (i = 1; i <= 1000; i++) free.push(i);
-      var now = Date.now();
-      S.cur = { t: free[Math.floor(Math.random() * free.length)], ans: new Array(40).fill(-1), start: now, deadline: now + LIMIT, pos: 0 };
-      save(S);
-    }
+  // nový náhodný test spomedzi tých, ktoré ešte neboli (rozpracovaný sa nahradí)
+  function random() {
+    var done = doneTests(), free = [], i;
+    for (i = 1; i <= 1000; i++) if (!done[i]) free.push(i);
+    if (!free.length) for (i = 1; i <= 1000; i++) free.push(i);
+    var now = Date.now();
+    S.cur = { t: free[Math.floor(Math.random() * free.length)], ans: new Array(40).fill(-1), start: now, deadline: now + LIMIT, pos: 0 };
+    save(S);
     go("#/test");
   }
 
@@ -119,7 +125,7 @@
     if (!r) return go("#/");
     var sc = score(r.t, r.ans), pass = sc.pts >= PASS, idx = [];
     for (var i = 0; i < 40; i++) if (all || r.ans[i] !== qOf(r.t, i).c) idx.push(i);
-    var again = '<button class="btn primary xl again">Spustiť test</button>';
+    var again = '<div class="row center"><a class="btn xl" href="#/">Späť</a><button class="btn primary xl again">Náhodný test</button></div>';
     app.innerHTML = '<section class="card result ' + (pass ? "pass" : "fail") + '">' +
       '<div class="big">' + sc.pts + '<span>/100</span></div>' +
       '<div class="grid">' + r.ans.map(function (a, j) {
@@ -127,7 +133,7 @@
       }).join("") + '</div>' + again + '</section>' +
       idx.map(function (j) { return review(r, j); }).join("") +
       (idx.length ? '<div class="end">' + again + '</div>' : "");
-    app.querySelectorAll(".again").forEach(function (b) { b.onclick = start; });
+    app.querySelectorAll(".again").forEach(function (b) { b.onclick = random; });
     app.querySelectorAll(".grid button").forEach(function (b) {
       b.onclick = function () {
         var el = document.getElementById("rv" + b.dataset.j);

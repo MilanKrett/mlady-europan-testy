@@ -1,5 +1,5 @@
 /* Offline režim: aplikácia a dáta sa uložia pri prvej návšteve, obrázky postupne pri zobrazení. */
-var V = "me-testy-v6";
+var V = "me-testy-v7";
 var CORE = ["./", "index.html", "style.css", "app.js", "data/otazky.json", "data/testy.json", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "pismo/inter.woff2"];
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(V).then(function (c) { return c.addAll(CORE); }).then(function () { return self.skipWaiting(); }));

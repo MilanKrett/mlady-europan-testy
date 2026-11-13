@@ -66,6 +66,17 @@ main { max-width: 860px; margin: 0 auto; padding: 16px 16px 56px; outline: none;
 /* úvod */
 .start { min-height: calc(100vh - 72px); min-height: calc(100svh - 72px); display: grid; place-items: center; }
 .btn.xl { min-height: 62px; padding: .9rem 2.6rem; font-size: 1.12rem; }
+.home { width: 100%; max-width: 420px; display: grid; gap: 12px; text-align: center; }
+.counts { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.count { padding: 16px 8px 14px; background: var(--bg); border: 1px solid var(--line); border-radius: 16px; }
+.count b { display: block; font-size: clamp(2.4rem, 11vw, 3.2rem); font-weight: 600; letter-spacing: -.045em; line-height: 1; font-variant-numeric: tabular-nums; }
+.count span { display: block; margin-top: 6px; font-size: .78rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+.bar { height: 8px; border-radius: 99px; background: var(--line); overflow: hidden; margin: 2px 0 6px; }
+.bar i { display: block; height: 100%; min-width: 0; background: var(--ink); border-radius: 99px; }
+.home .btn { width: 100%; }
+.row.center { justify-content: center; flex-wrap: nowrap; max-width: 420px; margin: 0 auto; }
+.row.center .btn { flex: 1 1 0; padding-left: 1rem; padding-right: 1rem; }
+.row.center .btn.primary { flex-grow: 2; }
 
 /* test */
 .testbar {
