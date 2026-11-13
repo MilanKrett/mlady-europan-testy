@@ -184,6 +184,8 @@
   /* ---------- smerovanie ---------- */
   function route() {
     var h = location.hash || "#/";
+    // úvod netreba čakať na otázky; ostatné stránky sa ukážu, keď sa načítajú
+    if (!Q) { if (!/^#\/(test|vysledok|info)/.test(h)) home(); return; }
     var m = h.match(/^#\/vysledok\/(\w+)/);
     if (h.indexOf("#/test") === 0) test();
     else if (m) result(m[1]);
@@ -202,6 +204,7 @@
   });
   window.addEventListener("hashchange", route);
 
+  route();
   Promise.all([fetch("data/otazky.json").then(function (r) { return r.json(); }), fetch("data/testy.json").then(function (r) { return r.json(); })])
     .then(function (x) { D = x[0]; Q = D.otazky; KAT = D.kat; T = x[1]; route(); })
     .catch(function () { app.innerHTML = '<p class="loading">Otázky sa nepodarilo načítať. Skontroluj pripojenie a obnov stránku.</p>'; });
