@@ -16,8 +16,6 @@
   /* ---------- pomocné ---------- */
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   function mmss(ms) { ms = Math.max(0, ms); var s = Math.ceil(ms / 1000); return Math.floor(s / 60) + ":" + ("0" + (s % 60)).slice(-2); }
-  function fmtDate(t) { var d = new Date(t); return d.toLocaleDateString("sk-SK") + " " + d.toLocaleTimeString("sk-SK", { hour: "2-digit", minute: "2-digit" }); }
-  function body(n) { return n === 1 ? "bod" : (n >= 2 && n <= 4 ? "body" : "bodov"); }
   function host(u) { try { var x = new URL(u); return x.hostname.replace(/^www\./, "") + x.pathname.replace(/\/$/, ""); } catch (e) { return u; } }
   function L(i) { return "ABC".charAt(i); }
   function qOf(test, i) { return Q[T[test - 1][i]]; }
@@ -35,65 +33,23 @@
   function stopTick() { if (tick) { clearInterval(tick); tick = null; } }
   function go(h) { if (location.hash === h) route(); else location.hash = h; }
 
-  /* ---------- úvod ---------- */
+  /* ---------- úvod: len tlačidlo ---------- */
   function home() {
     stopTick();
-    var cur = S.cur, done = doneTests(), nDone = Object.keys(done).length;
-    var passed = S.hist.filter(function (h) { return h.pts >= PASS; }).length;
-    var avg = S.hist.length ? Math.round(S.hist.reduce(function (a, h) { return a + h.pts; }, 0) / S.hist.length) : 0;
-    var h = '<section class="card hero"><span class="kicker">Súťaž Mladý Európan</span><h1>Cvičné testy ako v <em>autoškole.</em></h1>' +
-      '<p class="muted">40 otázok, na každú tri možnosti a práve jedna je správna. Výsledok a správne odpovede uvidíš až po odovzdaní.</p>' +
-      '<div class="facts"><div class="fact"><b>40</b><span>otázok v teste</span></div><div class="fact"><b>30 min</b><span>časový limit</span></div>' +
-      '<div class="fact"><b>100</b><span>bodov spolu</span></div><div class="fact"><b>90</b><span>bodov na úspech</span></div></div>' +
-      '<div class="row"><button class="btn primary" id="rnd">Náhodný test</button>' +
-      '<form class="pick" id="pick"><label for="tn" class="small muted">alebo test č.</label><input id="tn" type="number" min="1" max="1000" inputmode="numeric" placeholder="1–1000" required>' +
-      '<button class="btn" type="submit">Spustiť</button></form></div>' +
-      '<p class="small muted" style="margin:12px 0 0">K dispozícii je 1000 pevných testov z ' + Q.length + ' overených otázok (z toho ' +
-      Q.filter(function (q) { return q.img; }).length + ' s obrázkom).</p></section>';
-    if (cur) {
-      var left = cur.deadline - Date.now();
-      h += '<section class="card resume"><h2>Rozpracovaný test č. ' + cur.t + '</h2><p class="muted">Zodpovedané ' +
-        cur.ans.filter(function (a) { return a >= 0; }).length + ' zo 40 · zostáva ' + (left > 0 ? mmss(left) : "0:00") + '</p>' +
-        '<div class="row"><button class="btn gold" id="cont">' + (left > 0 ? "Pokračovať v teste" : "Vyhodnotiť test") + '</button>' +
-        '<button class="btn ghost" id="drop">Zahodiť</button></div></section>';
-    }
-    if (S.hist.length) {
-      h += '<section class="card"><h2>Tvoje výsledky</h2><div class="stats">' +
-        '<div class="stat"><b>' + S.hist.length + '</b><span class="small muted">absolvovaných</span></div>' +
-        '<div class="stat"><b>' + passed + '</b><span class="small muted">úspešných</span></div>' +
-        '<div class="stat"><b>' + avg + '</b><span class="small muted">priemer bodov</span></div></div>' +
-        '<p class="small muted">Rôznych testov: ' + nDone + ' z 1000. Klikni na test a pozri si, čo si mal zle.</p><ul class="hist">' +
-        S.hist.slice().reverse().slice(0, 60).map(function (x) {
-          var pass = x.pts >= PASS;
-          return '<li><a href="#/vysledok/' + x.id + '"><span>Test č. ' + x.t + ' <span class="small muted">· ' + fmtDate(x.end) + '</span></span>' +
-            '<span><b>' + x.pts + '</b> b. <span class="tag ' + (pass ? "ok" : "bad") + '">' + (pass ? "úspech" : "neúspech") + '</span></span></a></li>';
-        }).join("") + '</ul></section>';
-    }
-    app.innerHTML = h;
-    document.getElementById("rnd").onclick = function () {
-      var done = doneTests(), free = [];
-      for (var i = 1; i <= 1000; i++) if (!done[i]) free.push(i);
-      if (!free.length) for (i = 1; i <= 1000; i++) free.push(i);
-      start(free[Math.floor(Math.random() * free.length)]);
-    };
-    document.getElementById("pick").onsubmit = function (e) {
-      e.preventDefault();
-      var n = parseInt(document.getElementById("tn").value, 10);
-      if (n >= 1 && n <= 1000) start(n);
-    };
-    if (cur) {
-      document.getElementById("cont").onclick = function () { go("#/test"); };
-      document.getElementById("drop").onclick = function () {
-        if (confirm("Naozaj zahodiť rozpracovaný test? Nezapočíta sa do výsledkov.")) { S.cur = null; save(S); home(); }
-      };
-    }
+    app.innerHTML = '<div class="start"><button class="btn primary xl" id="go">Spustiť test</button></div>';
+    document.getElementById("go").onclick = start;
   }
 
-  function start(t) {
-    if (S.cur && !confirm("Máš rozpracovaný test č. " + S.cur.t + ". Zahodiť ho a začať test č. " + t + "?")) return;
-    var now = Date.now();
-    S.cur = { t: t, ans: new Array(40).fill(-1), start: now, deadline: now + LIMIT, pos: 0 };
-    save(S);
+  // rozpracovaný test pokračuje; inak náhodný test, ktorý ešte nebol
+  function start() {
+    if (!S.cur) {
+      var done = doneTests(), free = [], i;
+      for (i = 1; i <= 1000; i++) if (!done[i]) free.push(i);
+      if (!free.length) for (i = 1; i <= 1000; i++) free.push(i);
+      var now = Date.now();
+      S.cur = { t: free[Math.floor(Math.random() * free.length)], ans: new Array(40).fill(-1), start: now, deadline: now + LIMIT, pos: 0 };
+      save(S);
+    }
     go("#/test");
   }
 
@@ -102,20 +58,19 @@
     var c = S.cur;
     if (!c) return go("#/");
     if (Date.now() >= c.deadline) return finish(true);
-    var i = c.pos, q = qOf(c.t, i), k = KAT[q.k];
-    var h = '<div class="testbar"><div><b>Test č. ' + c.t + '</b> <span class="muted small">· otázka ' + (i + 1) + '/40</span></div>' +
-      '<div class="row"><span class="timer" id="timer" aria-live="off">' + mmss(c.deadline - Date.now()) + '</span>' +
-      '<button class="btn primary" id="end">Odovzdať</button></div></div>' +
+    var i = c.pos, q = qOf(c.t, i);
+    var h = '<div class="testbar"><span class="timer" id="timer" aria-live="off">' + mmss(c.deadline - Date.now()) + '</span>' +
+      '<button class="btn primary" id="end">Odovzdať</button></div>' +
       '<div class="grid" role="navigation" aria-label="Otázky">' + c.ans.map(function (a, j) {
         return '<button data-j="' + j + '" class="' + (a >= 0 ? "done " : "") + (j === i ? "cur" : "") + '" aria-label="Otázka ' + (j + 1) + (a >= 0 ? ", zodpovedaná" : "") + '">' + (j + 1) + '</button>';
       }).join("") + '</div>' +
-      '<article class="card"><div class="qmeta"><span>' + esc(k.nazov) + '</span><span>' + k.body + ' ' + body(k.body) + '</span></div>' +
-      (q.img ? '<div class="qimg"><img src="' + esc(q.img) + '" alt="Obrázok k otázke"></div>' : "") +
+      '<article class="card">' +
+      (q.img ? '<div class="qimg"><img src="' + esc(q.img) + '" alt=""></div>' : "") +
       '<p class="qtext">' + esc(q.q) + '</p><div class="opts">' + q.a.map(function (o, j) {
         return '<button class="opt' + (c.ans[i] === j ? " sel" : "") + '" data-o="' + j + '" aria-pressed="' + (c.ans[i] === j) + '"><span class="l">' + L(j) + '</span><span>' + esc(o) + '</span></button>';
       }).join("") + '</div>' +
-      '<div class="nav"><button class="btn" id="prev"' + (i === 0 ? " disabled" : "") + '>← Predchádzajúca</button>' +
-      (i < 39 ? '<button class="btn primary" id="next">Ďalšia →</button>' : '<button class="btn gold" id="end2">Odovzdať test</button>') + '</div></article>';
+      '<div class="nav"><button class="btn arrow" id="prev" aria-label="Predchádzajúca otázka"' + (i === 0 ? " disabled" : "") + '>←</button>' +
+      (i < 39 ? '<button class="btn primary arrow" id="next" aria-label="Ďalšia otázka">→</button>' : '<button class="btn primary" id="end2">Odovzdať</button>') + '</div></article>';
     app.innerHTML = h;
     app.querySelectorAll(".grid button").forEach(function (b) { b.onclick = function () { c.pos = +b.dataset.j; save(S); test(); }; });
     app.querySelectorAll(".opt").forEach(function (b) {
@@ -134,10 +89,10 @@
   }
 
   function ask() {
-    var c = S.cur, open = c.ans.filter(function (a) { return a < 0; }).length;
-    var dlg = document.getElementById("dlg");
-    document.getElementById("dlg-t").textContent = "Odovzdať test?";
-    document.getElementById("dlg-p").textContent = open ? "Nezodpovedaných otázok: " + open + ". Za nezodpovedanú otázku nedostaneš body." : "Všetky otázky sú zodpovedané. Po odovzdaní uvidíš výsledok a správne odpovede.";
+    var open = S.cur.ans.filter(function (a) { return a < 0; }).length;
+    var dlg = document.getElementById("dlg"), p = document.getElementById("dlg-p");
+    p.textContent = open ? "Nezodpovedané: " + open : "";
+    p.hidden = !open;
     dlg.hidden = false;
     document.getElementById("dlg-yes").focus();
     document.getElementById("dlg-no").onclick = function () { dlg.hidden = true; };
@@ -157,67 +112,40 @@
     go("#/vysledok/" + rec.id);
   }
 
-  /* ---------- výsledok a prehľad ---------- */
-  function result(id, filter) {
+  /* ---------- výsledok: body, mriežka a chyby ---------- */
+  function result(id, all) {
     stopTick();
     var r = S.hist.filter(function (x) { return x.id === id; })[0];
     if (!r) return go("#/");
-    var sc = score(r.t, r.ans), pass = sc.pts >= PASS;
-    var wrong = [], none = [];
-    r.ans.forEach(function (a, i) { var q = qOf(r.t, i); if (a < 0) none.push(i); else if (a !== q.c) wrong.push(i); });
-    filter = filter || (wrong.length + none.length ? "zle" : "vsetky");
-    var used = Math.round((r.end - r.start) / 1000);
-    var h = '<section class="card result ' + (pass ? "pass" : "fail") + '"><div class="verdict">' + (pass ? "Test si urobil(a) úspešne" : "Test nebol úspešný") + '</div>' +
-      '<div class="big">' + sc.pts + ' <span style="font-size:.4em" class="muted">/ 100 bodov</span></div>' +
-      '<p class="muted">Test č. ' + r.t + ' · správne ' + sc.ok + ' zo 40 · čas ' + Math.floor(used / 60) + ' min ' + (used % 60) + ' s' +
-      (r.timeout ? " · čas vypršal" : "") + ' · ' + fmtDate(r.end) + '</p>' +
-      '<div class="row" style="justify-content:center"><a class="btn" href="#/">Úvod</a><button class="btn" id="again">Zopakovať test č. ' + r.t + '</button>' +
-      '<button class="btn primary" id="nexttest">Ďalší test</button></div></section>' +
-      '<section class="card"><h2>Podľa kategórií</h2><table><thead><tr><th>Kategória</th><th class="num">Správne</th><th class="num">Body</th></tr></thead><tbody>' +
-      Object.keys(KAT).map(function (k) {
-        var p = sc.per[k]; if (!p) return "";
-        return '<tr><td>' + esc(KAT[k].nazov) + '</td><td class="num">' + p.ok + '/' + p.n + '</td><td class="num">' + p.pts + '/' + p.max + '</td></tr>';
-      }).join("") + '</tbody></table></section>' +
-      '<section class="card"><h2>Prehľad otázok</h2>' +
-      '<div class="grid">' + r.ans.map(function (a, i) {
-        var q = qOf(r.t, i); return '<button data-j="' + i + '" class="' + (a === q.c ? "r-ok" : "r-bad") + '" aria-label="Otázka ' + (i + 1) + '">' + (i + 1) + '</button>';
-      }).join("") + '</div>' +
-      '<div class="tabs" role="tablist"><button data-f="zle" class="' + (filter === "zle" ? "on" : "") + '">Nesprávne a nezodpovedané (' + (wrong.length + none.length) + ')</button>' +
-      '<button data-f="vsetky" class="' + (filter === "vsetky" ? "on" : "") + '">Všetky (40)</button>' +
-      '<button data-f="dobre" class="' + (filter === "dobre" ? "on" : "") + '">Správne (' + sc.ok + ')</button></div></section><div id="revs"></div>';
-    app.innerHTML = h;
-    var idx = [];
-    for (var i = 0; i < 40; i++) {
-      var q = qOf(r.t, i), a = r.ans[i];
-      if (filter === "vsetky" || (filter === "zle" && a !== q.c) || (filter === "dobre" && a === q.c)) idx.push(i);
-    }
-    document.getElementById("revs").innerHTML = idx.length ? idx.map(function (i) { return review(r, i); }).join("") :
-      '<p class="card muted">Žiadne otázky v tomto výbere – výborne!</p>';
-    app.querySelectorAll(".tabs button").forEach(function (b) { b.onclick = function () { result(id, b.dataset.f); }; });
+    var sc = score(r.t, r.ans), pass = sc.pts >= PASS, idx = [];
+    for (var i = 0; i < 40; i++) if (all || r.ans[i] !== qOf(r.t, i).c) idx.push(i);
+    var again = '<button class="btn primary xl again">Spustiť test</button>';
+    app.innerHTML = '<section class="card result ' + (pass ? "pass" : "fail") + '">' +
+      '<div class="big">' + sc.pts + '<span>/100</span></div>' +
+      '<div class="grid">' + r.ans.map(function (a, j) {
+        return '<button data-j="' + j + '" class="' + (a === qOf(r.t, j).c ? "r-ok" : "r-bad") + '" aria-label="Otázka ' + (j + 1) + '">' + (j + 1) + '</button>';
+      }).join("") + '</div>' + again + '</section>' +
+      idx.map(function (j) { return review(r, j); }).join("") +
+      (idx.length ? '<div class="end">' + again + '</div>' : "");
+    app.querySelectorAll(".again").forEach(function (b) { b.onclick = start; });
     app.querySelectorAll(".grid button").forEach(function (b) {
       b.onclick = function () {
         var el = document.getElementById("rv" + b.dataset.j);
-        if (!el) { result(id, "vsetky"); el = document.getElementById("rv" + b.dataset.j); }
+        if (!el) { result(id, true); el = document.getElementById("rv" + b.dataset.j); }
         if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
       };
     });
-    document.getElementById("again").onclick = function () { start(r.t); };
-    document.getElementById("nexttest").onclick = function () { start(r.t % 1000 + 1); };
   }
 
   function review(r, i) {
-    var q = qOf(r.t, i), a = r.ans[i], k = KAT[q.k];
-    var st = a < 0 ? '<span class="tag bad">nezodpovedané</span>' : (a === q.c ? '<span class="tag ok">správne</span>' : '<span class="tag bad">nesprávne</span>');
-    return '<article class="card rev" id="rv' + i + '"><div class="qmeta"><span>' + (i + 1) + '. ' + esc(k.nazov) + ' · ' + k.body + ' ' + body(k.body) + '</span>' + st + '</div>' +
-      (q.img ? '<div class="qimg"><img src="' + esc(q.img) + '" alt="Obrázok k otázke" loading="lazy"></div>' : "") +
+    var q = qOf(r.t, i), a = r.ans[i];
+    return '<article class="card rev" id="rv' + i + '"><span class="qno ' + (a === q.c ? "ok" : "bad") + '">' + (i + 1) + '</span>' +
+      (q.img ? '<div class="qimg"><img src="' + esc(q.img) + '" alt="" loading="lazy"></div>' : "") +
       '<p class="qtext">' + esc(q.q) + '</p><div class="opts">' + q.a.map(function (o, j) {
         var cls = j === q.c ? " is-ok" : (j === a ? " is-bad" : "");
-        var lab = j === a ? '<span class="yours">tvoja odpoveď</span>' : (j === q.c ? '<span class="yours" style="color:var(--ok)">správne</span>' : "");
-        return '<button class="opt' + cls + '" disabled><span class="l">' + L(j) + '</span><span>' + esc(o) + '</span>' + lab + '</button>';
+        return '<button class="opt' + cls + '" disabled><span class="l">' + L(j) + '</span><span>' + esc(o) + '</span></button>';
       }).join("") + '</div>' +
-      '<div class="why"><b>Vysvetlenie:</b> ' + esc(q.v) + (q.z && q.z.length ? '<div class="src">Zdroj: ' + q.z.map(function (u) {
-        return '<a href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(host(u)) + '</a>';
-      }).join(" · ") + '</div>' : "") + '</div></article>';
+      '<div class="why">' + esc(q.v) + '</div></article>';
   }
 
   /* ---------- informácie a licencie ---------- */
